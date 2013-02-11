@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Alors que François Hollande martèle qu'il chercher à économiser 10 milliards d'euros et que l'heure est aux restrictions budgétaires, un rapport accablant de l'inspection générale des finances dénonce les gâchis de l'administration française.]]></source>
+		<target lang="en">
+			<nbest id="0" total="450.8934"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budget restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="1" total="450.9494"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budgetary restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="2" total="451.1282"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time to budget restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="3" total="451.1416"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time to budget restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="4" total="451.1843"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time to budgetary restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="5" total="451.1977"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time to budgetary restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="6" total="451.9379"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budget constraints, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="7" total="452.1132"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budget restrictions, a damning report from the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="8" total="452.1693"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budgetary restrictions, a damning report from the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="9" total="452.1728"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time to budget constraints, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="10" total="452.1862"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time to budget constraints, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="11" total="452.3481"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time to budget restrictions, a damning report from the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="12" total="452.3615"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time to budget restrictions, a damning report from the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="13" total="452.3889"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budget restrictions, a damning report of the General Inspectorate of Finance denounces the mess of the French administration.]]></nbest>
+			<nbest id="14" total="452.4041"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time to budgetary restrictions, a damning report from the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="15" total="452.4175"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time to budgetary restrictions, a damning report from the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="16" total="452.4355"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time is to budget restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="17" total="452.4449"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budgetary restrictions, a damning report of the General Inspectorate of Finance denounces the mess of the French administration.]]></nbest>
+			<nbest id="18" total="452.6237"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time to budget restrictions, a damning report of the General Inspectorate of Finance denounces the mess of the French administration.]]></nbest>
+			<nbest id="19" total="452.6371"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time to budget restrictions, a damning report of the General Inspectorate of Finance denounces the mess of the French administration.]]></nbest>
+			<nbest id="20" total="452.6704"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time is to budget restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="21" total="452.6798"><![CDATA[While François Hollande insists that seek to save € 10 billion and that the time to budgetary restrictions, a damning report of the General Inspectorate of Finance denounces the mess of the French administration.]]></nbest>
+			<nbest id="22" total="452.6838"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time is to budget restrictions, a damning report of the General Inspectorate of Finance denounced the waste of the French administration.]]></nbest>
+			<nbest id="23" total="452.6932"><![CDATA[While François Hollande insists that trying to save 10 billion euros and that the time to budgetary restrictions, a damning report of the General Inspectorate of Finance denounces the mess of the French administration.]]></nbest>
+			<nbest id="24" total="452.8701"><![CDATA[While François Hollande insists that seek to save 10 billion euros and that the time to budget restrictions, a damning report of the General Inspectorate of Finance denounced the mess of the French administration.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Alors que le gouvernement est en pleine restrictions budgétaires, un rapport confidentiel publié par le Parisien-Aujourd'hui en France évoque des agences d'Etat trop gourmandes.]]></source>
+		<target lang="en">
+			<nbest id="0" total="342.7921"><![CDATA[While the government is growing budgetary constraints, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="1" total="342.9362"><![CDATA[While the government is in full budgetary constraints, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="2" total="342.9792"><![CDATA[While the government is growing budgetary constraints, a confidential report released by the Paris-Today in France evokes state agencies too greedy.]]></nbest>
+			<nbest id="3" total="343.0937"><![CDATA[While the government is in full budgetary restrictions, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="4" total="343.1233"><![CDATA[While the government is in full budgetary constraints, a confidential report released by the Paris-Today in France evokes state agencies too greedy.]]></nbest>
+			<nbest id="5" total="343.2807"><![CDATA[While the government is in full budgetary restrictions, a confidential report released by the Paris-Today in France evokes state agencies too greedy.]]></nbest>
+			<nbest id="6" total="343.2813"><![CDATA[While the government is growing budgetary constraints, a confidential report issued by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="7" total="343.4051"><![CDATA[While the government is growing budgetary constraints, a confidential report published by the Parisien in France today conjures state agencies too greedy.]]></nbest>
+			<nbest id="8" total="343.4255"><![CDATA[While the government is in full budgetary constraints, a confidential report issued by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="9" total="343.5493"><![CDATA[While the government is in full budgetary constraints, a confidential report published by the Parisien in France today conjures state agencies too greedy.]]></nbest>
+			<nbest id="10" total="343.5829"><![CDATA[While the government is in full budgetary restrictions, a confidential report issued by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="11" total="343.5998"><![CDATA[While the government is undergoing budget cuts, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="12" total="343.6371"><![CDATA[While the government is in full restraint, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="13" total="343.7067"><![CDATA[While the government is in full budgetary restrictions, a confidential report published by the Parisien in France today conjures state agencies too greedy.]]></nbest>
+			<nbest id="14" total="343.7868"><![CDATA[While the government is undergoing budget cuts, a confidential report released by the Paris-Today in France evokes state agencies too greedy.]]></nbest>
+			<nbest id="15" total="343.7928"><![CDATA[While the government is full budgetary constraints, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="16" total="343.8241"><![CDATA[While the government is growing budgetary restrictions, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="17" total="343.8241"><![CDATA[While the government is in full restraint, a confidential report released by the Paris-Today in France evokes state agencies too greedy.]]></nbest>
+			<nbest id="18" total="343.8943"><![CDATA[While the government is growing budgetary constraints, a confidential report issued by the Parisien in France today conjures state agencies too greedy.]]></nbest>
+			<nbest id="19" total="343.9502"><![CDATA[While the government is full budgetary restrictions, a confidential report published by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="20" total="343.9798"><![CDATA[While the government is full budgetary constraints, a confidential report released by the Paris-Today in France evokes state agencies too greedy.]]></nbest>
+			<nbest id="21" total="344.0111"><![CDATA[While the government is growing budgetary restrictions, a confidential report released by the Paris-Today in France evokes state agencies too greedy.]]></nbest>
+			<nbest id="22" total="344.0385"><![CDATA[While the government is in full budgetary constraints, a confidential report issued by the Parisien in France today conjures state agencies too greedy.]]></nbest>
+			<nbest id="23" total="344.089"><![CDATA[While the government is undergoing budget cuts, a confidential report issued by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+			<nbest id="24" total="344.1263"><![CDATA[While the government is in full restraint, a confidential report issued by the Parisien in France today evokes state agencies too greedy.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans un rapport commandé par François Fillon et révélé par Le Parisien, l'Inspection générale des finances pointe du doigt la multitude d'agences administratives à l'utilité souvent douteuse mais au fonctionnement très coûteux.]]></source>
+		<target lang="en">
+			<nbest id="0" total="419.1816"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points out the multitude of administrative agencies often questionable usefulness but very expensive operation.]]></nbest>
+			<nbest id="1" total="419.4123"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points to the multitude of administrative agencies often questionable usefulness but very expensive operation.]]></nbest>
+			<nbest id="2" total="420.1722"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points out the multitude of administrative agencies often dubious usefulness but very expensive operation.]]></nbest>
+			<nbest id="3" total="420.4028"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points to the multitude of administrative agencies often dubious usefulness but very expensive operation.]]></nbest>
+			<nbest id="4" total="420.5869"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points out the multitude of administrative agencies often questionable usefulness, but very expensive operation.]]></nbest>
+			<nbest id="5" total="420.8176"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points to the multitude of administrative agencies often questionable usefulness, but very expensive operation.]]></nbest>
+			<nbest id="6" total="420.8849"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points out the multitude of administrative agencies often questionable usefulness but very expensive to operate.]]></nbest>
+			<nbest id="7" total="420.9585"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points out the multitude of administrative agencies often questionable usefulness, but very expensive to operate.]]></nbest>
+			<nbest id="8" total="421.1155"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points to the multitude of administrative agencies often questionable usefulness but very expensive to operate.]]></nbest>
+			<nbest id="9" total="421.1891"><![CDATA[In a report commissioned by François Fillon revealed by Le Parisien, the General Inspectorate of Finance points to the multitude of administrative agencies often questionable usefulness, but very expensive to operate.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans un rapport que s'est procuré Le Parisien-Aujourd'hui en France, l'Inspection générale des finances brocarde les dysfonctionnements et coûts inutiles de ces organismes parapublics.]]></source>
+		<target lang="en">
+			<nbest id="0" total="359.5889"><![CDATA[In a report that was provided, Le Parisien in France today, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="1" total="359.8674"><![CDATA[In a report that is provided, Le Parisien in France today, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="2" total="359.963"><![CDATA[In a report that was provided-Le Parisien in France today, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="3" total="360.1471"><![CDATA[In a report that is provided-Le Parisien in France today, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="4" total="360.2803"><![CDATA[In a report that was provided Le Parisien-Today in France, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="5" total="360.5803"><![CDATA[In a report that is provided Le Parisien-Today in France, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="6" total="361.3623"><![CDATA[In a report procured Le Parisien-Today in France, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="7" total="362.2716"><![CDATA[In a report that has obtained the Parisian-Today in France, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+			<nbest id="8" total="362.407"><![CDATA[In a report procured-Le Parisien in France today, the General Inspectorate of Finance lampooned malfunctions and unnecessary costs of these parastatals.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans un rapport, rendu public ce lundi par Pierre Moscovici (Finances) et Jérôme  Cahuzac (Budget), l'inspection générale des finances (IGF) dénonce le sureffectif de centaines d'agences créées par l'Etat.]]></source>
+		<target lang="en">
+			<nbest id="0" total="438.2901"><![CDATA[In a report released Monday by Pierre Moscovici (Finance) and Jerome Cahuzac (Budget), the General Inspectorate of Finance (IGF) denounces the redundancy of hundreds of agencies established by the State.]]></nbest>
+			<nbest id="1" total="438.6212"><![CDATA[In a report released Monday by Pierre Moscovici (Finance) and Jérôme Cahuzac (Budget), the General Inspectorate of Finance (IGF) denounces the redundancy of hundreds of agencies established by the State.]]></nbest>
+			<nbest id="2" total="438.8818"><![CDATA[In a report released Monday by Pierre Moscovici (Finance) and Jerome Cahuzac (Budget), the General Inspectorate of Finance (IGF) denounces the redundancy of hundreds of agencies established by the state.]]></nbest>
+			<nbest id="3" total="439.213"><![CDATA[In a report released Monday by Pierre Moscovici (Finance) and Jérôme Cahuzac (Budget), the General Inspectorate of Finance (IGF) denounces the redundancy of hundreds of agencies established by the state.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Effectifs pléthoriques, efficacité mal évaluée: les agences de l'Etat sont au coeur d'un rapport de l'Inspection générale des finances que s'est procuré Le Parisien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="351.1819"><![CDATA[Overstaffed, poorly evaluated effectiveness: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="1" total="352.0687"><![CDATA[Overstaffed, poorly evaluated efficiency: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="2" total="352.7527"><![CDATA[Overstaffed, poorly evaluated efficacy: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="3" total="353.3229"><![CDATA[Overstaffed, efficiency misjudged: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="4" total="353.4125"><![CDATA[Overstaffed, badly evaluated effectiveness: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="5" total="354.1045"><![CDATA[Overstaffed, poorly evaluated effectiveness: the state agencies are at the core of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="6" total="354.2993"><![CDATA[Overstaffed, badly evaluated efficiency: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="7" total="354.5478"><![CDATA[Overstaffed, poorly evaluated effectiveness: the State agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="8" total="354.6464"><![CDATA[Overstaffed, effectiveness misjudged: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="9" total="354.8891"><![CDATA[Overstaffed, poorly evaluated effectiveness: the state agencies are central to a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="10" total="354.9833"><![CDATA[Overstaffed, badly evaluated efficacy: the state agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="11" total="354.9913"><![CDATA[Overstaffed, poorly evaluated efficiency: the state agencies are at the core of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="12" total="355.0813"><![CDATA[Overstaffed, poorly evaluated effectiveness: the state agencies are at the heart of a report by the Inspectorate General of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="13" total="355.6248"><![CDATA[Overstaffed, poorly evaluated effectiveness: the state agencies are at the heart of a report of the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="14" total="355.6754"><![CDATA[Overstaffed, poorly evaluated efficacy: the state agencies are at the core of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="15" total="355.7759"><![CDATA[Overstaffed, poorly evaluated efficiency: the state agencies are central to a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+			<nbest id="16" total="355.7987"><![CDATA[Overstaffed, poorly evaluated efficiency: the State agencies are at the heart of a report by the General Inspectorate of Finance that has acquired Le Parisien.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Inspection générale des finances (IGF) dénonce le coût et la gestion des centaines d'agences de l'Etat, dans un rapport dévoilé dans les colonnes du Parisien-Aujourd'hui en France.]]></source>
+		<target lang="en">
+			<nbest id="0" total="351.9095"><![CDATA[The General Inspectorate of Finance (IGF) denounces the cost and management of hundreds of state agencies in a report released in the columns of Parisien in France today.]]></nbest>
+			<nbest id="1" total="352.1857"><![CDATA[The General Inspectorate of Finance (IGF) denounces the cost and management of hundreds of state agencies, in a report released in the columns of Parisien in France today.]]></nbest>
+			<nbest id="2" total="352.5646"><![CDATA[The General Inspectorate of Finance (IGF) denounces the cost and management of hundreds of state agencies in a report released in columns Parisien in France today.]]></nbest>
+			<nbest id="3" total="352.8408"><![CDATA[The General Inspectorate of Finance (IGF) denounces the cost and management of hundreds of state agencies, in a report released in columns Parisien in France today.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Inspection générale des finances (IGF) dénonce les effectifs pléthoriques d'une myriade d'agences de l'Etat à l'efficacité douteuse et leur coût, 50 milliards d'euros chaque année, dans un rapport que s'est procuré "Le Parisien-Aujourd'hui" en France publié lundi 17 septembre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="565.0594"><![CDATA[The General Inspectorate of Finance (IGF) denounces overstaffing a myriad of state agencies with questionable effectiveness and cost 50 billion euros each year, a report is provided "Le Parisien Today" in France on Monday 17 September.]]></nbest>
+			<nbest id="1" total="565.273"><![CDATA[The General Inspectorate of Finance (IGF) denounces the overstaffing of a myriad of state agencies with questionable effectiveness and cost 50 billion euros each year, a report is provided "Le Parisien Today" in France on Monday 17 September.]]></nbest>
+			<nbest id="2" total="565.2969"><![CDATA[The General Inspectorate of Finance (IGF) denounces overstaffing a myriad of state agencies with questionable effectiveness and cost 50 billion euros each year, a report is provided "Le Parisien Today" in France on Monday September 17.]]></nbest>
+			<nbest id="3" total="565.5105"><![CDATA[The General Inspectorate of Finance (IGF) denounces the overstaffing of a myriad of state agencies with questionable effectiveness and cost 50 billion euros each year, a report is provided "Le Parisien Today" in France on Monday September 17.]]></nbest>
+			<nbest id="4" total="565.6665"><![CDATA[The General Inspectorate of Finance (IGF) denounces the overstaffing a myriad of state agencies with questionable effectiveness and cost 50 billion euros each year, a report is provided "Le Parisien Today" in France on Monday 17 September.]]></nbest>
+			<nbest id="5" total="565.904"><![CDATA[The General Inspectorate of Finance (IGF) denounces the overstaffing a myriad of state agencies with questionable effectiveness and cost 50 billion euros each year, a report is provided "Le Parisien Today" in France on Monday September 17.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Inspection générale des Finances dénonce les effectifs excessifs de certaines agences de l'Etat, dont l'efficacité est jugée douteuse.]]></source>
+		<target lang="en">
+			<nbest id="0" total="257.0154"><![CDATA[The General Inspectorate of Finance denounces the excessive numbers of certain state agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="1" total="257.582"><![CDATA[The General Inspectorate of Finance denounces excessive numbers of certain state agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="2" total="257.7238"><![CDATA[The General Inspectorate of Finance denounces the excessive numbers of certain state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="3" total="257.8138"><![CDATA[The General Inspectorate of Finance denounced the excessive numbers of certain state agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="4" total="258.2904"><![CDATA[The General Inspectorate of Finance denounces excessive numbers of certain state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="5" total="258.5222"><![CDATA[The General Inspectorate of Finance denounced the excessive numbers of certain state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="6" total="259.3709"><![CDATA[The General Inspectorate of Finance denounces the excessive numbers of certain state agencies, whose efficiency is considered doubtful.]]></nbest>
+			<nbest id="7" total="259.777"><![CDATA[The General Inspectorate of Finance condemns excessive numbers of certain state agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="8" total="259.9375"><![CDATA[The General Inspectorate of Finance denounces excessive numbers of certain state agencies, whose efficiency is considered doubtful.]]></nbest>
+			<nbest id="9" total="260.1693"><![CDATA[The General Inspectorate of Finance denounced the excessive numbers of certain state agencies, whose efficiency is considered doubtful.]]></nbest>
+			<nbest id="10" total="260.1747"><![CDATA[The General Inspectorate of Finance denounces the excessive numbers of some state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="11" total="260.2374"><![CDATA[The General Inspectorate of Finance denounced excessive numbers of certain state agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="12" total="260.2902"><![CDATA[The General Inspectorate of Finance denounces the excessive numbers of some state agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="13" total="260.4665"><![CDATA[The General Inspectorate of Finance denounces the excessive numbers of certain State agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="14" total="260.4854"><![CDATA[The General Inspectorate of Finance condemns excessive numbers of certain state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="15" total="260.7414"><![CDATA[The General Inspectorate of Finance denounces excessive numbers of some state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="16" total="260.8568"><![CDATA[The General Inspectorate of Finance denounces excessive numbers of some state agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="17" total="260.9458"><![CDATA[The General Inspectorate of Finance denounced excessive numbers of certain state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="18" total="260.9732"><![CDATA[The General Inspectorate of Finance denounced the excessive numbers of some state agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="19" total="260.9946"><![CDATA[The General Inspectorate of Finance denounces the excessive numbers of certain State agencies whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="20" total="261.0331"><![CDATA[The General Inspectorate of Finance denounces excessive numbers of certain State agencies, whose effectiveness is considered doubtful.]]></nbest>
+			<nbest id="21" total="261.0886"><![CDATA[The General Inspectorate of Finance denounced the excessive numbers of some state agencies whose effectiveness is considered doubtful.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le coût astronomique et les sureffectifs de la kyrielle d'agences de l'Etat sont dénoncés par l'Inspection générale des finances (IGF), révèle Le Parisien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="313.5258"><![CDATA[The astronomical cost of overstaffing and the myriad of state agencies are reported by the General Inspectorate of Finance (IGF), reveals Le Parisien.]]></nbest>
+			<nbest id="1" total="315.0639"><![CDATA[The astronomical cost of overstaffing and the myriad of state agencies are reported by the General Inspectorate of Finance (IGF) reveals Le Parisien.]]></nbest>
+			<nbest id="2" total="315.2565"><![CDATA[The astronomical cost of overstaffing and the plethora of state agencies are reported by the General Inspectorate of Finance (IGF), reveals Le Parisien.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le gouvernement vient de rendre public un rapport de l'IGF (inspection générale des finances) commandé par l'ancien Premier ministre, mais caché sous le tapis pendant la campagne présidentielle.]]></source>
+		<target lang="en">
+			<nbest id="0" total="330.1981"><![CDATA[The government has released a report of the IGF (General Inspectorate of Finance) controlled by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="1" total="331.1984"><![CDATA[The Government has released a report of the IGF (General Inspectorate of Finance) controlled by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="2" total="331.4213"><![CDATA[The government has released a report of the IGF (Inspection Générale des Finances) controlled by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="3" total="331.6743"><![CDATA[The government has released a report of the IGF (General Inspectorate of Finance) controlled by the former prime minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="4" total="331.7385"><![CDATA[The government recently released a report of the IGF (General Inspectorate of Finance) controlled by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="5" total="331.7965"><![CDATA[The government has released a report of the IGF (General Inspectorate of Finance) commissioned by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="6" total="332.0579"><![CDATA[The government has released a report of the IGF (General Inspectorate of Finance) controlled by former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="7" total="332.1006"><![CDATA[The government has released a report of the IGF (General Inspectorate of Finance) controlled by the former Prime Minister, but hidden under the rug during the presidential campaign.]]></nbest>
+			<nbest id="8" total="332.4216"><![CDATA[The Government has released a report of the IGF (Inspection Générale des Finances) controlled by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="9" total="332.4659"><![CDATA[The government has just released a report of the IGF (General Inspectorate of Finance) controlled by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+			<nbest id="10" total="332.4758"><![CDATA[The government has released a report on the IGF (General Inspectorate of Finance) controlled by the former Prime Minister, but hidden under the carpet during the presidential campaign.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le rapport commandé à l'Inspection Générale des Finances (IGF) par le gouvernement français concernant les nombreuses agences de l'Etat a été remis et réserves quelques mauvaises surprises.]]></source>
+		<target lang="en">
+			<nbest id="0" total="309.6775"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government for many state agencies and reserves was given a few surprises.]]></nbest>
+			<nbest id="1" total="310.1483"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government for many state agencies and reserves was released a few surprises.]]></nbest>
+			<nbest id="2" total="311.0428"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government for many state agencies and reserves was given some bad surprises.]]></nbest>
+			<nbest id="3" total="311.7106"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government on many state agencies and reserves was given a few surprises.]]></nbest>
+			<nbest id="4" total="311.9825"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French Government for many state agencies and reserves was given a few surprises.]]></nbest>
+			<nbest id="5" total="312.0344"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government for many state agencies and reserves was given some surprises.]]></nbest>
+			<nbest id="6" total="312.1024"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government on numerous state agencies and reserves was given a few surprises.]]></nbest>
+			<nbest id="7" total="312.1815"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government on many state agencies and reserves was released a few surprises.]]></nbest>
+			<nbest id="8" total="312.3398"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French Government on many state agencies and reserves was given a few surprises.]]></nbest>
+			<nbest id="9" total="312.4534"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French Government for many state agencies and reserves was released a few surprises.]]></nbest>
+			<nbest id="10" total="312.5733"><![CDATA[The report commissioned by the General Inspectorate of Finance (IGF) by the French government on numerous state agencies and reserves was released a few surprises.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon l'Inspection générale des finances (IGF) les agences de l'Etat ont une efficacité douteuse, leurs effectifs sont trop nombreux et leurs coûts bien trop élevés.]]></source>
+		<target lang="en">
+			<nbest id="0" total="300.9001"><![CDATA[According to the General Inspectorate of Finance (IGF) State agencies have questionable efficacy, their numbers are too numerous and too high costs.]]></nbest>
+			<nbest id="1" total="301.6778"><![CDATA[According to the General Inspectorate of Finance (IGF) State agencies have questionable efficacy, their numbers are too many and too high costs.]]></nbest>
+			<nbest id="2" total="301.981"><![CDATA[According to the General Inspectorate of Finance (IGF) state agencies have questionable efficacy, their numbers are too numerous and too high costs.]]></nbest>
+			<nbest id="3" total="302.0036"><![CDATA[According to the General Inspectorate of Finance (IGF) agencies of the state have questionable efficacy, their numbers are too numerous and too high costs.]]></nbest>
+			<nbest id="4" total="302.3564"><![CDATA[According to the General Inspectorate of Finance (IGF) State agencies have dubious effectiveness, their numbers are too numerous and too high costs.]]></nbest>
+			<nbest id="5" total="302.5797"><![CDATA[According to the General Inspectorate of Finance (IGF) the state agencies have questionable efficacy, their numbers are too numerous and too high costs.]]></nbest>
+			<nbest id="6" total="302.7586"><![CDATA[According to the General Inspectorate of Finance (IGF) state agencies have questionable efficacy, their numbers are too many and too high costs.]]></nbest>
+			<nbest id="7" total="302.7812"><![CDATA[According to the General Inspectorate of Finance (IGF) agencies of the state have questionable efficacy, their numbers are too many and too high costs.]]></nbest>
+			<nbest id="8" total="303.2944"><![CDATA[According to the General Inspectorate of Finance (IGF) State agencies have questionable efficacy, their numbers are too many and their costs too high.]]></nbest>
+			<nbest id="9" total="303.3421"><![CDATA[According to the General Inspectorate of Finance (IGF) State agencies have questionable efficacy, their numbers are too numerous and their costs too high.]]></nbest>
+			<nbest id="10" total="303.3573"><![CDATA[According to the General Inspectorate of Finance (IGF) the state agencies have questionable efficacy, their numbers are too many and too high costs.]]></nbest>
+			<nbest id="11" total="303.4372"><![CDATA[According to the General Inspectorate of Finance (IGF) state agencies have dubious effectiveness, their numbers are too numerous and too high costs.]]></nbest>
+			<nbest id="12" total="303.4597"><![CDATA[According to the General Inspectorate of Finance (IGF) agencies of the state have dubious effectiveness, their numbers are too numerous and too high costs.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un rapport de l'Inspection générale des finances (IGF) que s'est procuré "Le Parisien-Aujourd'hui en France" publié lundi, dénonce la gestion et le coût des agences d'Etat.]]></source>
+		<target lang="en">
+			<nbest id="0" total="381.1615"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, criticizes the management and cost of state agencies.]]></nbest>
+			<nbest id="1" total="381.2135"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denouncing the management and cost of state agencies.]]></nbest>
+			<nbest id="2" total="381.7884"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, condemned the management and cost of state agencies.]]></nbest>
+			<nbest id="3" total="382.782"><![CDATA[A report by the General Inspectorate of Finance (IGF) that has acquired "Le Parisien in France today," released Monday, criticizes the management and cost of state agencies.]]></nbest>
+			<nbest id="4" total="382.834"><![CDATA[A report by the General Inspectorate of Finance (IGF) that has acquired "Le Parisien in France today," released Monday, denouncing the management and cost of state agencies.]]></nbest>
+			<nbest id="5" total="382.919"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denounces the management and cost of state agencies.]]></nbest>
+			<nbest id="6" total="382.9504"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," on Monday, condemned the management and cost of state agencies.]]></nbest>
+			<nbest id="7" total="382.9541"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denounced management and cost of state agencies.]]></nbest>
+			<nbest id="8" total="383.0323"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denouncing the cost of management and state agencies.]]></nbest>
+			<nbest id="9" total="383.1288"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denounced the management and cost of state agencies.]]></nbest>
+			<nbest id="10" total="383.3617"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denouncing the management and the cost of state agencies.]]></nbest>
+			<nbest id="11" total="383.3644"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," on Monday, denouncing the management and cost of state agencies.]]></nbest>
+			<nbest id="12" total="383.4089"><![CDATA[A report by the General Inspectorate of Finance (IGF) that has acquired "Le Parisien in France today," released Monday, condemned the management and cost of state agencies.]]></nbest>
+			<nbest id="13" total="383.4605"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, criticizes the management and the cost of state agencies.]]></nbest>
+			<nbest id="14" total="383.5425"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, condemned the management and the cost of state agencies.]]></nbest>
+			<nbest id="15" total="383.6508"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denounces the cost of management and state agencies.]]></nbest>
+			<nbest id="16" total="383.835"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, denounced management and the cost of state agencies.]]></nbest>
+			<nbest id="17" total="383.856"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," published Monday, denouncing the management and cost of state agencies.]]></nbest>
+			<nbest id="18" total="383.8804"><![CDATA[A report by the General Inspectorate of Finance (IGF) that is provided "Le Parisien in France today," released Monday, criticizes cost management and state agencies.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un rapport de l'Inspection générale des finances critique les effectifs pléthoriques et surtout le coût du millier d'agences administratives dont certaines à l'efficacité douteuse.]]></source>
+		<target lang="en">
+			<nbest id="0" total="335.9052"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of thousands of administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="1" total="336.2108"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and above the cost of thousands of administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="2" total="336.2298"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="3" total="336.2893"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of the thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="4" total="336.3886"><![CDATA[A report by the General Inspectorate of Finance critical overstaffing and above the cost of thousands of administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="5" total="336.5354"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and above the cost of thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="6" total="336.5949"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and above the cost of the thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="7" total="336.5951"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and especially the cost of thousands of administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="8" total="336.6137"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of thousands of administrative agencies some dubious effectiveness.]]></nbest>
+			<nbest id="9" total="336.7132"><![CDATA[A report by the General Inspectorate of Finance critical overstaffing and above the cost of thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="10" total="336.7727"><![CDATA[A report by the General Inspectorate of Finance critical overstaffing and above the cost of the thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="11" total="336.9007"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and especially the cost of thousands of administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="12" total="336.9193"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and above the cost of thousands of administrative agencies some dubious effectiveness.]]></nbest>
+			<nbest id="13" total="336.9196"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and especially the cost of thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="14" total="336.9384"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of thousand administrative agencies some dubious effectiveness.]]></nbest>
+			<nbest id="15" total="336.9848"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of thousands of administrative agencies to some questionable effectiveness.]]></nbest>
+			<nbest id="16" total="336.9979"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of the thousand administrative agencies some dubious effectiveness.]]></nbest>
+			<nbest id="17" total="337.0785"><![CDATA[A report by the General Inspectorate of Finance critical overstaffing and especially the cost of thousands of administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="18" total="337.0971"><![CDATA[A report by the General Inspectorate of Finance critical overstaffing and above the cost of thousands of administrative agencies some dubious effectiveness.]]></nbest>
+			<nbest id="19" total="337.1965"><![CDATA[A report by the General Finance Inspectorate critical overstaffing and above the cost of thousands of administrative agencies in some questionable effectiveness.]]></nbest>
+			<nbest id="20" total="337.2253"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and especially the cost of thousand administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="21" total="337.2299"><![CDATA[A report by the General Finance Inspectorate critically overcrowded and above the cost of thousands of administrative agencies some questionable effectiveness.]]></nbest>
+			<nbest id="22" total="337.244"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and above the cost of thousand administrative agencies some dubious effectiveness.]]></nbest>
+			<nbest id="23" total="337.2904"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and above the cost of thousands of administrative agencies to some questionable effectiveness.]]></nbest>
+			<nbest id="24" total="337.3035"><![CDATA[A report by the General Inspectorate of Finance critically overcrowded and above the cost of the thousand administrative agencies some dubious effectiveness.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

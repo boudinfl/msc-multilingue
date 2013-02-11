@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans moins de deux semaines, l'Assemblée générale de l'ONU devrait reconnaître la Palestine en tant qu'Etat. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="149.7797"><![CDATA[In less than two weeks, the General Assembly of the UN should recognize Palestine as a state.]]></nbest>
+			<nbest id="1" total="154.6086"><![CDATA[In less than two weeks, the UN General Assembly should recognize Palestine as a state.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Expérience militaire requise, la semaine prochaine en Cisjordanie, pour une cinquantaine de membres de la Ligue de défense juive, pendant que Mahmoud Abbas déposera au siège des Nations unies la demande de reconnaissance d'un Etat palestinien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="403.6436"><![CDATA[Military experience required in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="1" total="403.7906"><![CDATA[Military experience required, in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="2" total="404.6395"><![CDATA[Military experience required, the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="3" total="405.0738"><![CDATA[Military experience required in the West Bank next week for fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="4" total="405.2208"><![CDATA[Military experience required, in the West Bank next week for fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="5" total="405.2208"><![CDATA[Military experience required in the West Bank next week, for fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="6" total="405.3678"><![CDATA[Military experience required, in the West Bank next week, for fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="7" total="405.9494"><![CDATA[Military experience required in the West Bank next week for a fifty members of the Jewish Defence League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="8" total="405.9903"><![CDATA[Military experience required in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas will file at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="9" total="406.0697"><![CDATA[Military experience required, the West Bank next week for fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="10" total="406.0964"><![CDATA[Military experience required, in the West Bank next week for a fifty members of the Jewish Defence League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="11" total="406.1373"><![CDATA[Military experience required, in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas will file at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="12" total="406.2041"><![CDATA[Military experience required in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the UN for recognition of a Palestinian state.]]></nbest>
+			<nbest id="13" total="406.2166"><![CDATA[Military experience required, the West Bank next week, for fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="14" total="406.351"><![CDATA[Military experience required, in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the UN for recognition of a Palestinian state.]]></nbest>
+			<nbest id="15" total="406.4236"><![CDATA[Military experience required, next week in the West Bank, for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="16" total="406.9129"><![CDATA[Military experience required next week in the West Bank, for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="17" total="406.9453"><![CDATA[Military experience required, the West Bank next week for a fifty members of the Jewish Defence League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="18" total="406.9862"><![CDATA[Military experience required, the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas will file at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="19" total="407.0677"><![CDATA[Military experience required in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas will deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="20" total="407.0927"><![CDATA[Military experience required in the West Bank next week for a fifty members of the Jewish Defense League, while Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="21" total="407.2"><![CDATA[Military experience required, the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the UN for recognition of a Palestinian state.]]></nbest>
+			<nbest id="22" total="407.2147"><![CDATA[Military experience required, in the West Bank next week for a fifty members of the Jewish Defense League, while Mahmoud Abbas will deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="23" total="407.2397"><![CDATA[Military experience required, in the West Bank next week for a fifty members of the Jewish Defense League, while Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+			<nbest id="24" total="407.2999"><![CDATA[Military experience required, next week in the West Bank for a fifty members of the Jewish Defense League, while Mahmoud Abbas deposit at the headquarters of the United Nations for recognition of a Palestinian state.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La décision de Mahmoud Abbas de demander à l'Onu la reconnaissance de l'Etat palestinien pose un dilemme à Israël, qui n'a aucune solution évidente pour répondre à cette offensive diplomatique dans un Proche-Orient en plein bouleversement.]]></source>
+		<target lang="en">
+			<nbest id="0" total="381.0922"><![CDATA[Mahmoud Abbas's decision to ask the UN recognition of the Palestinian state poses a dilemma for Israel, which has no obvious solution to address this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="1" total="381.1248"><![CDATA[Mahmoud Abbas's decision to request UN recognition of a Palestinian state poses a dilemma for Israel, which has no obvious solution to address this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="2" total="381.5155"><![CDATA[Mahmoud Abbas's decision to ask the UN recognition of the Palestinian state poses a dilemma for Israel, which has no obvious solution to meet this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="3" total="381.5481"><![CDATA[Mahmoud Abbas's decision to request UN recognition of a Palestinian state poses a dilemma for Israel, which has no obvious solution to meet this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="4" total="381.5559"><![CDATA[Mahmoud Abbas's decision to ask the UN recognition of a Palestinian state poses a dilemma for Israel, which has no obvious solution to address this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="5" total="381.9792"><![CDATA[Mahmoud Abbas's decision to ask the UN recognition of a Palestinian state poses a dilemma for Israel, which has no obvious solution to meet this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="6" total="382.5661"><![CDATA[Mahmoud Abbas's decision to request UN recognition of the Palestinian state poses a dilemma for Israel, which has no obvious solution to address this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="7" total="382.9091"><![CDATA[Mahmoud Abbas's decision to request UN recognition of Palestinian state poses a dilemma for Israel, which has no obvious solution to address this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="8" total="382.9895"><![CDATA[Mahmoud Abbas's decision to request UN recognition of the Palestinian state poses a dilemma for Israel, which has no obvious solution to meet this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="9" total="383.3325"><![CDATA[Mahmoud Abbas's decision to request UN recognition of Palestinian state poses a dilemma for Israel, which has no obvious solution to meet this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+			<nbest id="10" total="383.3403"><![CDATA[Mahmoud Abbas's decision to ask the UN recognition of Palestinian state poses a dilemma for Israel, which has no obvious solution to address this diplomatic offensive in the Middle East in turmoil.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Autorité palestinienne et la Ligue arabe sont déterminées à aller à la 66e session de l'Assemblée générale des Nations unies le 20 septembre prochain pour demander une reconnaissance pleine et entière de l'Etat palestinien, avec comme capitale El Qods-Est, malgré l'hostilité d'Israël et des Etats-Unis.]]></source>
+		<target lang="en">
+			<nbest id="0" total="469.0185"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on September 20 to request a full recognition of the Palestinian state with its capital Al Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="1" total="469.1005"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on 20 September to seek full recognition of the Palestinian state with its capital Al Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="2" total="469.1519"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on 20 September to request a full recognition of the Palestinian state with its capital Al Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="3" total="469.1981"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on 20 September to seek full recognition of a Palestinian state with its capital Al Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="4" total="470.0228"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on September 20 to request a full recognition of the Palestinian state with its capital in El Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="5" total="470.1048"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on 20 September to seek full recognition of the Palestinian state with its capital in El Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="6" total="470.1562"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on 20 September to request a full recognition of the Palestinian state with its capital in El Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="7" total="470.3099"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on September 20 to request a full recognition of a Palestinian state with its capital Al Quds, despite the hostility of Israel and the United States.]]></nbest>
+			<nbest id="8" total="470.4432"><![CDATA[The Palestinian Authority and the Arab League are determined to go to the 66th session of the General Assembly of the United Nations on 20 September to request a full recognition of a Palestinian state with its capital Al Quds, despite the hostility of Israel and the United States.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Autorité palestinienne s'adressera le 23 septembre aux Nations unies pour obtenir l'adhésion de la Palestine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="184.4611"><![CDATA[The Palestinian Authority will speak Sept. 23 at the UN membership for Palestine.]]></nbest>
+			<nbest id="1" total="187.063"><![CDATA[The Palestinian Authority will speak Sept. 23 at the United Nations membership for Palestine.]]></nbest>
+			<nbest id="2" total="187.4399"><![CDATA[The Palestinian Authority will speak on September 23 at the UN membership for Palestine.]]></nbest>
+			<nbest id="3" total="187.7145"><![CDATA[The Palestinian Authority will speak on Sept. 23 at the UN membership for Palestine.]]></nbest>
+			<nbest id="4" total="189.2955"><![CDATA[The Palestinian Authority will speak September 23 at the UN membership for Palestine.]]></nbest>
+			<nbest id="5" total="189.5157"><![CDATA[The Palestinian Authority will speak on September 23 at the United Nations membership for Palestine.]]></nbest>
+			<nbest id="6" total="190.3164"><![CDATA[The Palestinian Authority will speak on Sept. 23 at the United Nations membership for Palestine.]]></nbest>
+			<nbest id="7" total="190.4518"><![CDATA[The Palestinian Authority will speak Sept. 23 at the UN for the accession of Palestine.]]></nbest>
+			<nbest id="8" total="191.2263"><![CDATA[The Palestinian Authority will speak Sept. 23 at the UN for membership of Palestine.]]></nbest>
+			<nbest id="9" total="191.3346"><![CDATA[The Palestinian Authority will speak Sept. 23 at the United Nations for the accession of Palestine.]]></nbest>
+			<nbest id="10" total="191.3714"><![CDATA[The Palestinian Authority will speak September 23 at the United Nations membership for Palestine.]]></nbest>
+			<nbest id="11" total="191.9517"><![CDATA[The Palestinian Authority will speak Sept. 23 at the United Nations for membership of Palestine.]]></nbest>
+			<nbest id="12" total="192.4427"><![CDATA[The Palestinian Authority will address Sept. 23 at the UN membership for Palestine.]]></nbest>
+			<nbest id="13" total="193.4306"><![CDATA[The Palestinian Authority will speak on September 23 at the UN for the accession of Palestine.]]></nbest>
+			<nbest id="14" total="193.7052"><![CDATA[The Palestinian Authority will speak on Sept. 23 at the UN for the accession of Palestine.]]></nbest>
+			<nbest id="15" total="193.7873"><![CDATA[The Palestinian Authority will speak on September 23 at the United Nations for the accession of Palestine.]]></nbest>
+			<nbest id="16" total="194.2051"><![CDATA[The Palestinian Authority will speak on September 23 at the UN for membership of Palestine.]]></nbest>
+			<nbest id="17" total="194.4044"><![CDATA[The Palestinian Authority will speak on September 23 at the United Nations for membership of Palestine.]]></nbest>
+			<nbest id="18" total="194.4798"><![CDATA[The Palestinian Authority will speak on Sept. 23 at the UN for membership of Palestine.]]></nbest>
+			<nbest id="19" total="194.588"><![CDATA[The Palestinian Authority will speak on Sept. 23 at the United Nations for the accession of Palestine.]]></nbest>
+			<nbest id="20" total="195.2051"><![CDATA[The Palestinian Authority will speak on Sept. 23 at the United Nations for membership of Palestine.]]></nbest>
+			<nbest id="21" total="195.2862"><![CDATA[The Palestinian Authority will speak September 23 at the UN for the accession of Palestine.]]></nbest>
+			<nbest id="22" total="195.643"><![CDATA[The Palestinian Authority will speak September 23 at the United Nations for the accession of Palestine.]]></nbest>
+			<nbest id="23" total="195.7694"><![CDATA[The Palestinian Authority will speak Sept. 23 at the United Nations for accession of Palestine.]]></nbest>
+			<nbest id="24" total="196.0608"><![CDATA[The Palestinian Authority will speak September 23 at the UN for membership of Palestine.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le 20 septembre prochain, Mahmoud Abbas devrait remettre officiellement à Ban Ki-Moon la demande d'adhésion de la Palestine à l'ONU.]]></source>
+		<target lang="en">
+			<nbest id="0" total="253.4861"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-Moon's application for membership of Palestine to the UN.]]></nbest>
+			<nbest id="1" total="253.83"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-Moon's application for membership of Palestine at the UN.]]></nbest>
+			<nbest id="2" total="254.0042"><![CDATA[Sept. 20, Mahmoud Abbas should officially give Ban Ki-Moon's application for membership of Palestine to the UN.]]></nbest>
+			<nbest id="3" total="254.2584"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-Moon's request for membership of Palestine to the UN.]]></nbest>
+			<nbest id="4" total="254.3481"><![CDATA[Sept. 20, Mahmoud Abbas should officially give Ban Ki-Moon's application for membership of Palestine at the UN.]]></nbest>
+			<nbest id="5" total="254.4358"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-moon's request for membership of Palestine to the UN.]]></nbest>
+			<nbest id="6" total="254.6023"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-Moon's request for membership of Palestine at the UN.]]></nbest>
+			<nbest id="7" total="254.7765"><![CDATA[Sept. 20, Mahmoud Abbas should officially give Ban Ki-Moon's request for membership of Palestine to the UN.]]></nbest>
+			<nbest id="8" total="254.7797"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-moon's request for membership of Palestine at the UN.]]></nbest>
+			<nbest id="9" total="254.8567"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-Moon's membership application of Palestine to the UN.]]></nbest>
+			<nbest id="10" total="255.1204"><![CDATA[Sept. 20, Mahmoud Abbas should officially give Ban Ki-Moon's request for membership of Palestine at the UN.]]></nbest>
+			<nbest id="11" total="255.2448"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-Moon's application for membership of Palestine to the United Nations.]]></nbest>
+			<nbest id="12" total="255.3748"><![CDATA[Sept. 20, Mahmoud Abbas should officially give Ban Ki-Moon's membership application of Palestine to the UN.]]></nbest>
+			<nbest id="13" total="255.4827"><![CDATA[September 20th, Mahmoud Abbas should officially give Ban Ki-Moon's membership application of Palestine to the UN.]]></nbest>
+			<nbest id="14" total="256.0172"><![CDATA[On 20 September, Mahmoud Abbas should officially give Ban Ki-Moon's request for membership of Palestine to the United Nations.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le balai diplomatique s'intensifie au Proche-Orient, une semaine avant la demande d'adhésion d'un Etat de Palestine à l'ONU.]]></source>
+		<target lang="en">
+			<nbest id="0" total="260.3705"><![CDATA[The brush intensifies diplomatic Middle East, a week before the application for membership of a Palestinian state at the UN.]]></nbest>
+			<nbest id="1" total="260.9197"><![CDATA[The broom is intensifying diplomatic Middle East, a week before the application for membership of a Palestinian state at the UN.]]></nbest>
+			<nbest id="2" total="261.3705"><![CDATA[The brush is intensifying diplomatic Middle East, a week before the application for membership of a Palestinian state at the UN.]]></nbest>
+			<nbest id="3" total="261.5352"><![CDATA[The brush intensifies diplomatic Middle East, one week before the application for membership of a Palestinian state at the UN.]]></nbest>
+			<nbest id="4" total="262.0083"><![CDATA[The brush intensifies diplomatic Middle East, a week before the application for membership of a Palestinian state in the UN.]]></nbest>
+			<nbest id="5" total="262.0844"><![CDATA[The broom is intensifying diplomatic Middle East, one week before the application for membership of a Palestinian state at the UN.]]></nbest>
+			<nbest id="6" total="262.4629"><![CDATA[The brush intensifies diplomatic Middle East a week before the application for membership of a Palestinian state at the UN.]]></nbest>
+			<nbest id="7" total="262.5352"><![CDATA[The brush is intensifying diplomatic Middle East, one week before the application for membership of a Palestinian state at the UN.]]></nbest>
+			<nbest id="8" total="262.5574"><![CDATA[The broom is intensifying diplomatic Middle East, a week before the application for membership of a Palestinian state in the UN.]]></nbest>
+			<nbest id="9" total="262.9963"><![CDATA[The brush intensifies diplomatic Middle East, a week before the application for membership of a State of Palestine to the UN.]]></nbest>
+			<nbest id="10" total="263.0083"><![CDATA[The brush is intensifying diplomatic Middle East, a week before the application for membership of a Palestinian state in the UN.]]></nbest>
+			<nbest id="11" total="263.0121"><![CDATA[The broom is intensifying diplomatic Middle East a week before the application for membership of a Palestinian state at the UN.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le président de l'Autorité palestinienne Mahmoud Abbas soumettra la demande d'adhésion de l'Etat de Palestine au secrétaire général de l'ONU Ban Ki-moon le 23 septembre, a annoncé jeudi le ministre palestinien des Affaires étrangères Riadh El-Maliki.]]></source>
+		<target lang="en">
+			<nbest id="0" total="363.348"><![CDATA[President of the Palestinian Authority Mahmoud Abbas will submit the application for membership of the State of Palestine to the UN Secretary-General Ban Ki-moon on September 23, announced Thursday the Palestinian Foreign Minister Riadh El Maliki.]]></nbest>
+			<nbest id="1" total="363.6172"><![CDATA[President of the Palestinian Authority Mahmoud Abbas will submit the application for membership of the State of Palestine to the UN Secretary General Ban Ki-moon on September 23, announced Thursday the Palestinian Foreign Minister Riadh El Maliki.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les autorités israéliennes réagissent de plus en plus violemment à la volonté affichée des Palestiniens de déposer une demande d'adhésion à l'ONU.]]></source>
+		<target lang="en">
+			<nbest id="0" total="226.4312"><![CDATA[Israeli authorities react more violently to the desire of Palestinians apply for UN membership.]]></nbest>
+			<nbest id="1" total="227.4822"><![CDATA[Israeli authorities react more violently to the willingness of Palestinians apply for UN membership.]]></nbest>
+			<nbest id="2" total="227.678"><![CDATA[The Israeli authorities react more violently to the desire of Palestinians apply for UN membership.]]></nbest>
+			<nbest id="3" total="228.1962"><![CDATA[Israeli authorities react more violently to the desire of the Palestinians to apply for UN membership.]]></nbest>
+			<nbest id="4" total="228.7289"><![CDATA[The Israeli authorities react more violently to the willingness of Palestinians apply for UN membership.]]></nbest>
+			<nbest id="5" total="228.7496"><![CDATA[Israeli authorities react more violently to the desire of the Palestinians apply for UN membership.]]></nbest>
+			<nbest id="6" total="228.7503"><![CDATA[Israeli authorities react more violently to the willingness of the Palestinians apply for UN membership.]]></nbest>
+			<nbest id="7" total="229.9987"><![CDATA[Israeli authorities react more violently to the willingness of the Palestinians to apply for UN membership.]]></nbest>
+			<nbest id="8" total="230.5926"><![CDATA[Israeli authorities react more violently to the desire of the Palestinians to apply for membership in the UN.]]></nbest>
+			<nbest id="9" total="231.8079"><![CDATA[Israeli authorities react more violently to the desire of Palestinians to apply for UN membership.]]></nbest>
+			<nbest id="10" total="231.9234"><![CDATA[Israeli authorities react more violently to the desire of Palestinians apply for membership in the UN.]]></nbest>
+			<nbest id="11" total="232.1985"><![CDATA[Israeli authorities react more violently to the desire of the Palestinians to apply for membership of the UN.]]></nbest>
+			<nbest id="12" total="232.3289"><![CDATA[Israeli authorities react more violently to the willingness of Palestinians to apply for UN membership.]]></nbest>
+			<nbest id="13" total="232.395"><![CDATA[Israeli authorities react more violently to the willingness of the Palestinians to apply for membership in the UN.]]></nbest>
+			<nbest id="14" total="232.9227"><![CDATA[The Israeli authorities react more violently to the desire of the Palestinians to apply for membership in the UN.]]></nbest>
+			<nbest id="15" total="232.9743"><![CDATA[Israeli authorities react more violently to the willingness of Palestinians apply for membership in the UN.]]></nbest>
+			<nbest id="16" total="232.985"><![CDATA[Israeli authorities react more violently to the desire of the Palestinians to submit an application for UN membership.]]></nbest>
+			<nbest id="17" total="232.9905"><![CDATA[Israeli authorities react more violently to the desire of the Palestinians to apply for membership at the UN.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les Palestiniens et leurs alliés veulent obtenir la reconnaissance officielle de leur État à l'ONU.]]></source>
+		<target lang="en">
+			<nbest id="0" total="157.6652"><![CDATA[Palestinians and their allies want to obtain official recognition of their state at the UN.]]></nbest>
+			<nbest id="1" total="157.7506"><![CDATA[The Palestinians and their allies want to obtain official recognition of their state at the UN.]]></nbest>
+			<nbest id="2" total="162.5108"><![CDATA[Palestinians and their allies want to obtain official recognition of their state in the UN.]]></nbest>
+			<nbest id="3" total="162.5961"><![CDATA[The Palestinians and their allies want to obtain official recognition of their state in the UN.]]></nbest>
+			<nbest id="4" total="162.5981"><![CDATA[Palestinians and their allies want to obtain official recognition of their state at the United Nations.]]></nbest>
+			<nbest id="5" total="162.6834"><![CDATA[The Palestinians and their allies want to obtain official recognition of their state at the United Nations.]]></nbest>
+			<nbest id="6" total="162.9502"><![CDATA[Palestinians and their allies are seeking official recognition of their state at the UN.]]></nbest>
+			<nbest id="7" total="163.0169"><![CDATA[The Palestinians and their allies are seeking official recognition of their state at the UN.]]></nbest>
+			<nbest id="8" total="163.5696"><![CDATA[Palestinians and their allies want to get official recognition of their state at the UN.]]></nbest>
+			<nbest id="9" total="163.6155"><![CDATA[Palestinians and their allies want to get the official recognition of their state at the UN.]]></nbest>
+			<nbest id="10" total="163.6576"><![CDATA[Palestinians and their allies seeking official recognition of their state at the UN.]]></nbest>
+			<nbest id="11" total="163.6822"><![CDATA[The Palestinians and their allies want to get the official recognition of their state at the UN.]]></nbest>
+			<nbest id="12" total="163.7243"><![CDATA[The Palestinians and their allies seeking official recognition of their state at the UN.]]></nbest>
+			<nbest id="13" total="164.2254"><![CDATA[Palestinians and their allies want to obtain official recognition of their state to the UN.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les Palestiniens vont à l'ONU la semaine prochaine pour tenter d'obtenir ce que ni la lutte armée ni les négociations ne leur ont procuré depuis des décennies: l'admission d'un Etat souverain de Palestine sur les lignes de 1967 avec Jérusalem-Est pour capitale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="452.1413"><![CDATA[Palestinians go to the UN next week to try to get that neither armed struggle nor the negotiations provided them for decades: the admission of a sovereign state of Palestine on the 1967 lines with East Jerusalem as its capital.]]></nbest>
+			<nbest id="1" total="453.4123"><![CDATA[Palestinians go to the UN next week to try to get what neither armed struggle nor the negotiations provided them for decades: the admission of a sovereign state of Palestine on the 1967 lines with East Jerusalem as its capital.]]></nbest>
+			<nbest id="2" total="453.7529"><![CDATA[Palestinians go to the UN next week to try to get that neither armed struggle nor negotiations provided them for decades: the admission of a sovereign state of Palestine on the 1967 lines with East Jerusalem as its capital.]]></nbest>
+			<nbest id="3" total="453.9347"><![CDATA[Palestinians go to the UN next week to try to obtain that neither armed struggle nor the negotiations provided them for decades: the admission of a sovereign state of Palestine on the 1967 lines with East Jerusalem as its capital.]]></nbest>
+			<nbest id="4" total="454.0164"><![CDATA[Palestinians go to the UN next week to try to get that neither armed struggle nor their negotiations have provided for decades: the admission of a sovereign state of Palestine on the 1967 lines with East Jerusalem as its capital.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les Palestiniens vont soumettre le 23 septembre au Conseil de sécurité des Nations unies une demande d'adhésion d'un Etat palestinien, a annoncé jeudi le ministre palestinien des Affaires étrangères Riad al-Malki.]]></source>
+		<target lang="en">
+			<nbest id="0" total="323.8726"><![CDATA[Palestinians will submit on September 23 Security Council demand UN membership for a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="1" total="324.5182"><![CDATA[Palestinians will submit on September 23 Security Council demand UN membership for a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="2" total="325.3708"><![CDATA[Palestinians will submit 23 September the Security Council demand UN membership for a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="3" total="325.4005"><![CDATA[Palestinians will submit on September 23 the Security Council demand UN membership for a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="4" total="325.5342"><![CDATA[Palestinians will submit on September 23 Security Council demand UN membership of a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="5" total="325.5983"><![CDATA[Palestinians will submit to the September 23 Security Council demand UN membership for a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="6" total="325.8948"><![CDATA[Palestinians will submit September 23 Security Council demand UN membership for a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="7" total="326.0164"><![CDATA[Palestinians will submit 23 September the Security Council demand UN membership for a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="8" total="326.0462"><![CDATA[Palestinians will submit on September 23 the Security Council demand UN membership for a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="9" total="326.1799"><![CDATA[Palestinians will submit on September 23 Security Council demand UN membership of a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="10" total="326.2439"><![CDATA[Palestinians will submit to the September 23 Security Council demand UN membership for a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="11" total="326.4814"><![CDATA[Palestinians will submit the September 23 Security Council demand UN membership for a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="12" total="326.5405"><![CDATA[Palestinians will submit September 23 Security Council demand UN membership for a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="13" total="327.0324"><![CDATA[Palestinians will submit 23 September the Security Council demand UN membership of a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="14" total="327.0622"><![CDATA[Palestinians will submit on September 23 the Security Council demand UN membership of a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="15" total="327.127"><![CDATA[Palestinians will submit the September 23 Security Council demand UN membership for a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="16" total="327.2599"><![CDATA[Palestinians will submit to the September 23 Security Council demand UN membership of a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="17" total="327.5565"><![CDATA[Palestinians will submit September 23 Security Council demand UN membership of a Palestinian state, said Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="18" total="327.6781"><![CDATA[Palestinians will submit 23 September the Security Council demand UN membership of a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="19" total="327.7078"><![CDATA[Palestinians will submit on September 23 the Security Council demand UN membership of a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+			<nbest id="20" total="327.9055"><![CDATA[Palestinians will submit to the September 23 Security Council demand UN membership of a Palestinian state, announced Thursday the Palestinian Foreign Minister Riad al-Malki.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les projets de la Palestine d'organiser un scrutin au Conseil de Sécurité de l'ONU sur la reconnaissance de son indépendance sont soutenus par plusieurs pays, cependant ils ne contribueront pas à la fin des négociations avec Israël, a déclaré le chef de l'administration palestinienne Mahmoud Abbas en tenant la parole au Caire.]]></source>
+		<target lang="en">
+			<nbest id="0" total="538.8104"><![CDATA[Projects in Palestine to organize elections to the Security Council of the UN recognition of their independence are supported by several countries, but they will not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="1" total="539.0251"><![CDATA[Projects in Palestine to organize elections to the Security Council of the UN recognition of their independence are supported by several countries, but they do not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="2" total="539.7944"><![CDATA[Projects of Palestine to organize elections to the Security Council of the UN recognition of their independence are supported by several countries, but they will not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="3" total="539.8757"><![CDATA[Projects in Palestine to organize elections to the Security Council of the UN recognition of their independence is supported by several countries, but they will not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="4" total="540.009"><![CDATA[Projects of Palestine to organize elections to the Security Council of the UN recognition of their independence are supported by several countries, but they do not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="5" total="540.0214"><![CDATA[Projects in Palestine to organize elections to the Security Council of the UN recognition of independence is supported by several countries, but they will not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="6" total="540.0575"><![CDATA[Projects of Palestine to organize elections to the Security Council of the UN recognition of independence is supported by several countries, but they will not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="7" total="540.0904"><![CDATA[Projects in Palestine to organize elections to the Security Council of the UN recognition of their independence is supported by several countries, but they do not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="8" total="540.236"><![CDATA[Projects in Palestine to organize elections to the Security Council of the UN recognition of independence is supported by several countries, but they do not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="9" total="540.2721"><![CDATA[Projects of Palestine to organize elections to the Security Council of the UN recognition of independence is supported by several countries, but they do not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="10" total="540.3715"><![CDATA[Projects in Palestine to organize elections in the Security Council of the UN recognition of their independence are supported by several countries, but they will not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+			<nbest id="11" total="540.5862"><![CDATA[Projects in Palestine to organize elections in the Security Council of the UN recognition of their independence are supported by several countries, but they do not contribute to the completion of negotiations with Israel, said the head of the Palestinian Administration Mahmoud Abbas taking speech in Cairo.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

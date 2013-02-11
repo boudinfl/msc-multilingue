@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[D'après des travaux menés à Taïwan et présentés dimanche lors de la conférence annuelle de l'American Heart Association qui s'est tenue à Orlando en Floride, un bon détartrage de dents permettrait de réduire les risques de développer une maladie cardio-vasculaire.]]></source>
+		<target lang="en">
+			<nbest id="0" total="391.3479"><![CDATA[Based on work in Taiwan and presented Sunday at the annual conference of the American Heart Association held in Orlando, Florida, good scaling of teeth would reduce the risk of developing cardiovascular disease.]]></nbest>
+			<nbest id="1" total="391.7956"><![CDATA[Based on work in Taiwan and presented Sunday at the annual conference of the American Heart Association held in Orlando, Florida, a good scaling of teeth would reduce the risk of developing cardiovascular disease.]]></nbest>
+			<nbest id="2" total="392.7766"><![CDATA[Based on work in Taiwan and presented Sunday at the annual meeting of the American Heart Association held in Orlando, Florida, good scaling of teeth would reduce the risk of developing cardiovascular disease.]]></nbest>
+			<nbest id="3" total="393.2243"><![CDATA[Based on work in Taiwan and presented Sunday at the annual meeting of the American Heart Association held in Orlando, Florida, a good scaling of teeth would reduce the risk of developing cardiovascular disease.]]></nbest>
+			<nbest id="4" total="393.284"><![CDATA[Based on work in Taiwan and presented Sunday at the annual conference of the American Heart Association held in Orlando, Florida, good scaling teeth would reduce the risk of developing cardiovascular disease.]]></nbest>
+			<nbest id="5" total="394.1002"><![CDATA[Based on work in Taiwan and presented Sunday at the annual conference of the American Heart Association, which was held in Orlando, Florida, good scaling of teeth would reduce the risk of developing cardiovascular disease.]]></nbest>
+			<nbest id="6" total="394.301"><![CDATA[Based on work in Taiwan and presented Sunday at the annual conference of the American Heart Association held in Orlando, Florida, a good scaling teeth would reduce the risk of developing cardiovascular disease.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une étude parue dans le Huffington Post et menée auprès 100000 personnes par des cardiologues taïwanais, les personnes qui se font souvent détartrer les dents aurait moins de chance d'avoir de crise cardiaque et d'attaque cérébrale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="411.549"><![CDATA[According to a study published in the Huffington Post and conducted by cardiologists 100,000 people Taiwanese people are often decalcified teeth would be less likely to have a heart attack and stroke.]]></nbest>
+			<nbest id="1" total="411.844"><![CDATA[According to a study published in the Huffington Post and conducted by cardiologists 100,000 people Taiwanese people who are often decalcified teeth would be less likely to have a heart attack and stroke.]]></nbest>
+			<nbest id="2" total="412.4669"><![CDATA[According to a study published in the Huffington Post and conducted by cardiologists 100,000 people Taiwanese people who often decalcified teeth would be less likely to have a heart attack and stroke.]]></nbest>
+			<nbest id="3" total="412.8915"><![CDATA[According to a study published in the Huffington Post and conducted by cardiologists 100,000 people Taiwanese people are often decalcified teeth would be less likely to have heart attack and stroke.]]></nbest>
+			<nbest id="4" total="412.9335"><![CDATA[According to a study published in the Huffington Post and 100,000 people conducted by cardiologists Taiwanese people are often decalcified teeth would be less likely to have a heart attack and stroke.]]></nbest>
+			<nbest id="5" total="413.1865"><![CDATA[According to a study published in the Huffington Post and conducted by cardiologists 100,000 people Taiwanese people who are often decalcified teeth would be less likely to have heart attack and stroke.]]></nbest>
+			<nbest id="6" total="413.2285"><![CDATA[According to a study published in the Huffington Post and 100,000 people conducted by cardiologists Taiwanese people who are often decalcified teeth would be less likely to have a heart attack and stroke.]]></nbest>
+			<nbest id="7" total="413.8094"><![CDATA[According to a study published in the Huffington Post and conducted by cardiologists 100,000 people Taiwanese people who often decalcified teeth would be less likely to have heart attack and stroke.]]></nbest>
+			<nbest id="8" total="413.8515"><![CDATA[According to a study published in the Huffington Post and 100,000 people conducted by cardiologists Taiwanese people who often decalcified teeth would be less likely to have a heart attack and stroke.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude, dévoilée ce dimanche lors de la conférence annuelle de l'American Heart Association à Orlando, a révélé qu'un bon détartrage des dents pouvait permettre d'éviter des risques cardio-vasculaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="335.2248"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, showed a good scaling of teeth could help prevent cardiovascular risk.]]></nbest>
+			<nbest id="1" total="335.496"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, found that good scaling of teeth could help prevent cardiovascular risk.]]></nbest>
+			<nbest id="2" total="336.4218"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, showed a good scaling of teeth can help avoid cardiovascular risk.]]></nbest>
+			<nbest id="3" total="336.6502"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, showed a good scaling of teeth could help prevent cardiovascular risks.]]></nbest>
+			<nbest id="4" total="336.6535"><![CDATA[A study, released Sunday at the annual meeting of the American Heart Association in Orlando, showed a good scaling of teeth could help prevent cardiovascular risk.]]></nbest>
+			<nbest id="5" total="336.6931"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, found that good scaling of teeth can help avoid cardiovascular risk.]]></nbest>
+			<nbest id="6" total="336.7887"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, showed a good scaling of teeth could help avoid cardiovascular risk.]]></nbest>
+			<nbest id="7" total="336.863"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, showed a good scaling of teeth could help prevent the risk of cardiovascular disease.]]></nbest>
+			<nbest id="8" total="336.9214"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, found that good scaling of teeth could help prevent cardiovascular risks.]]></nbest>
+			<nbest id="9" total="336.9248"><![CDATA[A study, released Sunday at the annual meeting of the American Heart Association in Orlando, found that good scaling of teeth could help prevent cardiovascular risk.]]></nbest>
+			<nbest id="10" total="337.06"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, found that good scaling of teeth could help avoid cardiovascular risk.]]></nbest>
+			<nbest id="11" total="337.1342"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, found that good scaling of teeth could help prevent the risk of cardiovascular disease.]]></nbest>
+			<nbest id="12" total="337.1857"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, found a good scaling of teeth could help prevent cardiovascular risk.]]></nbest>
+			<nbest id="13" total="337.3854"><![CDATA[A study, released Sunday at the annual conference of the American Heart Association in Orlando, found that good scaling teeth could help prevent cardiovascular risk.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une étude parue sur le Huffington Post et sur Business Week, un bon détartrage des dents permettrait de diminuer les risques d'infarctus ou d'accident cardio-vasculaire.]]></source>
+		<target lang="en">
+			<nbest id="0" total="305.2573"><![CDATA[According to a study published on the Huffington Post and Business Week, a good scaling of teeth would reduce the risk of heart attack or cardiovascular accident.]]></nbest>
+			<nbest id="1" total="305.5697"><![CDATA[According to a study published on the Huffington Post and Business Week, a good scaling of teeth would reduce the risk of heart attack or cardiovascular event.]]></nbest>
+			<nbest id="2" total="306.6145"><![CDATA[According to a study published on the Huffington Post and Business Week, a good scaling of teeth would reduce the risk of myocardial infarction or cardiovascular accident.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon l'une d'elles, réalisée à Taïwan, les personnes ayant les dents entartrées auraient plus de risques cardio-vasculaires que celles qui sont passées entre les mains d'un dentiste pour retirer ce surplus de protéines salivaires et d'aliments.]]></source>
+		<target lang="en">
+			<nbest id="0" total="466.6979"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed through the hands of a dentist to remove the surplus of salivary proteins and food.]]></nbest>
+			<nbest id="1" total="466.7196"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those who have passed into the hands of a dentist to remove the surplus of salivary proteins and food.]]></nbest>
+			<nbest id="2" total="466.8046"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those who have passed into the hands of a dentist to remove the excess of salivary proteins and food.]]></nbest>
+			<nbest id="3" total="467.3552"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed through the hands of a dentist to remove this excess salivary proteins and food.]]></nbest>
+			<nbest id="4" total="467.377"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those who have passed into the hands of a dentist to remove this excess salivary proteins and food.]]></nbest>
+			<nbest id="5" total="467.4814"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those who have passed into the hands of a dentist to remove the excess salivary proteins and food.]]></nbest>
+			<nbest id="6" total="467.6896"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed through the hands of a dentist to remove the excess of salivary proteins and food.]]></nbest>
+			<nbest id="7" total="467.8493"><![CDATA[According to one of them, made in Taiwan, people who had their teeth scaled more cardiovascular risk than those passed through the hands of a dentist to remove the surplus of salivary proteins and food.]]></nbest>
+			<nbest id="8" total="467.871"><![CDATA[According to one of them, made in Taiwan, people who had their teeth scaled more cardiovascular risk than those who have passed into the hands of a dentist to remove the surplus of salivary proteins and food.]]></nbest>
+			<nbest id="9" total="467.8872"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed into the hands of a dentist to remove the surplus of salivary proteins and food.]]></nbest>
+			<nbest id="10" total="467.956"><![CDATA[According to one of them, made in Taiwan, people who had their teeth scaled more cardiovascular risk than those who have passed into the hands of a dentist to remove the excess of salivary proteins and food.]]></nbest>
+			<nbest id="11" total="467.9722"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed into the hands of a dentist to remove the excess of salivary proteins and food.]]></nbest>
+			<nbest id="12" total="468.3665"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed through the hands of a dentist to remove the excess salivary proteins and food.]]></nbest>
+			<nbest id="13" total="468.5066"><![CDATA[According to one of them, made in Taiwan, people who had their teeth scaled more cardiovascular risk than those passed through the hands of a dentist to remove this excess salivary proteins and food.]]></nbest>
+			<nbest id="14" total="468.5284"><![CDATA[According to one of them, made in Taiwan, people who had their teeth scaled more cardiovascular risk than those who have passed into the hands of a dentist to remove this excess salivary proteins and food.]]></nbest>
+			<nbest id="15" total="468.5446"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed into the hands of a dentist to remove this excess salivary proteins and food.]]></nbest>
+			<nbest id="16" total="468.6328"><![CDATA[According to one of them, made in Taiwan, people who had their teeth scaled more cardiovascular risk than those who have passed into the hands of a dentist to remove the excess salivary proteins and food.]]></nbest>
+			<nbest id="17" total="468.649"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed into the hands of a dentist to remove the excess salivary proteins and food.]]></nbest>
+			<nbest id="18" total="468.841"><![CDATA[According to one of them, made in Taiwan, people who had their teeth scaled more cardiovascular risk than those passed through the hands of a dentist to remove the excess of salivary proteins and food.]]></nbest>
+			<nbest id="19" total="468.8492"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed through the hands of a dentist to remove this excess of salivary proteins and food.]]></nbest>
+			<nbest id="20" total="468.8709"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those who have passed into the hands of a dentist to remove this excess of salivary proteins and food.]]></nbest>
+			<nbest id="21" total="468.921"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those passed through the hands of a dentist to remove the surplus of salivary proteins and foods.]]></nbest>
+			<nbest id="22" total="468.9428"><![CDATA[According to one of them, made in Taiwan, those who have calcified teeth more cardiovascular risk than those who have passed into the hands of a dentist to remove the surplus of salivary proteins and foods.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un détartrage régulier ne sert pas uniquement à rendre votre sourire plus brillant, selon une étude publiée le 13 novembre, il serait aussi un bon moyen de réduire les risques d'attaques cardio-vasculaires. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="329.2658"><![CDATA[Regular descaling is not just to make your smile brighter, according to a study published on November 13, it would also be a good way to reduce the risk of cardiovascular attacks.]]></nbest>
+			<nbest id="1" total="329.4025"><![CDATA[Regular descaling is not just to make your smile brighter, according to a study published on 13 November, it would also be a good way to reduce the risk of cardiovascular attacks.]]></nbest>
+			<nbest id="2" total="329.7019"><![CDATA[Regular descaling is not just to make your smile brighter, according to a study published Nov. 13, it would also be a good way to reduce the risk of cardiovascular attacks.]]></nbest>
+			<nbest id="3" total="330.187"><![CDATA[Regular descaling is not just to make your smile brighter, according to a study published November 13, it would also be a good way to reduce the risk of cardiovascular attacks.]]></nbest>
+			<nbest id="4" total="331.5909"><![CDATA[Regular descaling is not just to make your smile brighter, according to a study published on November 13, it is also a good way to reduce the risk of cardiovascular attacks.]]></nbest>
+			<nbest id="5" total="331.8064"><![CDATA[Regular descaling is not just to make your smile brighter, according to a study published on 13 November, it would be a good way to reduce the risk of cardiovascular attacks.]]></nbest>
+			<nbest id="6" total="332.0959"><![CDATA[Regular descaling is not just to make your smile brighter, according to a study published on November 13, it would be a good way to reduce the risk of cardiovascular attacks.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Comme l'explique le Huffington Post, d'après cette recherche menée sur plus de 100000 personnes par des cardiologues taïwanais, les gens qui se font nettoyer et détartrer les dents par un dentiste diminuent leur risque de crise cardiaque et d'attaque cérébrale de 24% et de 13% respectivement, si on les compare à des personnes qui n'ont jamais eu ce genre de soins.]]></source>
+		<target lang="en">
+			<nbest id="0" total="594.7346"><![CDATA[As explained in the Huffington Post, according to the research conducted on more than 100,000 people by cardiologists Taiwanese people who are clean and descale the teeth by a dentist reduce their risk of heart attack and stroke by 24% and 13% respectively, when compared to people who have never had this kind of care.]]></nbest>
+			<nbest id="1" total="594.9259"><![CDATA[As explained in the Huffington Post, according to this research on more than 100,000 people by cardiologists Taiwanese people who are clean and descale the teeth by a dentist reduce their risk of heart attack and stroke by 24% and 13% respectively, when compared to people who have never had this kind of care.]]></nbest>
+			<nbest id="2" total="595.6382"><![CDATA[As explained in the Huffington Post, according to the research conducted on more than 100,000 people by cardiologists Taiwanese people who are clean and descale the teeth by a dentist decrease their risk of heart attack and stroke by 24% and 13% respectively, when compared to people who have never had this kind of care.]]></nbest>
+			<nbest id="3" total="595.6728"><![CDATA[As explained in the Huffington Post, according to the research conducted on more than 100,000 people by cardiologists Taiwanese people who are clean and descale the teeth by a dentist reduce their risk of heart attack and stroke by 24% and 13%, respectively, when compared to people who have never had this kind of care.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des cardiologues taïwanais ont confirmé, grâce à une étude menée auprès de 100000 personnes, qu'une bonne hygiène des dents réduit le risque d'infarctus et d'accidents vasculaires cérébraux.]]></source>
+		<target lang="en">
+			<nbest id="0" total="297.0644"><![CDATA[Taiwanese cardiologists confirmed through a study of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="1" total="297.5753"><![CDATA[Taiwanese cardiologists confirmed through a survey of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="2" total="298.1779"><![CDATA[Cardiologists Taiwanese confirmed through a study of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="3" total="298.6888"><![CDATA[Cardiologists Taiwanese confirmed through a survey of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="4" total="298.8438"><![CDATA[Taiwanese cardiologists confirmed by a study of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="5" total="298.9137"><![CDATA[Cardiologists Taiwanese confirmed by a study of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="6" total="299.3374"><![CDATA[Taiwanese cardiologists confirmed through a study of 100,000 people, a good dental hygiene reduces the risk of heart attacks and strokes.]]></nbest>
+			<nbest id="7" total="299.8482"><![CDATA[Taiwanese cardiologists confirmed through a survey of 100,000 people, a good dental hygiene reduces the risk of heart attacks and strokes.]]></nbest>
+			<nbest id="8" total="300.4509"><![CDATA[Cardiologists Taiwanese confirmed through a study of 100,000 people, a good dental hygiene reduces the risk of heart attacks and strokes.]]></nbest>
+			<nbest id="9" total="300.6682"><![CDATA[Taiwanese cardiologists confirmed by a survey of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="10" total="300.8081"><![CDATA[Cardiologists Taiwan confirmed through a study of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+			<nbest id="11" total="300.9618"><![CDATA[Cardiologists Taiwanese confirmed through a survey of 100,000 people, a good dental hygiene reduces the risk of heart attacks and strokes.]]></nbest>
+			<nbest id="12" total="301.1167"><![CDATA[Taiwanese cardiologists confirmed by a study of 100,000 people, a good dental hygiene reduces the risk of heart attacks and strokes.]]></nbest>
+			<nbest id="13" total="301.1866"><![CDATA[Cardiologists Taiwanese confirmed by a study of 100,000 people, a good dental hygiene reduces the risk of heart attacks and strokes.]]></nbest>
+			<nbest id="14" total="301.319"><![CDATA[Cardiologists Taiwan confirmed through a survey of 100,000 people, a good dental hygiene reduces the risk of heart attack and stroke.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Se faire détartrer les dents permettrait de réduire les risques cardiaques, selon une étude à large échelle menée par des cardiologues taïwanais. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="270.5733"><![CDATA[Be decalcified teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="1" total="270.5948"><![CDATA[Be decalcified teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="2" total="272.5522"><![CDATA[Be decalcified teeth could reduce heart risks, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="3" total="272.5737"><![CDATA[Be decalcified teeth could reduce heart risks, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="4" total="272.7719"><![CDATA[Be decalcified teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists Taiwanese.]]></nbest>
+			<nbest id="5" total="273.0612"><![CDATA[Be decalcify teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="6" total="273.0827"><![CDATA[Be decalcify teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="7" total="273.1172"><![CDATA[Be decalcified teeth would reduce heart risks, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="8" total="273.1387"><![CDATA[Be decalcified teeth would reduce heart risks, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="9" total="273.6449"><![CDATA[Be decalcified teeth would reduce cardiac risk, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="10" total="273.6664"><![CDATA[Be decalcified teeth would reduce cardiac risk, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="11" total="274.2769"><![CDATA[Be decalcify the teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="12" total="274.2984"><![CDATA[Be decalcify the teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="13" total="274.5833"><![CDATA[Be decalcified teeth would reduce risk of heart disease, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="14" total="274.6048"><![CDATA[Be decalcified teeth would reduce risk of heart disease, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="15" total="274.7508"><![CDATA[Be decalcified teeth could reduce heart risks, according to a large-scale study conducted by cardiologists Taiwanese.]]></nbest>
+			<nbest id="16" total="275.0175"><![CDATA[Be decalcified teeth could reduce risk of heart disease, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="17" total="275.039"><![CDATA[Be decalcified teeth could reduce risk of heart disease, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="18" total="275.0401"><![CDATA[Be decalcify teeth could reduce heart risks, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="19" total="275.0616"><![CDATA[Be decalcify teeth could reduce heart risks, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+			<nbest id="20" total="275.2599"><![CDATA[Be decalcify teeth would reduce the risk of heart disease, according to a large-scale study conducted by cardiologists Taiwanese.]]></nbest>
+			<nbest id="21" total="275.3159"><![CDATA[Be decalcified teeth would reduce heart risks, according to a large-scale study conducted by cardiologists Taiwanese.]]></nbest>
+			<nbest id="22" total="275.4564"><![CDATA[Be decalcified teeth would reduce the risk of heart disease, according to a large-scale study conducted by Taiwanese cardiologists.]]></nbest>
+			<nbest id="23" total="275.6051"><![CDATA[Be decalcify teeth would reduce heart risks, according to a large-scale study conducted by cardiologists Taiwan.]]></nbest>
+			<nbest id="24" total="275.6266"><![CDATA[Be decalcify teeth would reduce heart risks, according to a large-scale study conducted by cardiologists in Taiwan.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon cette recherche menée sur plus de 100000 personnes par des cardiologues taïwanais, se faire nettoyer et détartrer les dents par un dentiste diminue le risque d'attaque cardiaque et cérébrale de 24% et de 13% respectivement comparativement à des personnes qui n'ont jamais eu ces soins dentaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="512.3572"><![CDATA[According to the research conducted on more than 100,000 people by cardiologists Taiwanese be clean and descale the teeth by a dentist reduces the risk of heart attack and brain by 24% and 13% respectively compared to people who have never had these dental care.]]></nbest>
+			<nbest id="1" total="512.8954"><![CDATA[According to the research conducted on more than 100,000 people by cardiologists Taiwanese get clean and descale the teeth by a dentist reduces the risk of heart attack and brain by 24% and 13% respectively compared to people who have never had these dental care.]]></nbest>
+			<nbest id="2" total="513.455"><![CDATA[According to the research conducted on more than 100,000 people by cardiologists Taiwanese be clean and descale the teeth by a dentist reduces the risk of heart attack and brain 24% and 13% respectively compared to people who have never had these dental care.]]></nbest>
+			<nbest id="3" total="513.886"><![CDATA[According to the research conducted on more than 100,000 people by cardiologists Taiwanese be clean and descale the teeth by a dentist reduces the risk of heart attack and brain of 24% and 13% respectively compared to people who have never had these dental care.]]></nbest>
+			<nbest id="4" total="513.9702"><![CDATA[According to the research conducted on more than 100,000 people by cardiologists Taiwanese be clean and descale the teeth by a dentist reduces the risk of heart attack and brain by 24% and 13% respectively, compared to people who have never had these dental care.]]></nbest>
+			<nbest id="5" total="513.9932"><![CDATA[According to the research conducted on more than 100,000 people by cardiologists Taiwanese get clean and descale the teeth by a dentist reduces the risk of heart attack and brain 24% and 13% respectively compared to people who have never had these dental care.]]></nbest>
+			<nbest id="6" total="514.0201"><![CDATA[According to the research conducted on more than 100,000 people by cardiologists Taiwanese be clean and descale the teeth by a dentist reduces the risk of heart attack and brain by 24% and 13% respectively compared to people who have never had these dental.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un détartrage et nettoyage régulier des dents réduiraient le risque de crise cardiaque et d'attaque cérébrale de 24% et de 23% respectivement, par rapport à des personnes n'ayant jamais eu de soins dentaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="283.5181"><![CDATA[Scaling and regular cleaning of teeth reduce the risk of heart attack and stroke by 24% and 23% respectively, compared to people who never had dental care.]]></nbest>
+			<nbest id="1" total="284.7948"><![CDATA[Scaling and regular cleaning of teeth reduce the risk of heart attack and stroke by 24% and 23% respectively, compared to people who have never had dental care.]]></nbest>
+			<nbest id="2" total="285.0873"><![CDATA[Scaling and regular cleaning of teeth reduce the risk of heart attack and stroke by 24% and 23%, respectively, compared to people who never had dental care.]]></nbest>
+			<nbest id="3" total="285.7254"><![CDATA[Scaling and regular cleaning of teeth reduce the risk of heart attack and stroke by 24% and 23% respectively, compared to those who never had dental care.]]></nbest>
+			<nbest id="4" total="286.3641"><![CDATA[Scaling and regular cleaning of teeth reduce the risk of heart attack and stroke by 24% and 23%, respectively, compared to people who have never had dental care.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un détartrage et nettoyage régulier des dents par un dentiste ne procurent pas seulement un sourire éclatant mais réduiraient aussi le risque de crise cardiaque et d'attaque cérébrale, selon une étude dévoilée dimanche.]]></source>
+		<target lang="en">
+			<nbest id="0" total="324.7538"><![CDATA[Scaling and regular teeth cleaning by a dentist provide not only a smile but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="1" total="326.0403"><![CDATA[Scaling and regular teeth cleaning by a dentist do not provide only a smile but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="2" total="326.6212"><![CDATA[Scaling and regular teeth cleaning by a dentist not provide only a smile but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="3" total="327.3689"><![CDATA[Scaling and regular teeth cleaning by a dentist not provide just a smile but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="4" total="327.6919"><![CDATA[Scaling and regular teeth cleaning by a dentist do not provide just a smile but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="5" total="327.9373"><![CDATA[Scaling and regular teeth cleaning by a dentist provide not only a smile but would also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="6" total="328.2665"><![CDATA[Scaling and regular teeth cleaning by a dentist do not provide only a smile, but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="7" total="328.7006"><![CDATA[Scaling and regular teeth cleaning by a dentist not provide not only a smile but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="8" total="328.8474"><![CDATA[Scaling and regular teeth cleaning by a dentist not provide only a smile, but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+			<nbest id="9" total="328.8912"><![CDATA[Scaling and regular teeth cleaning by a dentist not provide just a smile, but also reduce the risk of heart attack and stroke, according to a study released Sunday.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

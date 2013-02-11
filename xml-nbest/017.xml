@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs américains ont démontré grâce à des dents fossiles que certains dinosaures, les sauropodes, étaient capables de migrer.]]></source>
+		<target lang="en">
+			<nbest id="0" total="240.206"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were able to migrate.]]></nbest>
+			<nbest id="1" total="241.1503"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, the sauropods were able to migrate.]]></nbest>
+			<nbest id="2" total="241.1534"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate.]]></nbest>
+			<nbest id="3" total="242.0553"><![CDATA[American researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were able to migrate.]]></nbest>
+			<nbest id="4" total="242.0977"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate.]]></nbest>
+			<nbest id="5" total="242.1488"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were capable of migrating.]]></nbest>
+			<nbest id="6" total="242.6769"><![CDATA[American researchers have shown through fossil teeth that some dinosaurs, the sauropods were able to migrate.]]></nbest>
+			<nbest id="7" total="243.0027"><![CDATA[American researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate.]]></nbest>
+			<nbest id="8" total="243.0932"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, the sauropods were capable of migrating.]]></nbest>
+			<nbest id="9" total="243.0962"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were capable of migrating.]]></nbest>
+			<nbest id="10" total="243.471"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods, were able to migrate.]]></nbest>
+			<nbest id="11" total="243.6243"><![CDATA[American researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate.]]></nbest>
+			<nbest id="12" total="243.8199"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were capable of migration.]]></nbest>
+			<nbest id="13" total="243.9981"><![CDATA[American researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were capable of migrating.]]></nbest>
+			<nbest id="14" total="244.0405"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were capable of migrating.]]></nbest>
+			<nbest id="15" total="244.115"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods, were able to migrate.]]></nbest>
+			<nbest id="16" total="244.4154"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, the sauropods, were able to migrate.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les sauropodes nord-américains effectuaient une migration saisonnière de 600 km, a montré l'analyse de dents fossilisées par des paléontologues américains.]]></source>
+		<target lang="en">
+			<nbest id="0" total="312.4847"><![CDATA[North American sauropods conducting a seasonal migration of 600 km, has shown the analysis of fossil teeth by American paleontologists.]]></nbest>
+			<nbest id="1" total="313.2427"><![CDATA[North American sauropods conducting a seasonal migration of 600 km, has shown the analysis of fossilized teeth by American paleontologists.]]></nbest>
+			<nbest id="2" total="314.0849"><![CDATA[North American sauropods were conducting a seasonal migration of 600 km, has shown the analysis of fossil teeth by American paleontologists.]]></nbest>
+			<nbest id="3" total="314.6908"><![CDATA[North American sauropods were on a seasonal migration of 600 km, has shown the analysis of fossil teeth by American paleontologists.]]></nbest>
+			<nbest id="4" total="314.843"><![CDATA[North American sauropods were conducting a seasonal migration of 600 km, has shown the analysis of fossilized teeth by American paleontologists.]]></nbest>
+			<nbest id="5" total="315.0854"><![CDATA[North American sauropods conducting a seasonal migration of 600 km, has shown the analysis of fossil teeth by American palaeontologists.]]></nbest>
+			<nbest id="6" total="315.4489"><![CDATA[North American sauropods were on a seasonal migration of 600 km, has shown the analysis of fossilized teeth by American paleontologists.]]></nbest>
+			<nbest id="7" total="315.8434"><![CDATA[North American sauropods conducting a seasonal migration of 600 km, has shown the analysis of fossilized teeth by American palaeontologists.]]></nbest>
+			<nbest id="8" total="316.0991"><![CDATA[North American sauropods were doing seasonal migration of 600 km, has shown the analysis of fossil teeth by American paleontologists.]]></nbest>
+			<nbest id="9" total="316.3351"><![CDATA[North American sauropods conducting seasonal migration of 600 km, has shown the analysis of fossil teeth by American paleontologists.]]></nbest>
+			<nbest id="10" total="316.6856"><![CDATA[North American sauropods were conducting a seasonal migration of 600 km, has shown the analysis of fossil teeth by American palaeontologists.]]></nbest>
+			<nbest id="11" total="316.8572"><![CDATA[North American sauropods were doing seasonal migration of 600 km, has shown the analysis of fossilized teeth by American paleontologists.]]></nbest>
+			<nbest id="12" total="316.976"><![CDATA[North American sauropods conducting a seasonal migration of 600 km, has shown the analysis of fossil teeth by paleontologists Americans.]]></nbest>
+			<nbest id="13" total="317.0793"><![CDATA[North American sauropods were doing a seasonal migration of 600 km, has shown the analysis of fossil teeth by American paleontologists.]]></nbest>
+			<nbest id="14" total="317.0932"><![CDATA[North American sauropods conducting seasonal migration of 600 km, has shown the analysis of fossilized teeth by American paleontologists.]]></nbest>
+			<nbest id="15" total="317.14"><![CDATA[North American sauropods conducting a seasonal migration of 600 km, has shown the analysis of fossil teeth by U.S. paleontologists.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'analyse de dents de grands sauropodes, dinosaures quadrupèdes géants, indique que ces herbivores réalisaient des migrations saisonnières de plus de 300 km pour atteindre des zones riches en nourriture.]]></source>
+		<target lang="en">
+			<nbest id="0" total="403.3756"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs quadrupeds, indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="1" total="403.9117"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs quadrupeds, indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="2" total="404.3833"><![CDATA[The analysis of teeth large sauropods, dinosaurs giants quadrupeds, indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="3" total="404.6082"><![CDATA[The analysis of teeth large sauropods, giant dinosaurs quadrupeds, indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="4" total="404.9194"><![CDATA[The analysis of teeth large sauropods, dinosaurs giants quadrupeds, indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="5" total="405.0618"><![CDATA[The analysis of large sauropod teeth, dinosaurs giants quadrupeds, indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="6" total="405.1443"><![CDATA[The analysis of teeth large sauropods, giant dinosaurs quadrupeds, indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="7" total="405.1459"><![CDATA[The analysis of large sauropod teeth, dinosaur quadrupedal giants indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="8" total="405.2722"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs quadrupeds indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="9" total="405.3138"><![CDATA[The analysis of large sauropod teeth, dinosaur quadrupedal giants, indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="10" total="405.3437"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs beasts, indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="11" total="405.5979"><![CDATA[The analysis of large sauropod teeth, dinosaurs giants quadrupeds, indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="12" total="405.682"><![CDATA[The analysis of large sauropod teeth, dinosaur quadrupedal giants indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="13" total="405.8083"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs quadrupeds indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="14" total="405.8499"><![CDATA[The analysis of large sauropod teeth, dinosaur quadrupedal giants, indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="15" total="405.8732"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs quadrupeds, indicating that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="16" total="405.8799"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs beasts, indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="17" total="406.2799"><![CDATA[The analysis of teeth large sauropods, dinosaurs giants quadrupeds indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="18" total="406.3567"><![CDATA[Analysis of large sauropod teeth, giant dinosaurs quadrupeds, indicates that these herbivores realized seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="19" total="406.4093"><![CDATA[The analysis of large sauropod teeth, giant dinosaurs quadrupeds, indicating that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+			<nbest id="20" total="406.4234"><![CDATA[Analysis of large sauropod teeth, giant dinosaurs quadrupeds, indicates that these herbivores were making seasonal migrations of over 300 km to reach areas rich in food.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans une étude publiée ce mercredi par la revue britannique Nature, ces scientifiques émettent en effet l'idée selon laquelle, les sauropodes (dinosaures les plus grands ayant existés et herbivores, dont le diplodocus par exemple) étaient capable de migrer. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="501.0035"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed and having larger herbivores, including Diplodocus, for example) were able to migrate.]]></nbest>
+			<nbest id="1" total="501.3855"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with the biggest and herbivores, including Diplodocus, for example) were able to migrate.]]></nbest>
+			<nbest id="2" total="501.408"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with the largest and herbivores, including Diplodocus, for example) were able to migrate.]]></nbest>
+			<nbest id="3" total="501.7912"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed and having larger herbivores, including Diplodocus example) were able to migrate.]]></nbest>
+			<nbest id="4" total="502.017"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with the greatest and herbivores, including Diplodocus, for example) were able to migrate.]]></nbest>
+			<nbest id="5" total="502.1732"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with the biggest and herbivores, including Diplodocus example) were able to migrate.]]></nbest>
+			<nbest id="6" total="502.1956"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with the largest and herbivores, including Diplodocus example) were able to migrate.]]></nbest>
+			<nbest id="7" total="502.3598"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with the biggest and herbivores, which diplodocus example) were able to migrate.]]></nbest>
+			<nbest id="8" total="502.3823"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with the largest and herbivores, which diplodocus example) were able to migrate.]]></nbest>
+			<nbest id="9" total="502.469"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed with larger and herbivores, including Diplodocus, for example) were able to migrate.]]></nbest>
+			<nbest id="10" total="502.4922"><![CDATA[In a study published Wednesday in the British journal Nature, the scientists emit indeed the idea that sauropods (dinosaurs existed and having larger herbivores, which diplodocus example) were able to migrate.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des dinosaures pratiquaient déjà la transhumance voici 150 millions d'années, parcourant, comme les moutons modernes, de longues distances pour aller paître dans les hautes terres à la saison sèche, suggère une étude publiée mercredi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="437.1322"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years, traveling as sheep modern long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="1" total="437.7761"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years, traveling as sheep modern, long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="2" total="437.9606"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years ago, browsing, like sheep modern long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="3" total="438.137"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years, traveling, such as sheep modern long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="4" total="438.3336"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years, traveling, like sheep modern long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="5" total="438.3525"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years ago, browsing, such as sheep modern long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="6" total="438.5137"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years, traveling as modern sheep, long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="7" total="438.6045"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years ago, browsing, like sheep modern, long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="8" total="438.7809"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years, traveling, such as sheep modern, long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="9" total="438.8371"><![CDATA[Dinosaurs already practicing transhumance here 150 million years, traveling as sheep modern long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="10" total="438.9775"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years, traveling, like sheep modern, long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="11" total="438.9964"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years ago, browsing, such as sheep modern, long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="12" total="439.4155"><![CDATA[Dinosaurs were already practicing transhumance here 150 million years ago, traveling as sheep modern long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+			<nbest id="13" total="439.481"><![CDATA[Dinosaurs already practicing transhumance here 150 million years, traveling as sheep modern, long distances to graze in the highlands during the dry season, suggests a study published Wednesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs américains ont démontré grâce à des dents fossiles que certains dinosaures, des sauropodes, étaient capables de migrer, exactement comme les oiseaux, quand les conditions devenaient défavorables.]]></source>
+		<target lang="en">
+			<nbest id="0" total="355.5417"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just like the birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="1" total="355.6602"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just like birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="2" total="356.2646"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just like the birds, when conditions became unfavorable.]]></nbest>
+			<nbest id="3" total="356.4861"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate, just like the birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="4" total="356.4919"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just like birds when conditions become unfavorable.]]></nbest>
+			<nbest id="5" total="356.6046"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate, just like birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="6" total="356.8516"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just as birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="7" total="356.9138"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just like birds, when conditions became unfavorable.]]></nbest>
+			<nbest id="8" total="357.209"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate, just like the birds, when conditions became unfavorable.]]></nbest>
+			<nbest id="9" total="357.3461"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were able to migrate, just like the birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="10" total="357.4363"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate, just like birds when conditions become unfavorable.]]></nbest>
+			<nbest id="11" total="357.4646"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were able to migrate, just like birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="12" total="357.563"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just as the birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="13" total="357.796"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate, just as birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="14" total="357.8582"><![CDATA[U.S. researchers have shown through fossil teeth that some dinosaurs, sauropods were able to migrate, just like birds, when conditions became unfavorable.]]></nbest>
+			<nbest id="15" total="358.0344"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were capable of migrating, just like the birds, when conditions become unfavorable.]]></nbest>
+			<nbest id="16" total="358.0496"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just like birds when conditions became unfavorable.]]></nbest>
+			<nbest id="17" total="358.069"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, the sauropods were able to migrate, just like the birds, when conditions became unfavorable.]]></nbest>
+			<nbest id="18" total="358.1053"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were able to migrate, just as birds, when conditions became unfavorable.]]></nbest>
+			<nbest id="19" total="358.1529"><![CDATA[U.S. researchers have demonstrated through fossil teeth that some dinosaurs, sauropods were capable of migrating, just like birds, when conditions become unfavorable.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Pour la toute première fois, des scientifiques de l'université du Colorado ont réussi, à partir de ces restes, à prouver que ces dinosaures migraient naturellement lorsque les conditions devenaient trop défavorables, au fil des saisons.]]></source>
+		<target lang="en">
+			<nbest id="0" total="398.7909"><![CDATA[For the first time, scientists from the University of Colorado have succeeded from these remains to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="1" total="398.875"><![CDATA[For the first time, scientists from the University of Colorado have succeeded from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="2" total="398.9794"><![CDATA[For the first time, scientists from the University of Colorado have succeeded from these remains, to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="3" total="399.0106"><![CDATA[For the first time, scientists at the University of Colorado have succeeded from these remains to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="4" total="399.0635"><![CDATA[For the first time, scientists from the University of Colorado have succeeded from these remains, to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="5" total="399.0947"><![CDATA[For the first time, scientists at the University of Colorado have succeeded from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="6" total="399.1992"><![CDATA[For the first time, scientists at the University of Colorado have succeeded from these remains, to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="7" total="399.2832"><![CDATA[For the first time, scientists at the University of Colorado have succeeded from these remains, to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="8" total="399.6641"><![CDATA[For the first time, scientists from the University of Colorado were successful from these remains to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="9" total="399.7482"><![CDATA[For the first time, scientists from the University of Colorado were successful from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="10" total="399.8112"><![CDATA[For the first time, scientists from the University of Colorado have managed from these remains to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="11" total="399.8527"><![CDATA[For the first time, scientists from the University of Colorado were successful from these remains, to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="12" total="399.8838"><![CDATA[For the first time, scientists at the University of Colorado were successful from these remains to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="13" total="399.8953"><![CDATA[For the first time, scientists from the University of Colorado have managed from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="14" total="399.9367"><![CDATA[For the first time, scientists from the University of Colorado were successful from these remains, to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="15" total="399.9679"><![CDATA[For the first time, scientists at the University of Colorado were successful from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="16" total="399.9839"><![CDATA[For the first time, scientists from the University of Colorado have succeeded from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable to the seasons.]]></nbest>
+			<nbest id="17" total="399.9998"><![CDATA[For the first time, scientists from the University of Colorado have managed from these remains, to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="18" total="400.0309"><![CDATA[For the first time, scientists at the University of Colorado have managed from these remains to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="19" total="400.0723"><![CDATA[For the first time, scientists at the University of Colorado were successful from these remains, to prove that these dinosaurs migrated naturally when conditions become too adverse to the seasons.]]></nbest>
+			<nbest id="20" total="400.0839"><![CDATA[For the first time, scientists from the University of Colorado have managed from these remains, to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="21" total="400.0967"><![CDATA[For the first time, scientists from the University of Colorado have succeeded from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable, with the seasons.]]></nbest>
+			<nbest id="22" total="400.115"><![CDATA[For the first time, scientists at the University of Colorado have managed from these remains to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="23" total="400.1564"><![CDATA[For the first time, scientists at the University of Colorado were successful from these remains, to prove that these dinosaurs migrated naturally when conditions became too unfavorable, the seasons.]]></nbest>
+			<nbest id="24" total="400.1724"><![CDATA[For the first time, scientists from the University of Colorado have succeeded from these remains, to prove that these dinosaurs migrated naturally when conditions became too unfavorable to the seasons.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les dinosaures, des animaux adeptes des migrations saisonnières : une étude publiée mercredi 26 octobre par la revue britannique Nature émet cette hypothèse sur la base d'un argumentaire scientifique solide.]]></source>
+		<target lang="en">
+			<nbest id="0" total="376.0326"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="1" total="376.4747"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific arguments.]]></nbest>
+			<nbest id="2" total="376.5154"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this hypothesis on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="3" total="376.6534"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific argument.]]></nbest>
+			<nbest id="4" total="376.7781"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 by the British magazine Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="5" total="376.9575"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this hypothesis on the basis of sound scientific arguments.]]></nbest>
+			<nbest id="6" total="377.1362"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this hypothesis on the basis of sound scientific argument.]]></nbest>
+			<nbest id="7" total="377.2202"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 by the British magazine Nature makes this assumption on the basis of sound scientific arguments.]]></nbest>
+			<nbest id="8" total="377.2609"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 by the British magazine Nature makes this hypothesis on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="9" total="377.3989"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 by the British magazine Nature makes this assumption on the basis of sound scientific argument.]]></nbest>
+			<nbest id="10" total="377.703"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 by the British magazine Nature makes this hypothesis on the basis of sound scientific arguments.]]></nbest>
+			<nbest id="11" total="377.756"><![CDATA[Dinosaurs, animals, followers of seasonal migration to a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="12" total="377.8817"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 by the British magazine Nature makes this hypothesis on the basis of sound scientific argument.]]></nbest>
+			<nbest id="13" total="378.1982"><![CDATA[Dinosaurs, animals, followers of seasonal migration to a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific arguments.]]></nbest>
+			<nbest id="14" total="378.2388"><![CDATA[Dinosaurs, animals, followers of seasonal migration to a study published Wednesday, October 26 the British journal Nature makes this hypothesis on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="15" total="378.3496"><![CDATA[Dinosaurs, animals followers of seasonal migration to a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="16" total="378.3769"><![CDATA[Dinosaurs, animals, followers of seasonal migration to a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific argument.]]></nbest>
+			<nbest id="17" total="378.5016"><![CDATA[Dinosaurs, animals, followers of seasonal migration to a study published Wednesday, October 26 by the British magazine Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="18" total="378.5465"><![CDATA[Dinosaurs, animals adherents seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="19" total="378.5812"><![CDATA[Dinosaurs, animals, followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="20" total="378.6809"><![CDATA[Dinosaurs, animals, followers of seasonal migration to a study published Wednesday, October 26 the British journal Nature makes this hypothesis on the basis of sound scientific arguments.]]></nbest>
+			<nbest id="21" total="378.7698"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature sends this hypothesis on the basis of sound scientific rationale.]]></nbest>
+			<nbest id="22" total="378.7776"><![CDATA[Dinosaurs, animals followers seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this assumption based on a solid scientific rationale.]]></nbest>
+			<nbest id="23" total="378.7917"><![CDATA[Dinosaurs, animals followers of seasonal migration to a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific arguments.]]></nbest>
+			<nbest id="24" total="378.7995"><![CDATA[Dinosaurs, animals, followers of seasonal migrations: a study published Wednesday, October 26 the British journal Nature makes this assumption on the basis of sound scientific rationale.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon l'équipe de chercheurs en géologie de l'université du Colorado à l'origine de l'étude, les dinosaures de la famille des sauropodes, comme le célèbre diplodocus, pratiquaient bel et bien la transhumance voici 150 millions d'années.]]></source>
+		<target lang="en">
+			<nbest id="0" total="448.5456"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, such as the famous diplodocus, practiced transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="1" total="448.8627"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, like the famous diplodocus, practiced transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="2" total="449.017"><![CDATA[According to the research team in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, such as the famous diplodocus, practiced transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="3" total="449.3304"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, such as the famous diplodocus, practiced transhumance indeed here 150 million years ago.]]></nbest>
+			<nbest id="4" total="449.3341"><![CDATA[According to the research team in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, like the famous diplodocus, practiced transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="5" total="449.6425"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, such as the famous diplodocus, practicing transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="6" total="449.6475"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, like the famous diplodocus, practiced transhumance indeed here 150 million years ago.]]></nbest>
+			<nbest id="7" total="449.6703"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, including the famous diplodocus, practiced transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="8" total="449.8018"><![CDATA[According to the research team in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, such as the famous diplodocus, practiced transhumance indeed here 150 million years ago.]]></nbest>
+			<nbest id="9" total="449.9596"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, like the famous diplodocus, practicing transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="10" total="450.1139"><![CDATA[According to the research team in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, such as the famous diplodocus, practicing transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="11" total="450.1188"><![CDATA[According to the research team in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, like the famous diplodocus, practiced transhumance indeed here 150 million years ago.]]></nbest>
+			<nbest id="12" total="450.1416"><![CDATA[According to the research team in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, including the famous diplodocus, practiced transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="13" total="450.4273"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, such as the famous diplodocus, practicing transhumance indeed here 150 million years ago.]]></nbest>
+			<nbest id="14" total="450.431"><![CDATA[According to the research team in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, like the famous diplodocus, practicing transhumance indeed here 150 million years.]]></nbest>
+			<nbest id="15" total="450.455"><![CDATA[According to the team of researchers in geology from the University of Colorado to study the origin of the dinosaurs of the family of sauropods, including the famous diplodocus, practiced transhumance indeed here 150 million years ago.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans un article publié aujourd'hui dans la revue Nature, trois chercheurs américains viennent en effet de montrer qu'à cette époque reculée, certains grands dinosaures herbivores entreprenaient de longues migrations dans la partie occidentale de l'actuelle Amérique du Nord.]]></source>
+		<target lang="en">
+			<nbest id="0" total="429.8932"><![CDATA[In an article published today in the journal Nature, three American researchers come indeed to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="1" total="429.9763"><![CDATA[In an article published today in the journal Nature, three American researchers are indeed to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="2" total="431.0559"><![CDATA[In an article published today in the journal Nature, three American researchers come to show that indeed this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="3" total="431.3867"><![CDATA[In an article published today in the journal Nature, three American researchers come indeed to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the present North America.]]></nbest>
+			<nbest id="4" total="431.4698"><![CDATA[In an article published today in the journal Nature, three American researchers are indeed to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the present North America.]]></nbest>
+			<nbest id="5" total="431.4861"><![CDATA[In an article published today in the journal Nature, three American researchers come to show that in fact this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="6" total="431.811"><![CDATA[In an article published today in the journal Nature, three American researchers are in fact to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="7" total="432.0366"><![CDATA[In an article published today in the journal Nature, three American researchers are indeed show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="8" total="432.5256"><![CDATA[In an article published today in the journal Nature, three American researchers indeed come to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="9" total="432.5494"><![CDATA[In an article published today in the journal Nature, three American researchers come to show that indeed this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the present North America.]]></nbest>
+			<nbest id="10" total="432.8097"><![CDATA[In a paper published today in the journal Nature, three American researchers are indeed to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="11" total="432.9796"><![CDATA[In an article published today in the journal Nature, three American researchers come to show that in fact this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the present North America.]]></nbest>
+			<nbest id="12" total="433.0708"><![CDATA[In an article published today in the journal Nature, three American researchers come indeed show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="13" total="433.3045"><![CDATA[In an article published today in the journal Nature, three American researchers are in fact to show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the present North America.]]></nbest>
+			<nbest id="14" total="433.3695"><![CDATA[In an article published today in the journal Nature, three American researchers came to show that indeed this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the current North America.]]></nbest>
+			<nbest id="15" total="433.5301"><![CDATA[In an article published today in the journal Nature, three American researchers are indeed show that this early period, some large herbivorous dinosaurs undertook long migrations in the western part of the present North America.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La composition des dents de sauropodes révèle qu'ils effectuaient sans doute des migrations saisonnières sur des centaines de kilomètres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="245.484"><![CDATA[The composition of the teeth of sauropods probably shows they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="1" total="246.5361"><![CDATA[The composition of the teeth shows they performed sauropods probably seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="2" total="247.0433"><![CDATA[The composition of the teeth shows they were doing sauropods probably seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="3" total="247.2662"><![CDATA[The composition of teeth of sauropods probably shows they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="4" total="247.7105"><![CDATA[The composition of the teeth of sauropods probably indicates they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="5" total="247.7425"><![CDATA[The composition of the teeth of sauropods probably reveals they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="6" total="248.1224"><![CDATA[The composition of the teeth of sauropods probably indicates that they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="7" total="248.2973"><![CDATA[The composition of the teeth revealed they performed sauropods probably seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="8" total="248.8492"><![CDATA[The composition of the teeth shows they were performing sauropods probably seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="9" total="249.2105"><![CDATA[The composition of the teeth of sauropods probably shows they performed seasonal migrations over hundreds of kilometers.]]></nbest>
+			<nbest id="10" total="249.3165"><![CDATA[The composition of sauropod teeth probably shows they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="11" total="249.4928"><![CDATA[The composition of teeth of sauropods probably indicates they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="12" total="249.5219"><![CDATA[The composition of sauropod teeth reveals they performed probably seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="13" total="249.5247"><![CDATA[The composition of teeth of sauropods probably reveals they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="14" total="249.5367"><![CDATA[The composition of the teeth of sauropods found they performed probably seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="15" total="249.9046"><![CDATA[The composition of teeth of sauropods probably indicates that they performed seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="16" total="249.9813"><![CDATA[The composition of the teeth of sauropods reveals they performed probably seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="17" total="250.2626"><![CDATA[The composition of the teeth shows they performed sauropods probably seasonal migrations over hundreds of kilometers.]]></nbest>
+			<nbest id="18" total="250.3196"><![CDATA[The composition of the teeth of sauropods probably shows they performed on seasonal migrations of hundreds of kilometers.]]></nbest>
+			<nbest id="19" total="250.3552"><![CDATA[The composition of the teeth showed they performed sauropods probably seasonal migrations of hundreds of kilometers.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

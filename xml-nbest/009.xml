@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs de l'ESA ont découvert que la comète Hartley 2, passée récemment près de la Terre, comportait une eau de composition chimique semblable à celle des océans terrestres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="327.7686"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="1" total="328.7579"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="2" total="329.7097"><![CDATA[Researchers found that ESA's comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="3" total="330.699"><![CDATA[Researchers found that ESA's comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="4" total="331.1647"><![CDATA[ESA researchers have discovered that comet Hartley 2, passed close to Earth recently, included a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="5" total="331.5128"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to Earth, featured water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="6" total="331.5257"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to the Earth, included a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="7" total="331.7331"><![CDATA[ESA researchers discovered that comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="8" total="332.154"><![CDATA[ESA researchers have discovered that comet Hartley 2, passed close to Earth recently, included a water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="9" total="332.1879"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to Earth, included a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="10" total="332.2595"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to Earth, featured a water chemistry similar to that of Earth's oceans.]]></nbest>
+			<nbest id="11" total="332.5021"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to Earth, featured water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="12" total="332.515"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to the Earth, included a water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="13" total="332.5225"><![CDATA[Researchers found that the ESA comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="14" total="332.7224"><![CDATA[ESA researchers discovered that comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="15" total="332.8621"><![CDATA[ESA researchers have discovered that the comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="16" total="333.1122"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to the Earth, included water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="17" total="333.1772"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed close to Earth, included a water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="18" total="333.1989"><![CDATA[ESA researchers found that comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="19" total="333.2546"><![CDATA[Researchers found that the ESA's comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="20" total="333.3205"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently passed near Earth, included a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="21" total="333.4539"><![CDATA[Researchers found that ESA's comet Hartley 2, recently passed close to Earth, featured water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="22" total="333.5117"><![CDATA[Researchers found that the ESA comet Hartley 2, recently passed close to Earth, featured a water chemical composition similar to that of Earth's oceans.]]></nbest>
+			<nbest id="23" total="333.5527"><![CDATA[ESA researchers have discovered that comet Hartley 2, recently moved close to the Earth, included a water chemical composition similar to Earth's oceans.]]></nbest>
+			<nbest id="24" total="333.5672"><![CDATA[ESA researchers have discovered that comet Hartley 2, passed near Earth recently, included a water chemical composition similar to Earth's oceans.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La comète Hartley 2, détectée par le télescope spatial Herschel, contient de l'eau qui ressemble plus à celle de nos océans que celle des autres comètes étudiées auparavant.]]></source>
+		<target lang="en">
+			<nbest id="0" total="322.6319"><![CDATA[Comet Hartley 2, detected by the Herschel space telescope contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="1" total="323.4695"><![CDATA[Comet Hartley 2, detected by the Herschel space telescope, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="2" total="323.494"><![CDATA[Comet Hartley 2, detected by the Herschel Space Observatory, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="3" total="323.8348"><![CDATA[Comet Hartley 2, detected by the Herschel Space Observatory, which contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="4" total="324.0786"><![CDATA[Comet Hartley 2, as detected by the Herschel space telescope, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="5" total="324.1031"><![CDATA[Comet Hartley 2, as detected by the Herschel Space Observatory, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="6" total="324.1634"><![CDATA[Comet Hartley 2 detected by the Herschel space telescope contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="7" total="324.3203"><![CDATA[Comet Hartley 2 is detected by the Herschel space telescope contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="8" total="324.3637"><![CDATA[Comet Hartley 2, detected by the Herschel space telescope, which contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="9" total="324.4439"><![CDATA[Comet Hartley 2, as detected by the Herschel Space Observatory, which contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="10" total="324.7585"><![CDATA[Comet Hartley 2, as detected by the Herschel space telescope contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="11" total="324.7762"><![CDATA[Comet Hartley 2 detected by the Herschel space telescope, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="12" total="324.8007"><![CDATA[Comet Hartley 2 detected by the Herschel Space Observatory, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="13" total="324.9728"><![CDATA[Comet Hartley 2, as detected by the Herschel space telescope, which contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="14" total="324.9735"><![CDATA[Comet Hartley 2, detected by the Herschel space telescope contains water more like that of our oceans than other comets studied before.]]></nbest>
+			<nbest id="15" total="325.1415"><![CDATA[Comet Hartley 2 detected by the Herschel Space Observatory, which contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="16" total="325.2146"><![CDATA[Comet Hartley 2 is detected by the Herschel Space Observatory, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="17" total="325.4593"><![CDATA[Comet Hartley 2 is detected by the Herschel space telescope, contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="18" total="325.5554"><![CDATA[Comet Hartley 2 is detected by the Herschel Space Observatory, which contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="19" total="325.6704"><![CDATA[Comet Hartley 2 detected by the Herschel space telescope, which contains water more like that of our oceans than other comets previously studied.]]></nbest>
+			<nbest id="20" total="325.8111"><![CDATA[Comet Hartley 2, detected by the Herschel space telescope, contains water more like that of our oceans than other comets studied before.]]></nbest>
+			<nbest id="21" total="325.824"><![CDATA[Comet Hartley 2, detected by the Herschel space telescope contains water more like that of our oceans as other comets previously studied.]]></nbest>
+			<nbest id="22" total="325.8355"><![CDATA[Comet Hartley 2, detected by the Herschel Space Observatory, contains water more like that of our oceans than other comets studied before.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Pour la première fois, des astrophysiciens du téléscope spatial Herschel de l'ESA (Agence Spatiale Européenne) ont en effet trouvé de l'eau sur une comète, Hartley 2.]]></source>
+		<target lang="en">
+			<nbest id="0" total="290.4786"><![CDATA[For the first time, astronomers Herschel Space Telescope of the ESA (European Space Agency) have indeed found water on a comet Hartley 2.]]></nbest>
+			<nbest id="1" total="291.0843"><![CDATA[For the first time, astrophysicists from the Herschel Space Telescope of the ESA (European Space Agency) have indeed found water on a comet Hartley 2.]]></nbest>
+			<nbest id="2" total="291.3352"><![CDATA[For the first time, astrophysicists from the Herschel space telescope of ESA (European Space Agency) have indeed found water on a comet Hartley 2.]]></nbest>
+			<nbest id="3" total="291.8301"><![CDATA[For the first time, astronomers Herschel Space Telescope ESA (European Space Agency) have indeed found water on a comet Hartley 2.]]></nbest>
+			<nbest id="4" total="292.4358"><![CDATA[For the first time, astrophysicists from the Herschel Space Telescope ESA (European Space Agency) have indeed found water on a comet Hartley 2.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une équipe internationale, incluant quatre chercheurs de l'Observatoire de Paris et du CNRS, annonce avoir découvert la première comète, 103P / Hartley 2, qui renferme une eau similaire à celle des océans terrestres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="394.47"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces first discovered Comet 103P / Hartley 2, which contains a water similar to that of Earth's oceans.]]></nbest>
+			<nbest id="1" total="395.1777"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces first discovered comet 103P / Hartley 2, which contains a water similar to that of Earth's oceans.]]></nbest>
+			<nbest id="2" total="396.4075"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces first discovered Comet 103P / Hartley 2, which contains a water similar to Earth's oceans.]]></nbest>
+			<nbest id="3" total="396.4288"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces first discovered Comet 103P / Hartley 2, which contains water similar to that of Earth's oceans.]]></nbest>
+			<nbest id="4" total="397.1152"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces first discovered comet 103P / Hartley 2, which contains a water similar to Earth's oceans.]]></nbest>
+			<nbest id="5" total="397.1366"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces first discovered comet 103P / Hartley 2, which contains water similar to that of Earth's oceans.]]></nbest>
+			<nbest id="6" total="397.3334"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces first discovered Comet 103P / Hartley 2, which includes a water similar to that of Earth's oceans.]]></nbest>
+			<nbest id="7" total="397.407"><![CDATA[An international team, including four researchers from Paris Observatory and CNRS, announces that discovered the first comet 103P / Hartley 2, which contains a water similar to that of Earth's oceans.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Leur étude publiée mercredi se penche sur la découverte d'éléments associés à l'eau sur la comète Hartley 2 qui nous a visités à l'automne 2010.]]></source>
+		<target lang="en">
+			<nbest id="0" total="293.011"><![CDATA[Their study published Wednesday focuses on the discovery of elements associated with water on the comet Hartley 2, which we visited in autumn 2010.]]></nbest>
+			<nbest id="1" total="294.4259"><![CDATA[Their study published Wednesday focuses on the discovery of elements associated with the water on the comet Hartley 2, which we visited in autumn 2010.]]></nbest>
+			<nbest id="2" total="295.6236"><![CDATA[Their study published Wednesday focuses on the discovery of elements associated with water on the comet Hartley 2, which we visited in fall 2010.]]></nbest>
+			<nbest id="3" total="295.7891"><![CDATA[Their study published Wednesday focuses on the discovery of elements associated with water on the comet Hartley 2, which we visited in the fall of 2010.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs américains viennent de faire une découverte scientifique surprenante : certaines comètes seraient composés d’eau et pourraient être à l’origine des océans terrestres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="302.1285"><![CDATA[U.S. researchers have just made a startling scientific discovery: some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="1" total="302.2971"><![CDATA[U.S. researchers have just made a startling scientific discovery: some comets are composed of water and could be the origin of Earth's oceans.]]></nbest>
+			<nbest id="2" total="303.443"><![CDATA[U.S. researchers have just made a surprising scientific discovery: some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="3" total="303.5681"><![CDATA[U.S. researchers have just made a scientific discovery surprising some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="4" total="303.6115"><![CDATA[U.S. researchers have just made a surprising scientific discovery: some comets are composed of water and could be the origin of Earth's oceans.]]></nbest>
+			<nbest id="5" total="303.7366"><![CDATA[U.S. researchers have just made a scientific discovery surprising some comets are composed of water and could be the origin of Earth's oceans.]]></nbest>
+			<nbest id="6" total="304.0626"><![CDATA[U.S. researchers have just made a startling scientific discovery: some comets are composed of water and may be the origin of Earth's oceans.]]></nbest>
+			<nbest id="7" total="304.4369"><![CDATA[U.S. researchers have just made a scientific discovery surprising: some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="8" total="304.591"><![CDATA[U.S. researchers have just made a surprising discovery science: some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="9" total="304.6054"><![CDATA[U.S. researchers have just made a scientific discovery surprising: some comets are composed of water and could be the origin of Earth's oceans.]]></nbest>
+			<nbest id="10" total="304.7596"><![CDATA[U.S. researchers have just made a surprising discovery science: some comets are composed of water and could be the origin of Earth's oceans.]]></nbest>
+			<nbest id="11" total="304.8112"><![CDATA[U.S. researchers have just made a startling scientific discovery: Some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="12" total="304.9797"><![CDATA[U.S. researchers have just made a startling scientific discovery: Some comets are composed of water and could be the origin of Earth's oceans.]]></nbest>
+			<nbest id="13" total="305.377"><![CDATA[U.S. researchers have just made a surprising scientific discovery: some comets are composed of water and may be the origin of Earth's oceans.]]></nbest>
+			<nbest id="14" total="305.5021"><![CDATA[U.S. researchers have just made a scientific discovery surprising some comets are composed of water and may be the origin of Earth's oceans.]]></nbest>
+			<nbest id="15" total="305.6823"><![CDATA[U.S. researchers have just made a startling scientific discovery: some comets are composed of water and may be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="16" total="305.7859"><![CDATA[U.S. researchers have just made a startling discovery science: some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+			<nbest id="17" total="305.9544"><![CDATA[U.S. researchers have just made a startling discovery science: some comets are composed of water and could be the origin of Earth's oceans.]]></nbest>
+			<nbest id="18" total="306.1256"><![CDATA[U.S. researchers have just made a surprising scientific discovery: Some comets are composed of water and could be at the origin of Earth's oceans.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une première comète qui renferme une eau similaire à celle des océans terrestres a été identifiée grâce au télescope Herschel de l'Agence Spatiale Européenne (ESA).]]></source>
+		<target lang="en">
+			<nbest id="0" total="299.6142"><![CDATA[First comet which contains a water similar to that of Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="1" total="300.509"><![CDATA[First comet which contains a water similar to that of Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="2" total="300.7979"><![CDATA[First comet which contains a water similar to Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="3" total="300.8041"><![CDATA[First comet that contains a water similar to that of Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="4" total="300.8838"><![CDATA[First comet which contains water similar to that of Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="5" total="301.1668"><![CDATA[First comet which contains a water similar to that of Earth's oceans has been identified through the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="6" total="301.2411"><![CDATA[First comet that contains water similar to that of Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="7" total="301.6928"><![CDATA[First comet which contains a water similar to Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="8" total="301.699"><![CDATA[First comet that contains a water similar to that of Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="9" total="301.7786"><![CDATA[First comet which contains water similar to that of Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="10" total="301.9879"><![CDATA[First comet that contains a water similar to Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="11" total="302.0145"><![CDATA[The first comet which contains a water similar to Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="12" total="302.0675"><![CDATA[First comet which contains water similar to Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="13" total="302.1359"><![CDATA[First comet that contains water similar to that of Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="14" total="302.2367"><![CDATA[A first comet which contains a water similar to Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="15" total="302.3506"><![CDATA[First comet which contains a water similar to Earth's oceans has been identified through the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="16" total="302.3568"><![CDATA[First comet that contains a water similar to that of Earth's oceans has been identified through the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="17" total="302.3944"><![CDATA[First comet which contains a water similar to that of Earth's oceans has been identified thanks to Herschel of the European Space Agency (ESA).]]></nbest>
+			<nbest id="18" total="302.4248"><![CDATA[First comet that contains water similar to Earth's oceans has been identified thanks to Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="19" total="302.4364"><![CDATA[First comet which contains water similar to that of Earth's oceans has been identified through the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="20" total="302.7937"><![CDATA[First comet that contains water similar to that of Earth's oceans has been identified through the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="21" total="302.8827"><![CDATA[First comet that contains a water similar to Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="22" total="302.9623"><![CDATA[First comet which contains water similar to Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+			<nbest id="23" total="302.9908"><![CDATA[First comet which contains a water similar to that of Earth's oceans has been identified thanks to Herschel the European Space Agency (ESA).]]></nbest>
+			<nbest id="24" total="303.3197"><![CDATA[First comet that contains water similar to Earth's oceans has been identified thanks to the Herschel Space Agency (ESA).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[De nouvelles mesures du télescope spatial Herschel de l'ESA montre que la comète Hartley 2, qui vient de la lointaine ceinture de Kuiper, contient de l'eau ayant la même signature chimique que celle qu'on trouve dans l'eau des océans de la terre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="396.1946"><![CDATA[New measures of Herschel Space Observatory of ESA shows that the comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="1" total="396.3782"><![CDATA[New measures of Herschel space telescope of ESA shows that the comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="2" total="396.4358"><![CDATA[New measures of Herschel Space Observatory of ESA shows that comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="3" total="396.6194"><![CDATA[New measures of Herschel space telescope of ESA shows that comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="4" total="397.1269"><![CDATA[New measures of Herschel Space ESA shows that the comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="5" total="397.3628"><![CDATA[New measures of Herschel Space Observatory of ESA shows that the comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as found in the oceans of the earth.]]></nbest>
+			<nbest id="6" total="397.3681"><![CDATA[New measures of Herschel Space ESA shows that comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="7" total="397.4776"><![CDATA[New measurements of the Herschel Space Observatory shows that ESA's comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="8" total="397.5464"><![CDATA[New measures of Herschel space telescope of ESA shows that the comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as found in the oceans of the earth.]]></nbest>
+			<nbest id="9" total="397.604"><![CDATA[New measures of Herschel Space Observatory of ESA shows that comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as found in the oceans of the earth.]]></nbest>
+			<nbest id="10" total="397.6207"><![CDATA[New measures of Herschel space telescope shows that ESA's comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+			<nbest id="11" total="397.7876"><![CDATA[New measures of Herschel space telescope of ESA shows that comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as found in the oceans of the earth.]]></nbest>
+			<nbest id="12" total="398.0358"><![CDATA[New measurements of the Herschel Space Observatory shows that the ESA comet Hartley 2, which comes from the distant Kuiper Belt, contains water with the same chemical signature as that found in the oceans of the earth.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des astrophysiciens de l'ESA (Agence spatiale européenne) ont trouvé pour la première fois de l'eau d'une composition chimique similaire à celle de la Terre sur une comète, Hartley 2, passée récemment au large de notre planète.]]></source>
+		<target lang="en">
+			<nbest id="0" total="382.976"><![CDATA[Astrophysicists ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off the planet.]]></nbest>
+			<nbest id="1" total="382.998"><![CDATA[Astrophysicists from ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off the planet.]]></nbest>
+			<nbest id="2" total="383.6155"><![CDATA[Astrophysicists ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off planet.]]></nbest>
+			<nbest id="3" total="383.6375"><![CDATA[Astrophysicists from ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off planet.]]></nbest>
+			<nbest id="4" total="383.9568"><![CDATA[Astrophysicists ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off of our planet.]]></nbest>
+			<nbest id="5" total="383.9788"><![CDATA[Astrophysicists from ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off of our planet.]]></nbest>
+			<nbest id="6" total="384.0454"><![CDATA[Astrophysicists from the ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off the planet.]]></nbest>
+			<nbest id="7" total="384.5466"><![CDATA[Astrophysicists ESA (European Space Agency) have found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off the planet.]]></nbest>
+			<nbest id="8" total="384.5686"><![CDATA[Astrophysicists from ESA (European Space Agency) have found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off the planet.]]></nbest>
+			<nbest id="9" total="384.6484"><![CDATA[Astrophysicists ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off our planet.]]></nbest>
+			<nbest id="10" total="384.6704"><![CDATA[Astrophysicists from ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off our planet.]]></nbest>
+			<nbest id="11" total="384.6849"><![CDATA[Astrophysicists from the ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off planet.]]></nbest>
+			<nbest id="12" total="385.0262"><![CDATA[Astrophysicists from the ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off of our planet.]]></nbest>
+			<nbest id="13" total="385.1573"><![CDATA[Astrophysicists of the ESA (European Space Agency) found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off the planet.]]></nbest>
+			<nbest id="14" total="385.1861"><![CDATA[Astrophysicists ESA (European Space Agency) have found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off planet.]]></nbest>
+			<nbest id="15" total="385.2081"><![CDATA[Astrophysicists from ESA (European Space Agency) have found for the first time water from a chemical composition similar to the Earth on a comet Hartley 2, recently moved off planet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[En effet, les scientifiques ont constaté que la comète 103P / Hartley 2 a de l'eau ayant des propriétés similaires à l'eau sur Terre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="245.7318"><![CDATA[Indeed, scientists have found that the comet 103P / Hartley 2 has water has properties similar to water on Earth.]]></nbest>
+			<nbest id="1" total="246.8933"><![CDATA[Indeed, scientists have found that the comet 103P / Hartley 2 has water with properties similar to water on Earth.]]></nbest>
+			<nbest id="2" total="247.3383"><![CDATA[In fact, scientists have found that the comet 103P / Hartley 2 has water with properties similar to water on Earth.]]></nbest>
+			<nbest id="3" total="247.7071"><![CDATA[Indeed, scientists have found that the comet 103P / Hartley 2 has water having properties similar to water on Earth.]]></nbest>
+			<nbest id="4" total="248.1521"><![CDATA[In fact, scientists have found that the comet 103P / Hartley 2 has water having properties similar to water on Earth.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[De nouvelles mesures établies par le satellite européen Herschel indiquent en effet que l’eau trouvée dans la mince atmosphère de cette comète présente la même proportion d’eau lourde (deutérium) que les océans de notre belle planète.]]></source>
+		<target lang="en">
+			<nbest id="0" total="424.5819"><![CDATA[New measures established by the European Herschel satellite indicate that the water found in the thin atmosphere of the comet has the same proportion of heavy water (deuterium) as the oceans of our beautiful planet.]]></nbest>
+			<nbest id="1" total="424.9755"><![CDATA[New measures established by the European Herschel satellite indicate that the water found in the thin atmosphere of this comet has the same proportion of heavy water (deuterium) as the oceans of our beautiful planet.]]></nbest>
+			<nbest id="2" total="426.1659"><![CDATA[New measures developed by the European Herschel satellite indicate that the water found in the thin atmosphere of the comet has the same proportion of heavy water (deuterium) as the oceans of our beautiful planet.]]></nbest>
+			<nbest id="3" total="426.185"><![CDATA[New measures established by the European Herschel satellite indicate that the water found in the thin atmosphere of the comet has the same proportion of heavy water (deuterium) as the oceans of this beautiful planet.]]></nbest>
+			<nbest id="4" total="426.3972"><![CDATA[New measures introduced by the European Herschel satellite indicate that the water found in the thin atmosphere of the comet has the same proportion of heavy water (deuterium) as the oceans of our beautiful planet.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Le fondateur d'Apple s'est éteint mercredi, à 56 ans, des suites d'un cancer du pancréas.]]></source>
+		<target lang="en">
+			<nbest id="0" total="175.4119"><![CDATA[Apple founder died Wednesday at age 56, as a result of pancreatic cancer.]]></nbest>
+			<nbest id="1" total="176.7965"><![CDATA[The Apple founder died Wednesday at age 56, as a result of pancreatic cancer.]]></nbest>
+			<nbest id="2" total="178.0625"><![CDATA[Apple founder died Wednesday at age 56, as the result of pancreatic cancer.]]></nbest>
+			<nbest id="3" total="179.4471"><![CDATA[The Apple founder died Wednesday at age 56, as the result of pancreatic cancer.]]></nbest>
+			<nbest id="4" total="180.2305"><![CDATA[Apple founder died Wednesday at age 56, as a result of cancer of the pancreas.]]></nbest>
+			<nbest id="5" total="180.9962"><![CDATA[Apple founder died Wednesday at age 56, as the result of cancer of the pancreas.]]></nbest>
+			<nbest id="6" total="181.425"><![CDATA[Apple founder died Wednesday, at age 56, as a result of pancreatic cancer.]]></nbest>
+			<nbest id="7" total="181.615"><![CDATA[The Apple founder died Wednesday at age 56, as a result of cancer of the pancreas.]]></nbest>
+			<nbest id="8" total="182.3808"><![CDATA[The Apple founder died Wednesday at age 56, as the result of cancer of the pancreas.]]></nbest>
+			<nbest id="9" total="182.8096"><![CDATA[The Apple founder died Wednesday, at age 56, as a result of pancreatic cancer.]]></nbest>
+			<nbest id="10" total="184.0756"><![CDATA[Apple founder died Wednesday, at age 56, as the result of pancreatic cancer.]]></nbest>
+			<nbest id="11" total="185.4602"><![CDATA[The Apple founder died Wednesday, at age 56, as the result of pancreatic cancer.]]></nbest>
+			<nbest id="12" total="185.7446"><![CDATA[Apple founder died Wednesday at 56, as the result of pancreatic cancer.]]></nbest>
+			<nbest id="13" total="186.0931"><![CDATA[Apple founder died Wednesday at age 56, as a result of a cancer of the pancreas.]]></nbest>
+			<nbest id="14" total="186.2436"><![CDATA[Apple founder died Wednesday, at age 56, as a result of cancer of the pancreas.]]></nbest>
+			<nbest id="15" total="187.0094"><![CDATA[Apple founder died Wednesday, at age 56, as the result of cancer of the pancreas.]]></nbest>
+			<nbest id="16" total="187.4777"><![CDATA[The Apple founder died Wednesday at age 56, as a result of a cancer of the pancreas.]]></nbest>
+			<nbest id="17" total="187.6281"><![CDATA[The Apple founder died Wednesday, at age 56, as a result of cancer of the pancreas.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le co-fondateur d'Apple Steve Jobs, "un des plus grands inventeurs américains" selon le président Barack Obama, est décédé mercredi à 56 ans, une nouvelle qui a suscité une avalanche de réactions à la mesure du personnage, devenu le symbole des succès de la firme à la pomme.]]></source>
+		<target lang="en">
+			<nbest id="0" total="499.596"><![CDATA[The co-founder of Apple Steve Jobs, "one of the greatest American inventors" according to President Barack Obama, died Wednesday at age 56, a story that has generated an avalanche of reactions to the measurement of character, which became the symbol of the success of the firm at the apple.]]></nbest>
+			<nbest id="1" total="499.6219"><![CDATA[The co-founder of Apple Steve Jobs, "one of the greatest American inventors" according to President Barack Obama, died Wednesday at age 56, a story that has generated an avalanche of reactions to the measurement of character, which became a symbol of the success of the firm at the apple.]]></nbest>
+			<nbest id="2" total="500.5509"><![CDATA[The co-founder of Apple Steve Jobs, "one of the greatest American inventors" according to President Barack Obama, died Wednesday at age 56, news that sparked an avalanche of reactions to the measurement of character, which became the symbol of the success of the firm at the apple.]]></nbest>
+			<nbest id="3" total="500.5767"><![CDATA[The co-founder of Apple Steve Jobs, "one of the greatest American inventors" according to President Barack Obama, died Wednesday at age 56, news that sparked an avalanche of reactions to the measurement of character, which became a symbol of the success of the firm at the apple.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Apple a annoncé le 5 octobre la mort de Steve Jobs, âgé de 56 ans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="136.2379"><![CDATA[Apple announced on October 5 death of Steve Jobs, aged 56.]]></nbest>
+			<nbest id="1" total="136.9702"><![CDATA[Apple announced October 5 death of Steve Jobs, aged 56.]]></nbest>
+			<nbest id="2" total="137.0122"><![CDATA[Apple announced on October 5 death of Steve Jobs, 56 years old.]]></nbest>
+			<nbest id="3" total="137.2468"><![CDATA[Apple announced Oct. 5 death of Steve Jobs, aged 56.]]></nbest>
+			<nbest id="4" total="137.7445"><![CDATA[Apple announced October 5 death of Steve Jobs, 56 years old.]]></nbest>
+			<nbest id="5" total="138.021"><![CDATA[Apple announced Oct. 5 death of Steve Jobs, 56 years old.]]></nbest>
+			<nbest id="6" total="139.2575"><![CDATA[Apple announced the October 5 death of Steve Jobs, aged 56.]]></nbest>
+			<nbest id="7" total="139.8607"><![CDATA[Apple announced on Oct. 5 death of Steve Jobs, aged 56.]]></nbest>
+			<nbest id="8" total="139.9466"><![CDATA[Apple has announced the October 5 death of Steve Jobs, aged 56.]]></nbest>
+			<nbest id="9" total="140.0132"><![CDATA[Apple announced on October 5 death of Steve Jobs, aged 56 years.]]></nbest>
+			<nbest id="10" total="140.6349"><![CDATA[Apple announced on Oct. 5 death of Steve Jobs, 56 years old.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Aujourd'hui, nous avons appris la mort d'un grand homme, Steve Jobs qu'on aime ou pas ce qu'il a fait avec Apple et Pixar.]]></source>
+		<target lang="en">
+			<nbest id="0" total="235.0827"><![CDATA[Today we learned of the death of a great man, Steve Jobs or not we like what he did with Apple and Pixar.]]></nbest>
+			<nbest id="1" total="236.4996"><![CDATA[Today we learned of the death of a great man, Steve Jobs likes it or not what he did with Apple and Pixar.]]></nbest>
+			<nbest id="2" total="236.7003"><![CDATA[Today we learned of the death of a great man, Steve Jobs or not we like it did with Apple and Pixar.]]></nbest>
+			<nbest id="3" total="236.7335"><![CDATA[Today we learned of the death of a great man, Steve Jobs likes it or not he has done with Apple and Pixar.]]></nbest>
+			<nbest id="4" total="236.9331"><![CDATA[Today we learned of the death of a great man, Steve Jobs likes it or not he did with Apple and Pixar.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Steve Jobs, le co-fondateur d'Apple, est mort à l'âge de 56 ans des suites d'un cancer du pancréas, le mercredi 5 octobre 2011.]]></source>
+		<target lang="en">
+			<nbest id="0" total="206.4555"><![CDATA[Steve Jobs, co-founder of Apple, has died at the age of 56 years died of cancer of the pancreas, Wednesday, Oct. 5, 2011.]]></nbest>
+			<nbest id="1" total="207.2136"><![CDATA[Steve Jobs, co-founder of Apple, has died at the age of 56 years died of cancer of the pancreas, Wednesday, October 5, 2011.]]></nbest>
+			<nbest id="2" total="207.8558"><![CDATA[Steve Jobs, the co-founder of Apple, has died at the age of 56 years died of cancer of the pancreas, Wednesday, Oct. 5, 2011.]]></nbest>
+			<nbest id="3" total="208.6139"><![CDATA[Steve Jobs, the co-founder of Apple, has died at the age of 56 years died of cancer of the pancreas, Wednesday, October 5, 2011.]]></nbest>
+			<nbest id="4" total="209.4353"><![CDATA[Steve Jobs, co-founder of Apple, has died at the age of 56 years died of cancer of the pancreas, Wednesday, 5 October 2011.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Steve Jobs, l'emblématique patron d'Apple, qui avait inventé, entre autres, l'iPod et l'iPhone, est mort mercredi en Californie des suites d'un cancer du pancréas à l'âge de 56 ans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="324.0188"><![CDATA[Steve Jobs, the iconic Apple boss, who invented, among others, the iPod and iPhone, died Wednesday in California as a result of pancreatic cancer at the age of 56 years.]]></nbest>
+			<nbest id="1" total="324.0993"><![CDATA[Steve Jobs, the iconic Apple boss, who invented, among other things, the iPod and iPhone, died Wednesday in California as a result of pancreatic cancer at the age of 56 years.]]></nbest>
+			<nbest id="2" total="325.5088"><![CDATA[Steve Jobs, the iconic Apple boss, who invented, among others, the iPod and iPhone, died Wednesday in California as a result of pancreatic cancer at the age of 56.]]></nbest>
+			<nbest id="3" total="325.5893"><![CDATA[Steve Jobs, the iconic Apple boss, who invented, among other things, the iPod and iPhone, died Wednesday in California as a result of pancreatic cancer at the age of 56.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le cofondateur d'Apple nous a quitté mercredi 5 octobre à l'âge de 56 ans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="140.0636"><![CDATA[Apple co-founder passed away Wednesday, October 5 at the age of 56 years.]]></nbest>
+			<nbest id="1" total="141.5536"><![CDATA[Apple co-founder passed away Wednesday, October 5 at the age of 56.]]></nbest>
+			<nbest id="2" total="142.7809"><![CDATA[The co-founder of Apple passed away Wednesday, October 5 at the age of 56 years.]]></nbest>
+			<nbest id="3" total="142.9917"><![CDATA[Apple co-founder passed away Wednesday, Oct. 5 at the age of 56 years.]]></nbest>
+			<nbest id="4" total="144.2654"><![CDATA[Apple co-founder passed away Wednesday, October 5 at age 56.]]></nbest>
+			<nbest id="5" total="144.6238"><![CDATA[Apple co-founder passed away Wednesday, October 5th at the age of 56 years.]]></nbest>
+			<nbest id="6" total="145.5057"><![CDATA[Apple co-founder passed away Wednesday, October 5 at the age of 56 years old.]]></nbest>
+			<nbest id="7" total="145.709"><![CDATA[The co-founder of Apple passed away Wednesday, Oct. 5 at the age of 56 years.]]></nbest>
+			<nbest id="8" total="146.1035"><![CDATA[Apple co-founder passed away Wednesday, Oct. 5 at age 56.]]></nbest>
+			<nbest id="9" total="146.3251"><![CDATA[The co-founder of Apple passed away Wednesday, October 5 at the age of 56.]]></nbest>
+			<nbest id="10" total="146.536"><![CDATA[Apple co-founder passed away Wednesday, Oct. 5 at the age of 56.]]></nbest>
+			<nbest id="11" total="146.9826"><![CDATA[The co-founder of Apple passed away Wednesday, October 5 at age 56.]]></nbest>
+			<nbest id="12" total="147.1028"><![CDATA[The co-founder of Apple has passed away Wednesday, October 5 at the age of 56 years.]]></nbest>
+			<nbest id="13" total="147.3411"><![CDATA[The co-founder of Apple passed away Wednesday, October 5th at the age of 56 years.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Steve Jobs, le co-fondateur et ancien PDG d'Apple nous a quittés ce mercredi 5 octobre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="153.3678"><![CDATA[Steve Jobs, co-founder and former CEO of Apple passed away on Wednesday, October 5.]]></nbest>
+			<nbest id="1" total="153.5918"><![CDATA[Steve Jobs, co-founder and former CEO of Apple passed away Wednesday, October 5.]]></nbest>
+			<nbest id="2" total="154.416"><![CDATA[Steve Jobs, co-founder and former CEO of Apple passed away Wednesday October 5.]]></nbest>
+			<nbest id="3" total="154.5585"><![CDATA[Steve Jobs, co-founder and former CEO of Apple passed away on Wednesday October 5.]]></nbest>
+			<nbest id="4" total="155.4785"><![CDATA[Steve Jobs, co-founder and former CEO of Apple has passed away on Wednesday, October 5.]]></nbest>
+			<nbest id="5" total="155.5424"><![CDATA[Steve Jobs, co-founder and former CEO of Apple passed away on Wednesday 5 October.]]></nbest>
+			<nbest id="6" total="155.5692"><![CDATA[Steve Jobs, the co-founder and former CEO of Apple passed away on Wednesday, October 5.]]></nbest>
+			<nbest id="7" total="155.7931"><![CDATA[Steve Jobs, the co-founder and former CEO of Apple passed away Wednesday, October 5.]]></nbest>
+			<nbest id="8" total="156.3575"><![CDATA[Steve Jobs, co-founder and former CEO of Apple passed away on Wednesday October 5th.]]></nbest>
+			<nbest id="9" total="156.6173"><![CDATA[Steve Jobs, the co-founder and former CEO of Apple passed away Wednesday October 5.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est via un bref communiqué du conseil d'administration d'Apple que le monde entier a appris hier soir le décès de Steve Jobs, à l'âge de 56 ans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="281.2727"><![CDATA[It is through a brief statement of the Board of Directors of Apple as the world learned last night of the death of Steve Jobs at the age of 56.]]></nbest>
+			<nbest id="1" total="281.7984"><![CDATA[It is through a brief statement of the board of Apple as the world learned last night of the death of Steve Jobs at the age of 56.]]></nbest>
+			<nbest id="2" total="281.938"><![CDATA[It is through a brief statement of the board of directors of Apple as the world learned last night of the death of Steve Jobs at the age of 56.]]></nbest>
+			<nbest id="3" total="282.0993"><![CDATA[It is through a brief statement of the Board of Directors of Apple as the world learned last night of the death of Steve Jobs, at the age of 56 years.]]></nbest>
+			<nbest id="4" total="282.2932"><![CDATA[It is through a brief statement of the Board of Directors of Apple as the world learned last night of the death of Steve Jobs at the age of 56 years.]]></nbest>
+			<nbest id="5" total="282.5085"><![CDATA[It is through a brief statement of the Board of Directors of Apple as the world learned yesterday of the death of Steve Jobs at the age of 56.]]></nbest>
+			<nbest id="6" total="282.6249"><![CDATA[It is through a brief statement of the board of Apple as the world learned last night of the death of Steve Jobs, at the age of 56 years.]]></nbest>
+			<nbest id="7" total="282.7646"><![CDATA[It is through a brief statement of the board of directors of Apple as the world learned last night of the death of Steve Jobs, at the age of 56 years.]]></nbest>
+			<nbest id="8" total="282.8189"><![CDATA[It is through a brief statement of the board of Apple as the world learned last night of the death of Steve Jobs at the age of 56 years.]]></nbest>
+			<nbest id="9" total="282.9585"><![CDATA[It is through a brief statement of the board of directors of Apple as the world learned last night of the death of Steve Jobs at the age of 56 years.]]></nbest>
+			<nbest id="10" total="283.0314"><![CDATA[It is through a brief statement of the Board of Apple as the world learned last night of the death of Steve Jobs at the age of 56.]]></nbest>
+			<nbest id="11" total="283.0342"><![CDATA[It is through a brief statement of the board of Apple as the world learned yesterday of the death of Steve Jobs at the age of 56.]]></nbest>
+			<nbest id="12" total="283.1738"><![CDATA[It is through a brief statement of the board of directors of Apple as the world learned yesterday of the death of Steve Jobs at the age of 56.]]></nbest>
+			<nbest id="13" total="283.3351"><![CDATA[It is through a brief statement of the Board of Directors of Apple as the world learned yesterday of the death of Steve Jobs, at the age of 56 years.]]></nbest>
+			<nbest id="14" total="283.529"><![CDATA[It is through a brief statement of the Board of Directors of Apple as the world learned yesterday of the death of Steve Jobs at the age of 56 years.]]></nbest>
+			<nbest id="15" total="283.8579"><![CDATA[It is through a brief statement of the Board of Apple as the world learned last night of the death of Steve Jobs, at the age of 56 years.]]></nbest>
+			<nbest id="16" total="283.8607"><![CDATA[It is through a brief statement of the board of Apple as the world learned yesterday of the death of Steve Jobs, at the age of 56 years.]]></nbest>
+			<nbest id="17" total="284.0004"><![CDATA[It is through a brief statement of the board of directors of Apple as the world learned yesterday of the death of Steve Jobs, at the age of 56 years.]]></nbest>
+			<nbest id="18" total="284.0519"><![CDATA[It is through a brief statement of the Board of Apple as the world learned last night of the death of Steve Jobs at the age of 56 years.]]></nbest>
+			<nbest id="19" total="284.0547"><![CDATA[It is through a brief statement of the board of Apple as the world learned yesterday of the death of Steve Jobs at the age of 56 years.]]></nbest>
+			<nbest id="20" total="284.1943"><![CDATA[It is through a brief statement of the board of directors of Apple as the world learned yesterday of the death of Steve Jobs at the age of 56 years.]]></nbest>
+			<nbest id="21" total="284.2672"><![CDATA[It is through a brief statement of the Board of Apple as the world learned yesterday of the death of Steve Jobs at the age of 56.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Steve Jobs est mort mercredi, à la suite d'une longue maladie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="98.5979"><![CDATA[Steve Jobs died Wednesday after a long illness.]]></nbest>
+			<nbest id="1" total="103.5177"><![CDATA[Steve Jobs died Wednesday following a long illness.]]></nbest>
+			<nbest id="2" total="104.338"><![CDATA[Steve Jobs died Wednesday after a lengthy illness.]]></nbest>
+			<nbest id="3" total="104.5931"><![CDATA[Steve Jobs died on Wednesday after a long illness.]]></nbest>
+			<nbest id="4" total="105.4743"><![CDATA[Steve Jobs died on Wednesday, following a long illness.]]></nbest>
+			<nbest id="5" total="105.8846"><![CDATA[Steve Jobs died Wednesday, following a long illness.]]></nbest>
+			<nbest id="6" total="106.1684"><![CDATA[Steve Jobs died Wednesday, after a long illness.]]></nbest>
+			<nbest id="7" total="106.3291"><![CDATA[Steve Jobs died on Wednesday following a long illness.]]></nbest>
+			<nbest id="8" total="107.6236"><![CDATA[Steve Jobs died on Wednesday, following a lengthy illness.]]></nbest>
+			<nbest id="9" total="108.0253"><![CDATA[Steve Jobs died on Wednesday, after a long illness.]]></nbest>
+			<nbest id="10" total="111.1679"><![CDATA[Steve Jobs died Wednesday, following a lengthy illness.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le co-fondateur d'Apple et ancien PDG de la société d'informatique, est décédé à l'âge de 56 ans des suites d'un cancer, a annoncé la firme dans un communiqué publié mercredi soir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="299.2365"><![CDATA[The co-founder of Apple and former CEO of the computer company, died at the age of 56 years died of cancer, announced the firm said in a statement Wednesday.]]></nbest>
+			<nbest id="1" total="299.2472"><![CDATA[The Apple co-founder and former CEO of the computer company, died at the age of 56 years died of cancer, announced the firm said in a statement Wednesday.]]></nbest>
+			<nbest id="2" total="300.6531"><![CDATA[The co-founder of Apple and former CEO of the computer company, died at the age of 56 years died of cancer, announced the firm said in a statement Wednesday night.]]></nbest>
+			<nbest id="3" total="300.6639"><![CDATA[The Apple co-founder and former CEO of the computer company, died at the age of 56 years died of cancer, announced the firm said in a statement Wednesday night.]]></nbest>
+			<nbest id="4" total="300.9608"><![CDATA[The co-founder of Apple and former CEO of the computer company, died at the age of 56 years died of cancer, announced the firm said in a statement Wednesday evening.]]></nbest>
+			<nbest id="5" total="300.9716"><![CDATA[The Apple co-founder and former CEO of the computer company, died at the age of 56 years died of cancer, announced the firm said in a statement Wednesday evening.]]></nbest>
+			<nbest id="6" total="301.4609"><![CDATA[The co-founder of Apple and former CEO of the computer company, died at the age of 56 years died of cancer, today announced the company said in a statement Wednesday.]]></nbest>
+			<nbest id="7" total="301.6079"><![CDATA[The co-founder of Apple and former CEO of the computer company, died at the age of 56 years died of cancer, today announced the firm said in a statement Wednesday.]]></nbest>
+			<nbest id="8" total="301.6187"><![CDATA[The Apple co-founder and former CEO of the computer company, died at the age of 56 years died of cancer, today announced the firm said in a statement Wednesday.]]></nbest>
+			<nbest id="9" total="302.0271"><![CDATA[The co-founder of Apple and former CEO of the computer company, died at the age of 56 years died of cancer, announced the firm said in a statement released Wednesday evening.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le guru de l'informatique Steve Jobs a finalement succombé à sa longue maladie cette nuit à l'âge de 56 ans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="200.787"><![CDATA[IT guru Steve Jobs finally succumbed to his long illness that night at the age of 56.]]></nbest>
+			<nbest id="1" total="201.7766"><![CDATA[The computer guru Steve Jobs finally succumbed to his long illness that night at the age of 56.]]></nbest>
+			<nbest id="2" total="202.6261"><![CDATA[Computer guru Steve Jobs finally succumbed to his long illness that night at the age of 56.]]></nbest>
+			<nbest id="3" total="202.7477"><![CDATA[IT guru Steve Jobs finally succumbed to his long illness that night at the age of 56 years.]]></nbest>
+			<nbest id="4" total="203.7373"><![CDATA[The computer guru Steve Jobs finally succumbed to his long illness that night at the age of 56 years.]]></nbest>
+			<nbest id="5" total="204.5868"><![CDATA[Computer guru Steve Jobs finally succumbed to his long illness that night at the age of 56 years.]]></nbest>
+			<nbest id="6" total="204.9961"><![CDATA[IT guru Steve Jobs finally succumbed to his prolonged illness that night at the age of 56.]]></nbest>
+			<nbest id="7" total="205.9856"><![CDATA[The computer guru Steve Jobs finally succumbed to his prolonged illness that night at the age of 56.]]></nbest>
+			<nbest id="8" total="206.3413"><![CDATA[IT guru Steve Jobs finally succumbed to his long illness tonight at the age of 56 years.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Steve Jobs né le 24 février 1955 à San Francisco est mort le 5 octobre 2011 à l'age de 56 ans des suites de maladie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="207.3881"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="1" total="208.1253"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 as a result of illness.]]></nbest>
+			<nbest id="2" total="209.7106"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco, died on 5 October 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="3" total="210.1841"><![CDATA[Steve Jobs was born Feb. 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="4" total="210.4478"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco, died on 5 October 2011 at the age of 56 as a result of illness.]]></nbest>
+			<nbest id="5" total="210.9213"><![CDATA[Steve Jobs was born Feb. 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 as a result of illness.]]></nbest>
+			<nbest id="6" total="211.1837"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 years as a result of disease.]]></nbest>
+			<nbest id="7" total="211.1849"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco, died October 5, 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="8" total="211.4084"><![CDATA[Steve Jobs was born February 24 1955 in San Francisco died on 5 October 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="9" total="211.5481"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco, died October 5, 2011 at the age of 56 years as a result of disease.]]></nbest>
+			<nbest id="10" total="211.5833"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died October 5, 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="11" total="211.9208"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 years as a result of illness.]]></nbest>
+			<nbest id="12" total="211.9221"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco, died October 5, 2011 at the age of 56 as a result of illness.]]></nbest>
+			<nbest id="13" total="211.9465"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died October 5, 2011 at the age of 56 years as a result of disease.]]></nbest>
+			<nbest id="14" total="212.0219"><![CDATA[Steve Jobs was born February 24, 1955 San Francisco died on 5 October 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="15" total="212.1456"><![CDATA[Steve Jobs was born February 24 1955 in San Francisco died on 5 October 2011 at the age of 56 as a result of illness.]]></nbest>
+			<nbest id="16" total="212.2852"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco, died October 5, 2011 at the age of 56 years as a result of illness.]]></nbest>
+			<nbest id="17" total="212.3205"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died October 5, 2011 at the age of 56 as a result of illness.]]></nbest>
+			<nbest id="18" total="212.3357"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 suites disease.]]></nbest>
+			<nbest id="19" total="212.5066"><![CDATA[Steve Jobs was born Feb. 24, 1955 in San Francisco, died on 5 October 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="20" total="212.6837"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died October 5, 2011 at the age of 56 years as a result of illness.]]></nbest>
+			<nbest id="21" total="212.7283"><![CDATA[Steve Jobs was born February 24, 1955 in San Francisco died on 5 October 2011 at the age of 56 as a result of sickness.]]></nbest>
+			<nbest id="22" total="212.7591"><![CDATA[Steve Jobs was born February 24, 1955 San Francisco died on 5 October 2011 at the age of 56 as a result of illness.]]></nbest>
+			<nbest id="23" total="213.1174"><![CDATA[Steve Jobs was born February 24, 1955 at San Francisco died on 5 October 2011 at the age of 56 as a result of disease.]]></nbest>
+			<nbest id="24" total="213.2437"><![CDATA[Steve Jobs was born Feb. 24, 1955 in San Francisco, died on 5 October 2011 at the age of 56 as a result of illness.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Nous avons appris cette nuit, la mort de Steve Jobs à l'âge de 56 ans des suites d'une forme rare du cancer du pancréas.]]></source>
+		<target lang="en">
+			<nbest id="0" total="208.1498"><![CDATA[We learned that night, the death of Steve Jobs at the age of 56 following a rare form of pancreatic cancer.]]></nbest>
+			<nbest id="1" total="210.0798"><![CDATA[We learned that night, the death of Steve Jobs at the age of 56 years following a rare form of pancreatic cancer.]]></nbest>
+			<nbest id="2" total="210.6906"><![CDATA[We learned that night the death of Steve Jobs at the age of 56 following a rare form of pancreatic cancer.]]></nbest>
+			<nbest id="3" total="211.3382"><![CDATA[We learned that night, the death of Steve Jobs at age 56 following a rare form of pancreatic cancer.]]></nbest>
+			<nbest id="4" total="211.6275"><![CDATA[We learned this night, the death of Steve Jobs at the age of 56 years following a rare form of pancreatic cancer.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

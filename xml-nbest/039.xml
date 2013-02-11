@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Après le décès dimanche d'un nouveau-né dans une pouponnière parisienne, l'autopsie a révélé que ce nourrisson d'un mois et demi avait subi un traumatisme crânien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="319.8417"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant a month and a half had suffered a head injury.]]></nbest>
+			<nbest id="1" total="320.0786"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant of a month and a half had suffered a head injury.]]></nbest>
+			<nbest id="2" total="320.8582"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the baby a month and a half had suffered a head injury.]]></nbest>
+			<nbest id="3" total="321.1231"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant a month and a half had suffered a concussion.]]></nbest>
+			<nbest id="4" total="321.36"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant of a month and a half had suffered a concussion.]]></nbest>
+			<nbest id="5" total="321.426"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant of one month and a half had suffered a head injury.]]></nbest>
+			<nbest id="6" total="322.1396"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the baby a month and a half had suffered a concussion.]]></nbest>
+			<nbest id="7" total="322.2633"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the baby of a month and a half had suffered a head injury.]]></nbest>
+			<nbest id="8" total="322.3784"><![CDATA[Sunday after the death of a newborn in a nursery Paris, the autopsy revealed that the infant a month and a half had suffered a head injury.]]></nbest>
+			<nbest id="9" total="322.6153"><![CDATA[Sunday after the death of a newborn in a nursery Paris, the autopsy revealed that the infant of a month and a half had suffered a head injury.]]></nbest>
+			<nbest id="10" total="322.7074"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant of one month and a half had suffered a concussion.]]></nbest>
+			<nbest id="11" total="322.7513"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant a month and a half had suffered a brain injury.]]></nbest>
+			<nbest id="12" total="322.9205"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant a month and a half had suffered a traumatic brain injury.]]></nbest>
+			<nbest id="13" total="322.9305"><![CDATA[Sunday after the death of a newborn nursery in Paris, the autopsy revealed that the infant a month and a half had a head injury.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est dimanche matin aux alentours de 8 heures que le personnel de l'établissement social du 13ème arrondissement a fait la terrible découverte: une fillette d'un mois à demi, inconsciente et gisant à terre, probablement jetée par un enfant de 3 ans présent à ses côtés.]]></source>
+		<target lang="en">
+			<nbest id="0" total="541.7178"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl one month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="1" total="542.6586"><![CDATA[It is Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl one month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="2" total="542.744"><![CDATA[It's Sunday morning around 8:00 that staff social institution of the 13th district made the terrible discovery: a girl one month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="3" total="542.9374"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl a month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="4" total="543.2963"><![CDATA[It's Sunday morning around 8:00 that the staff social institution of the 13th district made the terrible discovery: a girl one month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="5" total="543.6849"><![CDATA[It is Sunday morning around 8:00 that staff social institution of the 13th district made the terrible discovery: a girl one month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="6" total="543.687"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl a month, half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="7" total="543.8784"><![CDATA[It is Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl a month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="8" total="543.9077"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a young girl a month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="9" total="543.9636"><![CDATA[It's Sunday morning around 8:00 that staff social institution of the 13th district made the terrible discovery: a girl a month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="10" total="544.2822"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl of one month, half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="11" total="544.5161"><![CDATA[It's Sunday morning around 8:00 that the staff social institution of the 13th district made the terrible discovery: a girl a month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="12" total="544.6571"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a young girl a month, half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="13" total="544.6584"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl of one month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="14" total="544.7075"><![CDATA[It's Sunday morning around 8:00 that facility staff office of the 13th district made the terrible discovery: a girl one month half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="15" total="544.7131"><![CDATA[It's Sunday morning around 8:00 that staff social institution of the 13th district made the terrible discovery: a girl a month, half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+			<nbest id="16" total="544.7586"><![CDATA[It's Sunday morning around 8:00 the staff social institution of the 13th district made the terrible discovery: a girl one month, half unconscious and lying on the ground, probably thrown by a 3 year old child at her side.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dimanche 16 septembre, un nourrisson d'un mois est retrouvé mort à la pouponnière Michelet dans le XIIIème arrondissement de Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="259.5188"><![CDATA[Sunday, September 16th, an infant of one month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="1" total="260.8296"><![CDATA[Sunday, September 16, an infant of one month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="2" total="260.9099"><![CDATA[Sunday, September 16th, an infant one month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="3" total="260.955"><![CDATA[Sunday, September 16th, an infant a month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="4" total="261.868"><![CDATA[Sunday, September 16th, an infant of a month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="5" total="261.8764"><![CDATA[Sunday, September 16th, an infant of one month was found dead at the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="6" total="262.2207"><![CDATA[Sunday, September 16, an infant one month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="7" total="262.2658"><![CDATA[Sunday, September 16, an infant a month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="8" total="263.1533"><![CDATA[Sunday, September 16th, an infant of a month is found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="9" total="263.1788"><![CDATA[Sunday, September 16, an infant of a month was found dead in the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="10" total="263.1872"><![CDATA[Sunday, September 16, an infant of one month was found dead at the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="11" total="263.2675"><![CDATA[Sunday, September 16th, an infant one month was found dead at the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+			<nbest id="12" total="263.3126"><![CDATA[Sunday, September 16th, an infant a month was found dead at the nursery Michelet in the thirteenth arrondissement of Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'autopsie pratiquée sur le bébé de la pouponnière à Paris révèle un traumatisme crânien et des lésions.]]></source>
+		<target lang="en">
+			<nbest id="0" total="206.4417"><![CDATA[An autopsy on the baby's nursery in Paris reveals a head trauma and injuries.]]></nbest>
+			<nbest id="1" total="206.6815"><![CDATA[An autopsy on the baby's nursery in Paris shows head trauma and injuries.]]></nbest>
+			<nbest id="2" total="206.8219"><![CDATA[An autopsy on the baby's nursery in Paris reveals a head injury and damage.]]></nbest>
+			<nbest id="3" total="207.2621"><![CDATA[An autopsy on the baby's nursery in Paris revealed head trauma and injuries.]]></nbest>
+			<nbest id="4" total="207.3203"><![CDATA[An autopsy on the baby's nursery in Paris reveals a brain injury and damage.]]></nbest>
+			<nbest id="5" total="207.8916"><![CDATA[An autopsy on the baby's nursery in Paris reveals a head trauma and injury.]]></nbest>
+			<nbest id="6" total="207.993"><![CDATA[An autopsy on the baby's nursery in Paris reveals a head injury and injuries.]]></nbest>
+			<nbest id="7" total="208.2496"><![CDATA[An autopsy on the baby nursery to Paris reveals a head trauma and injuries.]]></nbest>
+			<nbest id="8" total="208.3573"><![CDATA[An autopsy on the baby's nursery in Paris shows head trauma and injury.]]></nbest>
+			<nbest id="9" total="208.5912"><![CDATA[An autopsy on the baby's nursery in Paris shows a head trauma and injuries.]]></nbest>
+			<nbest id="10" total="208.6298"><![CDATA[An autopsy on the baby nursery to Paris reveals a head injury and damage.]]></nbest>
+			<nbest id="11" total="208.712"><![CDATA[An autopsy on the baby's nursery in Paris revealed head trauma and injury.]]></nbest>
+			<nbest id="12" total="208.8626"><![CDATA[An autopsy on the baby's nursery in Paris reveals a brain injury and injuries.]]></nbest>
+			<nbest id="13" total="209.0352"><![CDATA[An autopsy on the baby's nursery in Paris shows a head injury and damage.]]></nbest>
+			<nbest id="14" total="209.1282"><![CDATA[An autopsy on the baby nursery to Paris reveals a brain injury and damage.]]></nbest>
+			<nbest id="15" total="209.1472"><![CDATA[An autopsy on the baby nursery in Paris reveals a head trauma and injuries.]]></nbest>
+			<nbest id="16" total="209.2399"><![CDATA[An autopsy on the baby's nursery in Paris reveals a head injury and lesions.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'autopsie pratiquée sur le nourrisson, placé dès sa naissance dans une pouponnière gérée par la ville de Paris et décédé dimanche, a révélé un traumatisme crânien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="320.6276"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris and died on Sunday, revealed a head injury.]]></nbest>
+			<nbest id="1" total="320.9925"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris, died Sunday, revealed a head injury.]]></nbest>
+			<nbest id="2" total="321.0086"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris died Sunday, revealed a head injury.]]></nbest>
+			<nbest id="3" total="321.4552"><![CDATA[An autopsy on the infant, placed at birth in a nursery run by the city of Paris and died on Sunday, revealed a head injury.]]></nbest>
+			<nbest id="4" total="321.4841"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris and died Sunday, revealed a head injury.]]></nbest>
+			<nbest id="5" total="321.7217"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris and died on Sunday, revealed a brain injury.]]></nbest>
+			<nbest id="6" total="321.8201"><![CDATA[An autopsy on the infant, placed at birth in a nursery run by the city of Paris, died Sunday, revealed a head injury.]]></nbest>
+			<nbest id="7" total="321.8362"><![CDATA[An autopsy on the infant, placed at birth in a nursery run by the city of Paris died Sunday, revealed a head injury.]]></nbest>
+			<nbest id="8" total="321.9231"><![CDATA[An autopsy on the infant, from birth placed in a nursery run by the city of Paris and died on Sunday, revealed a head injury.]]></nbest>
+			<nbest id="9" total="321.9786"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris and died on Sunday revealed a head injury.]]></nbest>
+			<nbest id="10" total="322.0866"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris, died Sunday, revealed a brain injury.]]></nbest>
+			<nbest id="11" total="322.1027"><![CDATA[An autopsy on the infant at birth placed in a nursery run by the city of Paris died Sunday, revealed a brain injury.]]></nbest>
+			<nbest id="12" total="322.2881"><![CDATA[An autopsy on the infant, from birth placed in a nursery run by the city of Paris, died Sunday, revealed a head injury.]]></nbest>
+			<nbest id="13" total="322.3041"><![CDATA[An autopsy on the infant, from birth placed in a nursery run by the city of Paris died Sunday, revealed a head injury.]]></nbest>
+			<nbest id="14" total="322.3117"><![CDATA[An autopsy on the infant, placed at birth in a nursery run by the city of Paris and died Sunday, revealed a head injury.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le bébé d'un mois et demi retrouvé mort dimanche matin sur le sol d'un dortoir dans une pouponnière municipale du XIIIème arrondissement à Paris est décédé des suites d'un traumatisme crânien, a-t-on appris de source proche de l'enquête.]]></source>
+		<target lang="en">
+			<nbest id="0" total="499.2265"><![CDATA[The baby a month and a half found dead Sunday morning on the floor of a dormitory in a municipal nursery thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+			<nbest id="1" total="499.7776"><![CDATA[The baby a month and a half was found dead Sunday morning on the floor of a dormitory in a municipal nursery thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+			<nbest id="2" total="500.9076"><![CDATA[The baby a month and a half found dead Sunday morning on the floor of a dorm in a municipal nursery thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+			<nbest id="3" total="501.0002"><![CDATA[The baby a month and a half found dead Sunday morning on the floor of a dormitory in a municipal nursery thirteenth arrondissement of Paris died of a head injury, Has it learned from sources close to the investigation.]]></nbest>
+			<nbest id="4" total="501.0495"><![CDATA[The baby a month and a half found dead Sunday morning on the floor of a dormitory in a nursery municipal thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+			<nbest id="5" total="501.3532"><![CDATA[Baby a month and a half found dead Sunday morning on the floor of a dormitory in a municipal nursery thirteenth arrondissement of Paris died of a head injury, Has it learned from sources close to the investigation.]]></nbest>
+			<nbest id="6" total="501.4586"><![CDATA[The baby a month and a half was found dead Sunday morning on the floor of a dorm in a municipal nursery thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+			<nbest id="7" total="501.4592"><![CDATA[The baby a month and a half found dead Sunday morning on the floor of a dormitory in a nursery Municipal thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+			<nbest id="8" total="501.5512"><![CDATA[The baby a month and a half was found dead Sunday morning on the floor of a dormitory in a municipal nursery thirteenth arrondissement of Paris died of a head injury, Has it learned from sources close to the investigation.]]></nbest>
+			<nbest id="9" total="501.6005"><![CDATA[The baby a month and a half was found dead Sunday morning on the floor of a dormitory in a nursery municipal thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+			<nbest id="10" total="501.9043"><![CDATA[Baby a month and a half was found dead Sunday morning on the floor of a dormitory in a municipal nursery thirteenth arrondissement of Paris died of a head injury, Has it learned from sources close to the investigation.]]></nbest>
+			<nbest id="11" total="502.0102"><![CDATA[The baby a month and a half was found dead Sunday morning on the floor of a dormitory in a nursery Municipal thirteenth arrondissement of Paris died of a head injury, a-t was learned from sources close to the investigation.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le maire de Paris, Bertrand Delanoë a annoncé dans un communiqué repris par 20minutes la mort d'un nourrisson dimanche matin, dans une pouponnière gérée par la ville.]]></source>
+		<target lang="en">
+			<nbest id="0" total="309.7975"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement echoed by 20minutes death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="1" total="310.0281"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement picked up by 20minutes death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="2" total="310.1134"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement picked up by 20 minutes of an infant death Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="3" total="310.6643"><![CDATA[The Mayor of Paris, Bertrand Delanoe said in a statement echoed by 20minutes death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="4" total="310.8659"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement picked up by 20 minutes the death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="5" total="310.895"><![CDATA[The Mayor of Paris, Bertrand Delanoe said in a statement picked up by 20minutes death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="6" total="311.3094"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement echoed by 20minutes the death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="7" total="311.3758"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement taken by 20minutes death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="8" total="311.54"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement picked up by 20minutes the death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="9" total="311.651"><![CDATA[The Mayor of Paris, Bertrand Delanoe said in a statement picked up by 20 minutes of an infant death Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="10" total="311.7328"><![CDATA[The Mayor of Paris, Bertrand Delanoe said in a statement picked up by 20 minutes the death of an infant Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="11" total="311.7645"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement picked up by 20 minutes for an infant death Sunday morning in a nursery run by the city.]]></nbest>
+			<nbest id="12" total="311.7933"><![CDATA[The mayor of Paris, Bertrand Delanoe said in a statement echoed by 20minutes death of an infant Sunday morning, in a nursery run by the city.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un nourrisson a été retrouvé à moitié conscient, dimanche matin, à la pouponnière Michelet à paris, avant de succomber.]]></source>
+		<target lang="en">
+			<nbest id="0" total="257.8171"><![CDATA[An infant was found semi-conscious on Sunday morning in the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="1" total="259.9481"><![CDATA[An infant was found semi-conscious on Sunday morning at the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="2" total="260.0626"><![CDATA[An infant was found semi-conscious on Sunday morning in the nursery Michelet in Paris before succumbing.]]></nbest>
+			<nbest id="3" total="260.2324"><![CDATA[An infant was found semi-conscious on Sunday morning, the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="4" total="260.2474"><![CDATA[An infant was found semi-conscious, Sunday morning at the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="5" total="260.4061"><![CDATA[An infant was found semi-conscious on Sunday morning to the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="6" total="261.0478"><![CDATA[An infant was found semi-conscious on Sunday morning, in the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="7" total="261.2838"><![CDATA[One infant was found semi-conscious on Sunday morning in the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="8" total="261.388"><![CDATA[An infant was found semi-conscious, Sunday morning in the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="9" total="261.6468"><![CDATA[An infant was found semi-conscious, Sunday morning, the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="10" total="262.1935"><![CDATA[An infant was found semi-conscious on Sunday morning at the nursery Michelet in Paris before succumbing.]]></nbest>
+			<nbest id="11" total="262.4779"><![CDATA[An infant was found semi-conscious on Sunday morning, the nursery Michelet in Paris before succumbing.]]></nbest>
+			<nbest id="12" total="262.4928"><![CDATA[An infant was found semi-conscious, Sunday morning at the nursery Michelet in Paris before succumbing.]]></nbest>
+			<nbest id="13" total="262.6515"><![CDATA[An infant was found semi-conscious on Sunday morning to the nursery Michelet in Paris before succumbing.]]></nbest>
+			<nbest id="14" total="263.1175"><![CDATA[An infant was found semi-conscious, on Sunday morning, the nursery Michelet in Paris, before succumbing.]]></nbest>
+			<nbest id="15" total="263.2785"><![CDATA[An infant was found semi-conscious, Sunday morning, in the nursery Michelet in Paris, before succumbing.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un nourrisson âgé d'un mois est décédé hier matin dans une pouponnière du XIIIème arrondissement gérée par la ville de Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="255.5804"><![CDATA[A one month old infant died yesterday morning in a nursery thirteenth district managed by the city of Paris.]]></nbest>
+			<nbest id="1" total="256.1488"><![CDATA[A one month old infant died yesterday morning in a nursery thirteenth arrondissement managed by the city of Paris.]]></nbest>
+			<nbest id="2" total="256.2593"><![CDATA[A one month old infant died yesterday morning in a nursery thirteenth district managed by the City of Paris.]]></nbest>
+			<nbest id="3" total="256.9435"><![CDATA[A one month old infant died yesterday morning in a nursery thirteenth arrondissement managed by the City of Paris.]]></nbest>
+			<nbest id="4" total="258.1422"><![CDATA[A one month old infant died yesterday morning in a nursery thirteenth district run by the city of Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une enquête a été ouverte, hier, par le parquet de Paris après le décès d'un nourrisson âgé d'un mois et demi, accueilli dans une pouponnière municipale de la capitale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="331.7582"><![CDATA[An investigation was opened yesterday by the Paris prosecutor's office after the death of an infant aged one and a half months, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="1" total="332.183"><![CDATA[An investigation was opened yesterday by the Paris prosecutor's office after the death of an infant aged one month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="2" total="332.6621"><![CDATA[An investigation was opened yesterday by the Paris prosecutor after the death of an infant aged one and a half months, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="3" total="333.0868"><![CDATA[An investigation was opened yesterday by the Paris prosecutor after the death of an infant aged one month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="4" total="333.6997"><![CDATA[An investigation was launched yesterday by the Paris prosecutor's office after the death of an infant aged one and a half months, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="5" total="334.1244"><![CDATA[An investigation was launched yesterday by the Paris prosecutor's office after the death of an infant aged one month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="6" total="334.3904"><![CDATA[An investigation was opened yesterday by the Paris prosecutor's office following the death of an infant aged one and a half months, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="7" total="334.4282"><![CDATA[An investigation was opened yesterday by the Paris prosecutor's office after the death of an infant of a month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="8" total="334.6035"><![CDATA[An investigation was launched yesterday by the Paris prosecutor after the death of an infant aged one and a half months, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="9" total="334.8151"><![CDATA[An investigation was opened yesterday by the Paris prosecutor's office following the death of an infant aged one month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="10" total="334.8474"><![CDATA[An investigation was opened yesterday by the Paris prosecutor's office after the death of an infant under one month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="11" total="335.0283"><![CDATA[An investigation was launched yesterday by the Paris prosecutor after the death of an infant aged one month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="12" total="335.3321"><![CDATA[An investigation was opened yesterday by the Paris prosecutor after the death of an infant of a month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="13" total="335.3808"><![CDATA[An investigation was opened yesterday by the Paris prosecutor's office after the death of an infant a month and a half, hosted a nursery in the capital city.]]></nbest>
+			<nbest id="14" total="335.7513"><![CDATA[An investigation was opened yesterday by the Paris prosecutor after the death of an infant under one month and a half, hosted a nursery in the capital city.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

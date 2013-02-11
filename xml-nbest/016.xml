@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Soixante-et-onze personnes âgées ont été livrées à elles-même à la résidence le Sourire de Carrières-sous-Poissy (Yvelines) dans la nuit de mardi à mercredi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="352.3761"><![CDATA[Sixty-one elderly were left to their own residence on Smile Carrières-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="1" total="352.4046"><![CDATA[Sixty-one elderly were left to their own residence the Smile Carrières-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="2" total="352.7168"><![CDATA[Sixty-one elderly were left to their own residence the smile Carrières-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="3" total="352.9896"><![CDATA[Sixty-one elderly were left to fend for himself in the residence Smile Carrières-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="4" total="353.5438"><![CDATA[Sixty-one elderly were left to their own residence the smile Careers-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="5" total="353.6723"><![CDATA[Sixty-one elderly were left to their own residence on Smile Carrières-sous-Poissy (Yvelines) on the night of Tuesday to Wednesday.]]></nbest>
+			<nbest id="6" total="353.7007"><![CDATA[Sixty-one elderly were left to their own residence the Smile Carrières-sous-Poissy (Yvelines) on the night of Tuesday to Wednesday.]]></nbest>
+			<nbest id="7" total="353.8177"><![CDATA[Sixty-one elderly were left to fend for himself in the residence Careers Smile-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="8" total="354.013"><![CDATA[Sixty-one elderly were left to their own residence the smile Carrières-sous-Poissy (Yvelines) on the night of Tuesday to Wednesday.]]></nbest>
+			<nbest id="9" total="354.166"><![CDATA[Sixty-one elderly were left to fend for himself at the residence on Smile Carrières-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="10" total="354.2242"><![CDATA[Sixty-one elderly people were left to their own residence on Smile Carrières-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="11" total="354.2527"><![CDATA[Sixty-one elderly people were left to their own residence the Smile Carrières-sous-Poissy (Yvelines) in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="12" total="354.2858"><![CDATA[Sixty-one elderly were left to fend for himself in the residence Smile Carrières-sous-Poissy (Yvelines) on the night of Tuesday to Wednesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les pensionnaires d'une maison de retraite des Yvelines ont passé la nuit de mardi sans aucun personnel dans les murs.]]></source>
+		<target lang="en">
+			<nbest id="0" total="230.9248"><![CDATA[Residents of a retirement home Yvelines spent Tuesday night with no staff in the walls.]]></nbest>
+			<nbest id="1" total="231.7777"><![CDATA[Residents of a retirement home of the Yvelines spent Tuesday night with no staff in the walls.]]></nbest>
+			<nbest id="2" total="232.9953"><![CDATA[Residents of a retirement home Yvelines spent Tuesday night without any staff in the walls.]]></nbest>
+			<nbest id="3" total="233.0305"><![CDATA[Residents of a retirement home in the Yvelines spent Tuesday night with no staff in the walls.]]></nbest>
+			<nbest id="4" total="233.0638"><![CDATA[Residents of a nursing home Yvelines spent Tuesday night with no staff in the walls.]]></nbest>
+			<nbest id="5" total="233.7346"><![CDATA[Residents of a nursing home of the Yvelines spent Tuesday night with no staff in the walls.]]></nbest>
+			<nbest id="6" total="233.8483"><![CDATA[Residents of a retirement home of the Yvelines spent Tuesday night without any staff in the walls.]]></nbest>
+			<nbest id="7" total="234.4956"><![CDATA[Residents of a retirement home Yvelines spent Tuesday night without staff in the walls.]]></nbest>
+			<nbest id="8" total="234.8488"><![CDATA[Residents of a retirement home Yvelines spent Tuesday night no staff in the walls.]]></nbest>
+			<nbest id="9" total="235.101"><![CDATA[Residents of a retirement home in the Yvelines spent Tuesday night without any staff in the walls.]]></nbest>
+			<nbest id="10" total="235.1344"><![CDATA[Residents of a nursing home Yvelines spent Tuesday night without any staff in the walls.]]></nbest>
+			<nbest id="11" total="235.3485"><![CDATA[Residents of a retirement home of the Yvelines spent Tuesday night without staff in the walls.]]></nbest>
+			<nbest id="12" total="235.3704"><![CDATA[Residents of a retirement home in Yvelines spent Tuesday night with no staff in the walls.]]></nbest>
+			<nbest id="13" total="235.4928"><![CDATA[Residents of a retirement home Yvelines spent Tuesday night with no staff in the wall.]]></nbest>
+			<nbest id="14" total="235.7018"><![CDATA[Residents of a retirement home of the Yvelines spent Tuesday night no staff in the walls.]]></nbest>
+			<nbest id="15" total="235.8051"><![CDATA[Residents of a nursing home of the Yvelines spent Tuesday night without any staff in the walls.]]></nbest>
+			<nbest id="16" total="236.023"><![CDATA[Residents of a nursing home in the Yvelines spent Tuesday night with no staff in the walls.]]></nbest>
+			<nbest id="17" total="236.3457"><![CDATA[Residents of a retirement home of the Yvelines spent Tuesday night with no staff in the wall.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[À Carrières-sous-Poissy (Yvelines), les résidents ont été délaissés plusieurs heures par le personnel soignant de l'établissement.]]></source>
+		<target lang="en">
+			<nbest id="0" total="263.8194"><![CDATA[Careers at-sous-Poissy (Yvelines), residents were abandoned several hours by the nursing staff of the institution.]]></nbest>
+			<nbest id="1" total="264.0482"><![CDATA[Careers In-sous-Poissy (Yvelines), residents were abandoned several hours by the nursing staff of the institution.]]></nbest>
+			<nbest id="2" total="264.2879"><![CDATA[Careers At-sous-Poissy (Yvelines), residents were abandoned several hours by the nursing staff of the institution.]]></nbest>
+			<nbest id="3" total="264.3799"><![CDATA[Careers at-sous-Poissy (Yvelines), residents have been abandoned for several hours by the nursing staff of the institution.]]></nbest>
+			<nbest id="4" total="265.0311"><![CDATA[Careers at-sous-Poissy (Yvelines), residents have been abandoned several hours by the nursing staff of the institution.]]></nbest>
+			<nbest id="5" total="265.5569"><![CDATA[Careers at-sous-Poissy (Yvelines), residents were abandoned several hours by the nursing staff of the facility.]]></nbest>
+			<nbest id="6" total="265.7857"><![CDATA[Careers In-sous-Poissy (Yvelines), residents were abandoned several hours by the nursing staff of the facility.]]></nbest>
+			<nbest id="7" total="266.0253"><![CDATA[Careers At-sous-Poissy (Yvelines), residents were abandoned several hours by the nursing staff of the facility.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La police est intervenue dans la nuit de mardi à mercredi dans une maison de retraite de Carrières-sous-Poissy (Yvelines) après avoir été alertée par des résidents qui se plaignaient de ne pas avoir de personnel pour la nuit.]]></source>
+		<target lang="en">
+			<nbest id="0" total="401.4991"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a nursing home Carrières-sous-Poissy (Yvelines) after being alerted by residents who complained of having no staff at night.]]></nbest>
+			<nbest id="1" total="401.7978"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a nursing home Carrières-sous-Poissy (Yvelines) after being alerted by residents who complained of not having staff for the night.]]></nbest>
+			<nbest id="2" total="402.1381"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a retirement home Carrières-sous-Poissy (Yvelines) after being alerted by residents who complained of having no staff at night.]]></nbest>
+			<nbest id="3" total="402.4368"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a retirement home Carrières-sous-Poissy (Yvelines) after being alerted by residents who complained of not having staff for the night.]]></nbest>
+			<nbest id="4" total="403.4567"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a nursing home Carrières-sous-Poissy (Yvelines) after being alerted by residents who complained of having no staff for the night.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Soixante et onze pensionnaires de la résidence pour personnes âgées le Sourire, à Carrières-sous-Poissy (Yvelines), ont été, dans la nuit de mardi à mercredi, littéralement abandonnés par le personnel et secourus par la police.]]></source>
+		<target lang="en">
+			<nbest id="0" total="459.194"><![CDATA[Seventy-one residents of the home for the elderly Smiling, Carrieres-sous-Poissy (Yvelines), were on the night of Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="1" total="459.3777"><![CDATA[Seventy-one residents of the home for the elderly Smiling, Carrieres-sous-Poissy (Yvelines), were in the night from Tuesday to Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="2" total="459.881"><![CDATA[Seventy-one residents of the home for the elderly Smiling, Carrieres-sous-Poissy (Yvelines), were, in the night from Tuesday to Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="3" total="460.1718"><![CDATA[Seventy-one residents of the home for the elderly Smile, Carrieres-sous-Poissy (Yvelines), were on the night of Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="4" total="460.2273"><![CDATA[Seventy-one residents of the residence for the elderly Smiling, Carrieres-sous-Poissy (Yvelines), were on the night of Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="5" total="460.3231"><![CDATA[Seventy-one residents of the home for the elderly Smiling, Carrières-sous-Poissy (Yvelines), were on the night of Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="6" total="460.3555"><![CDATA[Seventy-one residents of the home for the elderly Smile, Carrieres-sous-Poissy (Yvelines), were in the night from Tuesday to Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="7" total="460.411"><![CDATA[Seventy-one residents of the residence for the elderly Smiling, Carrieres-sous-Poissy (Yvelines), were in the night from Tuesday to Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="8" total="460.5068"><![CDATA[Seventy-one residents of the home for the elderly Smiling, Carrières-sous-Poissy (Yvelines), were in the night from Tuesday to Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="9" total="460.652"><![CDATA[Seventy-one residents of the home for the elderly smile, Carrieres-sous-Poissy (Yvelines), were on the night of Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+			<nbest id="10" total="460.6651"><![CDATA[Seventy-one residents of the home for the elderly Smiling, Carrieres-sous-Poissy (Yvelines), were on the night of Tuesday to Wednesday, literally abandoned by staff and rescued by the police.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les résidents d'une maison de retraite de Carrières-sous-Poissy, dans les Yvelines, ont attendu en vain l'équipe de nuit mardi soir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="275.5465"><![CDATA[Residents of a retirement home Carrières-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday night.]]></nbest>
+			<nbest id="1" total="276.6932"><![CDATA[Residents of a nursing home Carrières-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday night.]]></nbest>
+			<nbest id="2" total="276.791"><![CDATA[Residents of a retirement home Carrières-sous-Poissy, Yvelines, waited in vain for the team Tuesday night.]]></nbest>
+			<nbest id="3" total="277.1628"><![CDATA[Residents of a retirement home Carrières-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday evening.]]></nbest>
+			<nbest id="4" total="277.9377"><![CDATA[Residents of a nursing home Carrières-sous-Poissy, Yvelines, waited in vain for the team Tuesday night.]]></nbest>
+			<nbest id="5" total="278.3095"><![CDATA[Residents of a nursing home Carrières-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday evening.]]></nbest>
+			<nbest id="6" total="278.6673"><![CDATA[Residents of a retirement home in Careers-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday night.]]></nbest>
+			<nbest id="7" total="278.7559"><![CDATA[Residents of a retirement home Carrières-sous-Poissy, near Paris, waited in vain for the night shift Tuesday night.]]></nbest>
+			<nbest id="8" total="278.8179"><![CDATA[Residents of a retirement home Carrières-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday.]]></nbest>
+			<nbest id="9" total="279.0964"><![CDATA[Residents of a retirement home Carrières-sous-Poissy, Yvelines, waited in vain the night shift Tuesday night.]]></nbest>
+			<nbest id="10" total="279.6154"><![CDATA[Residents of a retirement home Careers-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday night.]]></nbest>
+			<nbest id="11" total="279.9026"><![CDATA[Residents of a nursing home Carrières-sous-Poissy, near Paris, waited in vain for the night shift Tuesday night.]]></nbest>
+			<nbest id="12" total="279.9117"><![CDATA[Residents of a retirement home in Careers-sous-Poissy, Yvelines, waited in vain for the team Tuesday night.]]></nbest>
+			<nbest id="13" total="279.9646"><![CDATA[Residents of a nursing home Carrières-sous-Poissy, Yvelines, waited in vain for the night shift Tuesday.]]></nbest>
+			<nbest id="14" total="280.0004"><![CDATA[Residents of a retirement home Carrières-sous-Poissy, near Paris, waited in vain for the team Tuesday night.]]></nbest>
+			<nbest id="15" total="280.2431"><![CDATA[Residents of a nursing home Carrières-sous-Poissy, Yvelines, waited in vain the night shift Tuesday night.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[À Carrières-sous-Poissy, les habitants d'une maison de retraite ont été abandonnés par le personnel de l'établissement pendant toute une nuit.]]></source>
+		<target lang="en">
+			<nbest id="0" total="264.2134"><![CDATA[Careers at-sous-Poissy, residents of a nursing home were abandoned by the staff of the facility overnight.]]></nbest>
+			<nbest id="1" total="265.0117"><![CDATA[Careers at-sous-Poissy, residents of a retirement home have been abandoned by the staff of the facility overnight.]]></nbest>
+			<nbest id="2" total="265.2104"><![CDATA[Careers at-sous-Poissy, residents of a retirement home were abandoned by the staff of the facility overnight.]]></nbest>
+			<nbest id="3" total="266.1778"><![CDATA[Careers at-sous-Poissy, residents of a nursing home were abandoned by the staff of the establishment overnight.]]></nbest>
+			<nbest id="4" total="266.3674"><![CDATA[Careers at-sous-Poissy, residents of a nursing home have been abandoned by the staff of the facility overnight.]]></nbest>
+			<nbest id="5" total="266.9761"><![CDATA[Careers at-sous-Poissy, residents of a retirement home have been abandoned by the staff of the establishment overnight.]]></nbest>
+			<nbest id="6" total="267.1748"><![CDATA[Careers at-sous-Poissy, residents of a retirement home were abandoned by the staff of the establishment overnight.]]></nbest>
+			<nbest id="7" total="267.1973"><![CDATA[Careers at-sous-Poissy, residents of a nursing home were abandoned by the staff of the institution overnight.]]></nbest>
+			<nbest id="8" total="267.4261"><![CDATA[Careers In-sous-Poissy, residents of a nursing home were abandoned by the staff of the institution overnight.]]></nbest>
+			<nbest id="9" total="267.5022"><![CDATA[Careers at-sous-Poissy, residents of a nursing home were abandoned by the facility staff overnight.]]></nbest>
+			<nbest id="10" total="267.731"><![CDATA[Careers In-sous-Poissy, residents of a nursing home were abandoned by the facility staff overnight.]]></nbest>
+			<nbest id="11" total="267.9706"><![CDATA[Careers At-sous-Poissy, residents of a nursing home were abandoned by the facility staff overnight.]]></nbest>
+			<nbest id="12" total="267.9957"><![CDATA[Careers at-sous-Poissy, residents of a retirement home have been abandoned by the staff of the institution overnight.]]></nbest>
+			<nbest id="13" total="268.1944"><![CDATA[Careers at-sous-Poissy, residents of a retirement home were abandoned by the staff of the institution overnight.]]></nbest>
+			<nbest id="14" total="268.2429"><![CDATA[Careers at-sous-Poissy, residents of a retirement home have been abandoned by the facility staff overnight.]]></nbest>
+			<nbest id="15" total="268.3318"><![CDATA[Careers at-sous-Poissy, residents of a nursing home have been abandoned by the staff of the establishment overnight.]]></nbest>
+			<nbest id="16" total="268.4232"><![CDATA[Careers In-sous-Poissy, residents of a retirement home were abandoned by the staff of the institution overnight.]]></nbest>
+			<nbest id="17" total="268.439"><![CDATA[Careers In-sous-Poissy, residents of a retirement home have been abandoned by the staff of the institution overnight.]]></nbest>
+			<nbest id="18" total="268.4992"><![CDATA[Careers at-sous-Poissy, residents of a retirement home were abandoned by the facility staff overnight.]]></nbest>
+			<nbest id="19" total="268.728"><![CDATA[Careers In-sous-Poissy, residents of a retirement home were abandoned by the facility staff overnight.]]></nbest>
+			<nbest id="20" total="268.9677"><![CDATA[Careers At-sous-Poissy, residents of a retirement home were abandoned by the facility staff overnight.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La police est intervenue dans la nuit de mardi à mercredi à la maison de retraite de Carrières-sous-Poissy (Yvelines) pour constater l'absence de personnel et y trouver des résidents livrés à eux-mêmes.]]></source>
+		<target lang="en">
+			<nbest id="0" total="406.8631"><![CDATA[The police intervened in the night from Tuesday to Wednesday at the retirement home Carrières-sous-Poissy (Yvelines) to note the lack of staff and residents find themselves delivered.]]></nbest>
+			<nbest id="1" total="407.4052"><![CDATA[The police intervened in the night from Tuesday to Wednesday at the retirement home Carrières-sous-Poissy (Yvelines) to see the lack of staff and residents find themselves delivered.]]></nbest>
+			<nbest id="2" total="408.6934"><![CDATA[The police intervened in the night from Tuesday to Wednesday at the retirement home Carrières-sous-Poissy (Yvelines) to note the lack of staff and residents come to find themselves.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La police a du intervenir dans la nuit de mardi à mercredi dans une maison de retraire de Carrières-sous-Poissy, dans les Yvelines, après avoir été alertée par des résidents eux-mêmes. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="356.2263"><![CDATA[The police had to intervene in the night from Tuesday to Wednesday in a retreat house Carrières-sous-Poissy, Yvelines, after being alerted by residents themselves.]]></nbest>
+			<nbest id="1" total="356.4203"><![CDATA[The police had to intervene in the night from Tuesday to Wednesday in a retreat house Carrières-sous-Poissy, near Paris, after being alerted by residents themselves.]]></nbest>
+			<nbest id="2" total="357.2971"><![CDATA[The police had to intervene in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy, Yvelines, after being alerted by residents themselves.]]></nbest>
+			<nbest id="3" total="357.4911"><![CDATA[The police had to intervene in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy, near Paris, after being alerted by residents themselves.]]></nbest>
+			<nbest id="4" total="359.0735"><![CDATA[The police had to intervene in the night from Tuesday to Wednesday in a house retreat Carrières-sous-Poissy, Yvelines, after being alerted by residents themselves.]]></nbest>
+			<nbest id="5" total="359.2675"><![CDATA[The police had to intervene in the night from Tuesday to Wednesday in a house retreat Carrières-sous-Poissy, near Paris, after being alerted by residents themselves.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans la nuit de mardi à mercredi, 71 pensionnaires de la résidence pour personnes âgées "Le Sourire", à Carrières-sous-Poissy (Yvelines) se sont retrouvés seuls, abandonnés par le personnel. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="392.6712"><![CDATA[On the night of Wednesday, 71 residents of the seniors' residence "Le Sourire" at Careers-sous-Poissy (Yvelines) were left alone, abandoned by staff.]]></nbest>
+			<nbest id="1" total="392.944"><![CDATA[On the night of Wednesday, 71 residents of the home for the elderly "Le Sourire" at Careers-sous-Poissy (Yvelines) were left alone, abandoned by staff.]]></nbest>
+			<nbest id="2" total="393.0179"><![CDATA[In the night from Tuesday to Wednesday, 71 residents of the home for the elderly "Le Sourire" at Careers-sous-Poissy (Yvelines) were left alone, abandoned by staff.]]></nbest>
+			<nbest id="3" total="393.1231"><![CDATA[On the night of Wednesday, 71 residents of the seniors' residence "Le Sourire" at Careers-sous-Poissy (Yvelines) were left alone, abandoned by the staff.]]></nbest>
+			<nbest id="4" total="393.396"><![CDATA[On the night of Wednesday, 71 residents of the home for the elderly "Le Sourire" at Careers-sous-Poissy (Yvelines) were left alone, abandoned by the staff.]]></nbest>
+			<nbest id="5" total="393.4699"><![CDATA[In the night from Tuesday to Wednesday, 71 residents of the home for the elderly "Le Sourire" at Careers-sous-Poissy (Yvelines) were left alone, abandoned by the staff.]]></nbest>
+			<nbest id="6" total="394.6149"><![CDATA[On the night of Tuesday to Wednesday, 71 residents of the seniors' residence "Le Sourire" at Careers-sous-Poissy (Yvelines) were left alone, abandoned by staff.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Soixante et onze pensionnaires de la résidence pour personnes âgées "Le Sourire", à Carrières sous Poissy (Yvelines) ont été, dans la nuit de mardi à mercredi, abandonnés par le personnel.]]></source>
+		<target lang="en">
+			<nbest id="0" total="395.7887"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="1" total="395.8026"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="2" total="396.1488"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" at Careers in Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="3" total="396.1627"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" at Careers in Poissy (Yvelines) were on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="4" total="396.2407"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="5" total="396.2546"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were on the night of Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="6" total="396.2766"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="7" total="396.2851"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were, on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="8" total="396.2906"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="9" total="396.5189"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" Carrieres sous Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="10" total="396.5328"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" Carrieres sous Poissy (Yvelines) were on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="11" total="396.6007"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" at Careers in Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="12" total="396.6147"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" at Careers in Poissy (Yvelines) were on the night of Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="13" total="396.6367"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" at Careers in Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="14" total="396.6452"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" at Careers in Poissy (Yvelines) were, on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="15" total="396.6507"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" at Careers in Poissy (Yvelines) were on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="16" total="396.7286"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="17" total="396.7371"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were, on the night of Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="18" total="396.7426"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were on the night of Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="19" total="396.773"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" to Careers in Poissy (Yvelines) were, on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="20" total="396.9709"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" Carrieres sous Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="21" total="396.9848"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" Carrieres sous Poissy (Yvelines) were on the night of Wednesday, abandoned by the staff.]]></nbest>
+			<nbest id="22" total="397.0068"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" Carrieres sous Poissy (Yvelines) were in the night from Tuesday to Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="23" total="397.0153"><![CDATA[Seventy-one residents of the seniors' residence "Le Sourire" Carrieres sous Poissy (Yvelines) were, on the night of Wednesday, abandoned by staff.]]></nbest>
+			<nbest id="24" total="397.0208"><![CDATA[Seventy-one residents of seniors' residence "Le Sourire" Carrieres sous Poissy (Yvelines) were on the night of Wednesday, abandoned by staff.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La police est intervenue dans la nuit de mardi à mercredi dans une maison de retraire de Carrières-sous-Poissy dans les Yvelines après avoir été alertée par des résidents se plaignant de ne pas avoir de personnel pour la nuit, a-t-on appris mercredi de sources policières.]]></source>
+		<target lang="en">
+			<nbest id="0" total="543.2167"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy, Yvelines after being alerted by residents complaining of having no staff at night, says on Wednesday, police sources.]]></nbest>
+			<nbest id="1" total="543.3939"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy, Yvelines after being alerted by residents complaining of having no staff at night,-t on Wednesday, police sources.]]></nbest>
+			<nbest id="2" total="544.1565"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy near Paris after being alerted by residents complaining of having no staff at night, says on Wednesday, police sources.]]></nbest>
+			<nbest id="3" total="544.3337"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy near Paris after being alerted by residents complaining of having no staff at night,-t on Wednesday, police sources.]]></nbest>
+			<nbest id="4" total="544.993"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house retreat Carrières-sous-Poissy, Yvelines after being alerted by residents complaining of having no staff at night, says on Wednesday, police sources.]]></nbest>
+			<nbest id="5" total="545.1703"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house retreat Carrières-sous-Poissy, Yvelines after being alerted by residents complaining of having no staff at night,-t on Wednesday, police sources.]]></nbest>
+			<nbest id="6" total="545.9329"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house retreat Carrières-sous-Poissy near Paris after being alerted by residents complaining of having no staff at night, says on Wednesday, police sources.]]></nbest>
+			<nbest id="7" total="546.0277"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy, Yvelines after being alerted by residents complaining about having no staff at night, says on Wednesday, police sources.]]></nbest>
+			<nbest id="8" total="546.11"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house retreat Carrières-sous-Poissy near Paris after being alerted by residents complaining of having no staff at night,-t on Wednesday, police sources.]]></nbest>
+			<nbest id="9" total="546.196"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy, Yvelines after being alerted by residents complaining of having no staff at night, does on Wednesday, police sources.]]></nbest>
+			<nbest id="10" total="546.205"><![CDATA[The police intervened in the night from Tuesday to Wednesday in a house of retreat Carrières-sous-Poissy, Yvelines after being alerted by residents complaining about having no staff at night,-t on Wednesday, police sources.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Un vaisseau Soyouz transportant trois spationautes russes et américain s'est arrimé mercredi à la Station Spatiale Internationale (ISS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="201.1386"><![CDATA[A Soyuz spacecraft carrying three astronauts and Russian American docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="1" total="201.8795"><![CDATA[A Soyuz spacecraft carrying three astronauts Russian and American docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="2" total="203.7295"><![CDATA[A Soyuz spacecraft carrying three astronauts and Russian American docked Wednesday with the International Space Station (ISS).]]></nbest>
+			<nbest id="3" total="204.4704"><![CDATA[A Soyuz spacecraft carrying three astronauts Russian and American docked Wednesday with the International Space Station (ISS).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un vaisseau Soyouz, avec deux Russes et un Américain à bord, s'est arrimé comme prévu à la Station Spatiale Internationale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="232.1001"><![CDATA[A Soyuz spacecraft with two Russians and one American aboard, docked as scheduled at the International Space Station.]]></nbest>
+			<nbest id="1" total="232.103"><![CDATA[A Soyuz spacecraft with two Russians and one American aboard, docked as planned at the International Space Station.]]></nbest>
+			<nbest id="2" total="232.3228"><![CDATA[A Soyuz spacecraft with two Russians and one American aboard, docked as provided in the International Space Station.]]></nbest>
+			<nbest id="3" total="232.426"><![CDATA[A Soyuz spacecraft with two Russians and an American on board, docked as scheduled at the International Space Station.]]></nbest>
+			<nbest id="4" total="232.4289"><![CDATA[A Soyuz spacecraft with two Russians and an American on board, docked as planned at the International Space Station.]]></nbest>
+			<nbest id="5" total="232.6487"><![CDATA[A Soyuz spacecraft with two Russians and an American on board, docked as provided in the International Space Station.]]></nbest>
+			<nbest id="6" total="232.9649"><![CDATA[A Soyuz spacecraft with two Russians and one American aboard, docked as planned to the International Space Station.]]></nbest>
+			<nbest id="7" total="233.2908"><![CDATA[A Soyuz spacecraft with two Russians and an American on board, docked as planned to the International Space Station.]]></nbest>
+			<nbest id="8" total="233.8653"><![CDATA[A Soyuz spacecraft with two Russians and one American aboard, was pegged as provided in the International Space Station.]]></nbest>
+			<nbest id="9" total="233.8943"><![CDATA[A Soyuz spacecraft with two Russian and one American on board, docked as scheduled at the International Space Station.]]></nbest>
+			<nbest id="10" total="233.8972"><![CDATA[A Soyuz spacecraft with two Russian and one American on board, docked as planned at the International Space Station.]]></nbest>
+			<nbest id="11" total="234.117"><![CDATA[A Soyuz spacecraft with two Russian and one American on board, docked as provided in the International Space Station.]]></nbest>
+			<nbest id="12" total="234.2871"><![CDATA[A Soyuz spacecraft with two Russians and one American on board, docked as scheduled at the International Space Station.]]></nbest>
+			<nbest id="13" total="234.2899"><![CDATA[A Soyuz spacecraft with two Russians and one American on board, docked as planned at the International Space Station.]]></nbest>
+			<nbest id="14" total="234.5097"><![CDATA[A Soyuz spacecraft with two Russians and one American on board, docked as provided in the International Space Station.]]></nbest>
+			<nbest id="15" total="234.5777"><![CDATA[A Soyuz spacecraft with two Russians and an American on board docked as planned at the International Space Station.]]></nbest>
+			<nbest id="16" total="234.7591"><![CDATA[A Soyuz spacecraft with two Russian and one American on board, docked as planned to the International Space Station.]]></nbest>
+			<nbest id="17" total="234.7975"><![CDATA[A Soyuz spacecraft with two Russians and an American on board docked as provided in the International Space Station.]]></nbest>
+			<nbest id="18" total="235.1518"><![CDATA[A Soyuz spacecraft with two Russians and one American on board, docked as planned to the International Space Station.]]></nbest>
+			<nbest id="19" total="235.1791"><![CDATA[A Soyuz spacecraft with two Russians and one American aboard, docked as planned in the International Space Station.]]></nbest>
+			<nbest id="20" total="235.1816"><![CDATA[A Soyuz spacecraft with two Russian and one American aboard, docked as scheduled at the International Space Station.]]></nbest>
+			<nbest id="21" total="235.1845"><![CDATA[A Soyuz spacecraft with two Russian and one American aboard, docked as planned at the International Space Station.]]></nbest>
+			<nbest id="22" total="235.2563"><![CDATA[A Soyuz spacecraft with two Russians and an American on board docked as scheduled at the International Space Station.]]></nbest>
+			<nbest id="23" total="235.2882"><![CDATA[A Soyuz spacecraft with two Russians and an American on board has docked as planned at the International Space Station.]]></nbest>
+			<nbest id="24" total="235.4043"><![CDATA[A Soyuz spacecraft with two Russian and one American aboard, docked as provided in the International Space Station.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La capsule Soyouz, avec trois astronautes à son bord, s'est arrimée mercredi à la Station Spatiale Internationale (ISS), au soulagement des agences internationales qui craignaient de devoir laisser la base en orbite sans équipage.]]></source>
+		<target lang="en">
+			<nbest id="0" total="412.7784"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), to the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="1" total="413.0026"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="2" total="413.0309"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), to the relief of international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="3" total="413.1902"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), the relief of the international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="4" total="413.255"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), the relief of international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="5" total="413.4427"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), the relief of the international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="6" total="413.9729"><![CDATA[Soyuz with three astronauts on board, was secured on Wednesday at the International Space Station (ISS), to the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="7" total="414.0085"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), to the relief of international agencies, who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="8" total="414.0189"><![CDATA[Soyuz with three astronauts on board is stowed on Wednesday at the International Space Station (ISS), to the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="9" total="414.1971"><![CDATA[Soyuz with three astronauts on board, was secured on Wednesday at the International Space Station (ISS), the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="10" total="414.2254"><![CDATA[Soyuz with three astronauts on board, was secured on Wednesday at the International Space Station (ISS), to the relief of international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="11" total="414.2327"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), the relief of international agencies, who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="12" total="414.243"><![CDATA[Soyuz with three astronauts on board is stowed on Wednesday at the International Space Station (ISS), the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="13" total="414.2713"><![CDATA[Soyuz with three astronauts on board is stowed on Wednesday at the International Space Station (ISS), to the relief of international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="14" total="414.3848"><![CDATA[Soyuz with three astronauts on board, was secured on Wednesday at the International Space Station (ISS), the relief of the international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="15" total="414.4307"><![CDATA[Soyuz with three astronauts on board is stowed on Wednesday at the International Space Station (ISS), the relief of the international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="16" total="414.4496"><![CDATA[Soyuz with three astronauts on board, was secured on Wednesday at the International Space Station (ISS), the relief of international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="17" total="414.4653"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), the relief international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="18" total="414.4955"><![CDATA[Soyuz with three astronauts on board is stowed on Wednesday at the International Space Station (ISS), the relief of international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="19" total="414.525"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), to the relief of international agencies, who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="20" total="414.5493"><![CDATA[Soyuz with three astronauts on board, was stowed on Wednesday at the International Space Station (ISS), to the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="21" total="414.5859"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS) for the relief of international agencies who feared having to leave the base unmanned orbit.]]></nbest>
+			<nbest id="22" total="414.6372"><![CDATA[Soyuz with three astronauts on board, was secured on Wednesday at the International Space Station (ISS), the relief of the international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="23" total="414.6832"><![CDATA[Soyuz with three astronauts on board is stowed on Wednesday at the International Space Station (ISS), the relief of the international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+			<nbest id="24" total="414.7177"><![CDATA[Soyuz with three astronauts on board, was on Wednesday docked the International Space Station (ISS), the relief international agencies who feared having to leave the base in orbit without a crew.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un vaisseau Soyouz transportant trois astronautes (deux Russes et un Américain) s'est arrimé aujourd'hui à la Station Spatiale Internationale (ISS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="231.2773"><![CDATA[A Soyuz spacecraft carrying three astronauts (two Russians and one American) docked today at the International Space Station (ISS).]]></nbest>
+			<nbest id="1" total="233.5971"><![CDATA[A Soyuz spacecraft carrying three astronauts (two Russians and one American) has docked today at the International Space Station (ISS).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'agence spatiale russe a annoncé que le vaisseau Soyouz a réussi aujourd'hui son arrimage à la Station Spatiale Internationale (ISS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="217.744"><![CDATA[The Russian space agency announced that the Soyuz succeeded today docking with the International Space Station (ISS).]]></nbest>
+			<nbest id="1" total="217.828"><![CDATA[The Russian space agency has announced that the Soyuz succeeded today docking with the International Space Station (ISS).]]></nbest>
+			<nbest id="2" total="218.7775"><![CDATA[The Russian space agency announced that the Soyuz has today succeeded docking with the International Space Station (ISS).]]></nbest>
+			<nbest id="3" total="218.8614"><![CDATA[The Russian space agency has announced that the Soyuz has today succeeded docking with the International Space Station (ISS).]]></nbest>
+			<nbest id="4" total="219.1402"><![CDATA[The Russian space agency announced that the Soyuz has successfully today docking with the International Space Station (ISS).]]></nbest>
+			<nbest id="5" total="219.2242"><![CDATA[The Russian space agency has announced that the Soyuz has successfully today docking with the International Space Station (ISS).]]></nbest>
+			<nbest id="6" total="219.5085"><![CDATA[The Russian space agency announced that the Soyuz has succeeded today docking with the International Space Station (ISS).]]></nbest>
+			<nbest id="7" total="219.5924"><![CDATA[The Russian space agency has announced that the Soyuz has succeeded today docking with the International Space Station (ISS).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un vaisseau Soyouz avec deux cosmonautes russes et un astronaute américain à bord s'est arrimé mercredi "sans accroc" à la Station Spatiale Internationale (ISS) au cours de la première mission habitée depuis cinq mois, après une série d'échecs dans le secteur spatial russe.]]></source>
+		<target lang="en">
+			<nbest id="0" total="403.0117"><![CDATA[A Soyuz spacecraft with two Russian cosmonauts and an American astronaut aboard docked Wednesday "smoothly" to the International Space Station (ISS) during the first manned mission for five months after a series of failures in the Russian space sector.]]></nbest>
+			<nbest id="1" total="403.0439"><![CDATA[A Soyuz spacecraft with two Russian cosmonauts and an American astronaut aboard docked Wednesday "smoothly" to the International Space Station (ISS) during the first manned mission for five months after a series of setbacks in the Russian space sector.]]></nbest>
+			<nbest id="2" total="403.7231"><![CDATA[A Soyuz spacecraft with two Russian cosmonauts and an American astronaut aboard docked Wednesday "seamless" to the International Space Station (ISS) during the first manned mission for five months after a series of failures in the Russian space sector.]]></nbest>
+			<nbest id="3" total="403.7552"><![CDATA[A Soyuz spacecraft with two Russian cosmonauts and an American astronaut aboard docked Wednesday "seamless" to the International Space Station (ISS) during the first manned mission for five months after a series of setbacks in the Russian space sector.]]></nbest>
+			<nbest id="4" total="404.0593"><![CDATA[A Soyuz spacecraft with two Russian cosmonauts and an American astronaut aboard docked Wednesday "smooth" to the International Space Station (ISS) during the first manned mission for five months after a series of failures in the Russian space sector.]]></nbest>
+			<nbest id="5" total="404.0914"><![CDATA[A Soyuz spacecraft with two Russian cosmonauts and an American astronaut aboard docked Wednesday "smooth" to the International Space Station (ISS) during the first manned mission for five months after a series of setbacks in the Russian space sector.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La fusée transportant les Russes Anton Chklaperov et Anatoli Ivanichine, ainsi que l'Américain Dan Burbank, avait décollé lundi depuis le cosmodrome russe de Baïkonour au Kazakhstan, marquant la reprise des vols habités vers l'ISS suspendus en août après la perte d'un vaisseau russe de ravitaillement qui s'est écrasé en Sibérie peu après son décollage.]]></source>
+		<target lang="en">
+			<nbest id="0" total="903.5889"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="1" total="904.2441"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply that crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="2" total="904.28"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="3" total="904.3659"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoly Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="4" total="904.4041"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian ship refueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="5" total="904.9352"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian vessel supply that crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="6" total="905.0211"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoly Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply that crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="7" total="905.057"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoly Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="8" total="905.0952"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian ship refueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="9" total="905.1811"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoly Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian ship refueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="10" total="905.3843"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank, took off Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="11" total="905.4462"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel refueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="12" total="905.4973"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian ship refueling which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="13" total="905.5667"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="14" total="905.7122"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoly Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian vessel supply that crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="15" total="905.8722"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoly Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian ship refueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="16" total="906.0395"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank, took off Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply that crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="17" total="906.0754"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank, took off Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="18" total="906.0991"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian spacecraft fueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="19" total="906.1373"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian vessel refueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="20" total="906.1516"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine, and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="21" total="906.1613"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoly Ivanichine and American Dan Burbank, took off Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian vessel supply, which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="22" total="906.1884"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flights to the ISS suspended in August after the loss of a Russian ship refueling which crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="23" total="906.1995"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank, took off Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian ship refueling crashed in Siberia shortly after takeoff.]]></nbest>
+			<nbest id="24" total="906.2104"><![CDATA[The rocket carrying Russian Anton Chklaperov and Anatoli Ivanichine and American Dan Burbank departed Monday from Russia's Baikonur Cosmodrome in Kazakhstan, marking the resumption of manned flight to the ISS suspended in August after the loss of a Russian ship refueling that crashed in Siberia shortly after takeoff.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le vaisseau Soyouz qui avait décollé, lundi 14 novembre, du cosmodrome de Baïkonour, au Kazakhstan, s'est arrimé, mercredi, à la Station Spatiale Internationale (ISS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="272.343"><![CDATA[The Soyuz spacecraft that took off Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="1" total="273.5147"><![CDATA[The Soyuz spacecraft that took off Monday, November 14, from the Baikonur Cosmodrome, Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="2" total="273.9732"><![CDATA[The Soyuz spacecraft that took off, Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="3" total="274.7396"><![CDATA[The Soyuz spacecraft that took off on Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="4" total="275.145"><![CDATA[The Soyuz spacecraft that took off, Monday, November 14, from the Baikonur Cosmodrome, Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="5" total="275.4626"><![CDATA[The Soyuz spacecraft that had taken off, Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="6" total="275.4889"><![CDATA[The Soyuz spacecraft that took off, Monday, Nov. 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="7" total="275.727"><![CDATA[The Soyuz spacecraft that took off Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="8" total="275.8458"><![CDATA[The Soyuz spacecraft that took off Monday, November 14, from the Baikonur cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="9" total="275.9113"><![CDATA[The Soyuz spacecraft that took off on Monday, November 14, from the Baikonur Cosmodrome, Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="10" total="276.3504"><![CDATA[The Soyuz spacecraft that took off on Monday November 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="11" total="276.6344"><![CDATA[The Soyuz spacecraft that had taken off, Monday, November 14, from the Baikonur Cosmodrome, Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="12" total="276.6606"><![CDATA[The Soyuz spacecraft that took off, Monday, Nov. 14, from the Baikonur Cosmodrome, Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="13" total="276.9783"><![CDATA[The Soyuz spacecraft that had taken off, Monday, Nov. 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="14" total="277.3573"><![CDATA[The Soyuz spacecraft that took off, Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="15" total="277.476"><![CDATA[The Soyuz spacecraft that took off, Monday, November 14, from the Baikonur cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="16" total="277.5222"><![CDATA[The Soyuz spacecraft that took off on Monday November 14, from the Baikonur Cosmodrome, Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="17" total="277.5486"><![CDATA[The Soyuz spacecraft that took off Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan, has docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="18" total="277.6311"><![CDATA[The Soyuz spacecraft that had departed, Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="19" total="277.9931"><![CDATA[The Soyuz spacecraft that had taken off on Monday, November 14, from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+			<nbest id="20" total="278.0318"><![CDATA[The Soyuz spacecraft that took off Monday, November 14 from the Baikonur Cosmodrome in Kazakhstan, docked Wednesday at the International Space Station (ISS).]]></nbest>
+		</target>
+	</sentence>
+</cluster>

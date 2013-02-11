@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Un nouveau traitement, l'Ivacaftor, s'est révélé très prometteur contre la mucoviscidose, selon les résultats d'un essai clinique publiés mercredi qui marquent une avancée clé contre cette maladie héréditaire incurable et rare, selon ses auteurs.]]></source>
+		<target lang="en">
+			<nbest id="0" total="600.5656"><![CDATA[A new treatment, Ivacaftor has proved very promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="1" total="601.3632"><![CDATA[A new treatment, Ivacaftor, proved very promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="2" total="601.4754"><![CDATA[A new treatment, Ivacaftor has proved promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="3" total="601.5742"><![CDATA[A new treatment, Ivacaftor has proved very promising against cystic fibrosis, according to the results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="4" total="602.3477"><![CDATA[A new treatment, Ivacaftor has proved very promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to the authors.]]></nbest>
+			<nbest id="5" total="602.3718"><![CDATA[A new treatment, Ivacaftor, proved very promising against cystic fibrosis, according to the results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="6" total="602.4348"><![CDATA[A new treatment, Ivacaftor has proved very promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable hereditary disease and rare, according to its authors.]]></nbest>
+			<nbest id="7" total="602.4839"><![CDATA[A new treatment, Ivacaftor has proved promising against cystic fibrosis, according to the results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="8" total="602.6953"><![CDATA[A new treatment, Ivacaftor, proved to be very promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="9" total="602.9492"><![CDATA[A new treatment, Ivacaftor has proved very promising against cystic fibrosis, according to results of a clinical trial published Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+			<nbest id="10" total="603.1453"><![CDATA[A new treatment, Ivacaftor, proved very promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to the authors.]]></nbest>
+			<nbest id="11" total="603.2324"><![CDATA[A new treatment, Ivacaftor, proved very promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable hereditary disease and rare, according to its authors.]]></nbest>
+			<nbest id="12" total="603.2575"><![CDATA[A new treatment, Ivacaftor has proved promising against cystic fibrosis, according to results of a clinical trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to the authors.]]></nbest>
+			<nbest id="13" total="603.3231"><![CDATA[A new treatment, Ivacaftor has proved very promising against cystic fibrosis, according to results of a trial released Wednesday that marks a key advanced against this incurable and rare hereditary disease, according to its authors.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un essai clinique du groupe pharmaceutique américain Vertex Pharmaceutical, publié mercredi dans le New England Journal of Medicine, marque une avancée importante dans la lutte contre la mucoviscidose qui touche les voies respiratoires et détruit les fonctions pulmonaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="396.4001"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a significant step forward in the fight against cystic fibrosis that affects the airways and destroys lung function.]]></nbest>
+			<nbest id="1" total="396.4588"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a major step forward in the fight against cystic fibrosis that affects the airways and destroys lung function.]]></nbest>
+			<nbest id="2" total="396.9861"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a significant step forward in the fight against cystic fibrosis affects the airways and destroys lung function.]]></nbest>
+			<nbest id="3" total="396.9934"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine, represents a significant advance in the fight against cystic fibrosis that affects the airways and destroys lung function.]]></nbest>
+			<nbest id="4" total="397.0283"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a significant advance in the fight against cystic fibrosis that affects the airways and destroys lung function.]]></nbest>
+			<nbest id="5" total="397.0449"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a major step forward in the fight against cystic fibrosis affects the airways and destroys lung function.]]></nbest>
+			<nbest id="6" total="397.1051"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a significant step in the fight against cystic fibrosis that affects the airways and destroys lung function.]]></nbest>
+			<nbest id="7" total="397.1445"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine, represents a major step forward in the fight against cystic fibrosis that affects the airways and destroys lung function.]]></nbest>
+			<nbest id="8" total="397.4663"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine, represents a significant step forward in the fight against cystic fibrosis that affects the airways and destroys lung function.]]></nbest>
+			<nbest id="9" total="397.5599"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a significant step forward in the fight against cystic fibrosis affects the respiratory system and destroys lung function.]]></nbest>
+			<nbest id="10" total="397.5794"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine, represents a significant advance in the fight against cystic fibrosis affects the airways and destroys lung function.]]></nbest>
+			<nbest id="11" total="397.5841"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a significant step forward in the fight against cystic fibrosis affects the respiratory tract and destroys lung function.]]></nbest>
+			<nbest id="12" total="397.6143"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a significant advance in the fight against cystic fibrosis affects the airways and destroys lung function.]]></nbest>
+			<nbest id="13" total="397.6187"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. pharmaceutical group, published Wednesday in the New England Journal of Medicine marks a major step forward in the fight against cystic fibrosis affects the respiratory system and destroys lung function.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un essai clinique des laboratoires américains Vertex Pharmaceutical, publié mercredi, marque une avancée significative dans la lutte contre cette maladie qui touche les voies respiratoires et les fonctions pulmonaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="312.4518"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung function.]]></nbest>
+			<nbest id="1" total="312.7051"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung functions.]]></nbest>
+			<nbest id="2" total="312.7471"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant step forward in the fight against this disease that affects the airways and pulmonary function.]]></nbest>
+			<nbest id="3" total="313.067"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant step forward in the fight against this disease that affects the respiratory system and lung function.]]></nbest>
+			<nbest id="4" total="313.3706"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung function.]]></nbest>
+			<nbest id="5" total="313.4948"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant step forward in the fight against this disease that affects the respiratory tract and lung function.]]></nbest>
+			<nbest id="6" total="313.6037"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. laboratories, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung function.]]></nbest>
+			<nbest id="7" total="313.624"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung functions.]]></nbest>
+			<nbest id="8" total="313.6659"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and pulmonary function.]]></nbest>
+			<nbest id="9" total="313.7536"><![CDATA[A clinical trial of Vertex Pharmaceutical American laboratories, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung function.]]></nbest>
+			<nbest id="10" total="313.8352"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant milestone in the fight against this disease that affects the airways and lung function.]]></nbest>
+			<nbest id="11" total="313.8414"><![CDATA[A clinical trial of Vertex Pharmaceutical Laboratories U.S., on Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung function.]]></nbest>
+			<nbest id="12" total="313.8571"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. laboratories, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung functions.]]></nbest>
+			<nbest id="13" total="313.899"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. laboratories, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and pulmonary function.]]></nbest>
+			<nbest id="14" total="313.9859"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, published Wednesday, marks a significant step forward in the fight against this disease that affects the respiratory system and lung function.]]></nbest>
+			<nbest id="15" total="314.007"><![CDATA[A clinical trial of Vertex Pharmaceutical American laboratories, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung functions.]]></nbest>
+			<nbest id="16" total="314.0489"><![CDATA[A clinical trial of Vertex Pharmaceutical American laboratories, published Wednesday, marks a significant step forward in the fight against this disease that affects the airways and pulmonary function.]]></nbest>
+			<nbest id="17" total="314.0886"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant milestone in the fight against this disease that affects the airways and lung functions.]]></nbest>
+			<nbest id="18" total="314.0948"><![CDATA[A clinical trial of Vertex Pharmaceutical Laboratories U.S., on Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung functions.]]></nbest>
+			<nbest id="19" total="314.1306"><![CDATA[A clinical trial of American laboratories Vertex Pharmaceutical, released Wednesday, marks a significant milestone in the fight against this disease that affects the airways and pulmonary function.]]></nbest>
+			<nbest id="20" total="314.1367"><![CDATA[A clinical trial of Vertex Pharmaceutical Laboratories U.S., on Wednesday, marks a significant step forward in the fight against this disease that affects the airways and pulmonary function.]]></nbest>
+			<nbest id="21" total="314.1963"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. laboratories, released Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung function.]]></nbest>
+			<nbest id="22" total="314.219"><![CDATA[A clinical trial of Vertex Pharmaceutical U.S. laboratories, published Wednesday, marks a significant step forward in the fight against this disease that affects the respiratory system and lung function.]]></nbest>
+			<nbest id="23" total="314.2313"><![CDATA[A clinical trial of U.S. laboratories Vertex Pharmaceutical, released Wednesday, marks a significant step forward in the fight against this disease that affects the airways and lung function.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Après des essais cliniques encourageants, les chercheurs estiment que l'Ivacaftor pourrait permettre de guérir de la mucoviscidose en s'attaquant aux causes de la maladie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="404.0027"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="1" total="404.1384"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="2" total="404.4723"><![CDATA[After promising clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="3" total="404.608"><![CDATA[After promising clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="4" total="404.7973"><![CDATA[After encouraging clinical trials, researchers believe that Ivacaftor could help cure cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="5" total="404.933"><![CDATA[After encouraging clinical trials, researchers believe that Ivacaftor could help cure cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="6" total="405.2669"><![CDATA[After promising clinical trials, researchers believe that Ivacaftor could help cure cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="7" total="405.4026"><![CDATA[After promising clinical trials, researchers believe that Ivacaftor could help cure cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="8" total="405.4714"><![CDATA[After encouraging clinical trials, researchers estimate that the Ivacaftor could help cure cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="9" total="405.5146"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis addressing the root causes of the disease.]]></nbest>
+			<nbest id="10" total="405.6071"><![CDATA[After encouraging clinical trials, researchers estimate that the Ivacaftor could help cure cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="11" total="405.6175"><![CDATA[After encouraging clinical trials, the researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="12" total="405.6683"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis addressing the causes of the disease.]]></nbest>
+			<nbest id="13" total="405.7532"><![CDATA[After encouraging clinical trials, the researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="14" total="405.7612"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the causes of disease.]]></nbest>
+			<nbest id="15" total="405.941"><![CDATA[After promising clinical trials, researchers estimate that the Ivacaftor could help cure cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="16" total="405.9843"><![CDATA[After promising clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis addressing the root causes of the disease.]]></nbest>
+			<nbest id="17" total="406.0767"><![CDATA[After promising clinical trials, researchers estimate that the Ivacaftor could help cure cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="18" total="406.1099"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the root causes of disease.]]></nbest>
+			<nbest id="19" total="406.2061"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure for cystic fibrosis in addressing the causes of the disease.]]></nbest>
+			<nbest id="20" total="406.2308"><![CDATA[After promising clinical trials, researchers estimate that Ivacaftor could help cure cystic fibrosis in addressing the causes of disease.]]></nbest>
+			<nbest id="21" total="406.3093"><![CDATA[After encouraging clinical trials, researchers believe that Ivacaftor could help cure cystic fibrosis addressing the root causes of the disease.]]></nbest>
+			<nbest id="22" total="406.3417"><![CDATA[After encouraging clinical trials, researchers estimate that Ivacaftor could help cure for cystic fibrosis in addressing the root causes of the disease.]]></nbest>
+			<nbest id="23" total="406.463"><![CDATA[After encouraging clinical trials, researchers believe that Ivacaftor could help cure cystic fibrosis addressing the causes of the disease.]]></nbest>
+			<nbest id="24" total="406.5558"><![CDATA[After encouraging clinical trials, researchers believe that Ivacaftor could help cure cystic fibrosis in addressing the causes of disease.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Nouvel espoir pour les malades atteints de mucoviscidose, pathologie génétique incurable : un nouveau traitement, l'Ivacaftor, s'est révélé prometteur en améliorant l'état de certains patients.]]></source>
+		<target lang="en">
+			<nbest id="0" total="422.0974"><![CDATA[New hope for patients with cystic fibrosis, an incurable genetic disease: a new treatment, Ivacaftor, has shown promise in improving the condition of some patients.]]></nbest>
+			<nbest id="1" total="425.4292"><![CDATA[New hope for patients with cystic fibrosis, an incurable genetic disease: a new treatment, Ivacaftor, has shown promise in improving the status of some patients.]]></nbest>
+			<nbest id="2" total="425.9187"><![CDATA[New hope for patients with cystic fibrosis, an incurable genetic disease: a new treatment, the Ivacaftor, has shown promise in improving the condition of some patients.]]></nbest>
+			<nbest id="3" total="426.0779"><![CDATA[New hope for patients with cystic fibrosis, an incurable genetic disease: a new treatment, Ivacaftor, has shown promise in improving the state of some patients.]]></nbest>
+			<nbest id="4" total="426.1698"><![CDATA[New hope for patients suffering from cystic fibrosis, an incurable genetic disease: a new treatment, Ivacaftor, has shown promise in improving the condition of some patients.]]></nbest>
+			<nbest id="5" total="426.246"><![CDATA[New hope for patients with cystic fibrosis, an incurable genetic disease: a new treatment, Ivacaftor, has shown promise in improving the status of certain patients.]]></nbest>
+			<nbest id="6" total="426.5179"><![CDATA[New hope for patients with cystic fibrosis, an incurable genetic disease: new treatment, Ivacaftor, has shown promise in improving the condition of some patients.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Présenté dans le New England Journal of Medicine, jeudi 3 novembre, un essai clinique montre que l'Ivacaftor, un traitement par voie orale, agit directement sur le mécanisme de la maladie, alors que toutes les thérapies actuelles n'avaient d'effets que sur les complications associées à la mucoviscidose.]]></source>
+		<target lang="en">
+			<nbest id="0" total="609.5884"><![CDATA[Presented in the New England Journal of Medicine, Thursday, Nov. 3, a clinical trial shows that Ivacaftor an oral treatment acts directly on the mechanism of the disease, while all current therapies had no effect on the complications associated with cystic fibrosis.]]></nbest>
+			<nbest id="1" total="609.7153"><![CDATA[Presented in the New England Journal of Medicine, Thursday, Nov. 3, a clinical trial shows that Ivacaftor, treatment with oral acts directly on the mechanism of the disease, while all current therapies had no effect on the complications associated with cystic fibrosis.]]></nbest>
+			<nbest id="2" total="610.2581"><![CDATA[Presented in the New England Journal of Medicine, Thursday, Nov. 3, a clinical trial shows that Ivacaftor an oral treatment acts directly on the mechanism of the disease, while all current therapies had no effect on complications associated with cystic fibrosis.]]></nbest>
+			<nbest id="3" total="610.385"><![CDATA[Presented in the New England Journal of Medicine, Thursday, Nov. 3, a clinical trial shows that Ivacaftor, treatment with oral acts directly on the mechanism of the disease, while all current therapies had no effect on complications associated with cystic fibrosis.]]></nbest>
+			<nbest id="4" total="610.6042"><![CDATA[Presented in the New England Journal of Medicine, Thursday, November 3, a clinical trial shows that Ivacaftor an oral treatment acts directly on the mechanism of the disease, while all current therapies had no effect on the complications associated with cystic fibrosis.]]></nbest>
+			<nbest id="5" total="610.7081"><![CDATA[Presented in the New England Journal of Medicine, Thursday, Nov. 3, a clinical trial shows that Ivacaftor an oral therapy acts directly on the mechanism of the disease, while all current therapies had no effect on the complications associated with cystic fibrosis.]]></nbest>
+			<nbest id="6" total="610.7311"><![CDATA[Presented in the New England Journal of Medicine, Thursday, November 3, a clinical trial shows that Ivacaftor, treatment with oral acts directly on the mechanism of the disease, while all current therapies had no effect on the complications associated with cystic fibrosis.]]></nbest>
+			<nbest id="7" total="610.9255"><![CDATA[Presented in the New England Journal of Medicine, Thursday, Nov. 3, a clinical trial shows that Ivacaftor an oral treatment, acts directly on the mechanism of the disease, while all current therapies had no effect on the complications associated with cystic fibrosis.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Nouvel espoir pour les patients atteints de mucoviscidose, cette maladie génétique incurable : un nouveau traitement, l'Ivacaftor, s'est révélé très prometteur, selon les résultats d'un essai clinique.]]></source>
+		<target lang="en">
+			<nbest id="0" total="436.8156"><![CDATA[New hope for patients with cystic fibrosis, this incurable genetic disease: a new treatment, Ivacaftor has proved very promising, according to results of a clinical trial.]]></nbest>
+			<nbest id="1" total="437.17"><![CDATA[New hope for patients with cystic fibrosis, the incurable genetic disease: a new treatment, Ivacaftor has proved very promising, according to results of a clinical trial.]]></nbest>
+			<nbest id="2" total="437.6016"><![CDATA[New hope for patients with cystic fibrosis, this incurable genetic disease: a new treatment, Ivacaftor has proved very promising, according to the results of a clinical trial.]]></nbest>
+			<nbest id="3" total="437.6132"><![CDATA[New hope for patients with cystic fibrosis, this incurable genetic disease: a new treatment, Ivacaftor, proved very promising, according to results of a clinical trial.]]></nbest>
+			<nbest id="4" total="437.956"><![CDATA[New hope for patients with cystic fibrosis, the incurable genetic disease: a new treatment, Ivacaftor has proved very promising, according to the results of a clinical trial.]]></nbest>
+			<nbest id="5" total="437.9676"><![CDATA[New hope for patients with cystic fibrosis, the incurable genetic disease: a new treatment, Ivacaftor, proved very promising, according to results of a clinical trial.]]></nbest>
+			<nbest id="6" total="438.29"><![CDATA[New hope for cystic fibrosis patients, this incurable genetic disease: a new treatment, Ivacaftor has proved very promising, according to results of a clinical trial.]]></nbest>
+			<nbest id="7" total="438.3992"><![CDATA[New hope for patients with cystic fibrosis, this incurable genetic disease: a new treatment, Ivacaftor, proved very promising, according to the results of a clinical trial.]]></nbest>
+			<nbest id="8" total="438.5849"><![CDATA[New hope for cystic fibrosis patients, the incurable genetic disease: a new treatment, Ivacaftor has proved very promising, according to results of a clinical trial.]]></nbest>
+			<nbest id="9" total="438.7536"><![CDATA[New hope for patients with cystic fibrosis, the incurable genetic disease: a new treatment, Ivacaftor, proved very promising, according to the results of a clinical trial.]]></nbest>
+			<nbest id="10" total="439.076"><![CDATA[New hope for cystic fibrosis patients, this incurable genetic disease: a new treatment, Ivacaftor has proved very promising, according to the results of a clinical trial.]]></nbest>
+			<nbest id="11" total="439.0876"><![CDATA[New hope for cystic fibrosis patients, this incurable genetic disease: a new treatment, Ivacaftor, proved very promising, according to results of a clinical trial.]]></nbest>
+			<nbest id="12" total="439.2017"><![CDATA[New hope for patients with cystic fibrosis, this incurable genetic disease: a new treatment, Ivacaftor, proved to be very promising, according to the results of a clinical trial.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les scientifiques ont testé avec succès un traitement pouvant corriger une anomalie génétique à l'origine de la mucoviscidose.]]></source>
+		<target lang="en">
+			<nbest id="0" total="185.3474"><![CDATA[Scientists have successfully tested a treatment that can correct a genetic defect causing cystic fibrosis.]]></nbest>
+			<nbest id="1" total="191.011"><![CDATA[Scientists have successfully tested a treatment can correct a genetic defect causing cystic fibrosis.]]></nbest>
+			<nbest id="2" total="192.8643"><![CDATA[Scientists have successfully tested a treatment that can correct a genetic cause of cystic fibrosis.]]></nbest>
+			<nbest id="3" total="194.2083"><![CDATA[Scientists have successfully tested treatment can correct a genetic defect causing cystic fibrosis.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les résultats très positifs d'une nouvelle étude démontrant l'efficacité d'un nouveau traitement s'attaquant à la cause de la mucoviscidose chez certains patients ont été publiés dans le New England Journal of Medicine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="300.8185"><![CDATA[The very positive results of a new study demonstrating the efficacy of a new treatment addressing the cause of cystic fibrosis in some patients have been published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="1" total="301.1544"><![CDATA[The very positive results of a new study showing the efficacy of a new treatment addressing the cause of cystic fibrosis in some patients have been published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="2" total="301.3936"><![CDATA[The very positive results of a new study showing the efficacy of a new treatment is attacking the cause of cystic fibrosis in some patients have been published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="3" total="301.8286"><![CDATA[The very positive results of a new study demonstrating the effectiveness of a new treatment addressing the cause of cystic fibrosis in some patients have been published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="4" total="302.2727"><![CDATA[The very positive results of a new study demonstrating the efficacy of a new treatment is attacking the cause of cystic fibrosis in some patients have been published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="5" total="302.5923"><![CDATA[The very positive results of a new study showing the effectiveness of a new treatment addressing the cause of cystic fibrosis in some patients have been published in the New England Journal of Medicine.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un nouveau traitement, l'Ivacaftor des laboratoires Vertex Pharmaceutical, permettrait en effet d'agir directement sur les mécanismes de la mucoviscidose et d'améliorer ainsi la qualité de vie des patients touchés par cette maladie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="470.6364"><![CDATA[A new treatment, Ivacaftor Vertex Pharmaceutical laboratories, would indeed act directly on the mechanisms of cystic fibrosis and to improve the quality of life of patients affected by this disease.]]></nbest>
+			<nbest id="1" total="472.4437"><![CDATA[A new treatment, Ivacaftor Vertex Pharmaceutical Laboratories, would indeed act directly on the mechanisms of cystic fibrosis and to improve the quality of life of patients affected by this disease.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs ont mis au point un médicament qui agit sur le mécanisme de la maladie, pour un traitement dès plus prometteur contre la mucoviscidose.]]></source>
+		<target lang="en">
+			<nbest id="0" total="243.2126"><![CDATA[Researchers have developed a drug that acts on the mechanism of the disease, since most promising treatment against cystic fibrosis.]]></nbest>
+			<nbest id="1" total="246.0035"><![CDATA[Researchers have developed a drug which acts on the mechanism of the disease, since most promising treatment against cystic fibrosis.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un traitement, l'Ivacaftor, a permis d'améliorer l'état de santé de jeunes malades. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="282.2957"><![CDATA[Treatment, the Ivacaftor has improved the health of young patients.]]></nbest>
+			<nbest id="1" total="282.9689"><![CDATA[Treatment, the Ivacaftor, has improved the health of young patients.]]></nbest>
+			<nbest id="2" total="283.5023"><![CDATA[Treatment, the Ivacaftor, helped improve the health of young patients.]]></nbest>
+			<nbest id="3" total="284.662"><![CDATA[Treatment, the Ivacaftor has improved the health status of young patients.]]></nbest>
+			<nbest id="4" total="285.0572"><![CDATA[A treatment, Ivacaftor has improved the health of young patients.]]></nbest>
+			<nbest id="5" total="285.3352"><![CDATA[Treatment, the Ivacaftor, has improved the health status of young patients.]]></nbest>
+			<nbest id="6" total="285.7304"><![CDATA[A treatment, Ivacaftor, has improved the health of young patients.]]></nbest>
+			<nbest id="7" total="286.8133"><![CDATA[Treatment, the Ivacaftor, helped improve the health status of young patients.]]></nbest>
+			<nbest id="8" total="287.2675"><![CDATA[Treatment, the Ivacaftor has helped improve the health of young patients.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon les résultats d'un essai clinique mené aux États-Unis, et publiés dans le New England Journal of Medicine, un nouveau traitement, l'Ivacaftor des laboratoires Vertex Pharmaceutical, permettrait pour la première fois d'agir directement sur les mécanismes impliqués dans la mucoviscidose et ainsi d'améliorer la qualité de vie des patients touchés par cette maladie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="637.8004"><![CDATA[According to the results of a clinical trial in the United States and published in the New England Journal of Medicine, a new treatment, Ivacaftor laboratories Vertex Pharmaceutical, would for the first time to act directly on the mechanisms involved in cystic fibrosis and thereby improve the quality of life of patients affected by this disease.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon les essais cliniques dont les résultats ont été publiés hier, l'Ivacaftor, un nouveau traitement contre la mucoviscidose, se montre très prometteur.]]></source>
+		<target lang="en">
+			<nbest id="0" total="373.176"><![CDATA[According to clinical trials whose results were published yesterday, Ivacaftor, a new treatment against cystic fibrosis, is very promising.]]></nbest>
+			<nbest id="1" total="373.2928"><![CDATA[According to clinical trials whose results were published yesterday, Ivacaftor a new treatment against cystic fibrosis, is very promising.]]></nbest>
+			<nbest id="2" total="375.3203"><![CDATA[According to clinical trials whose results were published yesterday, the Ivacaftor, a new treatment against cystic fibrosis, is very promising.]]></nbest>
+			<nbest id="3" total="375.437"><![CDATA[According to clinical trials whose results were published yesterday, the Ivacaftor a new treatment against cystic fibrosis, is very promising.]]></nbest>
+			<nbest id="4" total="375.9928"><![CDATA[According to the clinical trials whose results were published yesterday, Ivacaftor, a new treatment against cystic fibrosis, is very promising.]]></nbest>
+			<nbest id="5" total="376.1095"><![CDATA[According to the clinical trials whose results were published yesterday, Ivacaftor a new treatment against cystic fibrosis, is very promising.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une étude récente dirigée par des chercheurs universitaires et industriels et publiée dans le New England Journal of Medicine révèle pour la première fois l'efficacité d'un traitement s'attaquant à la cause de la maladie chez certains enfants atteints d'une mutation de la mucoviscidose.]]></source>
+		<target lang="en">
+			<nbest id="0" total="386.9329"><![CDATA[According to a recent study conducted by academic and industrial researchers and published in the New England Journal of Medicine reveals for the first time the effectiveness of a treatment addressing the cause of disease in some children with cystic fibrosis mutation.]]></nbest>
+			<nbest id="1" total="387.1399"><![CDATA[According to a recent study conducted by academic and industrial researchers and published in the New England Journal of Medicine reveals for the first time the effectiveness of a treatment addressing the cause of the disease in some children with cystic fibrosis mutation.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon l'information révélée par le New England Journal of Medicine et reprise aujourd'hui par le Figaro, les premiers résultats d'une étude menée sur un traitement de la mucoviscidose pourrait redonner de l'espoir aux malades.]]></source>
+		<target lang="en">
+			<nbest id="0" total="367.2594"><![CDATA[According to information revealed by the New England Journal of Medicine and recovery today by the BBC, the first results of a study on treatment of cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="1" total="367.4749"><![CDATA[According to information revealed by the New England Journal of Medicine and recovery today by Figaro, the first results of a study on treatment of cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="2" total="367.5747"><![CDATA[According to the information revealed by the New England Journal of Medicine and recovery today by the BBC, the first results of a study on treatment of cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="3" total="367.7901"><![CDATA[According to the information revealed by the New England Journal of Medicine and recovery today by Figaro, the first results of a study on treatment of cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="4" total="368.3891"><![CDATA[According to information revealed by the New England Journal of Medicine and recovery today by the BBC, the first results of a study on a treatment for cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="5" total="368.4939"><![CDATA[According to information revealed by the New England Journal of Medicine and recovery today by the Figaro, the first results of a study on treatment of cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="6" total="368.6046"><![CDATA[According to information revealed by the New England Journal of Medicine and recovery today by Figaro, the first results of a study on a treatment for cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="7" total="368.7044"><![CDATA[According to the information revealed by the New England Journal of Medicine and recovery today by the BBC, the first results of a study on a treatment for cystic fibrosis could give hope to patients.]]></nbest>
+			<nbest id="8" total="368.713"><![CDATA[According to information revealed by the New England Journal of Medicine and recovery today by the BBC, the first results of a study on treatment of cystic fibrosis may give hope to patients.]]></nbest>
+			<nbest id="9" total="368.7146"><![CDATA[According to information revealed by the New England Journal of Medicine and recovery today by Figaro, the first results of a study of treatment of cystic fibrosis could give hope to patients.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Ivacaftor, un traitement par voie orale développé par le laboratoire américain Vertex Pharmaceutical peut traiter efficacement la cause sous-jacente de la mucoviscidose. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="396.5229"><![CDATA[The Ivacaftor an oral therapy developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="1" total="396.8694"><![CDATA[The Ivacaftor, an oral therapy developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="2" total="397.0281"><![CDATA[The Ivacaftor, an oral treatment developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="3" total="397.8334"><![CDATA[The Ivacaftor an oral treatment developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="4" total="399.2087"><![CDATA[The Ivacaftor an oral therapy developed by the U.S. laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="5" total="399.2236"><![CDATA[The Ivacaftor an oral therapy developed by the American laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="6" total="399.4203"><![CDATA[The Ivacaftor an oral therapy developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of CF.]]></nbest>
+			<nbest id="7" total="399.5551"><![CDATA[The Ivacaftor, an oral therapy developed by the U.S. laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="8" total="399.57"><![CDATA[The Ivacaftor, an oral therapy developed by the American laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="9" total="399.6574"><![CDATA[The Ivacaftor, an oral treatment developed by Vertex Pharmaceutical U.S. laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="10" total="399.7139"><![CDATA[The Ivacaftor, an oral treatment developed by the U.S. laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="11" total="399.7288"><![CDATA[The Ivacaftor, an oral treatment developed by the American laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="12" total="399.7667"><![CDATA[The Ivacaftor, an oral therapy developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of CF.]]></nbest>
+			<nbest id="13" total="399.9255"><![CDATA[The Ivacaftor, an oral treatment developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of CF.]]></nbest>
+			<nbest id="14" total="400.2927"><![CDATA[The Ivacaftor, an oral treatment developed by Vertex Pharmaceutical American laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="15" total="400.4627"><![CDATA[The Ivacaftor an oral treatment developed by Vertex Pharmaceutical U.S. laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="16" total="400.5192"><![CDATA[The Ivacaftor an oral treatment developed by the U.S. laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="17" total="400.5341"><![CDATA[The Ivacaftor an oral treatment developed by the American laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="18" total="400.5526"><![CDATA[The Ivacaftor, an oral treatment developed by Vertex Pharmaceutical Laboratory U.S. can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="19" total="400.7308"><![CDATA[The Ivacaftor an oral treatment developed by the U.S. Vertex Pharmaceutical laboratory can effectively treat the underlying cause of CF.]]></nbest>
+			<nbest id="20" total="400.8286"><![CDATA[The Ivacaftor an oral therapy developed by Vertex Pharmaceutical U.S. laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="21" total="400.8589"><![CDATA[The Ivacaftor, an oral treatment developed by Vertex Pharmaceutical laboratory U.S. can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="22" total="401.098"><![CDATA[The Ivacaftor an oral treatment developed by Vertex Pharmaceutical American laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="23" total="401.1114"><![CDATA[The Ivacaftor, an oral treatment developed by American laboratory Vertex Pharmaceutical can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+			<nbest id="24" total="401.175"><![CDATA[The Ivacaftor, an oral therapy developed by Vertex Pharmaceutical U.S. laboratory can effectively treat the underlying cause of cystic fibrosis.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ainsi le New England Journal of Medicine salue-t-il les résultats très positifs d'une étude qui démontre pour la première fois l'efficacité, durable, d'un traitement s'attaquant à la cause de la maladie chez certains enfants atteints de mucoviscidose, confirmant les résultats préliminaires encourageants obtenus voici quelques mois.]]></source>
+		<target lang="en">
+			<nbest id="0" total="553.9036"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that demonstrates for the first time effective, sustainable treatment addressing the cause of disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="1" total="554.1106"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that demonstrates for the first time effective, sustainable treatment addressing the cause of the disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="2" total="554.1975"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that shows for the first time effective, sustainable treatment addressing the cause of disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="3" total="554.2458"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that demonstrates for the first time effective, durable treatment addressing the cause of disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="4" total="554.4045"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that shows for the first time effective, sustainable treatment addressing the cause of the disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="5" total="554.4528"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that demonstrates for the first time effective, durable treatment addressing the cause of the disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="6" total="554.5397"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that shows for the first time effective, durable treatment addressing the cause of disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="7" total="554.7468"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that shows for the first time effective, durable treatment addressing the cause of the disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained a few months ago.]]></nbest>
+			<nbest id="8" total="555.0139"><![CDATA[And the New England Journal of Medicine welcomes Does the very positive results of a study that demonstrates for the first time effective, sustainable treatment addressing the cause of disease in some children with cystic fibrosis, confirming the encouraging preliminary results obtained here a few months.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un nouveau traitement contre la mucoviscidose s'avère très prometteur pour les malades selon une étude publiée ce mercredi soir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="213.3131"><![CDATA[A new treatment against cystic fibrosis is very promising for the patients according to a study published Wednesday.]]></nbest>
+			<nbest id="1" total="215.9661"><![CDATA[A new treatment against cystic fibrosis is very promising for the patients according to a study published on Wednesday.]]></nbest>
+			<nbest id="2" total="216.1593"><![CDATA[A new treatment against cystic fibrosis is very promising for patients according to a study published Wednesday.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

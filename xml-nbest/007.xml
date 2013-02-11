@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[De l'ambre trouvé dans l'ouest du Canada jette un nouvel éclairage sur l'évolution des plumes que portaient certains dinosaures.]]></source>
+		<target lang="en">
+			<nbest id="0" total="219.1354"><![CDATA[Of amber found in western Canada sheds new light on the evolution of feathers worn by some dinosaurs.]]></nbest>
+			<nbest id="1" total="219.2547"><![CDATA[The amber found in western Canada sheds new light on the evolution of feathers worn by some dinosaurs.]]></nbest>
+			<nbest id="2" total="222.3797"><![CDATA[Of amber found in western Canada sheds new light on the evolution of feathers worn some dinosaurs.]]></nbest>
+			<nbest id="3" total="222.499"><![CDATA[The amber found in western Canada sheds new light on the evolution of feathers worn some dinosaurs.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des paléontologues ont annoncé avoir découvert au Canada différentes plumes de dinosaures et d'oiseaux bien préservées, datant de 80 millions d'années.]]></source>
+		<target lang="en">
+			<nbest id="0" total="285.644"><![CDATA[Palaeontologists have announced the discovery in Canada different feathers of dinosaurs and birds well preserved, dating back 80 million years.]]></nbest>
+			<nbest id="1" total="286.9703"><![CDATA[Palaeontologists have announced the discovery in Canada different feathers of dinosaurs and birds well-preserved, dating back 80 million years.]]></nbest>
+			<nbest id="2" total="288.6854"><![CDATA[Palaeontologists have announced discovered in Canada different feathers of dinosaurs and birds well preserved, dating back 80 million years.]]></nbest>
+			<nbest id="3" total="289.2486"><![CDATA[Palaeontologists have announced the discovery in Canada different feathers of dinosaurs and birds well preserved, dating from 80 million years.]]></nbest>
+			<nbest id="4" total="289.9804"><![CDATA[Palaeontologists have announced the discovery in Canada different feathers of dinosaurs and birds well preserved, dating from 80 million years ago.]]></nbest>
+			<nbest id="5" total="290.0117"><![CDATA[Palaeontologists have announced discovered in Canada different feathers of dinosaurs and birds well-preserved, dating back 80 million years.]]></nbest>
+			<nbest id="6" total="290.2173"><![CDATA[Palaeontologists have announced the discovery in Canada different dinosaur feathers and birds well preserved, dating back 80 million years.]]></nbest>
+			<nbest id="7" total="290.5749"><![CDATA[Palaeontologists have announced the discovery in Canada different feathers of dinosaurs and birds well-preserved, dating from 80 million years.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des paléontologues ont découvert un gisement d'ambre au Canada : piégées dans la résine, des plumes vieilles de 70 à 80 millions d'années.]]></source>
+		<target lang="en">
+			<nbest id="0" total="285.6849"><![CDATA[Paleontologists have discovered amber deposit in Canada: trapped in the resin, feathers old 70 to 80 million years.]]></nbest>
+			<nbest id="1" total="285.9534"><![CDATA[Paleontologists have discovered a deposit of amber in Canada: trapped in the resin, feathers old 70 to 80 million years.]]></nbest>
+			<nbest id="2" total="286.3065"><![CDATA[Paleontologists have discovered amber deposit in Canada: trapped in the resin, feathers, old 70 to 80 million years.]]></nbest>
+			<nbest id="3" total="286.555"><![CDATA[Paleontologists have discovered amber deposit in Canada: trapped in the resin, feathers old 70 to 80 million years ago.]]></nbest>
+			<nbest id="4" total="286.575"><![CDATA[Paleontologists have discovered a deposit of amber in Canada: trapped in the resin, feathers, old 70 to 80 million years.]]></nbest>
+			<nbest id="5" total="286.6085"><![CDATA[Palaeontologists have discovered amber deposit in Canada: trapped in the resin, feathers old 70 to 80 million years.]]></nbest>
+			<nbest id="6" total="286.8235"><![CDATA[Paleontologists have discovered a deposit of amber in Canada: trapped in the resin, feathers old 70 to 80 million years ago.]]></nbest>
+			<nbest id="7" total="287.0841"><![CDATA[Paleontologists have discovered a amber deposit in Canada: trapped in the resin, feathers old 70 to 80 million years.]]></nbest>
+			<nbest id="8" total="287.1765"><![CDATA[Paleontologists have discovered amber deposit in Canada: trapped in the resin, feathers, old 70 to 80 million years ago.]]></nbest>
+			<nbest id="9" total="287.3187"><![CDATA[Palaeontologists have discovered a deposit of amber in Canada: trapped in the resin, feathers old 70 to 80 million years.]]></nbest>
+			<nbest id="10" total="287.445"><![CDATA[Paleontologists have discovered a deposit of amber in Canada: trapped in the resin, feathers, old 70 to 80 million years ago.]]></nbest>
+			<nbest id="11" total="287.4785"><![CDATA[Palaeontologists have discovered amber deposit in Canada: trapped in the resin, feathers old 70 to 80 million years ago.]]></nbest>
+			<nbest id="12" total="287.7057"><![CDATA[Paleontologists have discovered a amber deposit in Canada: trapped in the resin, feathers, old 70 to 80 million years.]]></nbest>
+			<nbest id="13" total="287.9542"><![CDATA[Paleontologists have discovered a amber deposit in Canada: trapped in the resin, feathers old 70 to 80 million years ago.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des plumes de dinosaures, et d'oiseaux datant de 80 millions d'années ont été découvertes dans de la résine d'arbre fossilisée au Canada.]]></source>
+		<target lang="en">
+			<nbest id="0" total="241.6353"><![CDATA[Feathers of dinosaurs and birds dating back 80 million years have been discovered in the fossilized tree resin in Canada.]]></nbest>
+			<nbest id="1" total="242.6015"><![CDATA[Feathers of dinosaurs and birds dating back 80 million years were discovered in the fossilized tree resin in Canada.]]></nbest>
+			<nbest id="2" total="242.7622"><![CDATA[Feathers of dinosaurs and birds dating back 80 million years have been discovered in the fossilized tree resin Canada.]]></nbest>
+			<nbest id="3" total="243.7284"><![CDATA[Feathers of dinosaurs and birds dating back 80 million years were discovered in the fossilized tree resin Canada.]]></nbest>
+			<nbest id="4" total="243.7416"><![CDATA[Feathers of dinosaurs and birds dating back 80 million years have been discovered in the fossilized tree resin to Canada.]]></nbest>
+			<nbest id="5" total="244.3452"><![CDATA[Feathers of dinosaurs and birds dating from 80 million years have been discovered in the fossilized tree resin in Canada.]]></nbest>
+			<nbest id="6" total="244.4834"><![CDATA[Feathers of dinosaurs and birds dating back 80 million years have been found in the fossilized tree resin in Canada.]]></nbest>
+			<nbest id="7" total="244.7079"><![CDATA[Feathers of dinosaurs and birds dating back 80 million years were discovered in the fossilized tree resin to Canada.]]></nbest>
+			<nbest id="8" total="245.0042"><![CDATA[Feathers of dinosaurs and birds dating from 80 million years ago have been discovered in the fossilized tree resin in Canada.]]></nbest>
+			<nbest id="9" total="245.0412"><![CDATA[Feathers of dinosaurs and birds dating back to 80 million years have been discovered in the fossilized tree resin in Canada.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des restes très bien conservés de plumes datées de 80 millions d'années ont été découvertes au Canada.]]></source>
+		<target lang="en">
+			<nbest id="0" total="194.6441"><![CDATA[The well preserved remains of feathers dated 80 million years have been discovered in Canada.]]></nbest>
+			<nbest id="1" total="195.6398"><![CDATA[Of well preserved remains of feathers dated 80 million years have been discovered in Canada.]]></nbest>
+			<nbest id="2" total="195.9529"><![CDATA[Remains well preserved feathers dated 80 million years have been discovered in Canada.]]></nbest>
+			<nbest id="3" total="195.9959"><![CDATA[Well preserved remains of feathers dated 80 million years have been discovered in Canada.]]></nbest>
+			<nbest id="4" total="197.019"><![CDATA[The well preserved remains of feathers dated 80 million years were discovered in Canada.]]></nbest>
+			<nbest id="5" total="198.0148"><![CDATA[Of well preserved remains of feathers dated 80 million years were discovered in Canada.]]></nbest>
+			<nbest id="6" total="198.7108"><![CDATA[Remains well preserved feathers dated 80 million years were discovered in Canada.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des scientifiques ont retrouvé des plumes vieilles de 80 millions d'années, préservées dans des morceaux d'ambre extraits d'une mine canadienne.]]></source>
+		<target lang="en">
+			<nbest id="0" total="269.926"><![CDATA[Scientists have found old feathers from 80 million years ago, preserved in amber pieces mined in Canada.]]></nbest>
+			<nbest id="1" total="270.4928"><![CDATA[Scientists have found old feathers from 80 million years ago, preserved in pieces of amber mined in Canada.]]></nbest>
+			<nbest id="2" total="271.3127"><![CDATA[Scientists have found old feathers from 80 million years ago, preserved in chunks of amber mined in Canada.]]></nbest>
+			<nbest id="3" total="272.7651"><![CDATA[Scientists have found old feathers from 80 million years, preserved in amber pieces mined in Canada.]]></nbest>
+			<nbest id="4" total="273.3319"><![CDATA[Scientists have found old feathers from 80 million years, preserved in pieces of amber mined in Canada.]]></nbest>
+			<nbest id="5" total="273.9437"><![CDATA[Scientists have found feathers old 80 million years ago, preserved in amber pieces mined in Canada.]]></nbest>
+			<nbest id="6" total="274.2616"><![CDATA[Scientists have found feathers old 80 million years, preserved in amber pieces mined in Canada.]]></nbest>
+			<nbest id="7" total="274.3702"><![CDATA[Scientists have found some old feathers 80 million years ago, preserved in amber pieces mined in Canada.]]></nbest>
+			<nbest id="8" total="274.5105"><![CDATA[Scientists have found feathers old 80 million years ago, preserved in pieces of amber mined in Canada.]]></nbest>
+			<nbest id="9" total="274.6882"><![CDATA[Scientists have found some old feathers 80 million years, preserved in amber pieces mined in Canada.]]></nbest>
+			<nbest id="10" total="274.7482"><![CDATA[Scientists have found old feathers from 80 million years preserved in amber pieces mined in Canada.]]></nbest>
+			<nbest id="11" total="274.8284"><![CDATA[Scientists have found feathers old 80 million years, preserved in pieces of amber mined in Canada.]]></nbest>
+			<nbest id="12" total="274.937"><![CDATA[Scientists have found some old feathers 80 million years ago, preserved in pieces of amber mined in Canada.]]></nbest>
+			<nbest id="13" total="275.255"><![CDATA[Scientists have found some old feathers 80 million years, preserved in pieces of amber mined in Canada.]]></nbest>
+			<nbest id="14" total="275.3299"><![CDATA[Scientists have found old feathers from 80 million years, preserved in chunks of amber mined in Canada.]]></nbest>
+			<nbest id="15" total="275.3303"><![CDATA[Scientists have found feathers old 80 million years ago, preserved in chunks of amber mined in Canada.]]></nbest>
+			<nbest id="16" total="275.3858"><![CDATA[Scientists have found old feathers from 80 million years preserved in pieces of amber mined in Canada.]]></nbest>
+			<nbest id="17" total="275.7569"><![CDATA[Scientists have found some old feathers 80 million years ago, preserved in chunks of amber mined in Canada.]]></nbest>
+			<nbest id="18" total="276.4594"><![CDATA[Scientists have found old feathers from 80 million years ago, preserved in amber pieces mined Canadian.]]></nbest>
+			<nbest id="19" total="276.4848"><![CDATA[Scientists have found plumes old 80 million years, preserved in amber pieces mined in Canada.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Différentes plumes de dinosaures et d'oiseaux bien préservées, datant de 80 millions d'années, ont été découvertes dans de la résine d'arbre fossilisée au Canada, ont annoncé jeudi des paléontologues.]]></source>
+		<target lang="en">
+			<nbest id="0" total="362.3806"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="1" total="362.4407"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="2" total="362.9875"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago, were discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="3" total="362.9968"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years have been discovered in the fossilized tree resin Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="4" total="363.0396"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago have been discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="5" total="363.0477"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago, were discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="6" total="363.0997"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago have been discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="7" total="363.4032"><![CDATA[Individual feathers of dinosaurs and birds well preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="8" total="363.4633"><![CDATA[Individual feathers of dinosaurs and birds well preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="9" total="363.6038"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago, were discovered in the fossilized tree resin Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="10" total="363.6558"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago have been discovered in the fossilized tree resin Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="11" total="363.6646"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years have been discovered in the fossilized tree resin Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="12" total="363.7069"><![CDATA[Different feathers of dinosaurs and birds well-preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="13" total="363.767"><![CDATA[Different feathers of dinosaurs and birds well-preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="14" total="364.0102"><![CDATA[Individual feathers of dinosaurs and birds well preserved, dating from 80 million years ago, were discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="15" total="364.0703"><![CDATA[Individual feathers of dinosaurs and birds well preserved, dating from 80 million years ago, were discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="16" total="364.2715"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago, were discovered in the fossilized tree resin Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="17" total="364.3138"><![CDATA[Different feathers of dinosaurs and birds well-preserved, dating from 80 million years ago, were discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="18" total="364.3231"><![CDATA[Different feathers of dinosaurs and birds well-preserved, dating from 80 million years have been discovered in the fossilized tree resin Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="19" total="364.3235"><![CDATA[Different feathers of dinosaurs and birds well preserved, dating from 80 million years ago have been discovered in the fossilized tree resin Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="20" total="364.3659"><![CDATA[Different feathers of dinosaurs and birds well-preserved, dating from 80 million years ago have been discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="21" total="364.374"><![CDATA[Different feathers of dinosaurs and birds well-preserved, dating from 80 million years ago, were discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="22" total="364.426"><![CDATA[Different feathers of dinosaurs and birds well-preserved, dating from 80 million years ago have been discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+			<nbest id="23" total="364.7296"><![CDATA[Individual feathers of dinosaurs and birds well-preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, announced Thursday paleontologists.]]></nbest>
+			<nbest id="24" total="364.7897"><![CDATA[Individual feathers of dinosaurs and birds well-preserved, dating from 80 million years have been discovered in the fossilized tree resin in Canada, paleontologists announced Thursday.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

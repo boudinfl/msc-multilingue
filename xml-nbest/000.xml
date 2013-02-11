@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Envoyer des hommes sur Mars : voici la lourde tâche du visionnaire Space Launch System (SLS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="217.6534"><![CDATA[Send men to Mars: Here are the heavy task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="1" total="217.9049"><![CDATA[Send men to Mars: here the difficult task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="2" total="217.9165"><![CDATA[Send men to Mars: Here are the heavy duty of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="3" total="218.1712"><![CDATA[Send men to Mars: Here are the difficult task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="4" total="218.2152"><![CDATA[Send men to Mars: Here are the daunting task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="5" total="218.3306"><![CDATA[Send men to Mars: here the daunting task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="6" total="218.4842"><![CDATA[Send men to Mars: Here the daunting task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="7" total="218.6821"><![CDATA[Send men to Mars: Here the heavy task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="8" total="218.7586"><![CDATA[Send men to Mars: here is the difficult task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="9" total="218.759"><![CDATA[Send men to Mars: Here are the heavy task of the visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="10" total="218.9716"><![CDATA[Send men to Mars: Here the difficult task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="11" total="219.1019"><![CDATA[Send men to Mars: here the difficult task Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="12" total="219.2955"><![CDATA[Send men to Mars: here the difficult task of the visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="13" total="219.3682"><![CDATA[Send men to Mars: Here are the difficult task Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="14" total="219.3853"><![CDATA[Send men to Mars: Here are the onerous task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="15" total="219.4087"><![CDATA[Send men to Mars: Here are the heavy task of Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="16" total="219.4491"><![CDATA[Send men to Mars: Here are the heavy task Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="17" total="219.5273"><![CDATA[Send men to Mars: Here are the daunting task Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="18" total="219.5618"><![CDATA[Send men to Mars: Here are the difficult task of the visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="19" total="219.6339"><![CDATA[Send men to Mars: here the heavy task of visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="20" total="219.6428"><![CDATA[Send men to Mars: here the daunting task Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="21" total="219.6601"><![CDATA[Send men to Mars: here the difficult task of Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="22" total="219.6718"><![CDATA[Send men to Mars: Here are the heavy duty of Visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="23" total="219.7876"><![CDATA[Send men to Mars: Here the heavy task of the visionary Space Launch System (SLS).]]></nbest>
+			<nbest id="24" total="219.7963"><![CDATA[Send men to Mars: Here the daunting task Visionary Space Launch System (SLS).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'agence spatiale américaine a annoncé, mercredi, le lancement officiel d'un programme qui pourrait mener au développement de la fusée la plus puissante de son histoire.]]></source>
+		<target lang="en">
+			<nbest id="0" total="249.1446"><![CDATA[The U.S. space agency announced Wednesday the official launch of a program that could lead to the development of the most powerful rocket in history.]]></nbest>
+			<nbest id="1" total="250.1509"><![CDATA[The U.S. space agency announced Wednesday, the official launch of a program that could lead to the development of the most powerful rocket in history.]]></nbest>
+			<nbest id="2" total="250.8295"><![CDATA[The U.S. space agency announced on Wednesday, the official launch of a program that could lead to the development of the most powerful rocket in history.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'agence spatiale américaine a présenté son projet de nouveau lanceur destiné à remplacer les navettes spatiales.]]></source>
+		<target lang="en">
+			<nbest id="0" total="184.8606"><![CDATA[The U.S. space agency has presented its proposal for a new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="1" total="184.9424"><![CDATA[The U.S. space agency has presented its proposal for a new starter to replace the space shuttle.]]></nbest>
+			<nbest id="2" total="186.8397"><![CDATA[The U.S. space agency has submitted its draft new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="3" total="187.0396"><![CDATA[The U.S. space agency has submitted its proposed new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="4" total="187.5821"><![CDATA[The U.S. space agency has submitted its proposal for a new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="5" total="187.6639"><![CDATA[The U.S. space agency has submitted its proposal for a new starter to replace the space shuttle.]]></nbest>
+			<nbest id="6" total="187.7194"><![CDATA[The U.S. space agency has presented his proposal for a new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="7" total="187.8012"><![CDATA[The U.S. space agency has presented his proposal for a new starter to replace the space shuttle.]]></nbest>
+			<nbest id="8" total="187.8468"><![CDATA[The U.S. space agency has presented its proposal for a new launcher to replace the space shuttles.]]></nbest>
+			<nbest id="9" total="187.9287"><![CDATA[The U.S. space agency has presented its proposal for a new starter to replace the space shuttles.]]></nbest>
+			<nbest id="10" total="188.104"><![CDATA[The U.S. space agency presented its proposal for a new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="11" total="188.1858"><![CDATA[The U.S. space agency presented its proposal for a new starter to replace the space shuttle.]]></nbest>
+			<nbest id="12" total="188.3436"><![CDATA[The U.S. space agency has presented its draft new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="13" total="188.6732"><![CDATA[The U.S. space agency has presented its proposal for new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="14" total="188.6947"><![CDATA[The U.S. space agency has presented its proposal for a new pitcher to replace the space shuttle.]]></nbest>
+			<nbest id="15" total="188.8347"><![CDATA[The U.S. space agency has presented its proposal for a new starter to replace space shuttles.]]></nbest>
+			<nbest id="16" total="189.1814"><![CDATA[The U.S. space agency has presented its proposal for a new launcher designed to replace the space shuttle.]]></nbest>
+			<nbest id="17" total="189.6251"><![CDATA[The U.S. space agency has presented its proposal for a new launcher to replace space shuttles.]]></nbest>
+			<nbest id="18" total="189.8259"><![CDATA[The U.S. space agency has submitted its draft new launcher to replace the space shuttles.]]></nbest>
+			<nbest id="19" total="190.0259"><![CDATA[The U.S. space agency has submitted its proposed new launcher to replace the space shuttles.]]></nbest>
+			<nbest id="20" total="190.1148"><![CDATA[The U.S. space agency has submitted its draft new launcher designed to replace the space shuttle.]]></nbest>
+			<nbest id="21" total="190.2511"><![CDATA[The U.S. space agency has presented its proposed new launcher to replace the space shuttle.]]></nbest>
+			<nbest id="22" total="190.3147"><![CDATA[The U.S. space agency has submitted its proposed new launcher designed to replace the space shuttle.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'agence spatiale a présenté mercredi le concept de son prochain lanceur lourd qui permettra de propulser dans l'espace la capsule habitée Orion, actuellement en développement.]]></source>
+		<target lang="en">
+			<nbest id="0" total="337.1969"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel space in the Orion manned capsule, currently in development.]]></nbest>
+			<nbest id="1" total="337.2087"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel space in the Orion manned capsule currently in development.]]></nbest>
+			<nbest id="2" total="337.6177"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel space in the Orion manned capsule, currently under development.]]></nbest>
+			<nbest id="3" total="338.2086"><![CDATA[The space agency on Wednesday introduced the concept of the next heavy launch vehicle that will propel space in the Orion manned capsule, currently in development.]]></nbest>
+			<nbest id="4" total="338.2204"><![CDATA[The space agency on Wednesday introduced the concept of the next heavy launch vehicle that will propel space in the Orion manned capsule currently in development.]]></nbest>
+			<nbest id="5" total="338.2403"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel space capsule manned Orion, currently under development.]]></nbest>
+			<nbest id="6" total="338.3171"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel space capsule manned Orion, currently in development.]]></nbest>
+			<nbest id="7" total="338.6294"><![CDATA[The space agency on Wednesday introduced the concept of the next heavy launch vehicle that will propel space in the Orion manned capsule, currently under development.]]></nbest>
+			<nbest id="8" total="339.252"><![CDATA[The space agency on Wednesday introduced the concept of the next heavy launch vehicle that will propel space capsule manned Orion, currently under development.]]></nbest>
+			<nbest id="9" total="339.3287"><![CDATA[The space agency on Wednesday introduced the concept of the next heavy launch vehicle that will propel space capsule manned Orion, currently in development.]]></nbest>
+			<nbest id="10" total="339.7806"><![CDATA[The space agency on Wednesday presented the concept of its next heavy launch vehicle that will propel space in the Orion manned capsule, currently in development.]]></nbest>
+			<nbest id="11" total="339.7924"><![CDATA[The space agency on Wednesday presented the concept of its next heavy launch vehicle that will propel space in the Orion manned capsule currently in development.]]></nbest>
+			<nbest id="12" total="340.2014"><![CDATA[The space agency on Wednesday presented the concept of its next heavy launch vehicle that will propel space in the Orion manned capsule, currently under development.]]></nbest>
+			<nbest id="13" total="340.2733"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel the space capsule manned Orion, currently under development.]]></nbest>
+			<nbest id="14" total="340.3501"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel the space capsule manned Orion, currently in development.]]></nbest>
+			<nbest id="15" total="340.476"><![CDATA[The space agency on Wednesday introduced the concept of its next heavy launch vehicle that will propel space in the Orion manned capsule, currently in development.]]></nbest>
+			<nbest id="16" total="340.4878"><![CDATA[The space agency on Wednesday introduced the concept of its next heavy launch vehicle that will propel space in the Orion manned capsule currently in development.]]></nbest>
+			<nbest id="17" total="340.5016"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel space capsule manned Orion currently under development.]]></nbest>
+			<nbest id="18" total="340.5021"><![CDATA[The space agency on Wednesday presented the concept of the next heavy launch vehicle that will propel space in the Orion manned capsule currently under development.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La NASA a dévoilé mercredi le concept de son futur lanceur lourd qui doit permettre aux Etats-Unis d'envoyer leurs astronautes au-delà de l'orbite terrestre avec pour objectif ultime la conquête de Mars.]]></source>
+		<target lang="en">
+			<nbest id="0" total="354.4925"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="1" total="354.9895"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond Earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="2" total="355.6071"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will enable the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="3" total="356.1041"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will enable the United States to send astronauts beyond Earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="4" total="356.6685"><![CDATA[NASA on Wednesday unveiled the concept of the future heavy launcher which will allow the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="5" total="357.1654"><![CDATA[NASA on Wednesday unveiled the concept of the future heavy launcher which will allow the United States to send astronauts beyond Earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="6" total="357.6456"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which should allow the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="7" total="357.7676"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond Earth's orbit, with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="8" total="357.7831"><![CDATA[NASA on Wednesday unveiled the concept of the future heavy launcher which will enable the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="9" total="357.88"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond Earth's orbit with the ultimate goal the conquest of Mars.]]></nbest>
+			<nbest id="10" total="357.9184"><![CDATA[NASA on Wednesday unveiled the concept of its future heavy launcher which will allow the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="11" total="357.934"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which should enable the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="12" total="357.9728"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="13" total="358.1425"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which should allow the United States to send astronauts beyond Earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="14" total="358.2579"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond Earth orbit, with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="15" total="358.2801"><![CDATA[NASA on Wednesday unveiled the concept of the future heavy launcher which will enable the United States to send astronauts beyond Earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="16" total="358.377"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond Earth orbit with the ultimate goal the conquest of Mars.]]></nbest>
+			<nbest id="17" total="358.4154"><![CDATA[NASA on Wednesday unveiled the concept of its future heavy launcher which will allow the United States to send astronauts beyond Earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="18" total="358.4309"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which should enable the United States to send astronauts beyond Earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="19" total="358.8822"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will enable the United States to send astronauts beyond Earth's orbit, with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="20" total="358.9946"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will enable the United States to send astronauts beyond Earth's orbit with the ultimate goal the conquest of Mars.]]></nbest>
+			<nbest id="21" total="359.0331"><![CDATA[NASA on Wednesday unveiled the concept of its future heavy launcher which will enable the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="22" total="359.0875"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will enable the United States to send astronauts beyond earth orbit with the ultimate goal to conquer Mars.]]></nbest>
+			<nbest id="23" total="359.2083"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher which will allow the United States to send astronauts beyond Earth's orbit with the ultimate goal of conquering Mars.]]></nbest>
+			<nbest id="24" total="359.3532"><![CDATA[NASA on Wednesday unveiled the design of its future heavy launcher, which should allow the United States to send astronauts beyond Earth's orbit with the ultimate goal to conquer Mars.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La NASA a présenté mercredi son futur lanceur lourd destiné à envoyé des astronautes sur des astéroïdes et surtout sur Mars.]]></source>
+		<target lang="en">
+			<nbest id="0" total="258.6649"><![CDATA[NASA on Wednesday presented its future heavy launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="1" total="259.3382"><![CDATA[NASA on Wednesday presented his future heavy launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="2" total="260.7244"><![CDATA[NASA Wednesday presented its future heavy launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="3" total="261.2036"><![CDATA[NASA on Wednesday presented its future heavy launcher for sending astronauts to asteroids and Mars above.]]></nbest>
+			<nbest id="4" total="261.8569"><![CDATA[NASA on Wednesday introduced its future heavy launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="5" total="261.877"><![CDATA[NASA on Wednesday presented his future heavy launcher for sending astronauts to asteroids and Mars above.]]></nbest>
+			<nbest id="6" total="262.6115"><![CDATA[NASA on Wednesday presented its future heavy launcher for sending astronauts to asteroids and especially on Mars.]]></nbest>
+			<nbest id="7" total="263.0168"><![CDATA[NASA on Wednesday presented her future heavy launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="8" total="263.1309"><![CDATA[NASA on Wednesday presented its future heavy launcher for sending astronauts to asteroids and especially Mars.]]></nbest>
+			<nbest id="9" total="263.2631"><![CDATA[NASA Wednesday presented its future heavy launcher for sending astronauts to asteroids and Mars above.]]></nbest>
+			<nbest id="10" total="263.2848"><![CDATA[NASA on Wednesday presented his future heavy launcher for sending astronauts to asteroids and especially on Mars.]]></nbest>
+			<nbest id="11" total="263.8042"><![CDATA[NASA on Wednesday presented his future heavy launcher for sending astronauts to asteroids and especially Mars.]]></nbest>
+			<nbest id="12" total="264.2173"><![CDATA[NASA Wednesday presented his future heavy launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="13" total="264.3956"><![CDATA[NASA on Wednesday introduced its future heavy launcher for sending astronauts to asteroids and Mars above.]]></nbest>
+			<nbest id="14" total="264.491"><![CDATA[NASA on Wednesday presented their future heavy launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="15" total="264.671"><![CDATA[NASA Wednesday presented its future heavy launcher for sending astronauts to asteroids and especially on Mars.]]></nbest>
+			<nbest id="16" total="265.5556"><![CDATA[NASA on Wednesday presented her future heavy launcher for sending astronauts to asteroids and Mars above.]]></nbest>
+			<nbest id="17" total="265.6094"><![CDATA[NASA on Wednesday presented its future heavy-lift launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="18" total="265.8035"><![CDATA[NASA on Wednesday introduced its future heavy launcher for sending astronauts to asteroids and especially on Mars.]]></nbest>
+			<nbest id="19" total="266.2828"><![CDATA[NASA on Wednesday presented his future heavy-lift launcher for sending astronauts to asteroids and Mars especially.]]></nbest>
+			<nbest id="20" total="266.3229"><![CDATA[NASA on Wednesday introduced its future heavy launcher for sending astronauts to asteroids and especially Mars.]]></nbest>
+			<nbest id="21" total="266.756"><![CDATA[NASA Wednesday presented his future heavy launcher for sending astronauts to asteroids and Mars above.]]></nbest>
+			<nbest id="22" total="266.9634"><![CDATA[NASA on Wednesday presented her future heavy launcher for sending astronauts to asteroids and especially on Mars.]]></nbest>
+			<nbest id="23" total="267.0297"><![CDATA[NASA on Wednesday presented their future heavy launcher for sending astronauts to asteroids and Mars above.]]></nbest>
+			<nbest id="24" total="267.4828"><![CDATA[NASA on Wednesday presented her future heavy launcher for sending astronauts to asteroids and especially Mars.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La NASA dévoile son nouveau lanceur lourd destiné à explorer l'espace lointain.]]></source>
+		<target lang="en">
+			<nbest id="0" total="149.349"><![CDATA[NASA unveils its new heavy launcher designed to explore deep space.]]></nbest>
+			<nbest id="1" total="152.2227"><![CDATA[NASA unveils new heavy launcher designed to explore deep space.]]></nbest>
+			<nbest id="2" total="152.6183"><![CDATA[NASA unveils its new heavy launcher for exploring deep space.]]></nbest>
+			<nbest id="3" total="153.8678"><![CDATA[NASA unveils its new heavy launcher designed to explore outer space.]]></nbest>
+			<nbest id="4" total="154.6843"><![CDATA[NASA unveils its new heavy launcher, designed to explore deep space.]]></nbest>
+			<nbest id="5" total="155.465"><![CDATA[NASA unveils its new heavy-lift launcher designed to explore deep space.]]></nbest>
+			<nbest id="6" total="155.4921"><![CDATA[NASA unveils new heavy launcher for exploring deep space.]]></nbest>
+			<nbest id="7" total="156.2476"><![CDATA[NASA unveils its new heavy launcher intended to explore deep space.]]></nbest>
+			<nbest id="8" total="156.7415"><![CDATA[NASA unveils new heavy launcher designed to explore outer space.]]></nbest>
+			<nbest id="9" total="156.8263"><![CDATA[NASA unveils its new heavy launcher intended to explore outer space.]]></nbest>
+			<nbest id="10" total="157.3848"><![CDATA[NASA unveils its new heavy launcher for deep space exploration.]]></nbest>
+			<nbest id="11" total="158.4513"><![CDATA[NASA unveils its new heavy-lift launcher for exploring deep space.]]></nbest>
+			<nbest id="12" total="159.9837"><![CDATA[NASA unveils its new heavy-lift launcher designed to explore outer space.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le patron de la NASA, Charles Bolden, a dévoilé hier le concept du nouveau lanceur lourd américain destiné à l'exploration spatiale habitée lointaine, dont l'objectif ultime est Mars.]]></source>
+		<target lang="en">
+			<nbest id="0" total="368.7373"><![CDATA[NASA's boss, Charles Bolden, yesterday unveiled the concept of the new heavy launcher for the U.S. manned space exploration distant, whose ultimate goal is Mars.]]></nbest>
+			<nbest id="1" total="369.6908"><![CDATA[NASA's boss, Charles Bolden, yesterday unveiled the concept of the new heavy launcher for the American manned space exploration distant, whose ultimate goal is Mars.]]></nbest>
+			<nbest id="2" total="370.3861"><![CDATA[NASA's boss, Charles Bolden, yesterday unveiled the design of the new heavy launcher for the U.S. manned space exploration distant, whose ultimate goal is Mars.]]></nbest>
+			<nbest id="3" total="370.8172"><![CDATA[NASA's boss, Charles Bolden, yesterday unveiled the concept of a new heavy launcher for the U.S. manned space exploration distant, whose ultimate goal is Mars.]]></nbest>
+			<nbest id="4" total="371.0196"><![CDATA[NASA's boss, Charles Bolden, yesterday unveiled the concept of new heavy launcher for the U.S. manned space exploration distant, whose ultimate goal is Mars.]]></nbest>
+			<nbest id="5" total="371.2867"><![CDATA[NASA's boss, Charles Bolden, yesterday unveiled the concept of the new heavy launcher for the U.S. manned space exploration far, whose ultimate goal is Mars.]]></nbest>
+			<nbest id="6" total="371.3396"><![CDATA[NASA's boss, Charles Bolden, yesterday unveiled the design of the new heavy launcher for the American manned space exploration distant, whose ultimate goal is Mars.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le patron de la NASA, Charles Bolden, a présenté mercredi, dans l'enceinte du Congrès, à Washington, la nouvelle fusée américaine destinée à l'exploration spatiale habitée vers la Lune, vers un astéroïde, Mars et au-delà.]]></source>
+		<target lang="en">
+			<nbest id="0" total="414.7464"><![CDATA[NASA's boss, Charles Bolden, presented Wednesday in the halls of Congress in Washington, the new American rocket for manned space exploration to the Moon, to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="1" total="415.2775"><![CDATA[NASA's boss, Charles Bolden, presented Wednesday in the halls of Congress in Washington, the new American rocket for manned space exploration to the moon, to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="2" total="416.5862"><![CDATA[NASA's boss, Charles Bolden, introduced Wednesday in the halls of Congress in Washington, the new American rocket for manned space exploration to the Moon, to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="3" total="416.9552"><![CDATA[NASA's boss, Charles Bolden presented Wednesday in the halls of Congress in Washington, the new American rocket for manned space exploration to the Moon, to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="4" total="417.1173"><![CDATA[NASA's boss, Charles Bolden, introduced Wednesday in the halls of Congress in Washington, the new American rocket for manned space exploration to the moon, to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="5" total="417.268"><![CDATA[NASA's boss, Charles Bolden on Wednesday presented in the halls of Congress in Washington, the new American rocket for manned space exploration to the Moon, to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="6" total="417.3554"><![CDATA[NASA's boss, Charles Bolden, presented Wednesday in the halls of Congress in Washington, the new American rocket for manned space exploration to the moon to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="7" total="417.4863"><![CDATA[NASA's boss, Charles Bolden presented Wednesday in the halls of Congress in Washington, the new American rocket for manned space exploration to the moon, to an asteroid, Mars and beyond.]]></nbest>
+			<nbest id="8" total="417.4958"><![CDATA[NASA's boss, Charles Bolden, presented Wednesday in the halls of Congress, Washington, the new American rocket for manned space exploration to the Moon, to an asteroid, Mars and beyond.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lors du Congrès à Washington, Charles Bolden, le chef en tête de la NASA a annoncé le projet d'une nouvelle fusée américaine appelée Space Launch System habitée vers la Lune et Mars.]]></source>
+		<target lang="en">
+			<nbest id="0" total="384.1635"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA announced plans for a new rocket called Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="1" total="384.1891"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA announced plans for a new rocket called Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="2" total="384.3164"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA announced plans for a new rocket called the Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="3" total="384.3421"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA announced plans for a new rocket called the Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="4" total="384.3788"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA announced plans for a new rocket called Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="5" total="384.4045"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA announced plans for a new rocket called Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="6" total="384.5318"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA announced plans for a new rocket called the Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="7" total="384.5328"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA has announced plans for a new rocket called Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="8" total="384.5575"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA announced plans for a new rocket called the Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="9" total="384.6859"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA has announced plans for a new rocket called the Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="10" total="384.7482"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA has announced plans for a new rocket called Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="11" total="384.9012"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of NASA has announced plans for a new rocket called the Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="12" total="385.1693"><![CDATA[When Congress in Washington, Charles Bolden, the head chef NASA announced plans for a new rocket called Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="13" total="385.1906"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA has announced plans for a new rocket called Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="14" total="385.3223"><![CDATA[When Congress in Washington, Charles Bolden, the head chef NASA announced plans for a new rocket called the Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="15" total="385.3437"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA has announced plans for a new rocket called the Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="16" total="385.3846"><![CDATA[When Congress in Washington, Charles Bolden, the head chef NASA announced plans for a new rocket called Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="17" total="385.406"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA has announced plans for a new rocket called Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="18" total="385.5166"><![CDATA[At the Congress in Washington, Charles Bolden, the head chief of the NASA announced plans for a new rocket called Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="19" total="385.5377"><![CDATA[When Congress in Washington, Charles Bolden, the head chef NASA announced plans for a new rocket called the Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="20" total="385.5423"><![CDATA[At the Congress in Washington, Charles Bolden, the head chief of NASA announced plans for a new rocket called Space Launch System American manned to the Moon and Mars.]]></nbest>
+			<nbest id="21" total="385.5591"><![CDATA[When Congress in Washington, Charles Bolden, the head chief of the NASA has announced plans for a new rocket called the Space Launch System U.S. manned to the Moon and Mars.]]></nbest>
+			<nbest id="22" total="385.6696"><![CDATA[At the Congress in Washington, Charles Bolden, the head chief of the NASA announced plans for a new rocket called the Space Launch System American manned to the Moon and Mars.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Mercredi, le patron de la NASA Charles Bolden a dévoilé le concept du futur lanceur lourd américain destiné à l'exploration spatiale habitée lointaine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="303.8848"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the U.S. manned space exploration far.]]></nbest>
+			<nbest id="1" total="304.8383"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the American manned space exploration far.]]></nbest>
+			<nbest id="2" total="305.0887"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the U.S. manned space exploration distant.]]></nbest>
+			<nbest id="3" total="306.0422"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the American manned space exploration distant.]]></nbest>
+			<nbest id="4" total="306.4523"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the U.S. manned space exploration far away.]]></nbest>
+			<nbest id="5" total="306.4557"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of future heavy launcher for the U.S. manned space exploration far.]]></nbest>
+			<nbest id="6" total="306.7662"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the U.S. manned space exploration remote.]]></nbest>
+			<nbest id="7" total="307.4058"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the American manned space exploration far away.]]></nbest>
+			<nbest id="8" total="307.4092"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of future heavy launcher for the American manned space exploration far.]]></nbest>
+			<nbest id="9" total="307.5503"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the U.S. manned space exploration distance.]]></nbest>
+			<nbest id="10" total="307.6597"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of future heavy launcher for the U.S. manned space exploration distant.]]></nbest>
+			<nbest id="11" total="307.7197"><![CDATA[Wednesday, NASA boss Charles Bolden unveiled the concept of the future heavy launcher for the American manned space exploration remote.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Quelques mois après le dernier vol du mythique transporteur spatial , la NASA a dévoilé mercredi son nouveau concept, un lanceur lourd destiné à l'exploration spatiale habitée lointaine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="356.6713"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration far.]]></nbest>
+			<nbest id="1" total="357.8753"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration distant.]]></nbest>
+			<nbest id="2" total="358.1284"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled its new concept, a heavy launcher for the manned space exploration far.]]></nbest>
+			<nbest id="3" total="358.3636"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for manned space exploration far.]]></nbest>
+			<nbest id="4" total="358.4142"><![CDATA[Few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration far.]]></nbest>
+			<nbest id="5" total="358.9409"><![CDATA[A few months after the last flight of space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration far.]]></nbest>
+			<nbest id="6" total="359.2388"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration far away.]]></nbest>
+			<nbest id="7" total="359.3324"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled its new concept, a heavy launcher for the manned space exploration distant.]]></nbest>
+			<nbest id="8" total="359.3488"><![CDATA[A few months after the last flight of the space shuttle legendary, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration far.]]></nbest>
+			<nbest id="9" total="359.5528"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration remote.]]></nbest>
+			<nbest id="10" total="359.5676"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for manned space exploration distant.]]></nbest>
+			<nbest id="11" total="359.6181"><![CDATA[Few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration distant.]]></nbest>
+			<nbest id="12" total="359.8207"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled its new concept, a heavy launcher for manned space exploration far.]]></nbest>
+			<nbest id="13" total="359.8713"><![CDATA[Few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled its new concept, a heavy launcher for the manned space exploration far.]]></nbest>
+			<nbest id="14" total="360.1064"><![CDATA[Few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for manned space exploration far.]]></nbest>
+			<nbest id="15" total="360.1448"><![CDATA[A few months after the last flight of space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration distant.]]></nbest>
+			<nbest id="16" total="360.3001"><![CDATA[A few months after the last flight of the space shuttle mythic, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration far.]]></nbest>
+			<nbest id="17" total="360.3369"><![CDATA[A few months after the last flight of the space shuttle mythical, NASA on Wednesday unveiled his new concept, a heavy launcher for the manned space exploration distance.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un projet de lanceur destiné à emmener des astronautes vers un astéroïde ou la planète Mars a été dévoilé hier soir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="213.1802"><![CDATA[A project launcher for take astronauts to an asteroid or Mars was unveiled yesterday.]]></nbest>
+			<nbest id="1" total="213.3422"><![CDATA[A project launcher for take astronauts to an asteroid or Mars was announced last night.]]></nbest>
+			<nbest id="2" total="214.0905"><![CDATA[A project launcher for take astronauts to an asteroid or Mars was unveiled last night.]]></nbest>
+			<nbest id="3" total="214.8153"><![CDATA[A project launcher for take astronauts to an asteroid or Mars was unveiled yesterday evening.]]></nbest>
+			<nbest id="4" total="215.5775"><![CDATA[A project launcher for take astronauts to an asteroid or Mars was revealed last night.]]></nbest>
+			<nbest id="5" total="216.4977"><![CDATA[A project launcher for take astronauts to an asteroid or Mars were announced last night.]]></nbest>
+			<nbest id="6" total="216.5044"><![CDATA[A project launcher for take astronauts to an asteroid or Mars was revealed yesterday.]]></nbest>
+			<nbest id="7" total="216.6153"><![CDATA[A project launcher for take astronauts to an asteroid or Mars was announced yesterday.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

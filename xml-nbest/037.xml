@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Deux cosmonautes et un astronaute de la Station spatiale internationale (ISS) ont atterri tôt ce matin dans les steppes du Kazakhstan, selon des images diffusées par NASA TV.]]></source>
+		<target lang="en">
+			<nbest id="0" total="276.1069"><![CDATA[Two cosmonauts and an astronaut from the International Space Station (ISS) landed early this morning in the steppes of Kazakhstan, according to images broadcast on NASA TV.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Deux cosmonautes et un astronaute de la Station spatiale internationale (ISS) ont atterri tôt lundi matin, à bord d'un vaisseau Soyouz, dans les steppes du Kazakhstan, selon des images diffusées par NASA TV.]]></source>
+		<target lang="en">
+			<nbest id="0" total="332.8907"><![CDATA[Two cosmonauts and an astronaut from the International Space Station (ISS) landed early Monday morning aboard a Soyuz spacecraft in the steppes of Kazakhstan, according to images broadcast on NASA TV.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Deux cosmonautes russes et un astronaute américain ont atterri lundi matin avec leur capsule Soyouz dans les steppes du Kazakhstan après avoir passé 123 jours à bord de la Station spatiale internationale (ISS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="286.8064"><![CDATA[Two Russian cosmonauts and an American astronaut landed Monday morning with their Soyuz spacecraft on the steppes of Kazakhstan after spending 123 days aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="1" total="287.135"><![CDATA[Two Russian cosmonauts and an American astronaut landed Monday morning with their Soyuz spacecraft in the steppes of Kazakhstan after spending 123 days aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="2" total="288.8386"><![CDATA[Two Russian cosmonauts and an American astronaut landed on Monday morning with their Soyuz spacecraft on the steppes of Kazakhstan after spending 123 days aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="3" total="289.1673"><![CDATA[Two Russian cosmonauts and an American astronaut landed on Monday morning with their Soyuz spacecraft in the steppes of Kazakhstan after spending 123 days aboard the International Space Station (ISS).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La capsule a atterri avec succès ce matin dans les steppes du Kazakhstan avec ses trois membres d'équipage.]]></source>
+		<target lang="en">
+			<nbest id="0" total="185.073"><![CDATA[The capsule successfully landed this morning in the steppes of Kazakhstan with its three crew members.]]></nbest>
+			<nbest id="1" total="186.6401"><![CDATA[Capsule successfully landed this morning in the steppes of Kazakhstan with its three crew members.]]></nbest>
+			<nbest id="2" total="187.1087"><![CDATA[The capsule successfully landed this morning in the steppes of Kazakhstan, with its three crew members.]]></nbest>
+			<nbest id="3" total="187.1544"><![CDATA[The capsule successfully landed this morning in the steppes of Kazakhstan with a crew of three.]]></nbest>
+			<nbest id="4" total="188.0484"><![CDATA[The capsule successfully landed this morning in the steppes of Kazakhstan with three crew members.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lundi, à 8H53 heure locale, les spationautes Joe Acaba, Guennadi Padalka et Sergeï Revine sont revenus sur Terre sans encombre après avoir passé plus de trois mois à bord de la Station spatiale internationale (ISS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="410.7086"><![CDATA[Monday at 8:53 pm local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned safely to Earth after spending more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="1" total="411.4214"><![CDATA[Monday at 8:53 pm local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned to Earth safely after spending more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="2" total="411.6611"><![CDATA[Monday at 8:53 pm local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned safely to Earth after more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="3" total="412.5631"><![CDATA[Monday at 8:53 pm local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned to Earth safely after more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="4" total="413.0068"><![CDATA[Monday at 8:53 pm local time, astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned safely to Earth after spending more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="5" total="413.2914"><![CDATA[Monday at 8:53 pm local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned safely to Earth after spending more than three months on board the International Space Station (ISS).]]></nbest>
+			<nbest id="6" total="413.4514"><![CDATA[Monday at 8:53 local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned safely to Earth after spending more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="7" total="413.6566"><![CDATA[Monday, at 8:53 local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned to Earth safely after spending more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="8" total="413.7196"><![CDATA[Monday at 8:53 pm local time, astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned to Earth safely after spending more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="9" total="413.7722"><![CDATA[Monday at 8:53 pm local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned safely to Earth after more than three months on board the International Space Station (ISS).]]></nbest>
+			<nbest id="10" total="413.9593"><![CDATA[Monday at 8:53 pm local time, astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned safely to Earth after more than three months aboard the International Space Station (ISS).]]></nbest>
+			<nbest id="11" total="414.0042"><![CDATA[Monday at 8:53 pm local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned to Earth safely after spending more than three months on board the International Space Station (ISS).]]></nbest>
+			<nbest id="12" total="414.1642"><![CDATA[Monday at 8:53 local time, the astronauts Joe Acaba, Gennady Padalka and Sergei Revine returned to Earth safely after spending more than three months aboard the International Space Station (ISS).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Malgré un impact spectaculaire, deux spationautes russes et un Américain se sont posés sans encombre, ce lundi matin, après une mission de 123 jours à bord de la Station spatiale internationale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="341.5336"><![CDATA[Despite a dramatic impact, two Russian cosmonauts and an American are placed safely on Monday morning, after a mission of 123 days aboard the International Space Station.]]></nbest>
+			<nbest id="1" total="341.6592"><![CDATA[Despite a dramatic impact, two Russian cosmonauts and an American are placed safely on Monday morning after a mission of 123 days aboard the International Space Station.]]></nbest>
+			<nbest id="2" total="341.989"><![CDATA[Despite a dramatic impact, two Russian cosmonauts and an American are placed safely on Monday morning after a mission 123 days aboard the International Space Station.]]></nbest>
+			<nbest id="3" total="342.783"><![CDATA[Despite a dramatic impact, two Russian cosmonauts and an American are placed safely on Monday morning, after a mission 123 days aboard the International Space Station.]]></nbest>
+			<nbest id="4" total="344.3334"><![CDATA[Despite a dramatic impact, two Russian cosmonauts and an American are placed safely on Monday morning, following a mission of 123 days aboard the International Space Station.]]></nbest>
+			<nbest id="5" total="344.4996"><![CDATA[Despite a dramatic impact, two Russian cosmonauts and an American were placed safely on Monday morning, after a mission of 123 days aboard the International Space Station.]]></nbest>
+			<nbest id="6" total="344.6252"><![CDATA[Despite a dramatic impact, two Russian cosmonauts and an American were placed safely on Monday morning after a mission of 123 days aboard the International Space Station.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une capsule Soyouz a atterri sans encombre, lundi matin au Kazakhstan, avec à son bord un équipage de la Station spatiale internationale (ISS).]]></source>
+		<target lang="en">
+			<nbest id="0" total="224.7033"><![CDATA[A Soyuz capsule landed safely on Monday morning in Kazakhstan, with a crew to the International Space Station (ISS).]]></nbest>
+			<nbest id="1" total="225.1145"><![CDATA[A Soyuz capsule landed safely Monday morning in Kazakhstan, with a crew to the International Space Station (ISS).]]></nbest>
+			<nbest id="2" total="225.5419"><![CDATA[A Soyuz capsule landed safely on Monday morning in Kazakhstan with a crew to the International Space Station (ISS).]]></nbest>
+			<nbest id="3" total="225.9531"><![CDATA[A Soyuz capsule landed safely Monday morning in Kazakhstan with a crew to the International Space Station (ISS).]]></nbest>
+		</target>
+	</sentence>
+</cluster>

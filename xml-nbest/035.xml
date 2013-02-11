@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Arrêté en Côte d'Ivoire puis transféré au Togo, l'ancien PDG d'Elf, Loïk Le Floch-Prigent, doit comparaître devant un juge de Lomé, lundi 16 septembre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="366.0447"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge of Lomé, Monday, Sept. 16.]]></nbest>
+			<nbest id="1" total="366.2288"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge Lomé, Monday, Sept. 16.]]></nbest>
+			<nbest id="2" total="366.4305"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge in Lomé, Monday, Sept. 16.]]></nbest>
+			<nbest id="3" total="366.7456"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge of Lomé, Monday, September 16.]]></nbest>
+			<nbest id="4" total="366.9297"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge Lomé, Monday, September 16.]]></nbest>
+			<nbest id="5" total="367.0927"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge Lomé Monday, September 16.]]></nbest>
+			<nbest id="6" total="367.1314"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge in Lomé, Monday, September 16.]]></nbest>
+			<nbest id="7" total="367.8941"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge Lome Monday, September 16.]]></nbest>
+			<nbest id="8" total="367.999"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, to appear before a judge of Lomé, Monday, Sept. 16.]]></nbest>
+			<nbest id="9" total="368.2632"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge Lomé Monday, September 16th.]]></nbest>
+			<nbest id="10" total="368.4313"><![CDATA[Arrested in Côte d'Ivoire and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge of Lomé, Monday, Sept. 16.]]></nbest>
+			<nbest id="11" total="368.6155"><![CDATA[Arrested in Côte d'Ivoire and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge Lomé, Monday, Sept. 16.]]></nbest>
+			<nbest id="12" total="368.6771"><![CDATA[Arrested in Ivory Coast and then transferred to Togo, the former CEO of Elf, Le Floch-Prigent, must appear before a judge of Lomé, Monday, September 16th.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Arrêté en Côte d'Ivoire, Loïk Le Floch-Prigent se retrouve au coeur d'une affaire d'escroquerie au Togo.]]></source>
+		<target lang="en">
+			<nbest id="0" total="236.9888"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent is at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="1" total="237.825"><![CDATA[Arrested in Ivory Coast, Le Floch-Prigent is at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="2" total="239.3781"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent is at the heart of a case of fraud in Togo.]]></nbest>
+			<nbest id="3" total="240.1019"><![CDATA[Arrested in Cote d'Ivoire, Le Floch-Prigent is at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="4" total="240.1983"><![CDATA[Arrested in the Ivory Coast, Le Floch-Prigent is at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="5" total="240.2143"><![CDATA[Arrested in Ivory Coast, Le Floch-Prigent is at the heart of a case of fraud in Togo.]]></nbest>
+			<nbest id="6" total="240.4242"><![CDATA[Order in Côte d'Ivoire, Le Floch-Prigent is at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="7" total="241.183"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent lies at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="8" total="242.0192"><![CDATA[Arrested in Ivory Coast, Le Floch-Prigent lies at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="9" total="242.4912"><![CDATA[Arrested in Cote d'Ivoire, Le Floch-Prigent is at the heart of a case of fraud in Togo.]]></nbest>
+			<nbest id="10" total="242.5876"><![CDATA[Arrested in the Ivory Coast, Le Floch-Prigent is at the heart of a case of fraud in Togo.]]></nbest>
+			<nbest id="11" total="242.9541"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent finds himself in the middle of a case of fraud in Togo.]]></nbest>
+			<nbest id="12" total="243.5723"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent lies at the heart of a case of fraud in Togo.]]></nbest>
+			<nbest id="13" total="243.7903"><![CDATA[Arrested in Ivory Coast, Le Floch-Prigent finds himself in the middle of a case of fraud in Togo.]]></nbest>
+			<nbest id="14" total="244.2622"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent is at the heart of a case of fraud Togo.]]></nbest>
+			<nbest id="15" total="244.2961"><![CDATA[Arrested in Cote d'Ivoire, Le Floch-Prigent lies at the heart of a fraud case in Togo.]]></nbest>
+			<nbest id="16" total="244.4085"><![CDATA[Arrested in Ivory Coast, Le Floch-Prigent lies at the heart of a case of fraud in Togo.]]></nbest>
+			<nbest id="17" total="244.698"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent finds himself in the middle of a fraud case in Togo.]]></nbest>
+			<nbest id="18" total="244.7137"><![CDATA[Arrested in Côte d'Ivoire, Le Floch-Prigent is at the heart of a fraud case to Togo.]]></nbest>
+			<nbest id="19" total="245.0984"><![CDATA[Arrested in Ivory Coast, Le Floch-Prigent is at the heart of a case of fraud Togo.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Arrêté le 15 septembre 2012 à Abidjan, dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise pour une affaire d'escroquerie, l'ancien PDG de Elf (1989-93) a été remis aux autorités togolaises le jour même.]]></source>
+		<target lang="en">
+			<nbest id="0" total="433.868"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, the former CEO of Elf (1989-1993) was presented to the Togolese authorities the same day.]]></nbest>
+			<nbest id="1" total="434.3325"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, the former CEO of Elf (1989-1993) was awarded the Togolese authorities the same day.]]></nbest>
+			<nbest id="2" total="434.4176"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice to a case of fraud, the former CEO of Elf (1989-1993) was presented to the Togolese authorities the same day.]]></nbest>
+			<nbest id="3" total="434.8821"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice to a case of fraud, the former CEO of Elf (1989-1993) was awarded the Togolese authorities the same day.]]></nbest>
+			<nbest id="4" total="435.1191"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, the former CEO of Elf (1989-93) was awarded the Togolese authorities the same day.]]></nbest>
+			<nbest id="5" total="435.3791"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese courts for a case of fraud, the former CEO of Elf (1989-1993) was presented to the Togolese authorities the same day.]]></nbest>
+			<nbest id="6" total="435.5914"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, the former CEO of Elf (1989-93) was presented to the Togolese authorities the same day.]]></nbest>
+			<nbest id="7" total="435.6688"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice to a case of fraud, the former CEO of Elf (1989-93) was awarded the Togolese authorities the same day.]]></nbest>
+			<nbest id="8" total="435.8436"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese courts for a case of fraud, the former CEO of Elf (1989-1993) was awarded the Togolese authorities the same day.]]></nbest>
+			<nbest id="9" total="435.938"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, the former CEO of Elf (1989-1993) was delivered to the Togolese authorities the same day.]]></nbest>
+			<nbest id="10" total="435.966"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice for a fraud case, the former CEO of Elf (1989-1993) was presented to the Togolese authorities the same day.]]></nbest>
+			<nbest id="11" total="436.141"><![CDATA[Arrested on 15 September 2012 in Abidjan, in the context of an international arrest warrant issued by the Togolese justice to a case of fraud, the former CEO of Elf (1989-93) was presented to the Togolese authorities the same day.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Arrêté à Abidjan dans le cadre d'un mandat d'arrêt international pour une affaire d'escroquerie, l'ancien PDG du géant pétrolier français Elf a été "extradé" samedi soir vers le Togo.]]></source>
+		<target lang="en">
+			<nbest id="0" total="374.6732"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of the French oil giant Elf was "extradited" Saturday night to Togo.]]></nbest>
+			<nbest id="1" total="374.7289"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of French oil giant Elf was "extradited" Saturday night to Togo.]]></nbest>
+			<nbest id="2" total="375.5738"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a fraud case, the former CEO of the French oil giant Elf was "extradited" Saturday night to Togo.]]></nbest>
+			<nbest id="3" total="375.6296"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a fraud case, the former CEO of French oil giant Elf was "extradited" Saturday night to Togo.]]></nbest>
+			<nbest id="4" total="376.5254"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of the French oil giant Elf was "extradited" Saturday evening to Togo.]]></nbest>
+			<nbest id="5" total="376.5811"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of French oil giant Elf was "extradited" Saturday evening to Togo.]]></nbest>
+			<nbest id="6" total="377.1721"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of the French oil giant Elf was "surrendered" Saturday night to Togo.]]></nbest>
+			<nbest id="7" total="377.2278"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of French oil giant Elf was "surrendered" Saturday night to Togo.]]></nbest>
+			<nbest id="8" total="377.3186"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of the French oil giant Elf was "extradited" Saturday to Togo.]]></nbest>
+			<nbest id="9" total="377.3743"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a case of fraud, the former CEO of French oil giant Elf was "extradited" Saturday to Togo.]]></nbest>
+			<nbest id="10" total="377.4261"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a fraud case, the former CEO of the French oil giant Elf was "extradited" Saturday evening to Togo.]]></nbest>
+			<nbest id="11" total="377.4818"><![CDATA[Arrested in Abidjan as part of an international arrest warrant for a fraud case, the former CEO of French oil giant Elf was "extradited" Saturday evening to Togo.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ancien grand patron français, ex-PDG notamment du groupe Elf, arrêté vendredi à Abidjan, a donc été extradé vers le Togo où il sera présenté dès ce matin à un juge d'instruction.]]></source>
+		<target lang="en">
+			<nbest id="0" total="439.2393"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="1" total="439.4951"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="2" total="439.5316"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning a judge.]]></nbest>
+			<nbest id="3" total="439.7874"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning a judge.]]></nbest>
+			<nbest id="4" total="439.922"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo where he will be presented this morning to a judge.]]></nbest>
+			<nbest id="5" total="440.2143"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo where he will be presented this morning a judge.]]></nbest>
+			<nbest id="6" total="440.594"><![CDATA[The French former boss, ex-CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="7" total="440.6059"><![CDATA[The French former boss, former CEO of the group including Elf, arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="8" total="440.788"><![CDATA[The French former boss, former CEO including Elf, arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="9" total="440.7906"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo, where he will be presented this morning to a judge.]]></nbest>
+			<nbest id="10" total="440.8498"><![CDATA[The French former boss, ex-CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="11" total="440.8617"><![CDATA[The French former boss, former CEO of the group including Elf, arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="12" total="440.8708"><![CDATA[The French former boss, former CEO particular group Elf, arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="13" total="440.8863"><![CDATA[The French former boss, ex-CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning a judge.]]></nbest>
+			<nbest id="14" total="440.8982"><![CDATA[The French former boss, former CEO of the group including Elf, arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning a judge.]]></nbest>
+			<nbest id="15" total="441.0438"><![CDATA[The French former boss, former CEO including Elf, arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="16" total="441.0803"><![CDATA[The French former boss, former CEO including Elf, arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning a judge.]]></nbest>
+			<nbest id="17" total="441.0829"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo, where he will be presented this morning a judge.]]></nbest>
+			<nbest id="18" total="441.1266"><![CDATA[The French former boss, former CEO particular group Elf, arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning to a judge.]]></nbest>
+			<nbest id="19" total="441.1421"><![CDATA[The French former boss, ex-CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning a judge.]]></nbest>
+			<nbest id="20" total="441.154"><![CDATA[The French former boss, former CEO of the group including Elf, arrested Friday in Abidjan, has been extradited to Togo where it will be presented this morning a judge.]]></nbest>
+			<nbest id="21" total="441.1631"><![CDATA[The French former boss, former CEO particular group Elf, arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning a judge.]]></nbest>
+			<nbest id="22" total="441.2766"><![CDATA[The French former boss, ex-CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo where he will be presented this morning to a judge.]]></nbest>
+			<nbest id="23" total="441.2886"><![CDATA[The French former boss, former CEO of the group including Elf, arrested Friday in Abidjan, has been extradited to Togo where he will be presented this morning to a judge.]]></nbest>
+			<nbest id="24" total="441.2999"><![CDATA[The French former boss, former CEO of Elf in particular, was arrested Friday in Abidjan, has been extradited to Togo, where it will be presented this morning to a magistrate.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ancien patron du groupe pétrolier français Elf, Loïk Le Floch-Prigent, a été arrêté samedi 15 septembre au matin à Abidjan, où il a été entendu par la police ivoirienne dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise dans une affaire d'escroquerie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="541.3009"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="1" total="541.4175"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="2" total="541.755"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="3" total="541.8716"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="4" total="542.0891"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by the Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="5" total="542.0986"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 in the morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="6" total="542.2153"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 in the morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="7" total="542.247"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="8" total="542.4847"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese courts in a fraud case.]]></nbest>
+			<nbest id="9" total="542.5432"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by the Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="10" total="542.5527"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 in the morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="11" total="542.6013"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese courts in a fraud case.]]></nbest>
+			<nbest id="12" total="542.6694"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 in the morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="13" total="542.6902"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, Sept. 15 in the morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="14" total="542.7011"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="15" total="542.7354"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15th in the morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="16" total="542.8069"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, Sept. 15 in the morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="17" total="542.852"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15th in the morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="18" total="542.8868"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 in the morning in Abidjan, where he was heard by the Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="19" total="543.0387"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 morning in Abidjan, where he was heard by the Ivorian police under a warrant International issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="20" total="543.0447"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday, September 15 in the morning in Abidjan, where he was heard by Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ancien patron du groupe pétrolier français Elf, Loïk Le Floch-Prigent, a été arrêté samedi matin à Abidjan, où il a été entendu par la police ivoirienne dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise dans une affaire d'escroquerie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="503.3892"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="1" total="503.5058"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="2" total="503.8434"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="3" total="503.96"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="4" total="504.1774"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by the Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="5" total="504.3353"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="6" total="504.5729"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by the Ivorian police under a warrant international issued by the Togolese courts in a fraud case.]]></nbest>
+			<nbest id="7" total="504.6316"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by the Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="8" total="504.6896"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by Ivorian police under a warrant international issued by the Togolese courts in a fraud case.]]></nbest>
+			<nbest id="9" total="504.7895"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by Ivorian police in connection with an arrest warrant international issued by the Togolese justice in a case of fraud.]]></nbest>
+			<nbest id="10" total="505.127"><![CDATA[The former head of the French oil company Elf, Le Floch-Prigent, was arrested Saturday morning in Abidjan, where he was heard by the Ivorian police under a warrant International issued by the Togolese justice in a fraud case.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ancien PDG d'Elf, Loïk Le Floch-Prigent, interpellé vendredi en Côte d'Ivoire à la demande de la justice togolaise, a été extradé dimanche vers Lomé, a indiqué à Sipa l'un de ses avocats, Me Patrick Klugman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="521.1039"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice, was extradited to Lome Sunday, Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="1" total="522.3865"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice, was extradited to Sunday Lomé, Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="2" total="522.457"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice, was extradited to Lome Sunday, told Sipa one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="3" total="522.4703"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice, was extradited to Lomé Sunday, Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="4" total="523.0097"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice, was extradited to Sunday Lomé Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="5" total="523.1766"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested on Friday in Côte d'Ivoire at the request of the Togolese justice, was extradited to Lome Sunday, Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="6" total="523.2061"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice was extradited to Lome Sunday, Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="7" total="523.3113"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice system, was extradited to Lome Sunday, Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="8" total="523.7864"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese courts, was extradited to Lome Sunday, Sipa told one of his lawyers, Patrick Klugman.]]></nbest>
+			<nbest id="9" total="523.8234"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested Friday in Côte d'Ivoire at the request of the Togolese justice, was extradited to Lomé Sunday, told Sipa one of his lawyers, Patrick Klugman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'arrestation de l'ancien patron du groupe Elf serait liée à celle d'un ancien ministre togolais, Pascal Bodjona, inculpé le 12 septembre dans le cadre d'une affaire "d'escroquerie internationale".]]></source>
+		<target lang="en">
+			<nbest id="0" total="439.5296"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister, Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="1" total="439.562"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="2" total="439.8643"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister, Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="3" total="439.8968"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="4" total="440.1161"><![CDATA[The arrest of the former head of Elf is linked to that of a former Togolese Minister, Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="5" total="440.1485"><![CDATA[The arrest of the former head of Elf is linked to that of a former Togolese Minister Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="6" total="440.4508"><![CDATA[The arrest of the former head of Elf is linked to that of a former Togolese Minister, Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="7" total="440.4832"><![CDATA[The arrest of the former head of Elf is linked to that of a former Togolese Minister Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="8" total="440.5482"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister, Pascal Bodjona, charged Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="9" total="440.5806"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister Pascal Bodjona, charged Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="10" total="441.0786"><![CDATA[The arrest of the former head of Elf group is linked to that of a former Togolese Minister, Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="11" total="441.1111"><![CDATA[The arrest of the former head of Elf group is linked to that of a former Togolese Minister Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="12" total="441.1347"><![CDATA[The arrest of the former head of Elf is linked to that of a former Togolese Minister, Pascal Bodjona, charged Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="13" total="441.1671"><![CDATA[The arrest of the former head of Elf is linked to that of a former Togolese Minister Pascal Bodjona, charged Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="14" total="441.2795"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister, Pascal Bodjona, September 12 charged in connection with a case of "international fraud".]]></nbest>
+			<nbest id="15" total="441.3119"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister Pascal Bodjona, September 12 charged in connection with a case of "international fraud".]]></nbest>
+			<nbest id="16" total="441.4134"><![CDATA[The arrest of the former head of Elf group is linked to that of a former Togolese Minister, Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="17" total="441.4458"><![CDATA[The arrest of the former head of Elf group is linked to that of a former Togolese Minister Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud."]]></nbest>
+			<nbest id="18" total="441.4743"><![CDATA[The arrest of the former head of Elf is linked to that of former Togolese Minister, Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="19" total="441.5039"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister, Pascal Bodjona, indicted Sept. 12 in the context of a case of "international fraud."]]></nbest>
+			<nbest id="20" total="441.5067"><![CDATA[The arrest of the former head of Elf is linked to that of former Togolese Minister Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+			<nbest id="21" total="441.5364"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister Pascal Bodjona, indicted Sept. 12 in the context of a case of "international fraud."]]></nbest>
+			<nbest id="22" total="441.6142"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister, Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud".]]></nbest>
+			<nbest id="23" total="441.6467"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese Minister Pascal Bodjona, indicted Sept. 12 in connection with a case of "international fraud".]]></nbest>
+			<nbest id="24" total="441.7579"><![CDATA[The arrest of the former head of Elf would be linked to a former Togolese minister, Pascal Bodjona, September 12 charged in connection with a case of "international fraud."]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-PDG d'Elf a été arrêté samedi 15 septembre 2012 et extradé au Togo dans le cadre d'un mandat d'arrêt international délivré par la justice de ce pays.]]></source>
+		<target lang="en">
+			<nbest id="0" total="309.6673"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo under international arrest warrant issued by the justice in this country.]]></nbest>
+			<nbest id="1" total="309.7676"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo under international arrest warrant issued by the justice of this country.]]></nbest>
+			<nbest id="2" total="310.6818"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo under international arrest warrant issued by the justice in that country.]]></nbest>
+			<nbest id="3" total="310.7807"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo under international arrest warrant issued by the justice of the country.]]></nbest>
+			<nbest id="4" total="311.3117"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo as part of a international arrest warrant issued by the justice in this country.]]></nbest>
+			<nbest id="5" total="311.412"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo as part of a international arrest warrant issued by the justice of this country.]]></nbest>
+			<nbest id="6" total="312.3262"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo as part of a international arrest warrant issued by the justice in that country.]]></nbest>
+			<nbest id="7" total="312.4251"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo as part of a international arrest warrant issued by the justice of the country.]]></nbest>
+			<nbest id="8" total="312.8381"><![CDATA[Former CEO of Elf was arrested Saturday, Sept. 15, 2012 and extradited to Togo under international arrest warrant issued by the justice in this country.]]></nbest>
+			<nbest id="9" total="312.9384"><![CDATA[Former CEO of Elf was arrested Saturday, Sept. 15, 2012 and extradited to Togo under international arrest warrant issued by the justice of this country.]]></nbest>
+			<nbest id="10" total="313.0426"><![CDATA[Former CEO of Elf was arrested Saturday, 15 September 2012 and extradited to Togo under international arrest warrant issued by the justice in this country.]]></nbest>
+			<nbest id="11" total="313.0606"><![CDATA[Former CEO of Elf was arrested Saturday, September 15th, 2012 and extradited to Togo under international arrest warrant issued by the justice in this country.]]></nbest>
+			<nbest id="12" total="313.1429"><![CDATA[Former CEO of Elf was arrested Saturday, 15 September 2012 and extradited to Togo under international arrest warrant issued by the justice of this country.]]></nbest>
+			<nbest id="13" total="313.1609"><![CDATA[Former CEO of Elf was arrested Saturday, September 15th, 2012 and extradited to Togo under international arrest warrant issued by the justice of this country.]]></nbest>
+			<nbest id="14" total="313.7898"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo under a warrant issued by international justice in this country.]]></nbest>
+			<nbest id="15" total="313.8526"><![CDATA[Former CEO of Elf was arrested Saturday, Sept. 15, 2012 and extradited to Togo under international arrest warrant issued by the justice in that country.]]></nbest>
+			<nbest id="16" total="313.8957"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo under international arrest warrant issued by the justice of that country.]]></nbest>
+			<nbest id="17" total="313.9155"><![CDATA[Former CEO of Elf was arrested Saturday, September 15, 2012 and extradited to Togo under a warrant issued by the international justice in this country.]]></nbest>
+			<nbest id="18" total="313.9515"><![CDATA[Former CEO of Elf was arrested Saturday, Sept. 15, 2012 and extradited to Togo under international arrest warrant issued by the justice of the country.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-PDG d'Elf Loïk Le Floch-Prigent est "entendu en qualité de témoin à Abidjan dans une affaire togolaise", a indiqué son avocat français, Me Patrick Klugman, qui s'est dit "inquiet de son état de santé".]]></source>
+		<target lang="en">
+			<nbest id="0" total="501.7523"><![CDATA[Former CEO of Elf Le Floch-Prigent is "heard as a witness in a case in Abidjan Togo," said his French lawyer, Patrick Klugman, who said he was "worried about his health."]]></nbest>
+			<nbest id="1" total="502.787"><![CDATA[Former CEO of Elf Le Floch-Prigent is "heard as a witness in a case Togolese Abidjan," said his French lawyer, Patrick Klugman, who said he was "worried about his health."]]></nbest>
+			<nbest id="2" total="503.1418"><![CDATA[Former CEO of Elf Le Floch-Prigent is "heard as a witness in a case in Abidjan Togolese," said his French lawyer, Patrick Klugman, who said he was "worried about his health."]]></nbest>
+			<nbest id="3" total="503.7441"><![CDATA[The former CEO of Elf Le Floch-Prigent is "heard as a witness in a case in Abidjan Togo," said his French lawyer, Patrick Klugman, who said he was "worried about his health."]]></nbest>
+			<nbest id="4" total="504.0883"><![CDATA[Former CEO of Elf Le Floch-Prigent is "heard as a witness in a case in Abidjan Togo," said his French lawyer, Patrick Klugman, who said he was "concerned about his health."]]></nbest>
+			<nbest id="5" total="504.2533"><![CDATA[Former CEO of Elf Le Floch-Prigent's "heard as a witness in a case in Abidjan Togo," said his French lawyer, Patrick Klugman, who said he was "worried about his health."]]></nbest>
+			<nbest id="6" total="504.3474"><![CDATA[Former CEO of Elf Le Floch-Prigent is "heard as a witness in a case Abidjan Togo," said his French lawyer, Patrick Klugman, who said he was "worried about his health."]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-PDG d'Elf, arrêté samedi à Abidjan dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise dans une affaire d'escroquerie, est arrivé à Lomé samedi soir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="387.9558"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="1" total="388.5476"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud has arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="2" total="388.6884"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome Saturday night.]]></nbest>
+			<nbest id="3" total="388.8664"><![CDATA[Former CEO of Elf arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="4" total="388.8712"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lomé on Saturday night.]]></nbest>
+			<nbest id="5" total="389.0024"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lomé Saturday night.]]></nbest>
+			<nbest id="6" total="389.2519"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud has arrived in Lome Saturday night.]]></nbest>
+			<nbest id="7" total="389.4582"><![CDATA[Former CEO of Elf arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud has arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="8" total="389.5894"><![CDATA[Former CEO of Elf, arrested on Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="9" total="389.599"><![CDATA[Former CEO of Elf arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome Saturday night.]]></nbest>
+			<nbest id="10" total="389.6755"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case, arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="11" total="389.7817"><![CDATA[Former CEO of Elf arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lomé on Saturday night.]]></nbest>
+			<nbest id="12" total="389.913"><![CDATA[Former CEO of Elf arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lomé Saturday night.]]></nbest>
+			<nbest id="13" total="390.0103"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome on Saturday evening.]]></nbest>
+			<nbest id="14" total="390.0871"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud has arrived in Lomé on Saturday night.]]></nbest>
+			<nbest id="15" total="390.1625"><![CDATA[Former CEO of Elf arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud has arrived in Lome Saturday night.]]></nbest>
+			<nbest id="16" total="390.1813"><![CDATA[Former CEO of Elf, arrested on Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud has arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="17" total="390.2184"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud has arrived in Lomé Saturday night.]]></nbest>
+			<nbest id="18" total="390.3221"><![CDATA[Former CEO of Elf, arrested on Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome Saturday night.]]></nbest>
+			<nbest id="19" total="390.357"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome Saturday evening.]]></nbest>
+			<nbest id="20" total="390.4081"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case, arrived in Lome Saturday night.]]></nbest>
+			<nbest id="21" total="390.4531"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lome Saturday.]]></nbest>
+			<nbest id="22" total="390.5048"><![CDATA[Former CEO of Elf, arrested on Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, arrived in Lomé on Saturday night.]]></nbest>
+			<nbest id="23" total="390.5861"><![CDATA[Former CEO of Elf arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case, arrived in Lome on Saturday night.]]></nbest>
+			<nbest id="24" total="390.5909"><![CDATA[Former CEO of Elf, arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case, arrived in Lomé on Saturday night.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-PDG d'Elf, Loïk Le Floch-Prigent, arrêté hier matin à Abidjan, dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise dans une affaire d'escroquerie, a été extradé vers le Togo, selon Radio France Internationale (RFI).]]></source>
+		<target lang="en">
+			<nbest id="0" total="485.3311"><![CDATA[Former CEO of Elf, Le Floch-Prigent, who was arrested yesterday morning in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, has been extradited to Togo, according to Radio France Internationale (RFI).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-PDG du groupe Elf a été arrêté à Abidjan samedi et extradé vers le Togo "sans l'intervention d'aucune autorité judiciaire", selon son avocat, Me Klugman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="378.8589"><![CDATA[Former CEO of Elf was arrested in Abidjan Saturday and extradited to Togo "without the intervention of any judicial authority," according to his lawyer, Klugman.]]></nbest>
+			<nbest id="1" total="379.4622"><![CDATA[Former CEO of Elf was arrested Saturday in Abidjan and extradited to Togo "without the intervention of any judicial authority," according to his lawyer, Klugman.]]></nbest>
+			<nbest id="2" total="379.5269"><![CDATA[Former CEO of Elf has been arrested in Abidjan Saturday and extradited to Togo "without the intervention of any judicial authority," according to his lawyer, Klugman.]]></nbest>
+			<nbest id="3" total="380.0279"><![CDATA[Former CEO of Elf was arrested in Abidjan Saturday and extradited to Togo "without the intervention of any judicial authority," according to his lawyer Klugman.]]></nbest>
+			<nbest id="4" total="380.5869"><![CDATA[Former CEO of Elf was arrested in Abidjan on Saturday and extradited to Togo "without the intervention of any judicial authority," according to his lawyer, Klugman.]]></nbest>
+			<nbest id="5" total="380.6313"><![CDATA[Former CEO of Elf was arrested Saturday in Abidjan and extradited to Togo "without the intervention of any judicial authority," according to his lawyer Klugman.]]></nbest>
+			<nbest id="6" total="380.696"><![CDATA[Former CEO of Elf has been arrested in Abidjan Saturday and extradited to Togo "without the intervention of any judicial authority," according to his lawyer Klugman.]]></nbest>
+			<nbest id="7" total="381.0986"><![CDATA[Former CEO of Elf was arrested in Abidjan Saturday and extradited to Togo "without the intervention of any judicial authority," his lawyer, Klugman.]]></nbest>
+			<nbest id="8" total="381.255"><![CDATA[Former CEO of Elf has been arrested in Abidjan on Saturday and extradited to Togo "without the intervention of any judicial authority," according to his lawyer, Klugman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-PDG du géant pétrolier français Elf, Loïk Le Floch-Prigent, arrêté à Abidjan dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise dans une affaire d'escroquerie, a été "extradé" samedi soir vers le Togo, a indiqué dimanche une source gouvernementale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="574.8007"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="1" total="575.1861"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="2" total="576.1309"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="3" total="576.4338"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, who was arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="4" total="576.5163"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="5" total="576.5608"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case, was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="6" total="576.653"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud was "extradited" Saturday evening to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="7" total="576.8192"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, who was arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="8" total="576.8505"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud, was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="9" total="576.9462"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case, was "extradited" Saturday night to Togo, said Sunday a government source.]]></nbest>
+			<nbest id="10" total="577.0383"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, arrested in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud was "extradited" Saturday evening to Togo, said Sunday a government source.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-PDG du géant pétrolier français Elf, Loïk Le Floch-Prigent, doit comparaître lundi devant un tribunal togolais dans le cadre d'une affaire d'escroquerie, a annoncé son avocat à Lomé.]]></source>
+		<target lang="en">
+			<nbest id="0" total="405.8972"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, must appear in court Monday in Togo as part of a fraud case, his lawyer said in Lome.]]></nbest>
+			<nbest id="1" total="406.0075"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, must appear in court Monday in Togo as part of a fraud case, his lawyer said in Lomé.]]></nbest>
+			<nbest id="2" total="406.2827"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, must appear in court Monday in Togo as part of a fraud case, his lawyer said in Lome.]]></nbest>
+			<nbest id="3" total="406.3929"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, must appear in court Monday in Togo as part of a fraud case, his lawyer said in Lomé.]]></nbest>
+			<nbest id="4" total="406.5905"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, to appear in court Monday in Togo as part of a fraud case, his lawyer said in Lome.]]></nbest>
+			<nbest id="5" total="406.7008"><![CDATA[The former CEO of the French oil giant Elf, Le Floch-Prigent, to appear in court Monday in Togo as part of a fraud case, his lawyer said in Lomé.]]></nbest>
+			<nbest id="6" total="406.976"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, to appear in court Monday in Togo as part of a fraud case, his lawyer said in Lome.]]></nbest>
+			<nbest id="7" total="407.0862"><![CDATA[The former CEO of French oil giant Elf, Le Floch-Prigent, to appear in court Monday in Togo as part of a fraud case, his lawyer said in Lomé.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Loïk Le Floch-Prigent, ancien PDG de Elf, arrêté samedi à Abidjan, dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise dans une affaire d'escroquerie, a été extradé au Togo.]]></source>
+		<target lang="en">
+			<nbest id="0" total="403.6911"><![CDATA[Le Floch-Prigent, former CEO of Elf, arrested Saturday in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, has been extradited to Togo.]]></nbest>
+			<nbest id="1" total="404.6017"><![CDATA[Le Floch-Prigent, former CEO of Elf arrested Saturday in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, has been extradited to Togo.]]></nbest>
+			<nbest id="2" total="404.6426"><![CDATA[Le Floch-Prigent, former CEO of Elf, who was arrested Saturday in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, has been extradited to Togo.]]></nbest>
+			<nbest id="3" total="405.3219"><![CDATA[Le Floch-Prigent, former CEO of Elf, arrested on Saturday in Abidjan, in the context of an international arrest warrant issued by the Togolese justice in a case of fraud, has been extradited to Togo.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Loïk Le Floch-Prigent, l'ex-PDG d'Elf, a été arrêté samedi à Abidjan, dans le cadre d'un mandat d'arrêt international délivré par la justice togolaise dans une affaire d'escroquerie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="362.3335"><![CDATA[Le Floch-Prigent, the former CEO of Elf, was arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a fraud case.]]></nbest>
+			<nbest id="1" total="362.7877"><![CDATA[Le Floch-Prigent, the former CEO of Elf, was arrested Saturday in Abidjan as part of an international arrest warrant issued by the Togolese justice in a case of fraud.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Tandis que des Français sont toujours otages des rebelles islamistes dans la chaleur sahélienne, Loïk Le Floch-Prigent, l'ancien patron du défunt groupe pétrolier français Elf, lui se faisait arrêter le week-end dernier, à Abidjan, dans la fraîcheur tropicale ivoirienne.]]></source>
+		<target lang="en">
+			<nbest id="0" total="567.6841"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="1" total="568.6089"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian, Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="2" total="568.9962"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool tropical.]]></nbest>
+			<nbest id="3" total="569.5524"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahel Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="4" total="569.6605"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Côte d'Ivoire in the cool rain.]]></nbest>
+			<nbest id="5" total="569.7015"><![CDATA[While the French are still hostages Islamist rebels in heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="6" total="569.7671"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, was stopping him last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="7" total="569.8524"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil group Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="8" total="569.921"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian, Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool tropical.]]></nbest>
+			<nbest id="9" total="569.9724"><![CDATA[While the French are still being held hostage Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="10" total="570.0856"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the tropical freshness.]]></nbest>
+			<nbest id="11" total="570.2499"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in tropical freshness.]]></nbest>
+			<nbest id="12" total="570.5853"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian, Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Côte d'Ivoire in the cool rain.]]></nbest>
+			<nbest id="13" total="570.6263"><![CDATA[While the French are still hostages Islamist rebels in heat Sahelian, Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="14" total="570.6436"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, stop him doing last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="15" total="570.692"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian, Le Floch-Prigent, the former head of deceased French oil company Elf, was stopping him last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="16" total="570.7772"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian, Le Floch-Prigent, the former head of deceased French oil group Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="17" total="570.7969"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, stop him was last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="18" total="570.8645"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahel Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool tropical.]]></nbest>
+			<nbest id="19" total="570.8973"><![CDATA[While the French are still being held hostage Islamist rebels in the heat Sahelian, Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool rain.]]></nbest>
+			<nbest id="20" total="570.9727"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Côte d'Ivoire in the cool tropical.]]></nbest>
+			<nbest id="21" total="571.0104"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian, Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the tropical freshness.]]></nbest>
+			<nbest id="22" total="571.0136"><![CDATA[While the French are still hostages Islamist rebels in heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool tropical.]]></nbest>
+			<nbest id="23" total="571.0792"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil company Elf, was stopping him last weekend in Abidjan, Ivory Coast in the cool tropical.]]></nbest>
+			<nbest id="24" total="571.1646"><![CDATA[While the French are still hostages Islamist rebels in the heat Sahelian Le Floch-Prigent, the former head of deceased French oil group Elf, it was done to stop the last weekend in Abidjan, Ivory Coast in the cool tropical.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

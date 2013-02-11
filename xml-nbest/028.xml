@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Avec sa tablette Surface, Microsoft essaye de taper un grand coup en proposant une tablette haute définition avec son nouveau système d'exploitation.]]></source>
+		<target lang="en">
+			<nbest id="0" total="292.5574"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high definition offering a tablet with its new operating system.]]></nbest>
+			<nbest id="1" total="293.4177"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high definition offering a tablet with the new OS.]]></nbest>
+			<nbest id="2" total="293.4634"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high definition tablet offering with its new operating system.]]></nbest>
+			<nbest id="3" total="293.5382"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high definition offering a tablet with the new operating system.]]></nbest>
+			<nbest id="4" total="294.2494"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in HD tablet offering with its new operating system.]]></nbest>
+			<nbest id="5" total="294.2909"><![CDATA[With the tablet space, Microsoft tries to hit a big shot in high definition offering a tablet with its new operating system.]]></nbest>
+			<nbest id="6" total="295.1512"><![CDATA[With the tablet space, Microsoft tries to hit a big shot in high definition offering a tablet with the new OS.]]></nbest>
+			<nbest id="7" total="295.197"><![CDATA[With the tablet space, Microsoft tries to hit a big shot in high definition tablet offering with its new operating system.]]></nbest>
+			<nbest id="8" total="295.2717"><![CDATA[With the tablet space, Microsoft tries to hit a big shot in high definition offering a tablet with the new operating system.]]></nbest>
+			<nbest id="9" total="295.6262"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high definition offering a tablet with a new operating system.]]></nbest>
+			<nbest id="10" total="296.225"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high definition offering a tablet with a new OS.]]></nbest>
+			<nbest id="11" total="296.9353"><![CDATA[With the tablet space, Microsoft tries to hit a big shot in HD tablet offering with its new operating system.]]></nbest>
+			<nbest id="12" total="297.3454"><![CDATA[With the tablet space, Microsoft is trying to type a blow by offering a high-definition tablet with its new operating system.]]></nbest>
+			<nbest id="13" total="297.3597"><![CDATA[With the tablet space, Microsoft tries to hit a big shot in high definition offering a tablet with a new operating system.]]></nbest>
+			<nbest id="14" total="297.3757"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high-definition offering a tablet with its new operating system.]]></nbest>
+			<nbest id="15" total="297.3956"><![CDATA[With the tablet space, Microsoft tries to hit a great shot in high definition offering tablet with its new operating system.]]></nbest>
+			<nbest id="16" total="297.8303"><![CDATA[With the tablet surface, Microsoft tries to hit a great shot in high definition offering a tablet with its new operating system.]]></nbest>
+			<nbest id="17" total="297.9585"><![CDATA[With the tablet space, Microsoft tries to hit a big shot in high definition offering a tablet with a new OS.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est à Hollywood que Microsoft a finalement dévoilé sa tablette tant attendue, objet de tous les fantasmes depuis quelques jours.]]></source>
+		<target lang="en">
+			<nbest id="0" total="243.9823"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all fantasies for a few days.]]></nbest>
+			<nbest id="1" total="244.9377"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all fantasies for several days.]]></nbest>
+			<nbest id="2" total="245.1237"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all the fantasies for a few days.]]></nbest>
+			<nbest id="3" total="245.5282"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all fantasies last few days.]]></nbest>
+			<nbest id="4" total="245.5471"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all fantasies few days.]]></nbest>
+			<nbest id="5" total="245.761"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all the fantasies last few days.]]></nbest>
+			<nbest id="6" total="245.7799"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all the fantasies few days.]]></nbest>
+			<nbest id="7" total="245.8988"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all fantasies since a few days.]]></nbest>
+			<nbest id="8" total="246.0791"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all the fantasies for several days.]]></nbest>
+			<nbest id="9" total="246.1148"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all the fantasies a few days.]]></nbest>
+			<nbest id="10" total="246.2099"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all the fantasies in recent days.]]></nbest>
+			<nbest id="11" total="246.3136"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all fantasies past few days.]]></nbest>
+			<nbest id="12" total="246.5465"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all the fantasies past few days.]]></nbest>
+			<nbest id="13" total="246.746"><![CDATA[This is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of all fantasies for a few days.]]></nbest>
+			<nbest id="14" total="246.8052"><![CDATA[It is Hollywood that Microsoft has finally unveiled its long-awaited tablet, the object of every fantasy last few days.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Chose pressentie, chose vraie, Steve Ballmer, président directeur général de Microsoft, a présenté hier (lundi 18 juin) « Surface », la tablette Microsoft.]]></source>
+		<target lang="en">
+			<nbest id="0" total="318.1173"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface" Microsoft tablet.]]></nbest>
+			<nbest id="1" total="318.9327"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface", the Microsoft tablet.]]></nbest>
+			<nbest id="2" total="319.0723"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface" Microsoft Tablet.]]></nbest>
+			<nbest id="3" total="319.1655"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface", the tablet Microsoft.]]></nbest>
+			<nbest id="4" total="319.3037"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface," Microsoft Tablet.]]></nbest>
+			<nbest id="5" total="319.3965"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday June 18) "Surface" Microsoft tablet.]]></nbest>
+			<nbest id="6" total="319.4621"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday, June 18) "Surface" Microsoft tablet.]]></nbest>
+			<nbest id="7" total="320.2119"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday June 18) "Surface", the Microsoft tablet.]]></nbest>
+			<nbest id="8" total="320.2775"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday, June 18) "Surface", the Microsoft tablet.]]></nbest>
+			<nbest id="9" total="320.3515"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday June 18) "Surface" Microsoft Tablet.]]></nbest>
+			<nbest id="10" total="320.3917"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface" tablet Microsoft.]]></nbest>
+			<nbest id="11" total="320.4171"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday, June 18) "Surface" Microsoft Tablet.]]></nbest>
+			<nbest id="12" total="320.4257"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface" Tablet Microsoft.]]></nbest>
+			<nbest id="13" total="320.4446"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday June 18) "Surface", the tablet Microsoft.]]></nbest>
+			<nbest id="14" total="320.5092"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface," Microsoft tablet.]]></nbest>
+			<nbest id="15" total="320.5103"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday, June 18) "Surface", the tablet Microsoft.]]></nbest>
+			<nbest id="16" total="320.5829"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday June 18) "Surface," Microsoft Tablet.]]></nbest>
+			<nbest id="17" total="320.6485"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, presented yesterday (Monday, June 18) "Surface," Microsoft Tablet.]]></nbest>
+			<nbest id="18" total="320.7097"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Area", the Microsoft tablet.]]></nbest>
+			<nbest id="19" total="320.9425"><![CDATA[Sensed something, something real, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Area", the tablet Microsoft.]]></nbest>
+			<nbest id="20" total="320.9471"><![CDATA[Sensed something, something true, Steve Ballmer, CEO of Microsoft, yesterday (Monday, June 18) "Surface" Microsoft tablet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Coup de tonnerre dans le monde de la high-tech, Microsoft a présenté sa tablette maison fonctionnant sous Windows 8: la Microsoft Surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="273.8398"><![CDATA[Thunder in the world of high-tech, Microsoft introduced its tablet running Windows 8 home: the Microsoft Surface.]]></nbest>
+			<nbest id="1" total="273.8553"><![CDATA[Thunderbolt in the world of high-tech, Microsoft introduced its tablet running Windows 8 home: the Microsoft Surface.]]></nbest>
+			<nbest id="2" total="274.6615"><![CDATA[Thunder in the world of high-tech Microsoft introduced its tablet running Windows 8 home: the Microsoft Surface.]]></nbest>
+			<nbest id="3" total="274.6771"><![CDATA[Thunderbolt in the world of high-tech Microsoft introduced its tablet running Windows 8 home: the Microsoft Surface.]]></nbest>
+			<nbest id="4" total="275.4043"><![CDATA[Thunderclap in the world of high-tech, Microsoft introduced its tablet running Windows 8 home: the Microsoft Surface.]]></nbest>
+			<nbest id="5" total="276.2261"><![CDATA[Thunderclap in the world of high-tech Microsoft introduced its tablet running Windows 8 home: the Microsoft Surface.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Hier Microsoft a dévoilé et présenté lors d'une conférence à Los Angeles, ses premières tablettes baptisées Surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="218.5769"><![CDATA[Microsoft yesterday announced and presented at a conference in Los Angeles, its first tablet named area.]]></nbest>
+			<nbest id="1" total="219.0253"><![CDATA[Microsoft yesterday announced and presented at a conference in Los Angeles, its first tablet named Surface.]]></nbest>
+			<nbest id="2" total="219.3485"><![CDATA[Yesterday Microsoft announced and presented at a conference in Los Angeles, its first tablet named area.]]></nbest>
+			<nbest id="3" total="219.7969"><![CDATA[Yesterday Microsoft announced and presented at a conference in Los Angeles, its first tablet named Surface.]]></nbest>
+			<nbest id="4" total="221.5966"><![CDATA[Microsoft yesterday announced and presented at a conference in Los Angeles, its first tablet named Area.]]></nbest>
+			<nbest id="5" total="221.6943"><![CDATA[Microsoft yesterday announced and presented at a conference in Los Angeles, its first tablet named surface.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le géant de Redmond a dévoilé hier sa nouvelle tablette destinée à concurrencer l'iPad d'Apple, le leader du marché.]]></source>
+		<target lang="en">
+			<nbest id="0" total="205.6515"><![CDATA[The Redmond giant yesterday unveiled its new tablet designed to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="1" total="207.613"><![CDATA[The Redmond giant yesterday unveiled its new tablet designed to compete with Apple's iPad, the market leader.]]></nbest>
+			<nbest id="2" total="209.6636"><![CDATA[The Redmond giant yesterday unveiled its new tablet designed to compete with Apple iPad, the market leader.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le géant des logiciels informatiques Microsoft a dévoilé lundi à Los Angeles la tablette « Surface », destinée à concurrencer l'iPad d'Apple, leader du marché.]]></source>
+		<target lang="en">
+			<nbest id="0" total="295.1584"><![CDATA[The software giant Microsoft announced on Monday in Los Angeles tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="1" total="295.7893"><![CDATA[The software giant Microsoft unveiled Monday in Los Angeles tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="2" total="295.8863"><![CDATA[Computer software giant Microsoft announced on Monday in Los Angeles tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="3" total="296.5172"><![CDATA[Computer software giant Microsoft unveiled Monday in Los Angeles tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="4" total="296.5771"><![CDATA[The software giant Microsoft announced Monday in Los Angeles tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="5" total="296.9166"><![CDATA[The software giant Microsoft announced on Monday in Los Angeles Tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="6" total="297.305"><![CDATA[Computer software giant Microsoft announced Monday in Los Angeles tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="7" total="297.3816"><![CDATA[The software giant Microsoft unveiled Monday in Los Angeles Tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="8" total="297.6444"><![CDATA[Computer software giant Microsoft announced on Monday in Los Angeles Tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="9" total="297.7533"><![CDATA[The software giant Microsoft has unveiled Monday in Los Angeles tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="10" total="298.1094"><![CDATA[Computer software giant Microsoft unveiled Monday in Los Angeles Tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="11" total="298.3353"><![CDATA[The software giant Microsoft announced Monday in Los Angeles Tablet "Surface", intended to compete with the Apple iPad, the market leader.]]></nbest>
+			<nbest id="12" total="298.4923"><![CDATA[The software giant Microsoft announced on Monday in Los Angeles tablet "Surface", intended to compete with Apple's iPad, the market leader.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les deux premières tablettes signées Microsoft, baptisées Surface, ont été présentées par son PDG Steve Balmer, mardi 19 juin (heure française), lors d'une conférence de presse organisée à Los Angeles.]]></source>
+		<target lang="en">
+			<nbest id="0" total="380.9616"><![CDATA[The first two tablets signed Microsoft Surface baptized, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="1" total="381.2708"><![CDATA[The first two tablets signed Microsoft, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="2" total="381.3615"><![CDATA[The first two tablets signed Microsoft Surface baptized were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="3" total="381.5299"><![CDATA[The first two tablets signed Microsoft Surface baptized, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), during a press conference in Los Angeles.]]></nbest>
+			<nbest id="4" total="381.8391"><![CDATA[The first two tablets signed Microsoft, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), during a press conference in Los Angeles.]]></nbest>
+			<nbest id="5" total="381.9298"><![CDATA[The first two tablets signed Microsoft Surface baptized were presented by CEO Steve Balmer, Tuesday, June 19 (French time), during a press conference in Los Angeles.]]></nbest>
+			<nbest id="6" total="382.5993"><![CDATA[The first two tablets Microsoft signed, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="7" total="382.6963"><![CDATA[The first two tablets signed Microsoft Surface baptized, were presented by CEO Steve Ballmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="8" total="382.9086"><![CDATA[The first two bars signed Microsoft Surface baptized, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="9" total="382.9785"><![CDATA[The first two tablets signed Microsoft Surface baptized, were presented by CEO Steve Balmer, Tuesday, June 19 (French time) at a press conference in Los Angeles.]]></nbest>
+			<nbest id="10" total="383.0055"><![CDATA[The first two tablets signed Microsoft, called Surface, were presented by CEO Steve Ballmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="11" total="383.0637"><![CDATA[The first two tablets signed Microsoft, called Surface, have been presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="12" total="383.0962"><![CDATA[The first two tablets signed Microsoft Surface baptized were presented by CEO Steve Ballmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="13" total="383.1216"><![CDATA[The first two shelves signed Microsoft Surface baptized, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="14" total="383.1676"><![CDATA[The first two tablets Microsoft signed, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), during a press conference in Los Angeles.]]></nbest>
+			<nbest id="15" total="383.2179"><![CDATA[The first two bars signed Microsoft, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="16" total="383.2646"><![CDATA[The first two tablets signed Microsoft Surface baptized, were presented by CEO Steve Ballmer, Tuesday, June 19 (French time), during a press conference in Los Angeles.]]></nbest>
+			<nbest id="17" total="383.2878"><![CDATA[The first two tablets signed Microsoft, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time) at a press conference in Los Angeles.]]></nbest>
+			<nbest id="18" total="383.3086"><![CDATA[The first two bars signed Microsoft Surface baptized were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="19" total="383.3784"><![CDATA[The first two tablets signed Microsoft Surface baptized were presented by CEO Steve Balmer, Tuesday, June 19 (French time) at a press conference in Los Angeles.]]></nbest>
+			<nbest id="20" total="383.4195"><![CDATA[The first two signed Microsoft tablets, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="21" total="383.4308"><![CDATA[The first two shelves signed Microsoft, called Surface, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="22" total="383.4612"><![CDATA[The first two tablets signed Microsoft Surface named were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+			<nbest id="23" total="383.4768"><![CDATA[The first two bars signed Microsoft Surface baptized, were presented by CEO Steve Balmer, Tuesday, June 19 (French time), during a press conference in Los Angeles.]]></nbest>
+			<nbest id="24" total="383.4945"><![CDATA[The first two tablets signed Microsoft, called surface were presented by CEO Steve Balmer, Tuesday, June 19 (French time), at a press conference in Los Angeles.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lors d'un événement qui se tenait à Los Angeles la nuit dernière, Microsoft a annoncé la production et la mise en vente prochaine de deux tablettes 10.6 pouces dédiées à ses prochains systèmes d'exploitation Windows.]]></source>
+		<target lang="en">
+			<nbest id="0" total="360.4485"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale next two shelves 10.6 inches dedicated to its upcoming Windows operating systems.]]></nbest>
+			<nbest id="1" total="360.5379"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale of next two shelves 10.6 inches dedicated to its upcoming Windows operating systems.]]></nbest>
+			<nbest id="2" total="361.2072"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale next two shelves 10.6 inches dedicated to its next Windows operating systems.]]></nbest>
+			<nbest id="3" total="361.2967"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale of next two shelves 10.6 inches dedicated to its next Windows operating systems.]]></nbest>
+			<nbest id="4" total="361.4436"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale of next two tablets 10.6 inches dedicated to its upcoming Windows operating systems.]]></nbest>
+			<nbest id="5" total="361.5287"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale of two tablets next 10.6 inches dedicated to its upcoming Windows operating systems.]]></nbest>
+			<nbest id="6" total="362.2024"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale of next two tablets 10.6 inches dedicated to its next Windows operating systems.]]></nbest>
+			<nbest id="7" total="362.2089"><![CDATA[At an event that was held in Los Angeles last night, Microsoft announced the production and sale next two shelves 10.6 inches dedicated to its upcoming Windows operating systems.]]></nbest>
+			<nbest id="8" total="362.2874"><![CDATA[At an event held in Los Angeles last night, Microsoft announced the production and sale of two tablets next 10.6 inches dedicated to its next Windows operating systems.]]></nbest>
+			<nbest id="9" total="362.2984"><![CDATA[At an event that was held in Los Angeles last night, Microsoft announced the production and sale of next two shelves 10.6 inches dedicated to its upcoming Windows operating systems.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lors d'une conférence au contenu surprise, Microsoft a levé le voile sur son nouveau projet : la tablette tactile Surface, dotée du prochain système d'exploitation Windows 8, et de quelques spécificités bien à part.]]></source>
+		<target lang="en">
+			<nbest id="0" total="399.5825"><![CDATA[At a conference to content surprise, Microsoft has unveiled his new project: the touchpad surface, with the upcoming Windows 8 operating system, and some characteristics of its own.]]></nbest>
+			<nbest id="1" total="399.8248"><![CDATA[At a conference to content surprise, Microsoft has unveiled his new project: the touch pad surface, with the upcoming Windows 8 operating system, and some characteristics of its own.]]></nbest>
+			<nbest id="2" total="400.1222"><![CDATA[At a conference to content surprise, Microsoft has unveiled his new project: the touch pad area, with the upcoming Windows 8 operating system, and some characteristics of its own.]]></nbest>
+			<nbest id="3" total="400.8151"><![CDATA[At a conference to content surprise, Microsoft has unveiled his new project: the touchpad area, with the upcoming Windows 8 operating system, and some characteristics of its own.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Los Angeles, terre du divertissement, a accueilli hier la présentation en grande pompe de la tablette siglée Microsoft, baptisée Surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="316.1867"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation with great pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="1" total="316.2063"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation with great pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="2" total="317.2967"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation of the tablet pomp badged Microsoft called Surface.]]></nbest>
+			<nbest id="3" total="317.3162"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation of the tablet pomp badged Microsoft called Surface.]]></nbest>
+			<nbest id="4" total="317.5341"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation with great pomp badged Microsoft tablet, called Surface.]]></nbest>
+			<nbest id="5" total="317.5536"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation with great pomp badged Microsoft tablet, called Surface.]]></nbest>
+			<nbest id="6" total="317.5964"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation with great pomp tablet badged Microsoft, called Surface.]]></nbest>
+			<nbest id="7" total="317.6159"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation with great pomp tablet badged Microsoft, called Surface.]]></nbest>
+			<nbest id="8" total="317.9476"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation with great pomp the tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="9" total="317.9672"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation with great pomp the tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="10" total="318.0184"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="11" total="318.0379"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="12" total="318.2346"><![CDATA[Los Angeles, entertainment earth, yesterday welcomed the presentation with great pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="13" total="318.383"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation with great fanfare tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="14" total="318.4025"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation with great fanfare tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="15" total="318.4563"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation of the pomp badged Microsoft tablet, called Surface.]]></nbest>
+			<nbest id="16" total="318.4758"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation of the pomp badged Microsoft tablet, called Surface.]]></nbest>
+			<nbest id="17" total="318.7064"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation of the tablet pomp badged Microsoft, called Surface.]]></nbest>
+			<nbest id="18" total="318.7259"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation of the tablet pomp badged Microsoft, called Surface.]]></nbest>
+			<nbest id="19" total="318.9436"><![CDATA[Los Angeles, land of fun, yesterday welcomed the presentation with great pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="20" total="319.0147"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation with great pomp Microsoft badged tablet, called Surface.]]></nbest>
+			<nbest id="21" total="319.0343"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation with great pomp Microsoft badged tablet, called Surface.]]></nbest>
+			<nbest id="22" total="319.1963"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation of the pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="23" total="319.2158"><![CDATA[Los Angeles, the land of entertainment, yesterday welcomed the presentation of the pomp tablet badged Microsoft called Surface.]]></nbest>
+			<nbest id="24" total="319.2696"><![CDATA[Los Angeles, land of entertainment, yesterday welcomed the presentation with great fanfare the tablet badged Microsoft called Surface.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lundi 18 juin, le géant américain des logiciels a dévoilé sa première tablette tournant sous son système d'exploitation encore en cours de développement, Windows 8.]]></source>
+		<target lang="en">
+			<nbest id="0" total="248.3127"><![CDATA[Monday, June 18, the U.S. software giant unveiled its first tablet running its operating system still under development, Windows 8.]]></nbest>
+			<nbest id="1" total="249.3955"><![CDATA[Monday, June 18, the U.S. software giant unveiled its first tablet running the operating system still under development, Windows 8.]]></nbest>
+			<nbest id="2" total="249.9859"><![CDATA[Monday, June 18, the U.S. software giant unveiled its first tablet running its operating system still in development, Windows 8.]]></nbest>
+			<nbest id="3" total="250.242"><![CDATA[Monday, June 18, the U.S. software giant has unveiled its first tablet running its operating system still under development, Windows 8.]]></nbest>
+			<nbest id="4" total="250.8742"><![CDATA[Monday, June 18th, the U.S. software giant unveiled its first tablet running its operating system still under development, Windows 8.]]></nbest>
+			<nbest id="5" total="251.0119"><![CDATA[Monday, June 18, the U.S. software giant unveiled its first tablet running its operating system still being developed, Windows 8.]]></nbest>
+			<nbest id="6" total="251.0688"><![CDATA[Monday, June 18, the U.S. software giant unveiled its first tablet running the operating system still in development, Windows 8.]]></nbest>
+			<nbest id="7" total="251.1388"><![CDATA[Monday, June 18, the U.S. software giant unveiled its first tablet running its operating system still under development Windows 8.]]></nbest>
+			<nbest id="8" total="251.3248"><![CDATA[Monday, June 18, the U.S. software giant has unveiled its first tablet running the operating system still under development, Windows 8.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lundi soir, Microsoft a présenté Surface, sa tablette censée concurrencer l'iPad.]]></source>
+		<target lang="en">
+			<nbest id="0" total="188.3408"><![CDATA[Monday night, Microsoft introduced Surface, its supposed to compete with the iPad tablet.]]></nbest>
+			<nbest id="1" total="189.4124"><![CDATA[On Monday night, Microsoft introduced Surface, its supposed to compete with the iPad tablet.]]></nbest>
+			<nbest id="2" total="191.7536"><![CDATA[Monday night, Microsoft introduced Surface, its supposed tablet compete with the iPad.]]></nbest>
+			<nbest id="3" total="192.8253"><![CDATA[On Monday night, Microsoft introduced Surface, its supposed tablet compete with the iPad.]]></nbest>
+			<nbest id="4" total="195.9254"><![CDATA[Monday night, Microsoft has introduced Surface, its supposed to compete with the iPad tablet.]]></nbest>
+			<nbest id="5" total="195.9907"><![CDATA[Monday night, Microsoft introduced Surface, its supposed to compete with iPad tablet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lundi, lors d'une conférence de presse à Los Angeles, Microsoft a dévoilé des tablettes tournant sous Windows 8 et Windows RT.]]></source>
+		<target lang="en">
+			<nbest id="0" total="214.8141"><![CDATA[Monday at a press conference in Los Angeles, Microsoft unveiled Windows 8 tablets running Windows and RT.]]></nbest>
+			<nbest id="1" total="215.1236"><![CDATA[Monday, during a press conference in Los Angeles, Microsoft unveiled Windows 8 tablets running Windows and RT.]]></nbest>
+			<nbest id="2" total="215.4485"><![CDATA[Monday during a press conference in Los Angeles, Microsoft unveiled Windows 8 tablets running Windows and RT.]]></nbest>
+			<nbest id="3" total="216.2114"><![CDATA[Monday, during a news conference in Los Angeles, Microsoft unveiled Windows 8 tablets running Windows and RT.]]></nbest>
+			<nbest id="4" total="216.9206"><![CDATA[Monday at a news conference in Los Angeles, Microsoft unveiled Windows 8 tablets running Windows and RT.]]></nbest>
+			<nbest id="5" total="217.27"><![CDATA[Monday at a press conference in Los Angeles, Microsoft unveiled tablets running Windows 8 and Windows RT.]]></nbest>
+			<nbest id="6" total="217.5795"><![CDATA[Monday, during a press conference in Los Angeles, Microsoft unveiled tablets running Windows 8 and Windows RT.]]></nbest>
+			<nbest id="7" total="217.9043"><![CDATA[Monday during a press conference in Los Angeles, Microsoft unveiled tablets running Windows 8 and Windows RT.]]></nbest>
+			<nbest id="8" total="218.4732"><![CDATA[On Monday at a press conference in Los Angeles, Microsoft unveiled Windows 8 tablets running Windows and RT.]]></nbest>
+			<nbest id="9" total="218.6673"><![CDATA[Monday, during a news conference in Los Angeles, Microsoft unveiled tablets running Windows 8 and Windows RT.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lundi, lors d'une conférence de presse au Milk Studios de Los Angeles, Microsoft a annoncé ce qui pourrait bien constituer un tournant dans sa stratégie et son développement futur : une tablette tactile nommée Surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="361.1382"><![CDATA[Monday during a press conference at Milk Studios in Los Angeles, Microsoft announced what could be a turning point in its strategy and future development: a touchscreen tablet called Surface.]]></nbest>
+			<nbest id="1" total="362.8776"><![CDATA[Monday during a press conference at Milk Studios in Los Angeles, Microsoft announced what could be a turning point in its strategy and future development: a touchscreen tablet named area.]]></nbest>
+			<nbest id="2" total="363.326"><![CDATA[Monday during a press conference at Milk Studios in Los Angeles, Microsoft announced what could be a turning point in its strategy and future development: a touchscreen tablet named Surface.]]></nbest>
+			<nbest id="3" total="363.4978"><![CDATA[Monday during a press conference at Milk Studios in Los Angeles, Microsoft announced what could be a turning point in its strategy and future development: a touch pad area named.]]></nbest>
+			<nbest id="4" total="363.5036"><![CDATA[Monday during a press conference at Milk Studios in Los Angeles, Microsoft announced what could be a turning point in its strategy and its future development: a touchscreen tablet called Surface.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Microsoft a convié la presse à un événement mystérieux lundi à Los Angeles, où beaucoup s'attendent à découvrir de nouvelles tablettes informatiques fonctionnant avec son système d'exploitation Windows.]]></source>
+		<target lang="en">
+			<nbest id="0" total="301.7468"><![CDATA[Microsoft has invited the press to a mysterious event Monday in Los Angeles, where many expect to discover new tablet computers running its Windows operating system.]]></nbest>
+			<nbest id="1" total="302.1858"><![CDATA[Microsoft has invited the press to a mysterious event Monday in Los Angeles, where many expect to discover new tablet computers running the Windows operating system.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Microsoft a lancé lundi sa propre ligne de tablettes tactiles lors d'une conférence de presse très suivie à Los Angeles.]]></source>
+		<target lang="en">
+			<nbest id="0" total="208.309"><![CDATA[Microsoft on Monday launched its own line of touch pads at a well attended press conference in Los Angeles.]]></nbest>
+			<nbest id="1" total="208.7296"><![CDATA[Microsoft on Monday launched its own line of touch pads at a well-attended press conference in Los Angeles.]]></nbest>
+			<nbest id="2" total="210.378"><![CDATA[Microsoft on Monday launched her own line of touch pads at a well attended press conference in Los Angeles.]]></nbest>
+			<nbest id="3" total="210.7986"><![CDATA[Microsoft on Monday launched her own line of touch pads at a well-attended press conference in Los Angeles.]]></nbest>
+			<nbest id="4" total="210.9102"><![CDATA[Microsoft on Monday launched its own line of touchpads at a well attended press conference in Los Angeles.]]></nbest>
+			<nbest id="5" total="210.938"><![CDATA[Microsoft on Monday launched his own line of touch pads at a well attended press conference in Los Angeles.]]></nbest>
+			<nbest id="6" total="211.3308"><![CDATA[Microsoft on Monday launched its own line of touchpads at a well-attended press conference in Los Angeles.]]></nbest>
+			<nbest id="7" total="211.3587"><![CDATA[Microsoft on Monday launched his own line of touch pads at a well-attended press conference in Los Angeles.]]></nbest>
+			<nbest id="8" total="212.3538"><![CDATA[Microsoft on Monday launched its own line of touch pads during a well-attended press conference in Los Angeles.]]></nbest>
+			<nbest id="9" total="212.7172"><![CDATA[Microsoft on Monday launched its own line of touch pads during a well attended press conference in Los Angeles.]]></nbest>
+			<nbest id="10" total="212.9792"><![CDATA[Microsoft on Monday launched her own line of touchpads at a well attended press conference in Los Angeles.]]></nbest>
+			<nbest id="11" total="212.9954"><![CDATA[Microsoft on Monday launched its own line of touch pads in a well-attended press conference in Los Angeles.]]></nbest>
+			<nbest id="12" total="213.3998"><![CDATA[Microsoft on Monday launched her own line of touchpads at a well-attended press conference in Los Angeles.]]></nbest>
+			<nbest id="13" total="213.5392"><![CDATA[Microsoft on Monday launched his own line of touchpads at a well attended press conference in Los Angeles.]]></nbest>
+			<nbest id="14" total="213.9599"><![CDATA[Microsoft on Monday launched his own line of touchpads at a well-attended press conference in Los Angeles.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Microsoft a lancé sa première ligne de tablettes tactiles sous le nom de « Surface », fonctionnant avec la nouvelle version du système d'exploitation de Microsoft: Windows 8.]]></source>
+		<target lang="en">
+			<nbest id="0" total="281.3243"><![CDATA[Microsoft launched its first line of touch pads under the name of "Surface", working with the new version of the operating system Microsoft Windows 8.]]></nbest>
+			<nbest id="1" total="281.6592"><![CDATA[Microsoft launched its first line of touch pads under the name of "Surface", working with the new version of Microsoft operating system: Windows 8.]]></nbest>
+			<nbest id="2" total="282.409"><![CDATA[Microsoft launched its first line of touch pads under the name "Surface", working with the new version of the operating system Microsoft Windows 8.]]></nbest>
+			<nbest id="3" total="282.7439"><![CDATA[Microsoft launched its first line of touch pads under the name "Surface", working with the new version of Microsoft operating system: Windows 8.]]></nbest>
+			<nbest id="4" total="283.7402"><![CDATA[Microsoft launched its first line of touchpads under the name of "Surface", working with the new version of the operating system Microsoft Windows 8.]]></nbest>
+			<nbest id="5" total="283.8051"><![CDATA[Microsoft launched its first line of touch pads as the "Surface", working with the new version of the operating system Microsoft Windows 8.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Microsoft a présenté "Surface", la réponse formulée à l'iPad d'Apple.]]></source>
+		<target lang="en">
+			<nbest id="0" total="175.3237"><![CDATA[Microsoft introduced "Surface", the response made in the Apple iPad.]]></nbest>
+			<nbest id="1" total="176.1571"><![CDATA[Microsoft introduced "Surface", the response made the Apple iPad.]]></nbest>
+			<nbest id="2" total="177.5032"><![CDATA[Microsoft introduced "Surface", the response made in the iPad.]]></nbest>
+			<nbest id="3" total="178.4604"><![CDATA[Microsoft introduced "Surface", the response made in Apple's iPad.]]></nbest>
+			<nbest id="4" total="178.7192"><![CDATA[Microsoft has introduced "Surface", the response made the Apple iPad.]]></nbest>
+			<nbest id="5" total="179.1487"><![CDATA[Microsoft introduced "Surface", the answer formulated the Apple iPad.]]></nbest>
+			<nbest id="6" total="179.2135"><![CDATA[Microsoft introduced "Area", the response made in the Apple iPad.]]></nbest>
+			<nbest id="7" total="179.44"><![CDATA[Microsoft introduced "Surface," the response made in the Apple iPad.]]></nbest>
+			<nbest id="8" total="179.7529"><![CDATA[Microsoft presented "Surface", the response made the Apple iPad.]]></nbest>
+			<nbest id="9" total="179.8575"><![CDATA[Microsoft introduced "Surface", the response made to the Apple iPad.]]></nbest>
+			<nbest id="10" total="180.0314"><![CDATA[Microsoft introduced "Surface", the response made to Apple iPad.]]></nbest>
+			<nbest id="11" total="180.0468"><![CDATA[Microsoft introduced "Area", the response made the Apple iPad.]]></nbest>
+			<nbest id="12" total="180.2733"><![CDATA[Microsoft introduced "Surface," the response made the Apple iPad.]]></nbest>
+			<nbest id="13" total="180.2841"><![CDATA[Microsoft introduced "Surface" the response made in the Apple iPad.]]></nbest>
+			<nbest id="14" total="180.5474"><![CDATA[Microsoft introduced "Surface", the answer made to Apple iPad.]]></nbest>
+			<nbest id="15" total="180.5797"><![CDATA[Microsoft introduced "Surface", the response made Apple's iPad.]]></nbest>
+			<nbest id="16" total="180.6407"><![CDATA[Microsoft introduced "Surface", the answer made to the Apple iPad.]]></nbest>
+			<nbest id="17" total="181.0036"><![CDATA[Microsoft introduced "Surface", the response formulated the Apple iPad.]]></nbest>
+			<nbest id="18" total="181.1174"><![CDATA[Microsoft introduced "Surface" the response made the Apple iPad.]]></nbest>
+			<nbest id="19" total="181.393"><![CDATA[Microsoft introduced "Area", the response made in the iPad.]]></nbest>
+			<nbest id="20" total="181.6195"><![CDATA[Microsoft introduced "Surface," the response made in the iPad.]]></nbest>
+			<nbest id="21" total="182.0301"><![CDATA[Microsoft introduced "Surface", the response made to the iPad from Apple.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Microsoft revient dans le domaine des tablettes avec la présentation de Surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="151.8131"><![CDATA[Microsoft comes in tablets with the presentation area.]]></nbest>
+			<nbest id="1" total="153.2293"><![CDATA[Microsoft comes in tablets with the presentation space.]]></nbest>
+			<nbest id="2" total="156.9408"><![CDATA[Microsoft comes in tablets with the presentation of Surface.]]></nbest>
+			<nbest id="3" total="157.0094"><![CDATA[Microsoft comes in tablets with the presentation of surface.]]></nbest>
+			<nbest id="4" total="157.0179"><![CDATA[Microsoft comes in tablets with the introduction of surface.]]></nbest>
+			<nbest id="5" total="158.0558"><![CDATA[Microsoft comes in tablets with the introduction of Surface.]]></nbest>
+			<nbest id="6" total="159.1084"><![CDATA[Microsoft comes in tablets with the presentation Surface.]]></nbest>
+			<nbest id="7" total="159.1596"><![CDATA[Microsoft is in the field of tablets with the presentation of Surface.]]></nbest>
+			<nbest id="8" total="159.8362"><![CDATA[Microsoft is in the field of tablets with the introduction of Surface.]]></nbest>
+			<nbest id="9" total="160.0417"><![CDATA[Microsoft is in tablets with the presentation of Surface.]]></nbest>
+			<nbest id="10" total="160.6086"><![CDATA[Microsoft comes in tablets with presentation Surface.]]></nbest>
+			<nbest id="11" total="160.8402"><![CDATA[Microsoft is in the area of tablets with the presentation of Surface.]]></nbest>
+			<nbest id="12" total="161.1567"><![CDATA[Microsoft is in tablets with the introduction of Surface.]]></nbest>
+			<nbest id="13" total="161.5168"><![CDATA[Microsoft is in the area of tablets with the introduction of Surface.]]></nbest>
+			<nbest id="14" total="162.4749"><![CDATA[Microsoft is in the field of shelves with the presentation of Surface.]]></nbest>
+			<nbest id="15" total="162.9753"><![CDATA[Microsoft is in the area of shelves with the presentation of Surface.]]></nbest>
+			<nbest id="16" total="163.2578"><![CDATA[Microsoft is in the field of shelves with the introduction of Surface.]]></nbest>
+			<nbest id="17" total="163.7582"><![CDATA[Microsoft is in the area of shelves with the introduction of Surface.]]></nbest>
+			<nbest id="18" total="164.4092"><![CDATA[Microsoft is in the field of tablet with the presentation of Surface.]]></nbest>
+			<nbest id="19" total="164.4553"><![CDATA[Microsoft comes in tablets with presentation of Surface.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Microsoft vient de lever le voile sur deux modèles de tablettes qu'il va sortir sous sa propre marque : les Surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="241.7319"><![CDATA[Microsoft has lifted the veil on two models of tablets that will be launched under its own brand: Surface.]]></nbest>
+			<nbest id="1" total="241.799"><![CDATA[Microsoft has lifted the veil on two tablet models that will be launched under its own brand: Surface.]]></nbest>
+			<nbest id="2" total="241.9634"><![CDATA[Microsoft has lifted the veil on two models of tablets that will be launched under its own brand: the Surface.]]></nbest>
+			<nbest id="3" total="242.0305"><![CDATA[Microsoft has lifted the veil on two tablet models that will be launched under its own brand: the Surface.]]></nbest>
+			<nbest id="4" total="242.9221"><![CDATA[Microsoft has lifted the veil on two models of tablets that will be launched under its own brand: the surface.]]></nbest>
+			<nbest id="5" total="242.9891"><![CDATA[Microsoft has lifted the veil on two tablet models that will be launched under its own brand: the surface.]]></nbest>
+			<nbest id="6" total="243.4683"><![CDATA[Microsoft has lifted the veil on two models of tablet that will be launched under its own brand: Surface.]]></nbest>
+			<nbest id="7" total="243.6998"><![CDATA[Microsoft has lifted the veil on two models of tablet that will be launched under its own brand: the Surface.]]></nbest>
+			<nbest id="8" total="243.8833"><![CDATA[Microsoft has lifted the veil on two models of tablets that will be launched under its own brand: the area.]]></nbest>
+			<nbest id="9" total="243.922"><![CDATA[Microsoft has just lifted the veil on two models of tablets that will be launched under its own brand: Surface.]]></nbest>
+			<nbest id="10" total="243.9504"><![CDATA[Microsoft has lifted the veil on two tablet models that will be launched under its own brand: the area.]]></nbest>
+			<nbest id="11" total="243.9561"><![CDATA[Microsoft has just lifted the veil on two tablet models that will be launched under its own brand: Surface.]]></nbest>
+			<nbest id="12" total="244.1534"><![CDATA[Microsoft has just lifted the veil on two models of tablets that will be launched under its own brand: the Surface.]]></nbest>
+			<nbest id="13" total="244.1876"><![CDATA[Microsoft has just lifted the veil on two tablet models that will be launched under its own brand: the Surface.]]></nbest>
+			<nbest id="14" total="244.6528"><![CDATA[Microsoft has lifted the veil on two models of tablets that will be launched under its own brand, the Surface.]]></nbest>
+			<nbest id="15" total="244.6584"><![CDATA[Microsoft has lifted the veil on two models of tablet that will be launched under its own brand: the surface.]]></nbest>
+			<nbest id="16" total="244.7198"><![CDATA[Microsoft has lifted the veil on two tablet models that will be launched under its own brand, the Surface.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Microsoft, qui promettait dans son invitation aux journalistes une annonce "majeure", a présenté lundi soir sa propre tablette, baptisée "Surface".]]></source>
+		<target lang="en">
+			<nbest id="0" total="349.6533"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="1" total="350.2628"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented on Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="2" total="350.7964"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented Monday night its own tablet, called "Surface".]]></nbest>
+			<nbest id="3" total="350.8065"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented Monday evening its own tablet called "Surface".]]></nbest>
+			<nbest id="4" total="351.4159"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented on Monday evening its own tablet called "Surface".]]></nbest>
+			<nbest id="5" total="351.8639"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented Monday evening its own tablet, dubbed "Surface".]]></nbest>
+			<nbest id="6" total="351.9496"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented Monday night its own tablet called "Surface".]]></nbest>
+			<nbest id="7" total="351.9572"><![CDATA[Microsoft, which promised in its invitation to journalists Ad "major", presented Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="8" total="352.4733"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented on Monday evening its own tablet, dubbed "Surface".]]></nbest>
+			<nbest id="9" total="352.5147"><![CDATA[Microsoft, which promised in its invitation to reporters an ad "major", presented Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="10" total="352.5665"><![CDATA[Microsoft, which promised in its invitation to journalists Ad "major", presented on Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="11" total="352.6477"><![CDATA[Microsoft, which promised in the invitation to journalists an ad "major", presented Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="12" total="352.8623"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented on Monday night its own tablet, called "Surface".]]></nbest>
+			<nbest id="13" total="352.9047"><![CDATA[Microsoft, which promised in its invitation to journalists ad "major", presented Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="14" total="353.007"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented Monday night its own tablet, dubbed "Surface".]]></nbest>
+			<nbest id="15" total="353.1002"><![CDATA[Microsoft, which promised in its invitation to journalists Ad "major", presented Monday night its own tablet, called "Surface".]]></nbest>
+			<nbest id="16" total="353.1103"><![CDATA[Microsoft, which promised in its invitation to journalists Ad "major", presented Monday evening its own tablet called "Surface".]]></nbest>
+			<nbest id="17" total="353.1241"><![CDATA[Microsoft, which promised in its invitation to reporters an ad "major", presented on Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="18" total="353.2571"><![CDATA[Microsoft, which promised in the invitation to journalists an ad "major", presented on Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="19" total="353.4225"><![CDATA[Microsoft, which promised in its invitation to journalists an ad "major", presented Monday evening its own tablet, named "Surface".]]></nbest>
+			<nbest id="20" total="353.5142"><![CDATA[Microsoft, which promised in its invitation to journalists ad "major", presented on Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="21" total="353.5772"><![CDATA[Microsoft, which promised in its invitation for journalists says "major", presented Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="22" total="353.5993"><![CDATA[Microsoft promised that his invitation to journalists an ad "major", presented Monday night its own tablet, called "Surface".]]></nbest>
+			<nbest id="23" total="353.6091"><![CDATA[Microsoft, which promised in his invitation to journalists an ad "major", presented Monday evening its own tablet, called "Surface".]]></nbest>
+			<nbest id="24" total="353.6578"><![CDATA[Microsoft, which promised in its invitation to reporters an ad "major", presented Monday night its own tablet, called "Surface".]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[On s'en doutait, le prochain système d'exploitation de Microsoft, Windows 8, sera résolument tourné vers l'univers tactile.]]></source>
+		<target lang="en">
+			<nbest id="0" total="237.3644"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8 will resolutely turned towards the world touch.]]></nbest>
+			<nbest id="1" total="237.6405"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8 will resolutely turned towards the universe touch.]]></nbest>
+			<nbest id="2" total="238.5843"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8 will be looking to the world touch.]]></nbest>
+			<nbest id="3" total="238.5989"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8 will be resolutely turned towards the world touch.]]></nbest>
+			<nbest id="4" total="238.6742"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8 will be looking to the universe touch.]]></nbest>
+			<nbest id="5" total="238.875"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8 will be resolutely turned towards the universe touch.]]></nbest>
+			<nbest id="6" total="238.8885"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8, will resolutely turned towards the world touch.]]></nbest>
+			<nbest id="7" total="239.1051"><![CDATA[We suspected, the next Microsoft operating system, Windows 8, will resolutely turned towards the world touch.]]></nbest>
+			<nbest id="8" total="239.1645"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8 will be firmly focused on tactile universe.]]></nbest>
+			<nbest id="9" total="239.1645"><![CDATA[We suspected, the next operating system from Microsoft, Windows 8, will resolutely turned towards the universe touch.]]></nbest>
+			<nbest id="10" total="239.3812"><![CDATA[We suspected, the next Microsoft operating system, Windows 8, will resolutely turned towards the universe touch.]]></nbest>
+			<nbest id="11" total="239.602"><![CDATA[We suspected, the next Microsoft operating system, Windows 8 will resolutely turned towards the world touch.]]></nbest>
+			<nbest id="12" total="239.8781"><![CDATA[We suspected, the next Microsoft operating system, Windows 8 will resolutely turned towards the universe touch.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Outre les brèves précisions sur le futur Windows 8, la part belle a été faite à ce qui serait la nouvelle tablette de Microsoft: Surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="313.3472"><![CDATA[In addition to the brief details about the upcoming Windows 8, the spotlight has been made to what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="1" total="313.3568"><![CDATA[In addition to the brief details about the upcoming Windows 8, the spotlight has been made what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="2" total="313.5645"><![CDATA[In addition to the brief details on the upcoming Windows 8, the spotlight has been made to what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="3" total="313.5741"><![CDATA[In addition to the brief details on the upcoming Windows 8, the spotlight has been made what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="4" total="313.8733"><![CDATA[In addition to the brief details about the upcoming Windows 8, the spotlight was made what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="5" total="314.0906"><![CDATA[In addition to the brief details on the upcoming Windows 8, the spotlight was made what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="6" total="315.1495"><![CDATA[In addition to the brief details of the upcoming Windows 8, the spotlight has been made to what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="7" total="315.159"><![CDATA[In addition to the brief details of the upcoming Windows 8, the spotlight has been made what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="8" total="315.6021"><![CDATA[In addition to the brief details about the upcoming Windows 8, the spotlight has been made which would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="9" total="315.6755"><![CDATA[In addition to the brief details of the upcoming Windows 8, the spotlight was made what would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="10" total="315.8195"><![CDATA[In addition to the brief details on the upcoming Windows 8, the spotlight has been made which would be the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="11" total="316.3049"><![CDATA[In addition to the brief details about the upcoming Windows 8, the spotlight has been made what would the new tablet Microsoft Surface.]]></nbest>
+			<nbest id="12" total="316.3182"><![CDATA[In addition to the brief details about the upcoming Windows 8, the spotlight has been made that would be the new tablet Microsoft Surface.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

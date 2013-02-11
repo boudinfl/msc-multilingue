@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Alors que la lutte contre le SIDA est loin d'être terminée, une nouvelle maladie du système immunitaire semble avoir fait son apparition en Asie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="223.1421"><![CDATA[While the fight against AIDS is far from over, a new disease of the immune system appears to have emerged in Asia.]]></nbest>
+			<nbest id="1" total="224.1799"><![CDATA[While the fight against AIDS is far from over, a new disease of the immune system seems to have emerged in Asia.]]></nbest>
+			<nbest id="2" total="225.7534"><![CDATA[While the fight against AIDS is far from over, a new disease of the immune system seems to have made its appearance in Asia.]]></nbest>
+			<nbest id="3" total="227.3943"><![CDATA[While the fight against AIDS is far from complete, a new disease of the immune system appears to have emerged in Asia.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[D'après une étude publiée dans le dernier numéro du New England Journal of Medicine, des chercheurs américains ont mis en évidence l'existence en Thaïlande et à Taiwan d'une nouvelle maladie qui affecte les défenses immunitaires de patients d'origine asiatique âgés d'une cinquantaine d'années.]]></source>
+		<target lang="en">
+			<nbest id="0" total="410.0772"><![CDATA[According to a study published in the latest issue of the New England Journal of Medicine, American researchers have revealed the existence in Thailand and Taiwan of a new disease that affects the immune system of patients of Asian origin aged fifty years.]]></nbest>
+			<nbest id="1" total="410.3557"><![CDATA[According to a study published in the latest issue of the New England Journal of Medicine, American researchers have demonstrated the existence in Thailand and Taiwan of a new disease that affects the immune system of patients of Asian origin aged fifty years.]]></nbest>
+			<nbest id="2" total="411.4947"><![CDATA[According to a study published in the latest issue of the New England Journal of Medicine, American researchers have highlighted the existence Thailand and Taiwan of a new disease that affects the immune system of patients of Asian origin aged fifty years.]]></nbest>
+			<nbest id="3" total="411.5481"><![CDATA[According to a study published in the latest issue of the New England Journal of Medicine, U.S. researchers have revealed the existence in Thailand and Taiwan of a new disease that affects the immune system of patients of Asian origin aged fifty years.]]></nbest>
+			<nbest id="4" total="411.6165"><![CDATA[According to a study published in the latest issue of the New England Journal of Medicine, U.S. researchers have demonstrated the existence in Thailand and Taiwan of a new disease that affects the immune system of patients of Asian origin aged fifty years.]]></nbest>
+			<nbest id="5" total="411.6466"><![CDATA[According to a study published in the latest issue of the New England Journal of Medicine, American researchers have highlighted the existence in Thailand and Taiwan of a new disease that affects the immune system of patients of Asian origin aged fifty years.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[En Asie, le SIDA est apparu sous une nouvelle forme selon une étude publiée dans la journée de jeudi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="192.1577"><![CDATA[Asia, AIDS appeared in a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="1" total="192.2403"><![CDATA[In Asia, AIDS emerged in a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="2" total="192.3374"><![CDATA[In Asia, the AIDS emerged in a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="3" total="192.4384"><![CDATA[Asia, AIDS became a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="4" total="192.9747"><![CDATA[In Asia, AIDS appeared in a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="5" total="193.2554"><![CDATA[In Asia, AIDS became a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="6" total="193.9083"><![CDATA[In Asia, the AIDS appeared in a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="7" total="195.0618"><![CDATA[Asia, AIDS appeared in a new form according to a study published in Thursday.]]></nbest>
+			<nbest id="8" total="195.1444"><![CDATA[In Asia, AIDS emerged in a new form according to a study published in Thursday.]]></nbest>
+			<nbest id="9" total="195.2416"><![CDATA[In Asia, the AIDS emerged in a new form according to a study published in Thursday.]]></nbest>
+			<nbest id="10" total="195.3425"><![CDATA[Asia, AIDS became a new form according to a study published in Thursday.]]></nbest>
+			<nbest id="11" total="195.8788"><![CDATA[In Asia, AIDS appeared in a new form according to a study published in Thursday.]]></nbest>
+			<nbest id="12" total="195.8852"><![CDATA[In Asia, AIDS emerged a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="13" total="195.9823"><![CDATA[In Asia, the AIDS emerged a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="14" total="196.1596"><![CDATA[In Asia, AIDS became a new form according to a study published in Thursday.]]></nbest>
+			<nbest id="15" total="196.8124"><![CDATA[In Asia, the AIDS appeared in a new form according to a study published in Thursday.]]></nbest>
+			<nbest id="16" total="196.9577"><![CDATA[Asia, AIDS appeared in a new form in a study published in the Thursday.]]></nbest>
+			<nbest id="17" total="196.9673"><![CDATA[Asia, AIDS has appeared in a new form according to a study published in the Thursday.]]></nbest>
+			<nbest id="18" total="197.0403"><![CDATA[In Asia, AIDS emerged in a new form in a study published in the Thursday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'existence d'une maladie provoquant les mêmes symptômes que ceux du sida vient d'être révélée.]]></source>
+		<target lang="en">
+			<nbest id="0" total="181.7577"><![CDATA[The existence of a disease causing the same symptoms as AIDS has been revealed.]]></nbest>
+			<nbest id="1" total="184.561"><![CDATA[The existence of a disease causing the same symptoms as those with AIDS has been revealed.]]></nbest>
+			<nbest id="2" total="185.7988"><![CDATA[The existence of a disease causing the same symptoms as AIDS has just been revealed.]]></nbest>
+			<nbest id="3" total="186.1603"><![CDATA[The existence of a disease causing the same symptoms as those of AIDS has been revealed.]]></nbest>
+			<nbest id="4" total="186.6354"><![CDATA[The presence of a disease causing the same symptoms as AIDS has been revealed.]]></nbest>
+			<nbest id="5" total="187.1152"><![CDATA[The existence of a disease causing the same symptoms as AIDS has been proven.]]></nbest>
+			<nbest id="6" total="187.244"><![CDATA[The existence of an illness causing the same symptoms as AIDS has been revealed.]]></nbest>
+			<nbest id="7" total="187.2812"><![CDATA[The existence of a disease causing the same symptoms as AIDS is to be revealed.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La découverte d'une nouvelle maladie en Asie inquiète la communauté scientifique en raison des signes qui ressemblent au Sida.]]></source>
+		<target lang="en">
+			<nbest id="0" total="234.7168"><![CDATA[The discovery of a new disease in Asia concern the scientific community because of signs that resemble AIDS.]]></nbest>
+			<nbest id="1" total="234.8491"><![CDATA[The discovery of a new disease in Asia concerned the scientific community because of signs that resemble AIDS.]]></nbest>
+			<nbest id="2" total="234.926"><![CDATA[The discovery of a new disease in Asia concern the scientific community because of signs like AIDS.]]></nbest>
+			<nbest id="3" total="235.0583"><![CDATA[The discovery of a new disease in Asia concerned the scientific community because of signs like AIDS.]]></nbest>
+			<nbest id="4" total="236.6887"><![CDATA[The discovery of a new disease in Asia concern the scientific community due to signs that resemble AIDS.]]></nbest>
+			<nbest id="5" total="236.821"><![CDATA[The discovery of a new disease in Asia concerned the scientific community due to signs that resemble AIDS.]]></nbest>
+			<nbest id="6" total="236.9938"><![CDATA[The discovery of a new disease in Asia concern the scientific community because of signs that look like AIDS.]]></nbest>
+			<nbest id="7" total="237.0961"><![CDATA[The discovery of a new disease in Asia concern the scientific community because of the signs that resemble AIDS.]]></nbest>
+			<nbest id="8" total="237.1261"><![CDATA[The discovery of a new disease in Asia concerned the scientific community because of signs that look like AIDS.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le New England Journal of Medicine a publié une étude dévoilant l'identification d'une nouvelle maladie dont les symptômes ressemblent à ceux du sida.]]></source>
+		<target lang="en">
+			<nbest id="0" total="213.54"><![CDATA[The New England Journal of Medicine published a study revealing the identification of a new disease whose symptoms resemble those of AIDS.]]></nbest>
+			<nbest id="1" total="214.5891"><![CDATA[New England Journal of Medicine published a study revealing the identification of a new disease whose symptoms resemble those of AIDS.]]></nbest>
+			<nbest id="2" total="214.8893"><![CDATA[The New England Journal of Medicine published a study revealing the identification of a new disease whose symptoms are similar to those of AIDS.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une étude toute récente, une nouvelle maladie dont les symptômes seraient comparables à ceux du sida seraient apparue en Asie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="238.7973"><![CDATA[According to a recent study, a new disease whose symptoms are similar to those of AIDS would be appeared in Asia.]]></nbest>
+			<nbest id="1" total="238.9138"><![CDATA[According to a recent study, a new disease whose symptoms are similar to those of AIDS are appeared in Asia.]]></nbest>
+			<nbest id="2" total="239.1736"><![CDATA[According to a recent study, a new disease whose symptoms are similar to those of AIDS would appeared in Asia.]]></nbest>
+			<nbest id="3" total="240.0298"><![CDATA[According to a recent study, a new disease whose symptoms are similar to those of AIDS were appeared in Asia.]]></nbest>
+			<nbest id="4" total="240.4851"><![CDATA[According to a recent study, a new disease whose symptoms are similar to those of AIDS would be starting in Asia.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une maladie dont les symptômes évoquent ceux du sida a été identifiée en Asie: elle affaiblit le système immunitaire mais selon un mécanisme très différent.]]></source>
+		<target lang="en">
+			<nbest id="0" total="285.2753"><![CDATA[A disease whose symptoms reminiscent of those of AIDS was identified in Asia: it weakens the immune system, but in a very different mechanism.]]></nbest>
+			<nbest id="1" total="285.3464"><![CDATA[A disease whose symptoms suggest those of AIDS was identified in Asia: it weakens the immune system, but in a very different mechanism.]]></nbest>
+			<nbest id="2" total="285.8321"><![CDATA[A disease whose symptoms reminiscent of those of AIDS was identified in Asia: it weakens the immune system but by a very different mechanism.]]></nbest>
+			<nbest id="3" total="285.9032"><![CDATA[A disease whose symptoms suggest those of AIDS was identified in Asia: it weakens the immune system but by a very different mechanism.]]></nbest>
+			<nbest id="4" total="287.2495"><![CDATA[Disease whose symptoms reminiscent of those of AIDS was identified in Asia: it weakens the immune system, but in a very different mechanism.]]></nbest>
+			<nbest id="5" total="287.4298"><![CDATA[A disease whose symptoms reminiscent of those of AIDS was identified in Asia: it weakens the immune system but in a very different mechanism.]]></nbest>
+			<nbest id="6" total="287.501"><![CDATA[A disease whose symptoms suggest those of AIDS was identified in Asia: it weakens the immune system but in a very different mechanism.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une maladie effrayante s'abat sur l'Asie et agite le spectre d'un nouveau sida: ses symptômes sont en effet similaires à ceux de la maladie redoutée.]]></source>
+		<target lang="en">
+			<nbest id="0" total="313.1636"><![CDATA[A scary disease falls on Asia and the specter of a new AIDS symptoms are indeed similar to the dreaded disease.]]></nbest>
+			<nbest id="1" total="313.3333"><![CDATA[A frightening disease falls on Asia and the specter of a new AIDS symptoms are indeed similar to the dreaded disease.]]></nbest>
+			<nbest id="2" total="314.6324"><![CDATA[A scary disease falls on Asia and the specter of a new AIDS symptoms are indeed similar to those of the dreaded disease.]]></nbest>
+			<nbest id="3" total="314.8021"><![CDATA[A frightening disease falls on Asia and the specter of a new AIDS symptoms are indeed similar to those of the dreaded disease.]]></nbest>
+			<nbest id="4" total="316.0222"><![CDATA[A frightening disease befalls Asia and the specter of a new AIDS symptoms are indeed similar to the dreaded disease.]]></nbest>
+			<nbest id="5" total="316.03"><![CDATA[A scary disease befalls Asia and the specter of a new AIDS symptoms are indeed similar to the dreaded disease.]]></nbest>
+			<nbest id="6" total="316.3877"><![CDATA[A scary disease falls on Asia and the specter of a new AIDS symptoms are in fact similar to those of the dreaded disease.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une maladie induisant une déficience du système immunitaire semblable à celle observée chez les malades du sida a été identifiée en Thaïlande et à Taiwan.]]></source>
+		<target lang="en">
+			<nbest id="0" total="245.2729"><![CDATA[Disease inducing immune deficiency similar to that seen in AIDS patients has been identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="1" total="245.7016"><![CDATA[Disease inducing immune deficiency similar to that observed in AIDS patients has been identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="2" total="246.7733"><![CDATA[A disease inducing immune deficiency similar to that seen in AIDS patients has been identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="3" total="246.8922"><![CDATA[Disease inducing immune deficiency similar to that seen in patients with AIDS was identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="4" total="247.0693"><![CDATA[Illness inducing immune deficiency similar to that seen in AIDS patients has been identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="5" total="247.202"><![CDATA[A disease inducing immune deficiency similar to that observed in AIDS patients has been identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="6" total="247.3443"><![CDATA[Disease inducing immune deficiency similar to that seen in patients with AIDS has been identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="7" total="247.9369"><![CDATA[Disease inducing immune deficiency similar to that seen in AIDS patients was identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="8" total="248.3656"><![CDATA[Disease inducing immune deficiency similar to that observed in AIDS patients was identified in Thailand and Taiwan.]]></nbest>
+			<nbest id="9" total="248.5717"><![CDATA[Disease inducing immune deficiency similar to that observed in patients with AIDS was identified in Thailand and Taiwan.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une maladie infectieuse similaire au Sida, s'attaquant au système immunitaire de personnes qui ne sont pas porteuses du VIH, apparaît en Asie, révèle une étude publiée dans le New England Journal of Medicine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="321.9426"><![CDATA[An infectious disease similar to AIDS, immune system attacking the people who are not infected with HIV, is in Asia, according to a study published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="1" total="322.9291"><![CDATA[Infectious disease similar to AIDS, immune system attacking the people who are not infected with HIV, is in Asia, according to a study published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="2" total="323.2156"><![CDATA[An infectious disease similar to AIDS, immune system attacking the people who are not HIV, is in Asia, according to a study published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="3" total="323.7284"><![CDATA[An infectious disease similar to AIDS, attacking the immune system of people who are not infected with HIV, is in Asia, according to a study published in the New England Journal of Medicine.]]></nbest>
+			<nbest id="4" total="324.0824"><![CDATA[An infectious disease similar to AIDS, the immune system attacking people who are not infected with HIV, is in Asia, according to a study published in the New England Journal of Medicine.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une mystérieuse maladie dont les symptômes ressemblent à ceux du VIH touche les populations asiatiques.]]></source>
+		<target lang="en">
+			<nbest id="0" total="169.6401"><![CDATA[A mysterious disease whose symptoms resemble those of HIV affects Asian populations.]]></nbest>
+			<nbest id="1" total="170.615"><![CDATA[A mysterious disease whose symptoms resemble those of HIV affects Asians.]]></nbest>
+			<nbest id="2" total="171.6519"><![CDATA[A mysterious disease whose symptoms resemble those of HIV key Asian populations.]]></nbest>
+			<nbest id="3" total="172.4224"><![CDATA[A mysterious illness whose symptoms resemble those of HIV affects Asian populations.]]></nbest>
+			<nbest id="4" total="173.3973"><![CDATA[A mysterious illness whose symptoms resemble those of HIV affects Asians.]]></nbest>
+			<nbest id="5" total="173.876"><![CDATA[A mysterious disease whose symptoms resemble those of HIV affects the Asian populations.]]></nbest>
+			<nbest id="6" total="174.2928"><![CDATA[A mysterious disease whose symptoms are similar to those of HIV affects Asian populations.]]></nbest>
+			<nbest id="7" total="174.4216"><![CDATA[A mysterious disease whose symptoms are similar to those of HIV key Asian populations.]]></nbest>
+			<nbest id="8" total="174.5688"><![CDATA[A mysterious illness with symptoms similar to those of HIV affects Asian populations.]]></nbest>
+			<nbest id="9" total="175.2292"><![CDATA[A mysterious disease whose symptoms resemble HIV affects Asian populations.]]></nbest>
+			<nbest id="10" total="175.2677"><![CDATA[A mysterious disease whose symptoms are similar to those of HIV affects Asians.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une nouvelle maladie dont les symptômes sont identiques à ceux du Sida a été découverte chez des patients aux Etats-Unis et en Asie, rapporte le Daily Mail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="251.2791"><![CDATA[A new disease whose symptoms are similar to those of AIDS was discovered in patients in the United States and Asia, reports the Daily Mail.]]></nbest>
+			<nbest id="1" total="251.8569"><![CDATA[A new disease whose symptoms are similar to those of AIDS was found in patients in the United States and Asia, reports the Daily Mail.]]></nbest>
+			<nbest id="2" total="252.6398"><![CDATA[A new disease whose symptoms are identical to those of AIDS was discovered in patients in the United States and Asia, reports the Daily Mail.]]></nbest>
+			<nbest id="3" total="253.2177"><![CDATA[A new disease whose symptoms are identical to those of AIDS was found in patients in the United States and Asia, reports the Daily Mail.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une nouvelle maladie découverte en Asie inquiète car ses symptômes sont semblables au sida.]]></source>
+		<target lang="en">
+			<nbest id="0" total="175.415"><![CDATA[A new disease discovered in Asia concerned because its symptoms are similar to AIDS.]]></nbest>
+			<nbest id="1" total="175.8583"><![CDATA[A new disease found in Asia concerned because its symptoms are similar to AIDS.]]></nbest>
+			<nbest id="2" total="176.7251"><![CDATA[A new disease discovered in Asia worried because its symptoms are similar to AIDS.]]></nbest>
+			<nbest id="3" total="177.1684"><![CDATA[A new disease found in Asia worried because its symptoms are similar to AIDS.]]></nbest>
+			<nbest id="4" total="179.436"><![CDATA[A new disease discovered in Asia concerned because the symptoms are similar to AIDS.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une nouvelle maladie, dont les symptômes sont très proches de ceux du Sida, a été détectée en Asie, suscitant l'inquiétude du milieu scientifique.]]></source>
+		<target lang="en">
+			<nbest id="0" total="260.1832"><![CDATA[A new disease, whose symptoms are very similar to those of AIDS was detected in Asia, causing concern in the scientific community.]]></nbest>
+			<nbest id="1" total="261.32"><![CDATA[A new disease, whose symptoms are very similar to those of AIDS was detected in Asia, raising the concern of the scientific community.]]></nbest>
+			<nbest id="2" total="261.7985"><![CDATA[A new disease, the symptoms are very similar to those of AIDS was detected in Asia, causing concern in the scientific community.]]></nbest>
+			<nbest id="3" total="262.0617"><![CDATA[A new disease, whose symptoms are similar to those of AIDS was detected in Asia, causing concern in the scientific community.]]></nbest>
+			<nbest id="4" total="262.424"><![CDATA[A new disease whose symptoms are very similar to those of AIDS was detected in Asia, causing concern in the scientific community.]]></nbest>
+			<nbest id="5" total="262.9354"><![CDATA[A new disease, the symptoms are very similar to those of AIDS was detected in Asia, raising the concern of the scientific community.]]></nbest>
+			<nbest id="6" total="263.1985"><![CDATA[A new disease, whose symptoms are similar to those of AIDS was detected in Asia, raising the concern of the scientific community.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une nouvelle maladie, qui effondre le système immunitaire du patient, laissant ainsi son organisme affronter seul, sans défense, les bactéries et les virus...]]></source>
+		<target lang="en">
+			<nbest id="0" total="285.2623"><![CDATA[A new disease, which collapses the patient's immune system, leaving the body face alone, helpless, bacteria and viruses ...]]></nbest>
+			<nbest id="1" total="285.4295"><![CDATA[A new disease, which collapses the patient's immune system, leaving the body cope alone, helpless, bacteria and viruses ...]]></nbest>
+			<nbest id="2" total="286.6878"><![CDATA[A new disease, which collapses the patient's immune system, leaving his body to face alone, helpless, bacteria and viruses ...]]></nbest>
+			<nbest id="3" total="286.8712"><![CDATA[A new disease, which collapses the patient's immune system, leaving the body handle alone, helpless, bacteria and viruses ...]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une nouvelle pathologie inconnue fait en ce moment l'objet d'une étude épidémiologique.]]></source>
+		<target lang="en">
+			<nbest id="0" total="164.7764"><![CDATA[A new disease is unknown at this time the subject of an epidemiological study.]]></nbest>
+			<nbest id="1" total="167.5316"><![CDATA[A new disease is unknown at this time the object of an epidemiological study.]]></nbest>
+			<nbest id="2" total="167.8331"><![CDATA[A new disease is unknown at this time subject to an epidemiological study.]]></nbest>
+			<nbest id="3" total="168.2547"><![CDATA[A new disease is unknown at this time the subject of epidemiological study.]]></nbest>
+			<nbest id="4" total="168.7225"><![CDATA[A new disease is unknown at the moment the subject of an epidemiological study.]]></nbest>
+			<nbest id="5" total="168.7663"><![CDATA[A new disease is unknown at this time be an epidemiological study.]]></nbest>
+			<nbest id="6" total="169.9479"><![CDATA[A new disease is unknown at the moment the object of an epidemiological study.]]></nbest>
+			<nbest id="7" total="171.5623"><![CDATA[A new disease is unknown at this time the subject of an epidemiologic study.]]></nbest>
+			<nbest id="8" total="171.6047"><![CDATA[A new disease is unknown at this moment be an epidemiological study.]]></nbest>
+			<nbest id="9" total="172.1887"><![CDATA[A new disease is unknown at this time being an epidemiological study.]]></nbest>
+			<nbest id="10" total="172.336"><![CDATA[A new disease is unknown at this time subject to epidemiological study.]]></nbest>
+			<nbest id="11" total="172.6243"><![CDATA[A new disease is unknown at this point be an epidemiological study.]]></nbest>
+			<nbest id="12" total="172.86"><![CDATA[A new disease is unknown at this moment the subject of an epidemiological study.]]></nbest>
+			<nbest id="13" total="173.7156"><![CDATA[A new disease is unknown at this time the subject of epidemiological studies.]]></nbest>
+			<nbest id="14" total="174.3898"><![CDATA[A new disease is unknown at the moment the subject of an epidemiologic study.]]></nbest>
+			<nbest id="15" total="178.5273"><![CDATA[A new disease is unknown at this moment the subject of an epidemiologic study.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une récente étude indique qu'une nouvelle maladie non contagieuse comparable au sida touche les personnes d'une cinquantaine d'années d'origine asiatique.]]></source>
+		<target lang="en">
+			<nbest id="0" total="252.8436"><![CDATA[A recent study indicates that a new non-contagious disease similar to AIDS affects people of fifty years of Asian origin.]]></nbest>
+			<nbest id="1" total="255.4378"><![CDATA[A recent study indicates that a new non-contagious disease similar to AIDS affects people of fifty years of Asian descent.]]></nbest>
+			<nbest id="2" total="257.2511"><![CDATA[A recent study indicates that new non-contagious disease similar to AIDS affects people of fifty years of Asian origin.]]></nbest>
+			<nbest id="3" total="257.437"><![CDATA[A recent study indicates that a new non-contagious disease similar to AIDS affects persons of fifty years of Asian origin.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude inquiétante, publiée jeudi dans le New England Journal of Medicine, montre qu'une affection mystérieuse dont les symptômes sont comparables à ceux du sida a été découverte.]]></source>
+		<target lang="en">
+			<nbest id="0" total="276.5872"><![CDATA[A disturbing study published in Thursday's New England Journal of Medicine, shows that a mysterious disease whose symptoms are similar to those of AIDS was discovered.]]></nbest>
+			<nbest id="1" total="276.8897"><![CDATA[A disturbing study published in Thursday's New England Journal of Medicine shows that a mysterious disease whose symptoms are similar to those of AIDS was discovered.]]></nbest>
+			<nbest id="2" total="277.6902"><![CDATA[A disturbing study published Thursday in the New England Journal of Medicine, shows that a mysterious disease whose symptoms are similar to those of AIDS was discovered.]]></nbest>
+			<nbest id="3" total="277.6967"><![CDATA[A disturbing study, published in Thursday's New England Journal of Medicine, shows that a mysterious disease whose symptoms are similar to those of AIDS was discovered.]]></nbest>
+			<nbest id="4" total="277.9992"><![CDATA[A disturbing study, published in Thursday's New England Journal of Medicine shows that a mysterious disease whose symptoms are similar to those of AIDS was discovered.]]></nbest>
+			<nbest id="5" total="278.3151"><![CDATA[A disturbing study published Thursday in the New England Journal of Medicine shows that a mysterious disease whose symptoms are similar to those of AIDS was discovered.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude publiée ce jeudi révèle qu'une nouvelle maladie affecte les défenses immunitaires de patients d'origine asiatique.]]></source>
+		<target lang="en">
+			<nbest id="0" total="202.7746"><![CDATA[A study released Thursday reveals a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="1" total="202.9299"><![CDATA[A study published on Thursday reveals a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="2" total="203.13"><![CDATA[A study released Thursday reveals a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="3" total="203.2854"><![CDATA[A study published on Thursday reveals a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="4" total="203.8283"><![CDATA[A study published Thursday reveals a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="5" total="204.1837"><![CDATA[A study published Thursday reveals a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="6" total="205.0278"><![CDATA[A study published Thursday found a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="7" total="205.3832"><![CDATA[A study published Thursday found a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="8" total="205.9604"><![CDATA[A study released Thursday reveals a new disease affecting the immune system of patients of Asian descent.]]></nbest>
+			<nbest id="9" total="206.1066"><![CDATA[A study released Thursday shows that a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="10" total="206.1158"><![CDATA[A study published on Thursday reveals a new disease affecting the immune system of patients of Asian descent.]]></nbest>
+			<nbest id="11" total="206.2123"><![CDATA[A study released Thursday shows that a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="12" total="206.3158"><![CDATA[A study released Thursday reveals a new disease affects the immune system of patients of Asian descent.]]></nbest>
+			<nbest id="13" total="206.441"><![CDATA[A study published on Thursday revealed a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="14" total="206.4712"><![CDATA[A study published on Thursday reveals a new disease affects the immune system of patients of Asian descent.]]></nbest>
+			<nbest id="15" total="206.6383"><![CDATA[A study published Thursday found that a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="16" total="206.7007"><![CDATA[A study published on Thursday reveals that a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="17" total="206.7964"><![CDATA[A study published on Thursday revealed a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="18" total="206.9553"><![CDATA[A study published on Thursday revealed that a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="19" total="207.0141"><![CDATA[A study published Thursday reveals a new disease affecting the immune system of patients of Asian descent.]]></nbest>
+			<nbest id="20" total="207.1347"><![CDATA[A study released Thursday shows a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="21" total="207.1561"><![CDATA[A study published Thursday found that a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="22" total="207.1647"><![CDATA[A study released Thursday reveals that a new disease affecting the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="23" total="207.2185"><![CDATA[A study published on Thursday reveals that a new disease affects the immune system of patients of Asian origin.]]></nbest>
+			<nbest id="24" total="207.3695"><![CDATA[A study published Thursday reveals a new disease affects the immune system of patients of Asian descent.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude publiée dans le New England Journal of Medicine et menée à Taiwan et en Thaïlande révèle l'existence d'une maladie inconnue jusque-là.]]></source>
+		<target lang="en">
+			<nbest id="0" total="226.9357"><![CDATA[A study published in the New England Journal of Medicine and conducted in Taiwan and Thailand reveals the existence of a hitherto unknown disease.]]></nbest>
+			<nbest id="1" total="227.5189"><![CDATA[A study published in the New England Journal of Medicine and conducted in Taiwan and Thailand reveals a hitherto unknown disease.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude publiée le 23 août dernier dans le New England Journal of Medicine révèle qu'une affection mystérieuse dont les symptômes sont comparables à ceux du Sida a été identifiée en Asie, plus précisément en Thaïlande et à Taiwan.]]></source>
+		<target lang="en">
+			<nbest id="0" total="347.7192"><![CDATA[A study published August 23 in the New England Journal of Medicine reveals that a mysterious disease whose symptoms are similar to those of AIDS was identified in Asia, especially in Thailand and Taiwan.]]></nbest>
+			<nbest id="1" total="349.3354"><![CDATA[A study published August 23 in the New England Journal of Medicine reveals that a mysterious disease whose symptoms are similar to those of AIDS was identified in Asia, especially Thailand and Taiwan.]]></nbest>
+			<nbest id="2" total="350.1556"><![CDATA[A study published August 23 in the New England Journal of Medicine reveals that a mysterious disease whose symptoms are similar to those of AIDS was identified in Asia, specifically Thailand and Taiwan.]]></nbest>
+			<nbest id="3" total="350.7061"><![CDATA[A study published in the August 23 New England Journal of Medicine reveals that a mysterious disease whose symptoms are similar to those of AIDS was identified in Asia, especially in Thailand and Taiwan.]]></nbest>
+			<nbest id="4" total="350.7142"><![CDATA[A study published August 23 in the New England Journal of Medicine reveals that a mysterious ailment whose symptoms are similar to those of AIDS was identified in Asia, especially in Thailand and Taiwan.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude, parue dans le New England Journal of Medecine, fait état de la découverte d'une nouvelle maladie du système immunitaire dont les symptômes ressemblent à ceux du sida.]]></source>
+		<target lang="en">
+			<nbest id="0" total="247.7649"><![CDATA[A study published in the New England Journal of Medicine reported the discovery of a new immune system disease with symptoms similar to those of AIDS.]]></nbest>
+			<nbest id="1" total="248.389"><![CDATA[A study published in the New England Journal of Medicine, reported the discovery of a new immune system disease with symptoms similar to those of AIDS.]]></nbest>
+			<nbest id="2" total="249.3765"><![CDATA[A study published in the New England Journal of Medicine reported the discovery of a new immune system disease whose symptoms resemble those of AIDS.]]></nbest>
+			<nbest id="3" total="249.9169"><![CDATA[A study, published in the New England Journal of Medicine reported the discovery of a new immune system disease with symptoms similar to those of AIDS.]]></nbest>
+			<nbest id="4" total="250.0006"><![CDATA[A study published in the New England Journal of Medicine, reported the discovery of a new immune system disease whose symptoms resemble those of AIDS.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude, publiée dans le New England Journal of Medicine, a identifié une cause possible à une nouvelle maladie dont les symptômes sont similaires à ceux du sida.]]></source>
+		<target lang="en">
+			<nbest id="0" total="220.9738"><![CDATA[A study published in the New England Journal of Medicine, has identified a possible cause of a new disease whose symptoms are similar to those of AIDS.]]></nbest>
+			<nbest id="1" total="223.6298"><![CDATA[A study published in the New England Journal of Medicine has identified a possible cause of a new disease whose symptoms are similar to those of AIDS.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude, publiée le 23 août dans le New England Journal of Medecine, a révélé l'existence d'une maladie, jusqu'alors inconnue, en Asie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="214.4745"><![CDATA[A study published in the August 23 New England Journal of Medicine, revealed the existence of a disease previously unknown in Asia.]]></nbest>
+			<nbest id="1" total="215.7842"><![CDATA[A study published Aug. 23 in the New England Journal of Medicine, revealed the existence of a disease previously unknown in Asia.]]></nbest>
+			<nbest id="2" total="215.995"><![CDATA[A study published August 23 in the New England Journal of Medicine, revealed the existence of a disease previously unknown in Asia.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Vue pour la première fois en 2004, une nouvelle maladie, qui se rapproche du Sida, à ceci près qu'elle semblerait non-contagieuse a été localisée en Asie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="326.115"><![CDATA[Seen for the first time in 2004, a new disease, which approximates AIDS, except that it seems non-contagious was located in Asia.]]></nbest>
+			<nbest id="1" total="326.174"><![CDATA[View for the first time in 2004, a new disease, which approximates AIDS, except that it seems non-contagious was located in Asia.]]></nbest>
+			<nbest id="2" total="326.5125"><![CDATA[Seen for the first time in 2004, a new disease, which approximates AIDS, except that it appears non-contagious was located in Asia.]]></nbest>
+			<nbest id="3" total="326.5715"><![CDATA[View for the first time in 2004, a new disease, which approximates AIDS, except that it appears non-contagious was located in Asia.]]></nbest>
+			<nbest id="4" total="328.4021"><![CDATA[Seen for the first time in 2004, a new disease, which approximates AIDS, except it seems non-contagious was located in Asia.]]></nbest>
+			<nbest id="5" total="328.4611"><![CDATA[View for the first time in 2004, a new disease, which approximates AIDS, except it seems non-contagious was located in Asia.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

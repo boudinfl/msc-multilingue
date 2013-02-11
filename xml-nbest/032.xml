@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[En Ukraine, la cour de cassation a confirmé la condamnation de Ioulia Timochenko a sept ans de prison pour abus de pouvoir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="181.8886"><![CDATA[In Ukraine, the Court of Cassation upheld the conviction of Yulia Tymoshenko to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="1" total="183.4302"><![CDATA[Ukraine, the Court of Cassation upheld the conviction of Yulia Tymoshenko to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="2" total="185.7463"><![CDATA[In Ukraine, the Court of Appeals upheld the conviction of Yulia Tymoshenko to seven years in prison for abuse of power.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[En Ukraine, la Cour de cassation a rejeté mercredi le pourvoi de l'ex-Première ministre Ioulia Timochenko.]]></source>
+		<target lang="en">
+			<nbest id="0" total="169.0754"><![CDATA[In Ukraine, the Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko.]]></nbest>
+			<nbest id="1" total="170.6171"><![CDATA[Ukraine, the Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko.]]></nbest>
+			<nbest id="2" total="170.955"><![CDATA[In Ukraine, the Supreme Court on Wednesday rejected the appeal of the former Prime Minister Yulia Tymoshenko.]]></nbest>
+			<nbest id="3" total="171.7608"><![CDATA[In Ukraine, the Supreme Court on Wednesday rejected the appeal of the ex-Prime Minister Yulia Tymoshenko.]]></nbest>
+			<nbest id="4" total="172.4966"><![CDATA[Ukraine, the Supreme Court on Wednesday rejected the appeal of the former Prime Minister Yulia Tymoshenko.]]></nbest>
+			<nbest id="5" total="172.9406"><![CDATA[In Ukraine, the Supreme Court Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[En voyant son pourvoi rejeté par la Cour de cassation, l'opposante ukrainienne voit sa condamnation à sept ans de prison confirmée.]]></source>
+		<target lang="en">
+			<nbest id="0" total="277.5758"><![CDATA[Seeing his appeal dismissed by the Court of Cassation, the Ukrainian opponent sees his conviction to seven years in prison confirmed.]]></nbest>
+			<nbest id="1" total="278.4419"><![CDATA[Seeing his appeal dismissed by the Court of Cassation, the Ukrainian opponent sees his conviction seven years in prison confirmed.]]></nbest>
+			<nbest id="2" total="278.7143"><![CDATA[Seeing his appeal rejected by the Supreme Court, the Ukrainian opponent sees his conviction to seven years in prison confirmed.]]></nbest>
+			<nbest id="3" total="279.5803"><![CDATA[Seeing his appeal rejected by the Supreme Court, the Ukrainian opponent sees his conviction seven years in prison confirmed.]]></nbest>
+			<nbest id="4" total="279.6516"><![CDATA[Seeing his appeal rejected by the Court of Cassation, the Ukrainian opponent sees his conviction to seven years in prison confirmed.]]></nbest>
+			<nbest id="5" total="279.7243"><![CDATA[Seeing his appeal rejected by the Supreme Court, the opponent sees his Ukrainian sentences seven years imprisonment upheld.]]></nbest>
+			<nbest id="6" total="279.7503"><![CDATA[Seeing his appeal rejected by the Supreme Court, the opponent sees Ukrainian conviction to seven years in prison confirmed.]]></nbest>
+			<nbest id="7" total="280.5177"><![CDATA[Seeing his appeal rejected by the Court of Cassation, the Ukrainian opponent sees his conviction seven years in prison confirmed.]]></nbest>
+			<nbest id="8" total="280.688"><![CDATA[Seeing his appeal dismissed by the Court of Cassation, the opponent sees his Ukrainian sentences seven years imprisonment upheld.]]></nbest>
+			<nbest id="9" total="280.714"><![CDATA[Seeing his appeal dismissed by the Court of Cassation, the opponent sees Ukrainian conviction to seven years in prison confirmed.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ioulia Timochenko ne parvient pas à faire annuler sa condamnation.]]></source>
+		<target lang="en">
+			<nbest id="0" total="109.0033"><![CDATA[Tymoshenko fails to overturn his conviction.]]></nbest>
+			<nbest id="1" total="109.6038"><![CDATA[Yulia Tymoshenko fails to overturn his conviction.]]></nbest>
+			<nbest id="2" total="112.864"><![CDATA[Tymoshenko fails to have his conviction overturned.]]></nbest>
+			<nbest id="3" total="113.4644"><![CDATA[Yulia Tymoshenko fails to have his conviction overturned.]]></nbest>
+			<nbest id="4" total="116.5304"><![CDATA[Tymoshenko fails to overturn his sentence.]]></nbest>
+			<nbest id="5" total="116.7073"><![CDATA[Tymoshenko can not have his conviction overturned.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ex-Premier ministre ukrainien, Ioulia Timochenko reste en détention.]]></source>
+		<target lang="en">
+			<nbest id="0" total="106.6565"><![CDATA[Former Ukrainian Prime Minister Yulia Tymoshenko remains in detention.]]></nbest>
+			<nbest id="1" total="107.7653"><![CDATA[Former Ukrainian Prime Minister Yulia Tymoshenko remains in custody.]]></nbest>
+			<nbest id="2" total="109.904"><![CDATA[The former Ukrainian Prime Minister Yulia Tymoshenko remains in detention.]]></nbest>
+			<nbest id="3" total="111.0128"><![CDATA[The former Ukrainian Prime Minister Yulia Tymoshenko remains in custody.]]></nbest>
+			<nbest id="4" total="112.0914"><![CDATA[Former Ukrainian Prime Minister, Yulia Tymoshenko remains in detention.]]></nbest>
+			<nbest id="5" total="113.2002"><![CDATA[Former Ukrainian Prime Minister, Yulia Tymoshenko remains in custody.]]></nbest>
+			<nbest id="6" total="113.2807"><![CDATA[Former Ukrainian Prime Minister Yulia Tymoshenko is in prison.]]></nbest>
+			<nbest id="7" total="113.3369"><![CDATA[Former Ukrainian Prime Minister Yulia Tymoshenko still in detention.]]></nbest>
+			<nbest id="8" total="113.7434"><![CDATA[Former Ukrainian prime minister Yulia Tymoshenko remains in detention.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'UE a regretté mercredi la confirmation par la Cour de cassation ukrainienne de la condamnation à sept ans de prison pour abus de pouvoir de l'ex-Première ministre Ioulia Timochenko, se disant "profondément déçue" que cette décision l'empêche de participer aux prochaines élections.]]></source>
+		<target lang="en">
+			<nbest id="0" total="481.7648"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevented from participating in elections.]]></nbest>
+			<nbest id="1" total="482.3852"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevents participate in the upcoming elections.]]></nbest>
+			<nbest id="2" total="482.7043"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that this decision prevents participate in the upcoming elections.]]></nbest>
+			<nbest id="3" total="482.7658"><![CDATA[The EU regretted Wednesday confirmation by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevented from participating in elections.]]></nbest>
+			<nbest id="4" total="482.9568"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that this decision prevented from participating in elections.]]></nbest>
+			<nbest id="5" total="483.0712"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that decision prevents participate in the upcoming elections.]]></nbest>
+			<nbest id="6" total="483.3861"><![CDATA[The EU regretted Wednesday confirmation by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevents participate in the upcoming elections.]]></nbest>
+			<nbest id="7" total="483.7052"><![CDATA[The EU regretted Wednesday confirmation by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that this decision prevents participate in the upcoming elections.]]></nbest>
+			<nbest id="8" total="483.7734"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevented from participating in elections.]]></nbest>
+			<nbest id="9" total="483.778"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that this decision prevents the next elections.]]></nbest>
+			<nbest id="10" total="483.9577"><![CDATA[The EU regretted Wednesday confirmation by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that this decision prevented from participating in elections.]]></nbest>
+			<nbest id="11" total="483.9891"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevents participate in the next elections.]]></nbest>
+			<nbest id="12" total="484.0721"><![CDATA[The EU regretted Wednesday confirmation by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that decision prevents participate in the upcoming elections.]]></nbest>
+			<nbest id="13" total="484.127"><![CDATA[The EU regretted Wednesday confirmed by the Court of Cassation of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevented from participating in elections.]]></nbest>
+			<nbest id="14" total="484.2907"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevents the next elections.]]></nbest>
+			<nbest id="15" total="484.3082"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that this decision prevents participate in the next elections.]]></nbest>
+			<nbest id="16" total="484.3937"><![CDATA[The EU regretted Wednesday confirmed by the Supreme Court of Ukraine sentenced to seven years in prison for abuse of power by former Prime Minister Yulia Tymoshenko, saying "deeply disappointed" that the decision prevents participate in the upcoming elections.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'UE est déçue par le rejet du pourvoi de l'ex-première ministre ukrainienne Ioulia Timochenko, la cour de cassation ayant confirmé sa condamnation à sept ans de prison pour abus de pouvoir, a annoncé mercredi Michael Mann, porte-parole de Catherine Ashton, chef de la diplomatie européenne.]]></source>
+		<target lang="en">
+			<nbest id="0" total="458.3531"><![CDATA[The EU is disappointed by the rejection of the appeal of former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, announced Wednesday Michael Mann, spokesman for Catherine Ashton, head of European diplomacy.]]></nbest>
+			<nbest id="1" total="458.5815"><![CDATA[The EU is disappointed by the rejection of the appeal of former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, said Wednesday Michael Mann, spokesman for Catherine Ashton, head of European diplomacy.]]></nbest>
+			<nbest id="2" total="458.7228"><![CDATA[The EU is disappointed by the rejection of the appeal of former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, announced Wednesday Michael Mann, spokesman for Catherine Ashton, the head of European diplomacy.]]></nbest>
+			<nbest id="3" total="458.7528"><![CDATA[The EU is disappointed by the rejection of the appeal of the former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, announced Wednesday Michael Mann, spokesman for Catherine Ashton, head of European diplomacy.]]></nbest>
+			<nbest id="4" total="458.9513"><![CDATA[The EU is disappointed by the rejection of the appeal of former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, said Wednesday Michael Mann, spokesman for Catherine Ashton, the head of European diplomacy.]]></nbest>
+			<nbest id="5" total="458.9813"><![CDATA[The EU is disappointed by the rejection of the appeal of the former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, said Wednesday Michael Mann, spokesman for Catherine Ashton, head of European diplomacy.]]></nbest>
+			<nbest id="6" total="459.1225"><![CDATA[The EU is disappointed by the rejection of the appeal of the former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, announced Wednesday Michael Mann, spokesman for Catherine Ashton, the head of European diplomacy.]]></nbest>
+			<nbest id="7" total="459.351"><![CDATA[The EU is disappointed by the rejection of the appeal of the former Ukrainian Prime Minister Yulia Tymoshenko, the Court of Cassation confirmed the sentence to seven years in prison for abuse of power, said Wednesday Michael Mann, spokesman for Catherine Ashton, the head of European diplomacy.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'égérie de la révolution orange en Ukraine, ancienne Première ministre et célèbre opposante a vu son pourvoi rejeté par la Cour de cassation, mercredi 29 août à Kiev.]]></source>
+		<target lang="en">
+			<nbest id="0" total="321.708"><![CDATA[The face of the Orange Revolution in Ukraine, former prime minister and famous opponent had his appeal rejected by the Supreme Court, Wednesday, August 29 in Kiev.]]></nbest>
+			<nbest id="1" total="323.3684"><![CDATA[The face of the Orange Revolution in Ukraine, former prime minister and famous opponent had his appeal dismissed by the Court of Cassation, Wednesday, August 29 in Kiev.]]></nbest>
+			<nbest id="2" total="324.2088"><![CDATA[The face of the orange revolution in Ukraine, former prime minister and famous opponent had his appeal rejected by the Supreme Court, Wednesday, August 29 in Kiev.]]></nbest>
+			<nbest id="3" total="324.2178"><![CDATA[The face of the Orange Revolution in Ukraine, former prime minister and famous opponent had his appeal rejected by the Court of Cassation, Wednesday, August 29 in Kiev.]]></nbest>
+			<nbest id="4" total="324.3826"><![CDATA[The face of the Orange Revolution in Ukraine, former Prime Minister and famous opponent had his appeal rejected by the Supreme Court, Wednesday, August 29 in Kiev.]]></nbest>
+			<nbest id="5" total="324.6433"><![CDATA[The face of the Orange Revolution in Ukraine, former prime minister and famous opponent had his appeal rejected by the Supreme Court, Wednesday, Aug. 29 in Kiev.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Cour de cassation a débouté l'ancienne égérie de la Révolution orange, condamnée à sept ans de prison pour abus de pouvoir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="213.8381"><![CDATA[The Court of Cassation dismissed the former face of the Orange Revolution, sentenced to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="1" total="215.3564"><![CDATA[The Supreme Court dismissed the former face of the Orange Revolution, sentenced to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="2" total="216.1477"><![CDATA[The Court of Cassation dismissed the former muse of the Orange Revolution, sentenced to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="3" total="216.8674"><![CDATA[The Court of Cassation dismissed the old face of the Orange Revolution, sentenced to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="4" total="217.4776"><![CDATA[The Supreme Court dismissed the former muse of the Orange Revolution, sentenced to seven years in prison for abuse of power.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La cour de cassation ukrainienne a confirmé mercredi la condamnation de Ioulia Timochenko à sept ans de prison pour abus de pouvoir, une affaire critiquée par de nombreux pays occidentaux.]]></source>
+		<target lang="en">
+			<nbest id="0" total="297.3643"><![CDATA[The Court of Cassation of Ukraine confirmed Wednesday the sentencing of Yulia Tymoshenko to seven years in prison for abuse of power, a case criticized by many Western countries.]]></nbest>
+			<nbest id="1" total="299.1313"><![CDATA[The Court of Cassation of Ukraine confirmed Wednesday the sentencing of Yulia Tymoshenko to seven years in prison for abuse of power, a case criticized by many western countries.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Cour de cassation ukrainienne a confirmé mercredi la condamnation à sept ans de prison pour abus de pouvoir de l'ex-première ministre Ioulia Timochenko, l'Union européenne se déclarant "profondément déçue" par l'issue de cet ultime recours en Ukraine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="420.4319"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU saying "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="1" total="420.5238"><![CDATA[The Supreme Court of Ukraine confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU saying "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="2" total="421.2253"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, the EU saying "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="3" total="421.3171"><![CDATA[The Supreme Court of Ukraine confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, the EU saying "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="4" total="421.3471"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU declared "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="5" total="421.439"><![CDATA[The Supreme Court of Ukraine confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU declared "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="6" total="421.4761"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU saying "deeply disappointed" by the outcome of the last resort in Ukraine.]]></nbest>
+			<nbest id="7" total="421.9262"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU stating "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="8" total="421.9608"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the European Union stating "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="9" total="422.01"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU declaring "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="10" total="422.0181"><![CDATA[The Supreme Court of Ukraine confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU stating "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="11" total="422.0527"><![CDATA[The Supreme Court of Ukraine confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the European Union stating "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="12" total="422.1404"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, the EU declared "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="13" total="422.2323"><![CDATA[The Supreme Court of Ukraine confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, the EU declared "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+			<nbest id="14" total="422.2694"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, the EU saying "deeply disappointed" by the outcome of the last resort in Ukraine.]]></nbest>
+			<nbest id="15" total="422.3913"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former prime minister Yulia Tymoshenko, the EU declared "deeply disappointed" by the outcome of the last resort in Ukraine.]]></nbest>
+			<nbest id="16" total="422.7196"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, the EU stating "deeply disappointed" by the outcome of this last resort in Ukraine.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Cour de cassation ukrainienne a confirmé mercredi la condamnation à sept ans de prison pour abus de pouvoir de l'ex-Première ministre Ioulia Timochenko, une décision qui devrait avoir de sérieuses répercussions sur les relations entre Kiev et l'UE.]]></source>
+		<target lang="en">
+			<nbest id="0" total="379.1751"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, a decision which would have serious repercussions on the relations between Kiev and the EU.]]></nbest>
+			<nbest id="1" total="380.3587"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, a decision which would have serious repercussions on relations between Kiev and the EU.]]></nbest>
+			<nbest id="2" total="380.5966"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, a decision which would have serious implications for relations between the EU and Kiev.]]></nbest>
+			<nbest id="3" total="380.6694"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, a decision which would have serious implications for relations between Kiev and the EU.]]></nbest>
+			<nbest id="4" total="381.1837"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by former Prime Minister Yulia Tymoshenko, a decision which would have serious repercussions on the relations between Kiev and the EU.]]></nbest>
+			<nbest id="5" total="381.7838"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, a decision which would have serious repercussions on the relations between the EU and Kiev.]]></nbest>
+			<nbest id="6" total="382.1287"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, a decision that should have serious repercussions on the relations between Kiev and the EU.]]></nbest>
+			<nbest id="7" total="382.2206"><![CDATA[The Supreme Court of Ukraine confirmed Wednesday sentenced to seven years in prison for abuse of power by the former Prime Minister Yulia Tymoshenko, a decision that should have serious repercussions on the relations between Kiev and the EU.]]></nbest>
+			<nbest id="8" total="382.3673"><![CDATA[The Ukrainian Supreme Court confirmed Wednesday sentenced to seven years in prison for abuse of power by former Prime Minister Yulia Tymoshenko, a decision which would have serious repercussions on relations between Kiev and the EU.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Cour de cassation ukrainienne a rejeté mercredi 29 août le pourvoi de l'ex-Première ministre Ioulia Timochenko, confirmant ainsi sa condamnation à sept ans de prison pour abus de pouvoir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="329.1618"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 of the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="1" total="329.2485"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 ex-Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="2" total="329.2737"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 the ex-Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="3" total="329.6847"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="4" total="330.5462"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 of the former Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="5" total="330.6328"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 ex-Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="6" total="330.6581"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 the ex-Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="7" total="330.7167"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29th the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="8" total="330.721"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 from the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="9" total="331.0691"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 the former Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="10" total="332.101"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29th the former Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="11" total="332.1053"><![CDATA[The Supreme Court of Ukraine rejected the appeal Wednesday, August 29 from the former Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Cour de cassation ukrainienne a rejeté mercredi le pourvoi de l'ex-Première ministre Ioulia Timochenko, confirmant ainsi sa condamnation à sept ans de prison pour abus de pouvoir, a rapporté l'agence Interfax.]]></source>
+		<target lang="en">
+			<nbest id="0" total="336.395"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power, the Interfax news agency reported.]]></nbest>
+			<nbest id="1" total="337.5907"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power, Interfax news agency reported.]]></nbest>
+			<nbest id="2" total="337.7793"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power, the Interfax news agency reported.]]></nbest>
+			<nbest id="3" total="338.2745"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power, the Interfax news agency reported.]]></nbest>
+			<nbest id="4" total="338.975"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power, Interfax news agency reported.]]></nbest>
+			<nbest id="5" total="339.0803"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of the ex-Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power, the Interfax news agency reported.]]></nbest>
+			<nbest id="6" total="339.4702"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power, Interfax news agency reported.]]></nbest>
+			<nbest id="7" total="339.6588"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of the former Prime Minister Yulia Tymoshenko, thus confirming his sentence to seven years in prison for abuse of power, the Interfax news agency reported.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Cour de cassation ukrainienne a rejeté, mercredi 29 août, le pourvoi de l'ancienne première ministre Ioulia Timochenko, confirmant ainsi sa condamnation.]]></source>
+		<target lang="en">
+			<nbest id="0" total="264.2365"><![CDATA[The Ukrainian Supreme Court rejected on Wednesday 29 August, the appeal of former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="1" total="264.4518"><![CDATA[The Ukrainian Supreme Court rejected on Wednesday 29 August, the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his conviction.]]></nbest>
+			<nbest id="2" total="264.5715"><![CDATA[The Supreme Court of Ukraine rejected Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="3" total="264.7868"><![CDATA[The Supreme Court of Ukraine rejected Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his conviction.]]></nbest>
+			<nbest id="4" total="265.2563"><![CDATA[The Ukrainian Supreme Court rejected Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="5" total="265.4715"><![CDATA[The Ukrainian Supreme Court rejected Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his conviction.]]></nbest>
+			<nbest id="6" total="266.3605"><![CDATA[The Supreme Court of Ukraine rejected, Wednesday, Aug. 29, the appeal of former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="7" total="266.369"><![CDATA[The Supreme Court of Ukraine rejected, Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="8" total="266.463"><![CDATA[The Supreme Court of Ukraine rejected Wednesday, August 29th, the appeal of former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="9" total="266.5758"><![CDATA[The Supreme Court of Ukraine rejected, Wednesday, Aug. 29, the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his conviction.]]></nbest>
+			<nbest id="10" total="266.5843"><![CDATA[The Supreme Court of Ukraine rejected, Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his conviction.]]></nbest>
+			<nbest id="11" total="266.6782"><![CDATA[The Supreme Court of Ukraine rejected Wednesday, August 29th, the appeal of former Prime Minister Yulia Tymoshenko, thus confirming his conviction.]]></nbest>
+			<nbest id="12" total="266.825"><![CDATA[The Ukrainian Supreme Court rejected on Wednesday 29 August, the appeal of former Prime Minister Yulia Tymoshenko, thereby confirming his conviction.]]></nbest>
+			<nbest id="13" total="267.1179"><![CDATA[The Ukrainian Supreme Court rejected on Wednesday 29 August, the appeal of the former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="14" total="267.16"><![CDATA[The Supreme Court of Ukraine rejected Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, thereby confirming his conviction.]]></nbest>
+			<nbest id="15" total="267.289"><![CDATA[The Ukrainian Supreme Court dismissed Wednesday, August 29, the appeal of former Prime Minister Yulia Tymoshenko, confirming his conviction.]]></nbest>
+			<nbest id="16" total="267.2939"><![CDATA[The Ukrainian Supreme Court rejected on Wednesday 29 August, the appeal of former Prime Minister Yulia Tymoshenko, confirming his sentence.]]></nbest>
+			<nbest id="17" total="267.3332"><![CDATA[The Ukrainian Supreme Court rejected on Wednesday 29 August, the appeal of the former Prime Minister Yulia Tymoshenko, thus confirming his conviction.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Cour suprême ukrainienne a rejeté mercredi l'appel de l'ancienne Première ministre Ioulia Timochenko, confirmant ainsi sa condamnation à sept ans de prison pour abus de pouvoir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="265.5063"><![CDATA[Ukrainian Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="1" total="266.5343"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="2" total="267.5435"><![CDATA[Ukrainian Supreme Court on Wednesday rejected the appeal of the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+			<nbest id="3" total="268.5715"><![CDATA[The Ukrainian Supreme Court on Wednesday rejected the appeal of the former Prime Minister Yulia Tymoshenko, confirming his sentence to seven years in prison for abuse of power.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Haute Cour de justice d'Ukraine a rejeté mercredi l'appel de l'opposante Ioulia Timochenko contre sa condamnation à sept ans de prison pour abus de pouvoir prononcée en octobre 2011 à l'issue d'un procès jugé politique par l'Union européenne et les Etats-Unis.]]></source>
+		<target lang="en">
+			<nbest id="0" total="459.3187"><![CDATA[The High Court of Justice of Ukraine on Wednesday rejected the appeal of the opponent Yulia Tymoshenko against his conviction to seven years in prison for abuse of power imposed in October 2011 after a trial held policy of the European Union and the United States.]]></nbest>
+			<nbest id="1" total="459.8475"><![CDATA[The High Court of Justice of Ukraine on Wednesday rejected the appeal of the opponent Yulia Tymoshenko against his conviction to seven years in prison for abuse of power imposed in October 2011 after a trial held policy by the European Union and the United States.]]></nbest>
+			<nbest id="2" total="460.6943"><![CDATA[The High Court of Justice of Ukraine on Wednesday rejected the appeal of the opponent Yulia Tymoshenko against his conviction to seven years in prison for abuse of power delivered in October 2011 after a trial held policy of the European Union and the United States.]]></nbest>
+			<nbest id="3" total="461.1739"><![CDATA[The High Court of Justice of Ukraine on Wednesday rejected an appeal by the opponent Yulia Tymoshenko against his conviction to seven years in prison for abuse of power imposed in October 2011 after a trial held policy of the European Union and the United States.]]></nbest>
+			<nbest id="4" total="461.2232"><![CDATA[The High Court of Justice of Ukraine on Wednesday rejected the appeal of the opponent Yulia Tymoshenko against his conviction to seven years in prison for abuse of power delivered in October 2011 after a trial held policy by the European Union and the United States.]]></nbest>
+			<nbest id="5" total="461.7027"><![CDATA[The High Court of Justice of Ukraine on Wednesday rejected an appeal by the opponent Yulia Tymoshenko against his conviction to seven years in prison for abuse of power imposed in October 2011 after a trial held policy by the European Union and the United States.]]></nbest>
+			<nbest id="6" total="461.8947"><![CDATA[The High Court of Justice of Ukraine on Wednesday rejected the appeal of the opponent Yulia Tymoshenko against his conviction and seven years in prison for abuse of power imposed in October 2011 after a trial held policy of the European Union and the United States.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

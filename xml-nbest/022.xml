@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Hospitalisée depuis vendredi dernier dans un état jugé "sérieux", Danielle Mitterrand a été plongée ce week-end dans un coma artificiel qui devrait prendre fin aujourd'hui.]]></source>
+		<target lang="en">
+			<nbest id="0" total="334.2589"><![CDATA[Hospitalized since last Friday in a condition deemed "serious", Danielle Mitterrand was diving this weekend in a coma due to end today.]]></nbest>
+			<nbest id="1" total="335.6823"><![CDATA[Hospitalized since last Friday in a condition deemed "serious" Danielle Mitterrand was diving this weekend in a coma due to end today.]]></nbest>
+			<nbest id="2" total="335.6978"><![CDATA[Hospitalized since last Friday in a condition deemed "serious", Danielle Mitterrand has been diving this weekend in a coma due to end today.]]></nbest>
+			<nbest id="3" total="336.0188"><![CDATA[Hospitalized since last Friday in a condition deemed "serious", Danielle Mitterrand was diving this weekend in an induced coma due to end today.]]></nbest>
+			<nbest id="4" total="337.0827"><![CDATA[Hospitalized since last Friday in a condition deemed "serious," Danielle Mitterrand was diving this weekend in a coma due to end today.]]></nbest>
+			<nbest id="5" total="337.1486"><![CDATA[Hospitalized since last Friday in a condition deemed "serious" Danielle Mitterrand has been diving this weekend in a coma due to end today.]]></nbest>
+			<nbest id="6" total="337.4421"><![CDATA[Hospitalized since last Friday in a condition deemed "serious" Danielle Mitterrand was diving this weekend in an induced coma due to end today.]]></nbest>
+			<nbest id="7" total="337.4576"><![CDATA[Hospitalized since last Friday in a condition deemed "serious", Danielle Mitterrand has been diving this weekend in an induced coma due to end today.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Hospitalisée depuis vendredi pour un malaise consécutif à "coup de fatigue", Danielle Mitterrand a été placée dans le coma artificiel hier.]]></source>
+		<target lang="en">
+			<nbest id="0" total="313.1238"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="1" total="313.5107"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="2" total="314.3892"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="3" total="314.6869"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue", Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="4" total="314.7761"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="5" total="315.0738"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue", Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="6" total="315.2827"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue" Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="7" total="315.3576"><![CDATA[Hospitalized since Friday for a malaise resulting from "sudden fatigue," Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="8" total="315.4532"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue," Danielle Mitterrand has been placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="9" total="315.6695"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue" Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="10" total="315.7444"><![CDATA[Hospitalized since Friday for a malaise resulting from "sudden fatigue," Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="11" total="315.9522"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue", Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="12" total="315.9853"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue," Danielle Mitterrand has been placed in the coma yesterday.]]></nbest>
+			<nbest id="13" total="316.3391"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue", Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="14" total="316.548"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue" Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="15" total="316.6804"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in induced coma yesterday.]]></nbest>
+			<nbest id="16" total="316.7186"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue," Danielle Mitterrand has been placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="17" total="316.9089"><![CDATA[Been hospitalized since Friday to discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="18" total="316.9206"><![CDATA[Hospitalized since Friday for a malaise resulting from "sudden fatigue", Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="19" total="316.9349"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue" Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="20" total="316.9888"><![CDATA[Hospitalized since Friday for discomfort resulting from "sudden fatigue", Danielle Mitterrand has been placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="21" total="317.135"><![CDATA[Been hospitalized since Friday for discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in the coma yesterday.]]></nbest>
+			<nbest id="22" total="317.2506"><![CDATA[Hospitalized since Friday to discomfort resulting from "sudden fatigue," Danielle Mitterrand has been placed in the coma yesterday.]]></nbest>
+			<nbest id="23" total="317.2958"><![CDATA[Been hospitalized since Friday to discomfort resulting from "sudden fatigue," Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+			<nbest id="24" total="317.3075"><![CDATA[Hospitalized since Friday for a malaise resulting from "sudden fatigue", Danielle Mitterrand was placed in an artificial coma yesterday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Danielle Mitterrand, hospitalisée à Paris depuis vendredi, a été placée en coma artificiel et se trouvait toujours hier -selon un proche- dans un "état sérieux".]]></source>
+		<target lang="en">
+			<nbest id="0" total="339.7662"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, has been placed in an artificial coma and was still yesterday, according to a close-in "serious condition."]]></nbest>
+			<nbest id="1" total="339.958"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, was placed in an artificial coma and was still yesterday, according to a close-in "serious condition."]]></nbest>
+			<nbest id="2" total="340.9721"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, has been placed in an artificial coma and was still yesterday, according to a close-in "serious condition".]]></nbest>
+			<nbest id="3" total="341.1639"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, was placed in an artificial coma and was still yesterday, according to a close-in "serious condition".]]></nbest>
+			<nbest id="4" total="342.2138"><![CDATA[Danielle Mitterrand, Paris hospitalized since Friday, has been placed in an artificial coma and was still yesterday, according to a close-in "serious condition."]]></nbest>
+			<nbest id="5" total="342.4056"><![CDATA[Danielle Mitterrand, Paris hospitalized since Friday, was placed in an artificial coma and was still yesterday, according to a close-in "serious condition."]]></nbest>
+			<nbest id="6" total="343.2599"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, has been placed in an artificial coma and was still yesterday, according to a close, in a "serious condition".]]></nbest>
+			<nbest id="7" total="343.3661"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, has been placed in an artificial coma and was still yesterday, according to a close, in a "serious condition."]]></nbest>
+			<nbest id="8" total="343.4197"><![CDATA[Danielle Mitterrand, Paris hospitalized since Friday, has been placed in an artificial coma and was still yesterday, according to a close-in "serious condition".]]></nbest>
+			<nbest id="9" total="343.4517"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, was placed in an artificial coma and was still yesterday, according to a close, in a "serious condition".]]></nbest>
+			<nbest id="10" total="343.4615"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, has been placed in an artificial coma and was still yesterday, according to a close-in a "serious condition".]]></nbest>
+			<nbest id="11" total="343.5579"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, was placed in an artificial coma and was still yesterday, according to a close, in a "serious condition."]]></nbest>
+			<nbest id="12" total="343.5677"><![CDATA[Danielle Mitterrand, hospitalized in Paris since Friday, has been placed in an artificial coma and was still yesterday, according to a close-in a "serious condition."]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Danielle Mitterrand, ancienne première dame de France, a été plongée dans un coma artificiel samedi, selon Le JDD.]]></source>
+		<target lang="en">
+			<nbest id="0" total="218.6059"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a coma on Saturday, according to Le JDD.]]></nbest>
+			<nbest id="1" total="218.651"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a coma Saturday, according to The JDD.]]></nbest>
+			<nbest id="2" total="218.7432"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a coma Saturday, according to the JDD.]]></nbest>
+			<nbest id="3" total="219.5671"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a coma on Saturday, according to The JDD.]]></nbest>
+			<nbest id="4" total="219.6593"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a coma on Saturday, according to the JDD.]]></nbest>
+			<nbest id="5" total="219.9242"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a coma Saturday, according to Le JDD.]]></nbest>
+			<nbest id="6" total="220.8369"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a coma on Saturday, according to Le Journal du Dimanche.]]></nbest>
+			<nbest id="7" total="221.0069"><![CDATA[Danielle Mitterrand, former first lady of France, has been plunged into a medically induced coma Saturday, according to The JDD.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Danielle Mitterrand, veuve de l'ancien président français François Mitterrand, a été placée en coma artificiel et se trouve toujours dans un "état sérieux", a indiqué dimanche à l'AFP un proche de la famille.]]></source>
+		<target lang="en">
+			<nbest id="0" total="342.225"><![CDATA[Danielle Mitterrand, widow of former French President François Mitterrand, was placed in an artificial coma and is still in a "serious condition," said AFP Sunday close family.]]></nbest>
+			<nbest id="1" total="342.535"><![CDATA[Danielle Mitterrand, widow of former French President Francois Mitterrand, was placed in an artificial coma and is still in a "serious condition," said AFP Sunday close family.]]></nbest>
+			<nbest id="2" total="343.2238"><![CDATA[Danielle Mitterrand, widow of former French President François Mitterrand, was placed in an artificial coma and is still in a "serious condition," said AFP Sunday close to the family.]]></nbest>
+			<nbest id="3" total="343.5338"><![CDATA[Danielle Mitterrand, widow of former French President Francois Mitterrand, was placed in an artificial coma and is still in a "serious condition," said AFP Sunday close to the family.]]></nbest>
+			<nbest id="4" total="343.9303"><![CDATA[Danielle Mitterrand, widow of former French President François Mitterrand, was placed in an artificial coma and is still in a "serious condition," said AFP Sunday near family.]]></nbest>
+			<nbest id="5" total="343.9561"><![CDATA[Danielle Mitterrand, widow of former French President François Mitterrand, was placed in an artificial coma and remains in a "serious condition," said AFP Sunday close family.]]></nbest>
+			<nbest id="6" total="344.054"><![CDATA[Danielle Mitterrand, widow of former French President François Mitterrand, was placed in an artificial coma and is still in a "serious condition," said AFP Sunday near the family.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[A 87 ans, la veuve de François Mitterrand a été conduite dans un hôpital parisien et placée en coma artificiel samedi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="226.9447"><![CDATA[A 87-year-old widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="1" total="227.5539"><![CDATA[A 87-year-old widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="2" total="229.3259"><![CDATA[At 87 years, the widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="3" total="229.9351"><![CDATA[At 87 years, the widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="4" total="230.0414"><![CDATA[At 87 years, widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="5" total="230.0923"><![CDATA[In 87 years, the widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="6" total="230.4147"><![CDATA[A 87-year-old widow of François Mitterrand was conducted in a Parisian hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="7" total="230.5025"><![CDATA[In 87 years, widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="8" total="230.6506"><![CDATA[At 87 years, widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="9" total="230.7015"><![CDATA[In 87 years, the widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="10" total="230.815"><![CDATA[A 87-year-old widow of François Mitterrand was carried out in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="11" total="231.0239"><![CDATA[A 87-year-old widow of François Mitterrand was conducted in a Parisian hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="12" total="231.0869"><![CDATA[A 87-year-old widow of François Mitterrand was driving in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+			<nbest id="13" total="231.1118"><![CDATA[In 87 years, widow of François Mitterrand was conducted in a Paris hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="14" total="231.4242"><![CDATA[A 87-year-old widow of François Mitterrand was carried out in a Paris hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="15" total="231.6962"><![CDATA[A 87-year-old widow of François Mitterrand was driving in a Paris hospital and placed in an artificial coma Saturday.]]></nbest>
+			<nbest id="16" total="232.1503"><![CDATA[A 87-year-old widow of François Mitterrand was performed in a Paris hospital and placed in an artificial coma on Saturday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Vendredi, Danielle Mitterrand, 87 ans, était hospitalisée pour des raisons encore floues, quelques semaines après un premier séjour à l'hôpital pour insuffisance respiratoire.]]></source>
+		<target lang="en">
+			<nbest id="0" total="265.0068"><![CDATA[Friday, Danielle Mitterrand, 87, was hospitalized for reasons still unclear, a few weeks after a first hospitalization for respiratory failure.]]></nbest>
+			<nbest id="1" total="266.3907"><![CDATA[Friday, Danielle Mitterrand, 87, was hospitalized for reasons still unclear, a few weeks after a first hospitalization for respiratory insufficiency.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Hospitalisée vendredi, l'épouse de François Mitterrand, qui souffre d'une importante anémie, a été placée dans le coma, au moins jusqu'à lundi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="280.2278"><![CDATA[Hospitalized Friday, the wife of François Mitterrand, who suffers from a significant anemia, was placed in a coma, at least until Monday.]]></nbest>
+			<nbest id="1" total="280.3302"><![CDATA[Hospitalized Friday, the wife of François Mitterrand, who suffers from a significant anemia, was placed in a coma until at least Monday.]]></nbest>
+			<nbest id="2" total="281.0018"><![CDATA[Hospitalized Friday, wife of François Mitterrand, who suffers from a significant anemia, was placed in a coma, at least until Monday.]]></nbest>
+			<nbest id="3" total="281.1042"><![CDATA[Hospitalized Friday, wife of François Mitterrand, who suffers from a significant anemia, was placed in a coma until at least Monday.]]></nbest>
+			<nbest id="4" total="281.19"><![CDATA[Hospitalized Friday, the wife of François Mitterrand, who suffers from a significant anemia was placed in a coma, at least until Monday.]]></nbest>
+			<nbest id="5" total="281.3568"><![CDATA[Hospitalized Friday, the wife of François Mitterrand, who suffers from a significant anemia was placed in a coma until at least Monday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Danielle Mitterrand, 87 ans, a été hospitalisée vendredi 18 novembre à l'hôpital Georges-Pompidou à Paris, a été placée ce dimanche dans un coma artificiel.]]></source>
+		<target lang="en">
+			<nbest id="0" total="279.5987"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges-Pompidou hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="1" total="279.9843"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges-Pompidou Hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="2" total="280.1348"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges Pompidou Hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="3" total="280.1595"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges Pompidou hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="4" total="280.2558"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges-Pompidou hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="5" total="280.3617"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at Georges Pompidou hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="6" total="280.6413"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges-Pompidou Hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="7" total="280.7982"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges Pompidou Hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="8" total="280.8229"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges Pompidou hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="9" total="280.9295"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges-Pompidou hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="10" total="281.0206"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at Georges Pompidou hospital in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="11" total="281.315"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges-Pompidou Hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="12" total="281.4656"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges Pompidou Hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="13" total="281.4903"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the Georges Pompidou hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="14" total="281.5865"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges-Pompidou hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="15" total="281.6925"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at Georges Pompidou hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="16" total="281.929"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18 at the hospital Georges Pompidou in Paris, Sunday was placed in an induced coma.]]></nbest>
+			<nbest id="17" total="281.9721"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges-Pompidou Hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="18" total="282.129"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges Pompidou Hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="19" total="282.1537"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at the Georges Pompidou hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+			<nbest id="20" total="282.3514"><![CDATA[Danielle Mitterrand, 87, was hospitalized Friday, November 18th at Georges Pompidou hospital in Paris, Sunday was placed in an artificial coma.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Alors qu'elle est hospitalisée depuis vendredi, Danielle Mitterrand a été placée en coma artificiel.]]></source>
+		<target lang="en">
+			<nbest id="0" total="181.5887"><![CDATA[While she was hospitalized since Friday, Danielle Mitterrand was placed in an artificial coma.]]></nbest>
+			<nbest id="1" total="182.2231"><![CDATA[While she is hospitalized since Friday, Danielle Mitterrand was placed in an artificial coma.]]></nbest>
+			<nbest id="2" total="183.5037"><![CDATA[While she was hospitalized since Friday, Danielle Mitterrand has been placed in an artificial coma.]]></nbest>
+			<nbest id="3" total="184.1381"><![CDATA[While she is hospitalized since Friday, Danielle Mitterrand has been placed in an artificial coma.]]></nbest>
+			<nbest id="4" total="184.5145"><![CDATA[When she was hospitalized since Friday, Danielle Mitterrand was placed in an artificial coma.]]></nbest>
+			<nbest id="5" total="186.0153"><![CDATA[As she was hospitalized since Friday, Danielle Mitterrand was placed in an artificial coma.]]></nbest>
+			<nbest id="6" total="186.0665"><![CDATA[When she is hospitalized since Friday, Danielle Mitterrand was placed in an artificial coma.]]></nbest>
+			<nbest id="7" total="186.5056"><![CDATA[While she is hospitalized since Friday Danielle Mitterrand was placed in an artificial coma.]]></nbest>
+			<nbest id="8" total="186.8874"><![CDATA[While she was hospitalized since Friday Danielle Mitterrand was placed in an artificial coma.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

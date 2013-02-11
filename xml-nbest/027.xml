@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[L'équipage du vaisseau chinois Shenzhou 9 est entré dans la station spatiale expérimentale Tiangong 1.]]></source>
+		<target lang="en">
+			<nbest id="0" total="223.0864"><![CDATA[The ship's crew Chinese Shenzhou 9 is entered in the Tiangong experimental space station 1.]]></nbest>
+			<nbest id="1" total="224.3554"><![CDATA[The crew of the ship Chinese Shenzhou 9 is entered in the Tiangong experimental space station 1.]]></nbest>
+			<nbest id="2" total="225.0878"><![CDATA[The crew of the vessel Chinese Shenzhou 9 is entered in the Tiangong experimental space station 1.]]></nbest>
+			<nbest id="3" total="227.4838"><![CDATA[The ship's crew Chinese Shenzhou 9 is entered in the Tiangong experimental space station one.]]></nbest>
+			<nbest id="4" total="228.7528"><![CDATA[The crew of the ship Chinese Shenzhou 9 is entered in the Tiangong experimental space station one.]]></nbest>
+			<nbest id="5" total="228.8496"><![CDATA[The Chinese Shenzhou spacecraft crew of nine entered the Tiangong experimental space station 1.]]></nbest>
+			<nbest id="6" total="229.4852"><![CDATA[The crew of the vessel Chinese Shenzhou 9 is entered in the Tiangong experimental space station one.]]></nbest>
+			<nbest id="7" total="230.2234"><![CDATA[The ship's crew Chinese Shenzhou 9 entered the Tiangong experimental space station 1.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Chine a lancé samedi sa mission spatiale la plus ambitieuse et technique de son Histoire, avec pour la première fois une femme parmi l'équipage de ses trois astronautes qui iront s'arrimer à un module déjà en orbite autour de la Terre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="457.9018"><![CDATA[China on Saturday launched its most ambitious space mission and its technical history, with the first woman among the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="1" total="457.9187"><![CDATA[China on Saturday launched its most ambitious space mission and its technical history, with the first woman on the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="2" total="459.2636"><![CDATA[China on Saturday launched its most ambitious space mission and its technical history, with the first woman among the crew of three astronauts will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="3" total="459.2805"><![CDATA[China on Saturday launched its most ambitious space mission and its technical history, with the first woman on the crew of three astronauts will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="4" total="459.6617"><![CDATA[China on Saturday launched its most ambitious space mission and technology of its history, for the first time with a woman among the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="5" total="460.739"><![CDATA[China on Saturday launched its most ambitious space mission of its history and technical, for the first time with a woman among the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="6" total="461.0235"><![CDATA[China on Saturday launched its most ambitious space mission and technology of its history, for the first time with a woman among the crew of three astronauts will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="7" total="461.0946"><![CDATA[China on Saturday launched its most ambitious space mission and its history technique, for the first time with a woman among the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="8" total="461.1263"><![CDATA[China on Saturday launched its most ambitious space mission and its technical history, for the first time with a woman among the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="9" total="461.2175"><![CDATA[China on Saturday launched its most ambitious space mission of its history and technical, with the first woman among the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="10" total="461.2345"><![CDATA[China on Saturday launched its most ambitious space mission of its history and technical, with the first woman on the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="11" total="461.5501"><![CDATA[China on Saturday launched its most ambitious space mission and its technical history, with the first woman among the crew of three astronauts who go to dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="12" total="461.567"><![CDATA[China on Saturday launched its most ambitious space mission and its technical history, with the first woman on the crew of three astronauts who go to dock with a module already in orbit around the Earth.]]></nbest>
+			<nbest id="13" total="461.6544"><![CDATA[China on Saturday launched its most ambitious space mission and technology of its history, with the first woman among the crew of three astronauts who will dock with a module already in orbit around the Earth.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Chine a mené à bien lundi dans l'espace son premier rendez-vous spatial avec des astronautes à bord, en mode automatique.]]></source>
+		<target lang="en">
+			<nbest id="0" total="245.1625"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, in automatic mode.]]></nbest>
+			<nbest id="1" total="246.5461"><![CDATA[China has carried out space in Monday's first space rendezvous with astronauts on board, in automatic mode.]]></nbest>
+			<nbest id="2" total="246.5558"><![CDATA[China has carried out space Monday in his first space rendezvous with astronauts on board, in automatic mode.]]></nbest>
+			<nbest id="3" total="248.0784"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, automatic mode.]]></nbest>
+			<nbest id="4" total="248.6697"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, in the automatic mode.]]></nbest>
+			<nbest id="5" total="249.462"><![CDATA[China has carried out space in Monday's first space rendezvous with astronauts on board, automatic mode.]]></nbest>
+			<nbest id="6" total="249.4718"><![CDATA[China has carried out space Monday in his first space rendezvous with astronauts on board, automatic mode.]]></nbest>
+			<nbest id="7" total="249.6894"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, auto mode.]]></nbest>
+			<nbest id="8" total="249.9092"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board in automatic mode.]]></nbest>
+			<nbest id="9" total="249.9486"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, automatically.]]></nbest>
+			<nbest id="10" total="249.9906"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, in auto mode.]]></nbest>
+			<nbest id="11" total="250.0343"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, the automatic mode.]]></nbest>
+			<nbest id="12" total="250.0533"><![CDATA[China has carried out space in Monday's first space rendezvous with astronauts on board, in the automatic mode.]]></nbest>
+			<nbest id="13" total="250.0631"><![CDATA[China has carried out space Monday in his first space rendezvous with astronauts on board, in the automatic mode.]]></nbest>
+			<nbest id="14" total="250.0802"><![CDATA[China has carried out space Monday in its first space rendezvous with astronauts on board, in automatic mode.]]></nbest>
+			<nbest id="15" total="250.2966"><![CDATA[China has carried out space Monday in the first space rendezvous with astronauts on board, automatic.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Chine a mené à bien sa mission spatiale en réussissant son premier rendez-vous dans l'espace avec des astronautes à bord, dont la première femme taïkonaute.]]></source>
+		<target lang="en">
+			<nbest id="0" total="302.5766"><![CDATA[China has carried out its mission spatial succeeding his first appointment in space with astronauts on board, including the first woman astronaut.]]></nbest>
+			<nbest id="1" total="303.3615"><![CDATA[China has carried out its mission spatial succeeding his first appointment in space with astronauts on board, the first woman astronaut.]]></nbest>
+			<nbest id="2" total="303.998"><![CDATA[China has completed its mission spatial succeeding his first appointment in space with astronauts on board, including the first woman astronaut.]]></nbest>
+			<nbest id="3" total="304.3296"><![CDATA[China completed its mission spatial succeeding his first appointment in space with astronauts on board, including the first woman astronaut.]]></nbest>
+			<nbest id="4" total="304.7829"><![CDATA[China has completed its mission spatial succeeding his first appointment in space with astronauts on board, the first woman astronaut.]]></nbest>
+			<nbest id="5" total="305.1145"><![CDATA[China completed its mission spatial succeeding his first appointment in space with astronauts on board, the first woman astronaut.]]></nbest>
+			<nbest id="6" total="305.2332"><![CDATA[China has carried out its mission spatial succeeding his first appointment in the space with astronauts on board, including the first woman astronaut.]]></nbest>
+			<nbest id="7" total="305.4268"><![CDATA[China has carried out its mission spatial succeeding his first visit in space with astronauts on board, the first woman astronaut.]]></nbest>
+			<nbest id="8" total="305.461"><![CDATA[China has carried out its mission spatial succeeding his first visit in space with astronauts on board, including the first woman astronaut.]]></nbest>
+			<nbest id="9" total="306.0181"><![CDATA[China has carried out its mission spatial succeeding his first appointment in the space with astronauts on board, the first woman astronaut.]]></nbest>
+			<nbest id="10" total="306.1235"><![CDATA[China has carried out its mission spatial succeeding her first appointment in space with astronauts on board, including the first woman astronaut.]]></nbest>
+			<nbest id="11" total="306.6546"><![CDATA[China has completed its mission spatial succeeding his first appointment in the space with astronauts on board, including the first woman astronaut.]]></nbest>
+			<nbest id="12" total="306.9084"><![CDATA[China has carried out its mission spatial succeeding her first appointment in space with astronauts on board, the first woman astronaut.]]></nbest>
+			<nbest id="13" total="306.9862"><![CDATA[China completed its mission spatial succeeding his first appointment in the space with astronauts on board, including the first woman astronaut.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Chine a mené à bien sa première mission d'amarrage habitée entre le vaisseau spatial Shengzhou-9 et le module laboratoire Tiangong-1 lundi après-midi, a annoncé le Centre du Contrôle aérospatial de Beijing.]]></source>
+		<target lang="en">
+			<nbest id="0" total="430.3274"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and laboratory module Tiangong-1 on Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="1" total="430.5393"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and laboratory module Tiangong-1 Monday afternoon, announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="2" total="430.5881"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and laboratory module Tiangong-1 Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="3" total="430.7045"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and the laboratory module Tiangong-1 on Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="4" total="430.9164"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and the laboratory module Tiangong-1 Monday afternoon, announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="5" total="430.9651"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and the laboratory module Tiangong-1 Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="6" total="431.1811"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and laboratory module Tiangong-1 on Monday afternoon, announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="7" total="431.4454"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and lab module Tiangong-1 on Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="8" total="431.5582"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and the laboratory module Tiangong-1 on Monday afternoon, announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="9" total="431.6573"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and lab module Tiangong-1 Monday afternoon, announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="10" total="431.7061"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and lab module Tiangong-1 Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="11" total="432.2991"><![CDATA[China completed its first manned docking mission between the spacecraft Shengzhou-9 and lab module Tiangong-1 on Monday afternoon, announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="12" total="433.0495"><![CDATA[China completed its first manned docking mission between the spaceship Shengzhou-9 and laboratory module Tiangong-1 on Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="13" total="433.2614"><![CDATA[China completed its first manned docking mission between the spaceship Shengzhou-9 and laboratory module Tiangong-1 Monday afternoon, announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="14" total="433.3102"><![CDATA[China completed its first manned docking mission between the spaceship Shengzhou-9 and laboratory module Tiangong-1 Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+			<nbest id="15" total="433.3261"><![CDATA[China completed its first manned docking mission between the spacecraft and Shengzhou-9 laboratory module Tiangong-1 on Monday afternoon announced the Aerospace Control Center in Beijing.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Chine a réussi lundi son premier "rendez-vous" spatial avec des astronautes à bord, en mode automatique, sept mois après être parvenue à réaliser cette prouesse technique avec deux vaisseaux inhabités, se félicite la télévision nationale chinoise CCTV.]]></source>
+		<target lang="en">
+			<nbest id="0" total="538.7842"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after managed to achieve this technical feat with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="1" total="538.9688"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after being managed to achieve this technical feat with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="2" total="540.0543"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after managed to achieve this technical feat with two vessels uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="3" total="540.0604"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after managed to achieve this technical prowess with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="4" total="540.188"><![CDATA[China has succeeded Monday its first "rendez-vous" space with astronauts on board, automatic, seven months after managed to achieve this technical feat with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="5" total="540.239"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after being managed to achieve this technical feat with two vessels uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="6" total="540.245"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after being managed to achieve this technical prowess with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="7" total="540.3726"><![CDATA[China has succeeded Monday its first "rendez-vous" space with astronauts on board, automatic, seven months after being managed to achieve this technical feat with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="8" total="540.5909"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after managed to achieve this feat technique with two vessels uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="9" total="540.6114"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, in automatic mode, seven months after being managed to achieve this technical feat with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="10" total="540.7012"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, in automatic mode, seven months after managed to achieve this technical feat with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="11" total="540.7755"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after being managed to achieve this feat technique with two vessels uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="12" total="540.9191"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after managed to achieve this feat with two ships technical uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="13" total="540.9961"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after managed to achieve this technical feat with two ships uninhabited, welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="14" total="541.0148"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after reaching realize this technical feat with two ships uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="15" total="541.1038"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after being managed to achieve this feat with two ships technical uninhabited welcomes Chinese state television CCTV.]]></nbest>
+			<nbest id="16" total="541.1807"><![CDATA[China has succeeded Monday its first "appointment" space with astronauts on board, automatic, seven months after being managed to achieve this technical feat with two ships uninhabited, welcomes Chinese state television CCTV.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La mission en orbite terrestre du vaisseau Shenzhou IX et de ses trois astronautes se déroule selon les plans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="216.5456"><![CDATA[Mission in Earth orbit of Shenzhou IX and its three astronauts goes according to plans.]]></nbest>
+			<nbest id="1" total="218.7166"><![CDATA[Mission in Earth orbit of Shenzhou IX and its three astronauts goes according to plan.]]></nbest>
+			<nbest id="2" total="221.7798"><![CDATA[Mission in Earth orbit of Shenzhou IX and its three astronauts runs according to plan.]]></nbest>
+			<nbest id="3" total="222.7315"><![CDATA[Mission in Earth orbit of Shenzhou IX and its three astronauts proceeds according to plans.]]></nbest>
+			<nbest id="4" total="223.824"><![CDATA[Mission in Earth orbit of Shenzhou IX and its three astronauts conducted according to plans.]]></nbest>
+			<nbest id="5" total="224.7964"><![CDATA[The mission of the Earth's orbit Shenzhou IX and its three astronauts goes according to plan.]]></nbest>
+			<nbest id="6" total="225.1407"><![CDATA[Mission in Earth orbit of Shenzhou IX and three astronauts goes according to plan.]]></nbest>
+			<nbest id="7" total="225.2161"><![CDATA[Mission in Earth orbit of Shenzhou IX and his three astronauts goes according to plan.]]></nbest>
+			<nbest id="8" total="226.4921"><![CDATA[Mission in Earth orbit of Shenzhou IX and the three astronauts goes according to plan.]]></nbest>
+			<nbest id="9" total="228.5398"><![CDATA[Mission in Earth orbit of Shenzhou IX and three astronauts runs according to plan.]]></nbest>
+			<nbest id="10" total="228.6152"><![CDATA[Mission in Earth orbit of Shenzhou IX and his three astronauts runs according to plan.]]></nbest>
+			<nbest id="11" total="231.1612"><![CDATA[Mission in Earth orbit of Shenzhou IX and three astronauts goes according to plans.]]></nbest>
+			<nbest id="12" total="231.2366"><![CDATA[Mission in Earth orbit of Shenzhou IX and his three astronauts goes according to plans.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La photo prise le 18 juin 2012 montre l'écran du Centre du Contrôle aérospatial de Beijing diffusant en direct les images des taïkonautes Jing Haipeng, Liu Wang et Liu Yang dans le module laboratoire Tiangong-1 en orbite.]]></source>
+		<target lang="en">
+			<nbest id="0" total="441.7237"><![CDATA[Photo taken 18 June 2012 shows the screen of Aerospace Control Center in Beijing broadcasting live images of astronauts Jing Haipeng, Liu Wang and Liu Yang in the laboratory module Tiangong-1 into orbit.]]></nbest>
+			<nbest id="1" total="442.182"><![CDATA[Photo taken 18 June 2012 shows the screen of Aerospace Control Center in Beijing broadcasting live images of the astronauts Jing Haipeng, Liu Wang and Liu Yang in the laboratory module Tiangong-1 into orbit.]]></nbest>
+			<nbest id="2" total="442.2413"><![CDATA[The photo taken June 18, 2012 shows the screen of Aerospace Control Center in Beijing broadcasting live images of astronauts Jing Haipeng, Liu Wang and Liu Yang in the laboratory module Tiangong-1 into orbit.]]></nbest>
+			<nbest id="3" total="442.6996"><![CDATA[The photo taken June 18, 2012 shows the screen of Aerospace Control Center in Beijing broadcasting live images of the astronauts Jing Haipeng, Liu Wang and Liu Yang in the laboratory module Tiangong-1 into orbit.]]></nbest>
+			<nbest id="4" total="443.1614"><![CDATA[Photo taken 18 June 2012 shows the screen of Aerospace Control Center in Beijing broadcasting live images of astronauts Jing Haipeng, Liu and Wang Liu Yang in the laboratory module Tiangong-1 into orbit.]]></nbest>
+			<nbest id="5" total="443.6197"><![CDATA[Photo taken 18 June 2012 shows the screen of Aerospace Control Center in Beijing broadcasting live images of the astronauts Jing Haipeng, Liu and Wang Liu Yang in the laboratory module Tiangong-1 into orbit.]]></nbest>
+			<nbest id="6" total="443.679"><![CDATA[The photo taken June 18, 2012 shows the screen of Aerospace Control Center in Beijing broadcasting live images of astronauts Jing Haipeng, Liu and Wang Liu Yang in the laboratory module Tiangong-1 into orbit.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le vaisseau Shenzhou 9, qui emporte trois taïkonautes dont la première chinoise dans l'espace, s'est amarré lundi au module orbital expérimental Tiangong 1, un événement retransmis par la télévision nationale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="432.8568"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="1" total="433.233"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="2" total="433.5993"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="3" total="433.8298"><![CDATA[The Shenzhou 9, which carries three astronauts including the first Chinese in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="4" total="433.9755"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="5" total="434.206"><![CDATA[The Shenzhou 9, which carries three astronauts including the first Chinese in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="6" total="434.3887"><![CDATA[The Shenzhou 9, which carried three astronauts, the first Chinese in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="7" total="434.5723"><![CDATA[The Shenzhou 9, which carries three astronauts including the first Chinese in space docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="8" total="434.7649"><![CDATA[The Shenzhou 9, which carried three astronauts, the first Chinese in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="9" total="434.9485"><![CDATA[The Shenzhou 9, which carries three astronauts including the first Chinese in space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="10" total="435.1312"><![CDATA[The Shenzhou 9, which carried three astronauts, the first Chinese in space docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="11" total="435.5074"><![CDATA[The Shenzhou 9, which carried three astronauts, the first Chinese in space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="12" total="435.5318"><![CDATA[The Shenzhou 9, which carries three astronauts whose first Chinese in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="13" total="435.5477"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space docked Monday orbital module Tiangong experimental one, an event broadcast on national television.]]></nbest>
+			<nbest id="14" total="435.6323"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space docked Monday to orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="15" total="435.908"><![CDATA[The Shenzhou 9, which carries three astronauts whose first Chinese in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="16" total="435.9239"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space, docked Monday orbital module Tiangong experimental one, an event broadcast on national television.]]></nbest>
+			<nbest id="17" total="436.0085"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space, docked Monday to orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="18" total="436.2743"><![CDATA[The Shenzhou 9, which carries three astronauts whose first Chinese in space docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="19" total="436.4914"><![CDATA[The Shenzhou 9, which carried three astronauts including the first Chinese in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="20" total="436.5206"><![CDATA[The Shenzhou 9, which carries three astronauts including the first Chinese in space docked Monday orbital module Tiangong experimental one, an event broadcast on national television.]]></nbest>
+			<nbest id="21" total="436.6053"><![CDATA[The Shenzhou 9, which carries three astronauts including the first Chinese in space docked Monday to orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="22" total="436.637"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space docked Monday at orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="23" total="436.6505"><![CDATA[The Shenzhou 9, which carries three astronauts whose first Chinese in space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+			<nbest id="24" total="436.6796"><![CDATA[The Shenzhou 9, which carries three astronauts, the first Chinese in space, docked Monday at orbital module Tiangong 1 experimental, an event broadcast on national television.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le vaisseau spatial Shenzhou 9, avec trois taïkonautes à son bord, dont une femme, s'est amarré lundi au module orbital expérimental Tiangong 1.]]></source>
+		<target lang="en">
+			<nbest id="0" total="326.4773"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="1" total="326.5249"><![CDATA[The Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="2" total="327.071"><![CDATA[Spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="3" total="327.2198"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="4" total="327.2674"><![CDATA[The Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="5" total="327.8135"><![CDATA[Spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="6" total="327.8346"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbital module Tiangong experimental one.]]></nbest>
+			<nbest id="7" total="327.9891"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including one woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="8" total="328.0367"><![CDATA[The Shenzhou 9, with three astronauts on board, including one woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="9" total="328.328"><![CDATA[The spacecraft Shenzhou 9 with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="10" total="328.3756"><![CDATA[The Shenzhou 9 with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="11" total="328.7316"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including one woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="12" total="328.7792"><![CDATA[The Shenzhou 9, with three astronauts on board, including one woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="13" total="328.8054"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 Experimental.]]></nbest>
+			<nbest id="14" total="328.853"><![CDATA[The Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 Experimental.]]></nbest>
+			<nbest id="15" total="328.9217"><![CDATA[Spacecraft Shenzhou 9 with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 experimental.]]></nbest>
+			<nbest id="16" total="329.0681"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbiter Tiangong experimental one.]]></nbest>
+			<nbest id="17" total="329.0705"><![CDATA[The spacecraft Shenzhou 9 with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="18" total="329.1181"><![CDATA[The Shenzhou 9 with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="19" total="329.3464"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including one woman, docked Monday orbital module Tiangong experimental one.]]></nbest>
+			<nbest id="20" total="329.399"><![CDATA[Spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbital module Tiangong 1 Experimental.]]></nbest>
+			<nbest id="21" total="329.5479"><![CDATA[The spacecraft Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 Experimental.]]></nbest>
+			<nbest id="22" total="329.5955"><![CDATA[The Shenzhou 9, with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 Experimental.]]></nbest>
+			<nbest id="23" total="329.6642"><![CDATA[Spacecraft Shenzhou 9 with three astronauts on board, including a woman, docked Monday orbiter Tiangong 1 experimental.]]></nbest>
+			<nbest id="24" total="329.6853"><![CDATA[The spacecraft Shenzhou 9 with three astronauts on board, including a woman, docked Monday orbital module Tiangong experimental one.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le vaisseau spatial Shenzhou 9, qui transporte trois astronautes dont la première Chinoise à se rendre dans l'espace, s'est amarré lundi au module orbital expérimental Tiangong 1, un événement retransmis par la télévision nationale chinoise.]]></source>
+		<target lang="en">
+			<nbest id="0" total="467.8779"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="1" total="467.9418"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="2" total="468.6204"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="3" total="468.6844"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space docked Monday orbiter Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="4" total="468.9921"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts including the first Chinese to travel in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="5" total="469.0561"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts including the first Chinese to travel in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="6" total="469.7346"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts including the first Chinese to travel in space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="7" total="469.7986"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts including the first Chinese to travel in space docked Monday orbiter Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="8" total="469.8641"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts whose first Chinese to travel in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="9" total="469.9281"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts whose first Chinese to travel in space docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="10" total="470.3293"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to go into space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="11" total="470.5687"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space, docked Monday orbital module Tiangong experimental one, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="12" total="470.6067"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts whose first Chinese to travel in space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="13" total="470.6327"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space docked Monday orbital module Tiangong experimental one, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="14" total="470.6534"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space, docked Monday to orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="15" total="470.6706"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts whose first Chinese to travel in space docked Monday orbiter Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="16" total="470.7173"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space docked Monday to orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="17" total="471.0718"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to go into space, docked Monday orbiter Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="18" total="471.1326"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts including the first Chinese to go into space, docked Monday orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="19" total="471.3245"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space, docked Monday at orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="20" total="471.6552"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space, docked Monday orbital module Tiangong 1 experimental, an event broadcast by Chinese state television.]]></nbest>
+			<nbest id="21" total="471.683"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts including the first Chinese to travel in space, docked Monday orbital module Tiangong experimental one, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="22" total="471.7192"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space docked Monday orbital module Tiangong 1 experimental, an event broadcast by Chinese state television.]]></nbest>
+			<nbest id="23" total="471.722"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts, the first Chinese to travel in space docked Monday at orbital module Tiangong 1 experimental, an event broadcast on Chinese state television.]]></nbest>
+			<nbest id="24" total="471.7469"><![CDATA[The Shenzhou 9 spacecraft, carrying three astronauts including the first Chinese to travel in space docked Monday orbital module Tiangong experimental one, an event broadcast on Chinese state television.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le vaisseau spatial Shenzhou-9 a été lancé avec succès samedi et a mené lundi le premier amarrage spatial habité du pays avec le module laboratoire Tiangong-1.]]></source>
+		<target lang="en">
+			<nbest id="0" total="341.6289"><![CDATA[The spacecraft Shenzhou-9 was successfully launched Saturday and Monday conducted the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="1" total="341.6927"><![CDATA[The Shenzhou-9 was successfully launched Saturday and Monday conducted the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="2" total="343.1811"><![CDATA[The spacecraft Shenzhou-9 was successfully launched Saturday and Monday led the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="3" total="343.2448"><![CDATA[The Shenzhou-9 was successfully launched Saturday and Monday led the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="4" total="343.3565"><![CDATA[The spacecraft Shenzhou-9 was successfully launched on Saturday and Monday conducted the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="5" total="343.4202"><![CDATA[The Shenzhou-9 was successfully launched on Saturday and Monday conducted the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="6" total="344.5743"><![CDATA[The spacecraft Shenzhou-9 was successfully launched Saturday and Monday conducted the first docking of manned space lab module countries with Tiangong-1.]]></nbest>
+			<nbest id="7" total="344.638"><![CDATA[The Shenzhou-9 was successfully launched Saturday and Monday conducted the first docking of manned space lab module countries with Tiangong-1.]]></nbest>
+			<nbest id="8" total="345.8074"><![CDATA[The spacecraft Shenzhou-9 was successfully launched on Saturday and Monday led the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="9" total="345.8712"><![CDATA[The Shenzhou-9 was successfully launched on Saturday and Monday led the first docking of manned space laboratory module countries with Tiangong-1.]]></nbest>
+			<nbest id="10" total="346.1264"><![CDATA[The spacecraft Shenzhou-9 was successfully launched Saturday and Monday led the first docking of manned space lab module countries with Tiangong-1.]]></nbest>
+			<nbest id="11" total="346.1902"><![CDATA[The Shenzhou-9 was successfully launched Saturday and Monday led the first docking of manned space lab module countries with Tiangong-1.]]></nbest>
+			<nbest id="12" total="346.3018"><![CDATA[The spacecraft Shenzhou-9 was successfully launched on Saturday and Monday conducted the first docking of manned space lab module countries with Tiangong-1.]]></nbest>
+			<nbest id="13" total="346.3656"><![CDATA[The Shenzhou-9 was successfully launched on Saturday and Monday conducted the first docking of manned space lab module countries with Tiangong-1.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les trois taïkonautes, lancés dans l'espace samedi, sont entrés à bord de Tiangong-1, un module en orbite depuis septembre 2011.]]></source>
+		<target lang="en">
+			<nbest id="0" total="268.3771"><![CDATA[The three astronauts were launched into space Saturday, came aboard Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="1" total="269.4612"><![CDATA[The three astronauts were launched into space on Saturday, came aboard Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="2" total="270.0977"><![CDATA[The three astronauts were launched into space Saturday, came aboard Tiangong-1 module in orbit since September 2011.]]></nbest>
+			<nbest id="3" total="270.3913"><![CDATA[The three astronauts were launched into space on Saturday came aboard Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="4" total="270.5721"><![CDATA[The three astronauts were launched into space Saturday, came on board Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="5" total="270.8218"><![CDATA[The three astronauts were launched into space Saturday, came aboard Tiangong-1 module into orbit in September 2011.]]></nbest>
+			<nbest id="6" total="270.8368"><![CDATA[The three astronauts were launched into space Saturday came aboard Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="7" total="271.1819"><![CDATA[The three astronauts were launched into space on Saturday, came aboard Tiangong-1 module in orbit since September 2011.]]></nbest>
+			<nbest id="8" total="271.3006"><![CDATA[The three astronauts were launched into space Saturday, came aboard Tiangong-1, a module in orbit since September 2011.]]></nbest>
+			<nbest id="9" total="271.4744"><![CDATA[The three astronauts, launched into space Saturday, came aboard Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="10" total="271.5064"><![CDATA[The three astronauts were launched into space on Saturday, came on board Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="11" total="271.906"><![CDATA[The three astronauts were launched into space on Saturday, came aboard Tiangong-1 module into orbit in September 2011.]]></nbest>
+			<nbest id="12" total="272.1119"><![CDATA[The three astronauts were launched into space on Saturday came aboard Tiangong-1 module in orbit since September 2011.]]></nbest>
+			<nbest id="13" total="272.2928"><![CDATA[The three astronauts were launched into space Saturday, came on board Tiangong-1 module in orbit since September 2011.]]></nbest>
+			<nbest id="14" total="272.3847"><![CDATA[The three astronauts were launched into space on Saturday, came aboard Tiangong-1, a module in orbit since September 2011.]]></nbest>
+			<nbest id="15" total="272.5575"><![CDATA[The three astronauts were launched into space Saturday came aboard Tiangong-1 module in orbit since September 2011.]]></nbest>
+			<nbest id="16" total="272.6352"><![CDATA[The three astronauts were launched into space on Saturday came on board Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="17" total="272.6866"><![CDATA[The three astronauts, launched into space on Saturday, came aboard Tiangong-1 module into orbit since September 2011.]]></nbest>
+			<nbest id="18" total="272.8361"><![CDATA[The three astronauts were launched into space on Saturday came aboard Tiangong-1 module into orbit in September 2011.]]></nbest>
+			<nbest id="19" total="273.0169"><![CDATA[The three astronauts were launched into space Saturday, came on board Tiangong-1 module into orbit in September 2011.]]></nbest>
+			<nbest id="20" total="273.0974"><![CDATA[The three astronauts were launched into space Saturday, came aboard Tiangong-1 module into orbit from September 2011.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lundi, le vaisseau Shenzhou IX qui a décollé samedi emportant trois taïkonautes s'est amarré sans difficulté au module déjà en orbite, Tiangong-1.]]></source>
+		<target lang="en">
+			<nbest id="0" total="359.4201"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked smoothly module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="1" total="359.6918"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked smoothly module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="2" total="362.5737"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked without difficulty to the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="3" total="362.8453"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked without difficulty to the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="4" total="363.137"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked without difficulty the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="5" total="363.2108"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked smoothly the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="6" total="363.2513"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked without difficulty module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="7" total="363.4086"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked without difficulty the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="8" total="363.4824"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked smoothly the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="9" total="363.5229"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked without difficulty module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="10" total="363.7875"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked smoothly to the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="11" total="364.0225"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked smoothly module already in orbit Tiangong-1.]]></nbest>
+			<nbest id="12" total="364.0529"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked smoothly at the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="13" total="364.0591"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked smoothly to the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="14" total="364.2941"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked smoothly module already in orbit Tiangong-1.]]></nbest>
+			<nbest id="15" total="364.3246"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked smoothly at the module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="16" total="364.3987"><![CDATA[Monday, Shenzhou IX which took off carrying three astronauts Saturday docked readily module already in orbit, Tiangong-1.]]></nbest>
+			<nbest id="17" total="364.6703"><![CDATA[Monday, Shenzhou IX took off carrying three astronauts Saturday docked readily module already in orbit, Tiangong-1.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Trois astronautes chinois sont entrés dans l'habitacle du module laboratoire spatial de Tiangong-1 lundi après-midi, devenant ainsi le premier groupe de Chinois à entrer dans un orbiteur spatial.]]></source>
+		<target lang="en">
+			<nbest id="0" total="352.0305"><![CDATA[Three Chinese astronauts entered the cockpit space laboratory module Tiangong-1 Monday afternoon, becoming the first group of Chinese to enter a space orbiter.]]></nbest>
+			<nbest id="1" total="352.4518"><![CDATA[Three Chinese astronauts entered the cockpit space laboratory module Tiangong-1 on Monday afternoon, becoming the first group of Chinese to enter a space orbiter.]]></nbest>
+			<nbest id="2" total="354.3042"><![CDATA[Three Chinese astronauts entered the cockpit space laboratory module Tiangong-1 Monday afternoon, becoming the first Chinese group to enter a space orbiter.]]></nbest>
+			<nbest id="3" total="354.7256"><![CDATA[Three Chinese astronauts entered the cockpit space laboratory module Tiangong-1 on Monday afternoon, becoming the first Chinese group to enter a space orbiter.]]></nbest>
+			<nbest id="4" total="355.4702"><![CDATA[Three Chinese astronauts entered the cockpit space laboratory module Tiangong-1 Monday afternoon, becoming the first group of Chinese orbiter to enter a space.]]></nbest>
+			<nbest id="5" total="355.664"><![CDATA[Three Chinese astronauts entered the cabin space laboratory module Tiangong-1 Monday afternoon, becoming the first group of Chinese to enter a space orbiter.]]></nbest>
+			<nbest id="6" total="355.8916"><![CDATA[Three Chinese astronauts entered the cockpit space laboratory module Tiangong-1 on Monday afternoon, becoming the first group of Chinese orbiter to enter a space.]]></nbest>
+			<nbest id="7" total="356.0854"><![CDATA[Three Chinese astronauts entered the cabin space laboratory module Tiangong-1 on Monday afternoon, becoming the first group of Chinese to enter a space orbiter.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un peu plus de sept mois après être parvenue à réaliser cette prouesse technique avec deux vaisseaux inhabités, le «Vaisseau divin» Shenzhou IX de la Chine s'est amarré en mode automatique ce matin pour la première fois au module orbital Tiangong-1 avec, à son bord, trois taïkonautes dont Liu Yang, première femme chinoise à voler dans l'espace.]]></source>
+		<target lang="en">
+			<nbest id="0" total="790.2933"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="1" total="790.3254"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="2" total="790.3639"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="3" total="790.396"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="4" total="790.8464"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Ship divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="5" total="790.8785"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Ship divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="6" total="790.9171"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Ship divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="7" total="790.9492"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Ship divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="8" total="790.9915"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="9" total="791.0236"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="10" total="791.0577"><![CDATA[A little more than seven months after being managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="11" total="791.0898"><![CDATA[A little more than seven months after being managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="12" total="791.1283"><![CDATA[A little more than seven months after being managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="13" total="791.1604"><![CDATA[A little more than seven months after being managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="14" total="791.4905"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with on board three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="15" total="791.5226"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with on board three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="16" total="791.5447"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Ship divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="17" total="791.5634"><![CDATA[A little more than seven months after managed to achieve this technical feat with two vessels uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="18" total="791.5695"><![CDATA[A little more than seven months after managed to achieve this technical prowess with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="19" total="791.5768"><![CDATA[A little more than seven months after managed to achieve this technical feat with two ships uninhabited, the "Ship divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="20" total="791.5955"><![CDATA[A little more than seven months after managed to achieve this technical feat with two vessels uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="21" total="791.6016"><![CDATA[A little more than seven months after managed to achieve this technical prowess with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts including Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="22" total="791.6108"><![CDATA[A little more than seven months after being managed to achieve this technical feat with two ships uninhabited, the "Ship divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its edge, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="23" total="791.634"><![CDATA[A little more than seven months after managed to achieve this technical feat with two vessels uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+			<nbest id="24" total="791.6401"><![CDATA[A little more than seven months after managed to achieve this technical prowess with two ships uninhabited, the "Flying divine" Shenzhou IX China docked in automatic mode this morning for the first time in the orbital module Tiangong-1, with its board, three astronauts whose Liu Yang, the first Chinese woman to fly in space.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

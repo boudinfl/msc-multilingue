@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[A la veille du quart de finale de l'Euro 2011 entre l'équipe de France et la Grèce, Tony Parker a déjà une idée du style d'opposition que les Bleus auront jeudi après-midi à Kaunas (17 heures).]]></source>
+		<target lang="en">
+			<nbest id="0" total="426.1678"><![CDATA[On the eve of the quarter-finals of Euro 2011 between Team France and Greece, Tony Parker already has an idea of the style of opposition that the Blues will have Thursday afternoon in Kaunas (17 hours).]]></nbest>
+			<nbest id="1" total="428.2617"><![CDATA[On the eve of the quarter-finals of Euro 2011 team between France and Greece, Tony Parker already has an idea of the style of opposition that the Blues will have Thursday afternoon in Kaunas (17 hours).]]></nbest>
+			<nbest id="2" total="428.301"><![CDATA[On the eve of the quarter-finals of Euro 2011 between Team France and Greece, Tony Parker has an idea of the style of opposition that the Blues will have Thursday afternoon in Kaunas (17 hours).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Auteur d'un parcours assez remarquable jusqu'ici, l'équipe de France remet tout en jeu contre la Grèce, ce jeudi après-midi à Kaunas, en quarts de finale de l'Euro 2011.]]></source>
+		<target lang="en">
+			<nbest id="0" total="369.4103"><![CDATA[Author of a remarkable journey so far, the team of France puts everything at stake against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="1" total="369.6113"><![CDATA[Author of a remarkable journey so far, the team of France puts everything on the line against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="2" total="370.0067"><![CDATA[Author of a remarkable journey so far, the team of France puts everything into play against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="3" total="370.1995"><![CDATA[Author of a remarkable journey so far, the France team puts everything at stake against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="4" total="370.3153"><![CDATA[Author of a remarkable journey so far, the team of France puts everything at stake against Greece on Thursday afternoon in Kaunas, in the quarterfinals of the Euro 2011.]]></nbest>
+			<nbest id="5" total="370.4005"><![CDATA[Author of a remarkable journey so far, the France team puts everything on the line against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="6" total="370.5163"><![CDATA[Author of a remarkable journey so far, the team of France puts everything on the line against Greece on Thursday afternoon in Kaunas, in the quarterfinals of the Euro 2011.]]></nbest>
+			<nbest id="7" total="370.7959"><![CDATA[Author of a remarkable journey so far, the France team puts everything into play against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="8" total="370.9117"><![CDATA[Author of a remarkable journey so far, the team of France puts everything into play against Greece on Thursday afternoon in Kaunas, in the quarterfinals of the Euro 2011.]]></nbest>
+			<nbest id="9" total="371.0959"><![CDATA[Author of a remarkable journey so far, the team of France puts everything on the line against Greece, on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="10" total="371.1045"><![CDATA[Author of a remarkable journey so far, the France team puts everything at stake against Greece on Thursday afternoon in Kaunas, in the quarterfinals of the Euro 2011.]]></nbest>
+			<nbest id="11" total="371.3055"><![CDATA[Author of a remarkable journey so far, the France team puts everything on the line against Greece on Thursday afternoon in Kaunas, in the quarterfinals of the Euro 2011.]]></nbest>
+			<nbest id="12" total="371.5157"><![CDATA[Author of a remarkable journey so far, the team puts everything at stake France against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="13" total="371.5571"><![CDATA[Author of a remarkable journey so far, the team of France puts everything at stake against Greece, on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="14" total="371.7009"><![CDATA[Author of a remarkable journey so far, the France team puts everything into play against Greece on Thursday afternoon in Kaunas, in the quarterfinals of the Euro 2011.]]></nbest>
+			<nbest id="15" total="371.7948"><![CDATA[Author of a remarkable journey so far, the team puts everything at stake France against Greece, on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="16" total="371.8851"><![CDATA[Author of a remarkable journey so far, the France team puts everything on the line against Greece, on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+			<nbest id="17" total="371.9052"><![CDATA[Author of a remarkable career so far, the team of France puts everything at stake against Greece on Thursday afternoon in Kaunas, in the quarterfinals of Euro 2011.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Auteur d'un parcours maîtrisé, la France joue son match le plus important depuis le début de l'Euro, aujourd'hui, face à la Grèce.]]></source>
+		<target lang="en">
+			<nbest id="0" total="287.8421"><![CDATA[Author of a controlled course, France is playing his biggest game since the beginning of the Euro today against Greece.]]></nbest>
+			<nbest id="1" total="288.2812"><![CDATA[Author of a controlled course, France plays its biggest game since the beginning of the Euro today against Greece.]]></nbest>
+			<nbest id="2" total="288.5644"><![CDATA[Author of a controlled path, France plays its biggest game since the beginning of the Euro today against Greece.]]></nbest>
+			<nbest id="3" total="288.836"><![CDATA[Author of a controlled course, France is playing his biggest game since the start of the Euro today against Greece.]]></nbest>
+			<nbest id="4" total="289.2751"><![CDATA[Author of a controlled course, France plays its biggest game since the start of the Euro today against Greece.]]></nbest>
+			<nbest id="5" total="289.5583"><![CDATA[Author of a controlled path, France plays its biggest game since the start of the Euro today against Greece.]]></nbest>
+			<nbest id="6" total="289.6636"><![CDATA[Author mastered a course, France plays its biggest game since the beginning of the Euro today against Greece.]]></nbest>
+			<nbest id="7" total="289.9648"><![CDATA[Author of a controlled route, France plays its biggest game since the beginning of the Euro today against Greece.]]></nbest>
+			<nbest id="8" total="290.0107"><![CDATA[Author of a route control, France plays its biggest game since the beginning of the Euro today against Greece.]]></nbest>
+			<nbest id="9" total="290.9587"><![CDATA[Author of a controlled route, France plays its biggest game since the start of the Euro today against Greece.]]></nbest>
+			<nbest id="10" total="291.0007"><![CDATA[Author of a controlled course, France is playing his biggest game since the beginning of the Euro today, against Greece.]]></nbest>
+			<nbest id="11" total="291.0046"><![CDATA[Author of a route control, France plays its biggest game since the start of the Euro today against Greece.]]></nbest>
+			<nbest id="12" total="291.4397"><![CDATA[Author of a controlled course, France plays its biggest game since the beginning of the Euro today, against Greece.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Avec ce qu'ils ont montré jusque-là, les Bleus peuvent rêver à une revanche contre la Grèce, qui effacerait en partie le souvenir de la demi-finale de 2005. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="344.5147"><![CDATA[With what they have shown so far, the Blues can dream of revenge against Greece, which partially erase the memory of the semi-final of 2005.]]></nbest>
+			<nbest id="1" total="344.6553"><![CDATA[With what they have shown so far, the Blues can dream of revenge against Greece, which partly erase the memory of the semi-final of 2005.]]></nbest>
+			<nbest id="2" total="345.1122"><![CDATA[With what they have shown so far, the Blues can dream of revenge against Greece, which partly obliterate the memory of the semi-final of 2005.]]></nbest>
+			<nbest id="3" total="346.5327"><![CDATA[With what they have shown so far, the Blues can dream of revenge against Greece, which partially erase the memory of the semi-finals in 2005.]]></nbest>
+			<nbest id="4" total="346.6733"><![CDATA[With what they have shown so far, the Blues can dream of revenge against Greece, which partly erase the memory of the semi-finals in 2005.]]></nbest>
+			<nbest id="5" total="347.1302"><![CDATA[With what they have shown so far, the Blues can dream of revenge against Greece, which partly obliterate the memory of the semi-finals in 2005.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ce jeudi, les coéquipiers de Tony Parker seront face à la Grèce pour une place en demi-finale mais surtout pour décrocher une qualification aux jeux olympiques de Londres de 2012.]]></source>
+		<target lang="en">
+			<nbest id="0" total="329.9302"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-finals but also win a qualification for the Olympic Games in London 2012.]]></nbest>
+			<nbest id="1" total="330.8556"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-finals but also win a qualification for the Olympic Games in London in 2012.]]></nbest>
+			<nbest id="2" total="332.1204"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-finals but also win a qualification for the Olympic Games of London 2012.]]></nbest>
+			<nbest id="3" total="332.9905"><![CDATA[Thursday, teammates Tony Parker will face Greece for a spot in the semi-finals but also win a qualification for the Olympic Games in London 2012.]]></nbest>
+			<nbest id="4" total="333.2099"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-finals but also to earn a qualification for London Olympics 2012.]]></nbest>
+			<nbest id="5" total="333.2314"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-finals but also win a qualification for the Olympics in London 2012.]]></nbest>
+			<nbest id="6" total="333.5013"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-final but also to earn a qualification for London Olympics 2012.]]></nbest>
+			<nbest id="7" total="333.916"><![CDATA[Thursday, teammates Tony Parker will face Greece for a spot in the semi-finals but also win a qualification for the Olympic Games in London in 2012.]]></nbest>
+			<nbest id="8" total="334.1202"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-finals but also win a qualification for the Olympic Games London 2012.]]></nbest>
+			<nbest id="9" total="334.6127"><![CDATA[Thursday, teammates Tony Parker will face Greece for a place in the semi-finals but also to earn a qualification to the Olympic Games in London 2012.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA["C'est un autre championnat qui commence", a déclaré Tony Parker mercredi à la presse à la veille du quart de finale de l'Eurobasket entre la France et la Grèce jeudi à Kaunas. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="377.0364"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to the press on the eve of the quarter-finals of Eurobasket between France and Greece Thursday Kaunas.]]></nbest>
+			<nbest id="1" total="377.4821"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to the press on the eve of the quarter-finals of Eurobasket between France and Greece Thursday in Kaunas.]]></nbest>
+			<nbest id="2" total="378.3079"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to press on the eve of the quarter-finals of Eurobasket between France and Greece Thursday Kaunas.]]></nbest>
+			<nbest id="3" total="378.4381"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to the press on the eve of the quarter-finals of Eurobasket between France and Greece on Thursday in Kaunas.]]></nbest>
+			<nbest id="4" total="378.7536"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to press on the eve of the quarter-finals of Eurobasket between France and Greece Thursday in Kaunas.]]></nbest>
+			<nbest id="5" total="378.878"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to the press on the eve of the quarter-finals of Eurobasket between France and Greece on Thursday Kaunas.]]></nbest>
+			<nbest id="6" total="378.9138"><![CDATA["This is another championship that begins," said Tony Parker to the press Wednesday on the eve of the quarter-finals of Eurobasket between France and Greece Thursday Kaunas.]]></nbest>
+			<nbest id="7" total="379.3596"><![CDATA["This is another championship that begins," said Tony Parker to the press Wednesday on the eve of the quarter-finals of Eurobasket between France and Greece Thursday in Kaunas.]]></nbest>
+			<nbest id="8" total="379.4027"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to the press on the eve of the quarter-finals of Eurobasket between France and Greece Thursday to Kaunas.]]></nbest>
+			<nbest id="9" total="379.4283"><![CDATA["This is another championship that begins," said Tony Parker Wednesday press on the eve of the quarter-finals of Eurobasket between France and Greece Thursday Kaunas.]]></nbest>
+			<nbest id="10" total="379.6555"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to the press on the eve of the quarter-finals of Eurobasket between France and Greece Thursday at Kaunas.]]></nbest>
+			<nbest id="11" total="379.7097"><![CDATA["This is another championship that begins," said Tony Parker Wednesday to press on the eve of the quarter-finals of Eurobasket between France and Greece on Thursday in Kaunas.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Cet après-midi, la France va tenter de se qualifier pour la demi finale du championnat d'Europe de basket, en Lituanie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="211.0513"><![CDATA[This afternoon, France will attempt to qualify for the semifinals of the European basketball championship in Lithuania.]]></nbest>
+			<nbest id="1" total="213.1283"><![CDATA[This afternoon, France will try to qualify for the semifinals of the European basketball championship in Lithuania.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Décisifs jusqu'à présent, Tony Parker et Joakim Noah vont être encore un peu plus exposés dans le tableau final de l'Euro.]]></source>
+		<target lang="en">
+			<nbest id="0" total="254.8755"><![CDATA[Decisive so far, Tony Parker and Joakim Noah will be a little more exposed in the final table of the Euro.]]></nbest>
+			<nbest id="1" total="255.3779"><![CDATA[Decisive so far, Tony Parker and Joakim Noah will be a bit more exposed in the final table of the Euro.]]></nbest>
+			<nbest id="2" total="255.9294"><![CDATA[Decisive far, Tony Parker and Joakim Noah will be a little more exposed in the final table of the Euro.]]></nbest>
+			<nbest id="3" total="256.4318"><![CDATA[Decisive far, Tony Parker and Joakim Noah will be a bit more exposed in the final table of the Euro.]]></nbest>
+			<nbest id="4" total="256.9493"><![CDATA[Decisive so far, Tony Parker and Joakim Noah will be a little more exposed in the final table of the euro.]]></nbest>
+			<nbest id="5" total="257.0603"><![CDATA[Decisive date, Tony Parker and Joakim Noah will be a little more exposed in the final table of the Euro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des douze joueurs de l'équipe de France actuellement en Lituanie, quatre ont vécu la terrible demi-finale de l'Euro 2005 que les Bleus avaient perdue sur le fil face à la Grèce (66-67).]]></source>
+		<target lang="en">
+			<nbest id="0" total="430.9899"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="1" total="431.0964"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="2" total="431.1899"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="3" total="431.2964"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="4" total="432.5017"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semi-finals of Euro 2005, the Blues had lost on the wire against Greece (66-67).]]></nbest>
+			<nbest id="5" total="432.6082"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semi-finals of Euro 2005, the Blues had lost on the wire against Greece (66-67).]]></nbest>
+			<nbest id="6" total="432.8356"><![CDATA[Twelve players on the team of France in Lithuania currently, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="7" total="433.0356"><![CDATA[Twelve players on the team of France in Lithuania currently, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="8" total="433.1908"><![CDATA[Twelve players on the team of France in Lithuania currently four have experienced terrible semi-finals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="9" total="433.3908"><![CDATA[Twelve players on the team of France in Lithuania currently four have experienced terrible semi-finals of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="10" total="434.3474"><![CDATA[Twelve players on the team of France in Lithuania currently, four have experienced terrible semi-finals of Euro 2005, the Blues had lost on the wire against Greece (66-67).]]></nbest>
+			<nbest id="11" total="434.7026"><![CDATA[Twelve players on the team of France in Lithuania currently four have experienced terrible semi-finals of Euro 2005, the Blues had lost on the wire against Greece (66-67).]]></nbest>
+			<nbest id="12" total="435.0196"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semi-final of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="13" total="435.0326"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semifinals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="14" total="435.1261"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semi-final of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="15" total="435.1391"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semifinals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="16" total="435.2196"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semi-final of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="17" total="435.2326"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semifinals of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="18" total="435.326"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semi-final of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="19" total="435.3391"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semifinals of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="20" total="435.3919"><![CDATA[Twelve players on the team currently in France Lithuania, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="21" total="435.5567"><![CDATA[Twelve players on the team currently in France in Lithuania, four have experienced terrible semi-finals of Euro 2005 that the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="22" total="435.5737"><![CDATA[Twelve players the team of France in Lithuania now, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the thread against Greece (66-67).]]></nbest>
+			<nbest id="23" total="435.5919"><![CDATA[Twelve players on the team currently in France Lithuania, four have experienced terrible semi-finals of Euro 2005, the Blues had lost the wire against Greece (66-67).]]></nbest>
+			<nbest id="24" total="435.6632"><![CDATA[Twelve players on the team of France in Lithuania now, four have experienced terrible semi-finals of Euro 2005 that the Blues had lost the thread against Greece (66-67).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Écrasée par l'Espagne dimanche en l'absence de Tony Parker, Joakim Noah et Mike Gelabale (69-96), l'équipe de France retrouvera finalement la Grèce jeudi prochain en quarts de finale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="414.4907"><![CDATA[Crushed by Spain on Sunday in the absence of Tony Parker, Joakim Noah and Mike Gelabale (69-96), the team finally find France Greece on Thursday in the quarterfinals.]]></nbest>
+			<nbest id="1" total="414.8745"><![CDATA[Crushed by Spain Sunday in the absence of Tony Parker, Joakim Noah and Mike Gelabale (69-96), the team finally find France Greece on Thursday in the quarterfinals.]]></nbest>
+			<nbest id="2" total="415.1798"><![CDATA[Crushed by Spain on Sunday in the absence of Tony Parker, Joakim Noah and Mike Gelabale (69-96), the team of France finally find Greece on Thursday in the quarterfinals.]]></nbest>
+			<nbest id="3" total="415.5638"><![CDATA[Crushed by Spain Sunday in the absence of Tony Parker, Joakim Noah and Mike Gelabale (69-96), the team of France finally find Greece on Thursday in the quarterfinals.]]></nbest>
+			<nbest id="4" total="415.7944"><![CDATA[Crushed by Spain on Sunday in the absence of Tony Parker, Joakim Noah and Mike Gelabale (69-96), the team finally find France Greece Thursday in the quarterfinals.]]></nbest>
+			<nbest id="5" total="416.1783"><![CDATA[Crushed by Spain Sunday in the absence of Tony Parker, Joakim Noah and Mike Gelabale (69-96), the team finally find France Greece Thursday in the quarterfinals.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[En quart de finale de l'Euro, les Français affrontent leur bête noire, qu'ils ont perdu 13 fois en 14 rencontres depuis 1983.]]></source>
+		<target lang="en">
+			<nbest id="0" total="246.1852"><![CDATA[In the quarterfinals of the Euro, the French face their nemesis, they lost 13 times in 14 games since 1983.]]></nbest>
+			<nbest id="1" total="246.2411"><![CDATA[In the quarterfinals of the Euro, the French confront their nemesis, they lost 13 times in 14 games since 1983.]]></nbest>
+			<nbest id="2" total="247.2507"><![CDATA[In the quarterfinals of the Euro, the French face their nemesis, they have lost 13 times in 14 games since 1983.]]></nbest>
+			<nbest id="3" total="247.3066"><![CDATA[In the quarterfinals of the Euro, the French confront their nemesis, they have lost 13 times in 14 games since 1983.]]></nbest>
+			<nbest id="4" total="247.3972"><![CDATA[In the quarter-finals of the Euro, the French face their nemesis, they lost 13 times in 14 games since 1983.]]></nbest>
+			<nbest id="5" total="248.4627"><![CDATA[In the quarter-finals of the Euro, the French face their nemesis, they have lost 13 times in 14 games since 1983.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Face à une Grèce qui semble plusieurs tons en dessous, l'équipe de France n'a guère le droit à l'erreur en quarts de finale (17h00).]]></source>
+		<target lang="en">
+			<nbest id="0" total="313.7517"><![CDATA[Faced with Greece appears several shades below, the team of France has little room for error in quarterfinals (17:00).]]></nbest>
+			<nbest id="1" total="314.3318"><![CDATA[Faced with Greece appears several shades below, the France team has little margin for error in quarterfinals (17:00).]]></nbest>
+			<nbest id="2" total="315.737"><![CDATA[Faced with Greece appears several shades below, the France team has little room for error in quarterfinals (17:00).]]></nbest>
+			<nbest id="3" total="316.6089"><![CDATA[Faced with Greece appears several shades below, the team of France has little room for error in the quarterfinals (17:00).]]></nbest>
+			<nbest id="4" total="316.6125"><![CDATA[Faced with Greece appears several shades below, the team of France has little margin for error in quarterfinals (17:00).]]></nbest>
+			<nbest id="5" total="316.9171"><![CDATA[Faced with Greece appears several shades below, the team of France has little room for error in quarterfinals (1700).]]></nbest>
+			<nbest id="6" total="317.2133"><![CDATA[Faced with Greece appears several shades underneath the France team has little margin for error in quarterfinals (17:00).]]></nbest>
+			<nbest id="7" total="317.3712"><![CDATA[Faced with Greece seems several shades below, the team of France has little room for error in quarterfinals (17:00).]]></nbest>
+			<nbest id="8" total="317.4972"><![CDATA[Faced with Greece appears several shades below, the France team has little margin for error in quarterfinals (1700).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[France-Grèce (17h00) n'est pas qu'un simple quart de finale de l'Euro.]]></source>
+		<target lang="en">
+			<nbest id="0" total="168.6248"><![CDATA[France-Greece (1700) is not a simple quarter-finals of the Euro.]]></nbest>
+			<nbest id="1" total="168.8847"><![CDATA[France, Greece (1700) is not a simple quarter-finals of the Euro.]]></nbest>
+			<nbest id="2" total="169.9612"><![CDATA[France-Greece (1700) is not a mere quarter-finals of the Euro.]]></nbest>
+			<nbest id="3" total="170.5129"><![CDATA[France-Greece (1700) is not a simple quarter-finals of Euro.]]></nbest>
+			<nbest id="4" total="170.7728"><![CDATA[France, Greece (1700) is not a simple quarter-finals of Euro.]]></nbest>
+			<nbest id="5" total="171.2487"><![CDATA[France-Greece (17.00) is not a simple quarter-finals of the Euro.]]></nbest>
+			<nbest id="6" total="171.4668"><![CDATA[France, Greece (17.00) is not a simple quarter-finals of the Euro.]]></nbest>
+			<nbest id="7" total="171.7307"><![CDATA[France, Greece (1700) is not a mere quarter-finals of the Euro.]]></nbest>
+			<nbest id="8" total="172.5141"><![CDATA[France-Greece (17:00) is not a simple quarter-finals of the Euro.]]></nbest>
+			<nbest id="9" total="172.5851"><![CDATA[France-Greece (17.00) is not a mere quarter-finals of the Euro.]]></nbest>
+			<nbest id="10" total="173.1368"><![CDATA[France-Greece (17.00) is not a simple quarter-finals of Euro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ils seront sept jeudi soir sur le parquet de Kaunas à avoir vécu l'inoubliable demi-finale France-Grèce de l'Euro 2005.]]></source>
+		<target lang="en">
+			<nbest id="0" total="314.4277"><![CDATA[They are seven Thursday night on the floor of Kaunas to have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="1" total="314.653"><![CDATA[They are seven Thursday evening on the floor of Kaunas to have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="2" total="314.8666"><![CDATA[They are seven Thursday night on the floor of Kaunas to have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="3" total="315.0919"><![CDATA[They are seven Thursday evening on the floor of Kaunas to have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="4" total="315.7478"><![CDATA[They are seven Thursday night on the floor of Kaunas to have lived unforgettable semifinal France-Greece Euro 2005.]]></nbest>
+			<nbest id="5" total="315.7796"><![CDATA[They are seven Thursday night on the floor of Kaunas have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="6" total="315.8211"><![CDATA[They are seven Thursday night on the floor of Kaunas to have lived an unforgettable semifinal France-Greece Euro 2005.]]></nbest>
+			<nbest id="7" total="315.8745"><![CDATA[They will be seven Thursday night on the floor of Kaunas to have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="8" total="315.9732"><![CDATA[They are seven Thursday evening on the floor of Kaunas to have lived unforgettable semifinal France-Greece Euro 2005.]]></nbest>
+			<nbest id="9" total="315.9804"><![CDATA[They are seven Thursday night on the floor of the Kaunas to have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="10" total="315.9863"><![CDATA[They are seven Thursday night on the floor of Kaunas to have lived an unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="11" total="316.0049"><![CDATA[They are seven Thursday evening on the floor of Kaunas have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="12" total="316.0464"><![CDATA[They are seven Thursday evening on the floor of Kaunas to have lived an unforgettable semifinal France-Greece Euro 2005.]]></nbest>
+			<nbest id="13" total="316.0998"><![CDATA[They will be seven Thursday evening on the floor of Kaunas to have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="14" total="316.2057"><![CDATA[They are seven Thursday evening on the floor of the Kaunas to have lived unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="15" total="316.2116"><![CDATA[They are seven Thursday evening on the floor of Kaunas to have lived an unforgettable semi-final France-Greece Euro 2005.]]></nbest>
+			<nbest id="16" total="316.2185"><![CDATA[They are seven Thursday night on the floor of Kaunas have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="17" total="316.3134"><![CDATA[They will be seven Thursday night on the floor of Kaunas to have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="18" total="316.4194"><![CDATA[They are seven Thursday night on the floor of the Kaunas to have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="19" total="316.4252"><![CDATA[They are seven Thursday night on the floor of Kaunas to have lived an unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="20" total="316.4439"><![CDATA[They are seven Thursday evening on the floor of Kaunas have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="21" total="316.5387"><![CDATA[They will be seven Thursday evening on the floor of Kaunas to have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="22" total="316.6447"><![CDATA[They are seven Thursday evening on the floor of the Kaunas to have lived unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="23" total="316.6505"><![CDATA[They are seven Thursday evening on the floor of Kaunas to have lived an unforgettable semi-final of the France-Greece Euro 2005.]]></nbest>
+			<nbest id="24" total="317.0997"><![CDATA[They are seven Thursday night on the floor of Kaunas have lived unforgettable semifinal France-Greece Euro 2005.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La France a une belle occasion de régler ses comptes avec son passé et la Grèce lors d'un quart de finale capital pour son avenir à l'Euro, aujourd'hui (17 h) à Kaunas.]]></source>
+		<target lang="en">
+			<nbest id="0" total="374.2416"><![CDATA[France has an opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="1" total="374.5367"><![CDATA[France has a great opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="2" total="374.7781"><![CDATA[France has a great opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future in the Euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="3" total="374.8719"><![CDATA[France has an opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="4" total="375.1669"><![CDATA[France has a great opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="5" total="375.2176"><![CDATA[France has an opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro today (17 h) to Kaunas.]]></nbest>
+			<nbest id="6" total="375.4083"><![CDATA[France has a great opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future in the euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="7" total="375.5127"><![CDATA[France has a great opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro today (17 h) to Kaunas.]]></nbest>
+			<nbest id="8" total="375.6988"><![CDATA[France has an opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future in the Euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="9" total="375.7541"><![CDATA[France has a great opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future in the Euro today (17 h) to Kaunas.]]></nbest>
+			<nbest id="10" total="375.8478"><![CDATA[France has an opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the euro today (17 h) to Kaunas.]]></nbest>
+			<nbest id="11" total="376.1429"><![CDATA[France has a great opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the euro today (17 h) to Kaunas.]]></nbest>
+			<nbest id="12" total="376.2703"><![CDATA[France has an opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future Euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="13" total="376.329"><![CDATA[France has an opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future in the euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="14" total="376.3843"><![CDATA[France has a great opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future in the euro today (17 h) to Kaunas.]]></nbest>
+			<nbest id="15" total="376.5465"><![CDATA[France has an opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro, today (17 h) in Kaunas.]]></nbest>
+			<nbest id="16" total="376.5653"><![CDATA[France has a great opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future Euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="17" total="376.6498"><![CDATA[France has an opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro today (17 h) Kaunas.]]></nbest>
+			<nbest id="18" total="376.6748"><![CDATA[France has an opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future in the Euro today (17 h) to Kaunas.]]></nbest>
+			<nbest id="19" total="376.8067"><![CDATA[France has a great opportunity to settle accounts with his past and Greece during a quarterfinal capital for its future Euro today (17 h) in Kaunas.]]></nbest>
+			<nbest id="20" total="376.8415"><![CDATA[France has a great opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro, today (17 h) in Kaunas.]]></nbest>
+			<nbest id="21" total="376.9448"><![CDATA[France has a great opportunity to settle accounts with the past and Greece during a quarterfinal capital for its future in the Euro today (17 h) Kaunas.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'équipe de France de basket-ball affronte celle de Grèce en quart de finale de l'Eurobasket, ce jeudi 15 septembre 2011 à 15h TU, à Kaunas, en Lituanie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="343.1754"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="1" total="343.4013"><![CDATA[The France team basketball faces one of Greece in the quarter finals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="2" total="343.9109"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+			<nbest id="3" total="344.1369"><![CDATA[The France team basketball faces one of Greece in the quarter finals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+			<nbest id="4" total="344.278"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket, this Thursday, September 15th, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="5" total="344.4128"><![CDATA[The France team basketball faces that of Greece in the quarterfinals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="6" total="344.504"><![CDATA[The France team basketball faces one of Greece in the quarter finals of Eurobasket, this Thursday, September 15th, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="7" total="344.6388"><![CDATA[The France team basketball faces one of Greece in the quarterfinals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="8" total="345.0002"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket, this Thursday, September 15th 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="9" total="345.0054"><![CDATA[The France team basketball faces that of Greece in the quarter-finals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="10" total="345.0136"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket, this Thursday, September 15th, 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+			<nbest id="11" total="345.1483"><![CDATA[The France team basketball faces that of Greece in the quarterfinals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+			<nbest id="12" total="345.2261"><![CDATA[The France team basketball faces one of Greece in the quarter finals of Eurobasket, this Thursday, September 15th 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="13" total="345.2314"><![CDATA[The France team basketball faces one of Greece in the quarter-finals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="14" total="345.2396"><![CDATA[The France team basketball faces one of Greece in the quarter finals of Eurobasket, this Thursday, September 15th, 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+			<nbest id="15" total="345.2657"><![CDATA[The France team basketball faces that of Greece in the quarter finals of EuroBasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="16" total="345.3068"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket, Thursday 15 September 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="17" total="345.3743"><![CDATA[The France team basketball faces one of Greece in the quarterfinals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+			<nbest id="18" total="345.4185"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket on Thursday 15 September 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="19" total="345.4917"><![CDATA[The France team basketball faces one of Greece in the quarter finals of EuroBasket, this Thursday, September 15, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="20" total="345.5155"><![CDATA[The France team basketball faces that of Greece in the quarterfinals of Eurobasket, this Thursday, September 15th, 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="21" total="345.5327"><![CDATA[The France team basketball faces one of Greece in the quarter finals of Eurobasket, Thursday 15 September 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="22" total="345.6444"><![CDATA[The France team basketball faces one of Greece in the quarter finals of Eurobasket on Thursday 15 September 2011 at 15h UT, Kaunas, Lithuania.]]></nbest>
+			<nbest id="23" total="345.7357"><![CDATA[The France team basketball faces that of Greece in the quarter finals of Eurobasket, this Thursday, September 15th 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+			<nbest id="24" total="345.741"><![CDATA[The France team basketball faces that of Greece in the quarter-finals of Eurobasket, this Thursday, September 15, 2011 at 15h UT, in Kaunas, Lithuania.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'équipe de France s'attend à un match très physique, en quart de finale du championnat d'Europe de basket, jeudi, à Kaunas, face à une équipe grecque qui fera tout pour ralentir le jeu.]]></source>
+		<target lang="en">
+			<nbest id="0" total="393.3726"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="1" total="393.5534"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="2" total="394.9055"><![CDATA[The France team is expecting a very physical match, in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="3" total="395.0535"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="4" total="395.0863"><![CDATA[The France team is expecting a very physical match, in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="5" total="395.1976"><![CDATA[The France team is expecting a very physical match in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="6" total="395.2343"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas against a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="7" total="395.3304"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship Thursday in Kaunas, against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="8" total="395.3784"><![CDATA[The France team is expecting a very physical match in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="9" total="395.4789"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday at Kaunas, against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="10" total="395.5112"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship Thursday in Kaunas, against a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="11" total="395.6597"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday at Kaunas, against a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="12" total="395.7703"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, facing a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="13" total="395.9564"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, face a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="14" total="396.0169"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, face a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="15" total="396.0696"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team who will do anything to slow the game]]></nbest>
+			<nbest id="16" total="396.1661"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, facing a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="17" total="396.2505"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team that will do anything to slow the game]]></nbest>
+			<nbest id="18" total="396.4832"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, faced with a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="19" total="396.5863"><![CDATA[The France team is expecting a very physical match, in the quarterfinals of the European basketball championship on Thursday in Kaunas against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="20" total="396.7671"><![CDATA[The France team is expecting a very physical match, in the quarterfinals of the European basketball championship on Thursday in Kaunas against a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="21" total="396.8633"><![CDATA[The France team is expecting a very physical match, in the quarterfinals of the European basketball championship Thursday in Kaunas, against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="22" total="396.8784"><![CDATA[The France team is expecting a very physical match in the quarterfinals of the European basketball championship on Thursday in Kaunas against a Greek team who will do anything to slow down the game]]></nbest>
+			<nbest id="23" total="396.879"><![CDATA[The France team is expecting a very physical game in the quarterfinals of the European basketball championship on Thursday in Kaunas, faced with a Greek team that will do anything to slow down the game]]></nbest>
+			<nbest id="24" total="396.9731"><![CDATA[The France team is expecting a very physical game, in the quarterfinals of the European basketball championship on Thursday in Kaunas, against a Greek team who will do anything to slow down the game]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les "meilleurs ennemis" du basket européen se retrouvent aujourd'hui, en Lithuanie pour un quart de finale qui sent le soufre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="286.7198"><![CDATA["Best enemies" European basketball can be found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="1" total="287.0423"><![CDATA["Best enemies" European basketball is found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="2" total="287.5299"><![CDATA["Best enemies" of European basketball can be found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="3" total="287.6629"><![CDATA["Best enemies" European basketball is now found in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="4" total="287.7041"><![CDATA["Best enemies" European basketball can be found today in Lithuania for a quarterfinal smelling sulfur.]]></nbest>
+			<nbest id="5" total="288.0266"><![CDATA["Best enemies" European basketball is found today in Lithuania for a quarterfinal smelling sulfur.]]></nbest>
+			<nbest id="6" total="288.5142"><![CDATA["Best enemies" of European basketball can be found today in Lithuania for a quarterfinal smelling sulfur.]]></nbest>
+			<nbest id="7" total="288.5261"><![CDATA["Best enemy" European basketball can be found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="8" total="288.6431"><![CDATA["Best enemies" European basketball can be found today in Lithuania for quarter-final smells of sulfur.]]></nbest>
+			<nbest id="9" total="288.8485"><![CDATA["Best enemy" European basketball is found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="10" total="288.8657"><![CDATA[The "best enemies" European basketball is found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="11" total="288.9656"><![CDATA["Best enemies" European basketball is found today in Lithuania for quarter-final smells of sulfur.]]></nbest>
+			<nbest id="12" total="288.9889"><![CDATA["Best enemies" European basketball can be found today in Lithuania for a quarter final smells of sulfur.]]></nbest>
+			<nbest id="13" total="289.0201"><![CDATA["Best enemies" European basketball are found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="14" total="289.2222"><![CDATA["Best enemies" European basketball are now found in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="15" total="289.3114"><![CDATA["Best enemies" European basketball is found today in Lithuania for a quarter final smells of sulfur.]]></nbest>
+			<nbest id="16" total="289.4108"><![CDATA["Best enemies" European basketball is now found in Lithuania for a quarterfinal smelling sulfur.]]></nbest>
+			<nbest id="17" total="289.4364"><![CDATA["Best enemies" European basketball now find themselves in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="18" total="289.4532"><![CDATA["Best enemies" of European basketball can be found today in Lithuania for quarter-final smells of sulfur.]]></nbest>
+			<nbest id="19" total="289.4691"><![CDATA["Best enemy" European basketball is now found in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="20" total="289.4863"><![CDATA[The "best enemies" European basketball is now found in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+			<nbest id="21" total="289.5104"><![CDATA["Best enemy" European basketball can be found today in Lithuania for a quarterfinal smelling sulfur.]]></nbest>
+			<nbest id="22" total="289.7508"><![CDATA["Best enemies" European basketball can be found today in Lithuania for a quarter-final smelling sulfur.]]></nbest>
+			<nbest id="23" total="289.799"><![CDATA["Best enemies" of European basketball can be found today in Lithuania for a quarter final smells of sulfur.]]></nbest>
+			<nbest id="24" total="289.8138"><![CDATA["Best enemies" of the European basketball can be found today in Lithuania for a quarter-final smells of sulfur.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Eurobasket 2011 commence réellement aujourd'hui pour la France avec le quart de finale à 17h contre la Grèce.]]></source>
+		<target lang="en">
+			<nbest id="0" total="244.8831"><![CDATA[The Eurobasket 2011 actually begins today for France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="1" total="245.4979"><![CDATA[The Eurobasket 2011 actually starts today in France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="2" total="245.5991"><![CDATA[The Eurobasket 2011 actually starts today for France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="3" total="246.576"><![CDATA[The Eurobasket 2011 really starts today for France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="4" total="246.7502"><![CDATA[The Eurobasket 2011 actually starts today in France with quarter-final against Greece 17h.]]></nbest>
+			<nbest id="5" total="246.9276"><![CDATA[The Eurobasket 2011 actually begins today in France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="6" total="247.0073"><![CDATA[The Eurobasket 2011 really starts today in France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="7" total="247.1159"><![CDATA[The Eurobasket 2011 actually starts today in France the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="8" total="247.2392"><![CDATA[The Eurobasket 2011 begins today actually for France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="9" total="248.18"><![CDATA[The Eurobasket 2011 actually begins today in France with quarter-final against Greece 17h.]]></nbest>
+			<nbest id="10" total="248.2596"><![CDATA[The Eurobasket 2011 really starts today in France with quarter-final against Greece 17h.]]></nbest>
+			<nbest id="11" total="248.3923"><![CDATA[The Eurobasket 2011 begins today really for France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="12" total="248.5457"><![CDATA[The Eurobasket 2011 actually begins today in France the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="13" total="248.6253"><![CDATA[The Eurobasket 2011 really starts today in France the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="14" total="249.2249"><![CDATA[The Eurobasket 2011 actually begins today for France with the quarterfinals against Greece to 17h.]]></nbest>
+			<nbest id="15" total="249.4194"><![CDATA[The Eurobasket 2011 actually starts today in France the quarterfinals against Greece to 17h.]]></nbest>
+			<nbest id="16" total="249.4225"><![CDATA[The Eurobasket 2011 starts today actually for France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="17" total="249.8081"><![CDATA[The Eurobasket 2011 actually begins today for France with quarter-final against Greece 17h.]]></nbest>
+			<nbest id="18" total="249.8397"><![CDATA[The Eurobasket 2011 actually starts today in France with the quarterfinals against Greece to 17h.]]></nbest>
+			<nbest id="19" total="249.941"><![CDATA[The Eurobasket 2011 actually starts today for France with the quarterfinals against Greece to 17h.]]></nbest>
+			<nbest id="20" total="249.9928"><![CDATA[The Eurobasket 2011 actually begins today for France with the quarter-finals at 17h against Greece.]]></nbest>
+			<nbest id="21" total="250.039"><![CDATA[The Eurobasket 2011 actually begins in France today with quarterfinals against Greece to 17h.]]></nbest>
+			<nbest id="22" total="250.4308"><![CDATA[The Eurobasket 2011 begins now actually for France with the quarter-final against Greece 17h.]]></nbest>
+			<nbest id="23" total="250.5241"><![CDATA[The Eurobasket 2011 actually starts today for France with quarter-final against Greece 17h.]]></nbest>
+			<nbest id="24" total="250.6076"><![CDATA[The Eurobasket 2011 actually starts today in France with the quarter-finals at 17h against Greece.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'EuroBasket 2011 se poursuit ce jeudi avec le quart de finale France-Grèce, tant attendu.]]></source>
+		<target lang="en">
+			<nbest id="0" total="216.5024"><![CDATA[The EuroBasket 2011 continues on Thursday with the quarterfinal France, Greece, as expected.]]></nbest>
+			<nbest id="1" total="216.9637"><![CDATA[The EuroBasket 2011 continues on Thursday with the quarterfinal France and Greece, as expected.]]></nbest>
+			<nbest id="2" total="217.0369"><![CDATA[The EuroBasket 2011 continues on Thursday with the quarterfinal France-Greece, as expected.]]></nbest>
+			<nbest id="3" total="217.0914"><![CDATA[The EuroBasket 2011 continues this Thursday with the quarterfinal France, Greece, as expected.]]></nbest>
+			<nbest id="4" total="217.5526"><![CDATA[The EuroBasket 2011 continues this Thursday with the quarterfinal France and Greece, as expected.]]></nbest>
+			<nbest id="5" total="217.6258"><![CDATA[The EuroBasket 2011 continues this Thursday with the quarterfinal France-Greece, as expected.]]></nbest>
+			<nbest id="6" total="217.8858"><![CDATA[The EuroBasket 2011 continues this Thursday with quarterfinal France, Greece, as expected.]]></nbest>
+			<nbest id="7" total="217.9534"><![CDATA[The EuroBasket 2011 continues on Thursday with quarterfinal France, Greece, as expected.]]></nbest>
+			<nbest id="8" total="218.3911"><![CDATA[The EuroBasket 2011 continues Thursday with the quarterfinal France, Greece, as expected.]]></nbest>
+			<nbest id="9" total="218.4202"><![CDATA[The EuroBasket 2011 continues this Thursday with quarterfinal France-Greece, as expected.]]></nbest>
+			<nbest id="10" total="218.4879"><![CDATA[The EuroBasket 2011 continues on Thursday with quarterfinal France-Greece, as expected.]]></nbest>
+			<nbest id="11" total="218.8523"><![CDATA[The EuroBasket 2011 continues Thursday with the quarterfinal France and Greece, as expected.]]></nbest>
+			<nbest id="12" total="218.9255"><![CDATA[The EuroBasket 2011 continues Thursday with the quarterfinal France-Greece, as expected.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

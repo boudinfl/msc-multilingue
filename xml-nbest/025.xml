@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[L'opérateur télécoms mobile japonais Softbank Corp a annoncé mardi la commercialisation cet été de smartphones équipés de détecteurs de radioactivité, en raison des inquiétudes liées à l'accident nucléaire de Fukushima.]]></source>
+		<target lang="en">
+			<nbest id="0" total="364.693"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="1" total="365.0327"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, due to concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="2" total="365.4781"><![CDATA[The Japanese mobile operator Softbank Telecom Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="3" total="365.5586"><![CDATA[The Japanese mobile telecoms operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="4" total="365.7734"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that marketing was equipped smartphones radioactivity detectors, because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="5" total="365.8177"><![CDATA[The Japanese mobile operator Softbank Telecom Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, due to concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="6" total="365.8397"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, due to concerns related to the Fukushima nuclear accident.]]></nbest>
+			<nbest id="7" total="365.8569"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns about the nuclear accident in Fukushima.]]></nbest>
+			<nbest id="8" total="365.8983"><![CDATA[The Japanese mobile telecoms operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, due to concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="9" total="366.0509"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns related to the Fukushima nuclear accident.]]></nbest>
+			<nbest id="10" total="366.113"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that marketing was equipped smartphones radioactivity detectors, due to concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="11" total="366.1883"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that marketing was smartphones equipped with radioactivity detectors, because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="12" total="366.196"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, due to concerns about the nuclear accident in Fukushima.]]></nbest>
+			<nbest id="13" total="366.3065"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="14" total="366.528"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that marketing was smartphones equipped with radioactivity detectors, due to concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="15" total="366.5584"><![CDATA[The Japanese mobile operator Softbank Telecom Corp. announced Tuesday that marketing was equipped smartphones radioactivity detectors, because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="16" total="366.6248"><![CDATA[The Japanese mobile operator Softbank Telecom Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, due to concerns related to the Fukushima nuclear accident.]]></nbest>
+			<nbest id="17" total="366.639"><![CDATA[The Japanese mobile telecoms operator Softbank Corp. announced Tuesday that marketing was equipped smartphones radioactivity detectors, because of concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="18" total="366.6419"><![CDATA[The Japanese mobile operator Softbank Telecom Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns about the nuclear accident in Fukushima.]]></nbest>
+			<nbest id="19" total="366.7053"><![CDATA[The Japanese mobile telecoms operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, due to concerns related to the Fukushima nuclear accident.]]></nbest>
+			<nbest id="20" total="366.7225"><![CDATA[The Japanese mobile telecoms operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns about the nuclear accident in Fukushima.]]></nbest>
+			<nbest id="21" total="366.836"><![CDATA[The Japanese mobile operator Softbank Telecom Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns related to the Fukushima nuclear accident.]]></nbest>
+			<nbest id="22" total="366.898"><![CDATA[The Japanese mobile operator Softbank Telecom Corp. announced Tuesday that marketing was equipped smartphones radioactivity detectors, due to concerns about the Fukushima nuclear accident.]]></nbest>
+			<nbest id="23" total="366.9165"><![CDATA[The Japanese mobile telecoms operator Softbank Corp. announced Tuesday that was marketing smartphones equipped with radioactivity detectors, because of concerns related to the Fukushima nuclear accident.]]></nbest>
+			<nbest id="24" total="366.9201"><![CDATA[The Japanese mobile telecom operator Softbank Corp. announced Tuesday that marketing was equipped smartphones radioactivity detectors, due to concerns related to the Fukushima nuclear accident.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un opérateur nippon va commercialiser un smartphone pouvant mesurer la radioactivité.]]></source>
+		<target lang="en">
+			<nbest id="0" total="172.1168"><![CDATA[Japanese operator will start selling a smartphone that can measure radiation.]]></nbest>
+			<nbest id="1" total="172.3647"><![CDATA[Japanese operator will start selling a smartphone that can measure radioactivity.]]></nbest>
+			<nbest id="2" total="172.6347"><![CDATA[Japanese operator will market a smartphone that can measure radiation.]]></nbest>
+			<nbest id="3" total="172.8826"><![CDATA[Japanese operator will market a smartphone that can measure radioactivity.]]></nbest>
+			<nbest id="4" total="173.5327"><![CDATA[Japanese operator will start selling a smartphone that can measure the radioactivity.]]></nbest>
+			<nbest id="5" total="173.5815"><![CDATA[Japanese operator will start selling a smartphone capable of measuring radioactivity.]]></nbest>
+			<nbest id="6" total="174.0506"><![CDATA[Japanese operator will market a smartphone that can measure the radioactivity.]]></nbest>
+			<nbest id="7" total="174.0994"><![CDATA[Japanese operator will market a smartphone capable of measuring radioactivity.]]></nbest>
+			<nbest id="8" total="174.9941"><![CDATA[Japanese operator will sell a smartphone that can measure radiation.]]></nbest>
+			<nbest id="9" total="175.242"><![CDATA[Japanese operator will sell a smartphone that can measure radioactivity.]]></nbest>
+			<nbest id="10" total="175.3149"><![CDATA[Japanese operator will start selling a smartphone can measure radioactivity.]]></nbest>
+			<nbest id="11" total="175.8329"><![CDATA[Japanese operator will market a smartphone can measure radioactivity.]]></nbest>
+			<nbest id="12" total="176.41"><![CDATA[Japanese operator will sell a smartphone that can measure the radioactivity.]]></nbest>
+			<nbest id="13" total="176.5788"><![CDATA[A Japanese operator will market a smartphone that can measure radiation.]]></nbest>
+			<nbest id="14" total="176.8267"><![CDATA[A Japanese operator will market a smartphone that can measure radioactivity.]]></nbest>
+			<nbest id="15" total="178.4514"><![CDATA[Japanese operator will sell a smartphone capable of measuring radioactivity.]]></nbest>
+			<nbest id="16" total="178.5741"><![CDATA[Japanese operator will start selling a smartphone can measure the radioactivity.]]></nbest>
+			<nbest id="17" total="179.092"><![CDATA[Japanese operator will market a smartphone can measure the radioactivity.]]></nbest>
+			<nbest id="18" total="179.4175"><![CDATA[Japanese operator will market smartphone that can measure radiation.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le PDG du troisième opérateur de télécommunications mobiles japonais Softbank a annoncé mardi la commercialisation prochaine au Japon d'un téléphone mobile multifonctionnel (smartphone) intégrant un dosimètre pour mesurer la radioactivité ambiante.]]></source>
+		<target lang="en">
+			<nbest id="0" total="415.0484"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) incorporating a dosimeter to measure radioactivity.]]></nbest>
+			<nbest id="1" total="415.1819"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) integrating dosimeter to measure radioactivity.]]></nbest>
+			<nbest id="2" total="415.1883"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) integrating dosimeter for measuring radioactivity.]]></nbest>
+			<nbest id="3" total="415.9925"><![CDATA[CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) integrating dosimeter to measure radioactivity.]]></nbest>
+			<nbest id="4" total="416.0073"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) integrating a dosimeter to measure radioactivity.]]></nbest>
+			<nbest id="5" total="416.7059"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) incorporating a dosimeter to measure environmental radioactivity.]]></nbest>
+			<nbest id="6" total="416.8394"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) integrating dosimeter to measure environmental radioactivity.]]></nbest>
+			<nbest id="7" total="417.0257"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan of a multifunctional mobile phone (smartphone) integrating dosimeter for measuring environmental radioactivity.]]></nbest>
+			<nbest id="8" total="417.5102"><![CDATA[The CEO of the third mobile operator Softbank Japan announced Tuesday next marketing in Japan a multifunctional mobile phone (smartphone) incorporating a dosimeter to measure radioactivity.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le troisième opérateur de télécommunications mobiles japonais Softbank intègre un dosimètre pour mesurer la radioactivité à un téléphone.]]></source>
+		<target lang="en">
+			<nbest id="0" total="225.7047"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure radioactivity in a phone.]]></nbest>
+			<nbest id="1" total="225.7607"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure radioactivity to a phone.]]></nbest>
+			<nbest id="2" total="226.3973"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure radioactivity to a telephone.]]></nbest>
+			<nbest id="3" total="226.5414"><![CDATA[The third mobile operator Softbank Japan incorporates a dosimeter to measure radioactivity in a phone.]]></nbest>
+			<nbest id="4" total="226.5975"><![CDATA[The third mobile operator Softbank Japan incorporates a dosimeter to measure radioactivity to a phone.]]></nbest>
+			<nbest id="5" total="226.8169"><![CDATA[The third mobile operator Softbank Japan integrates a dosimeter to measure radioactivity in a phone.]]></nbest>
+			<nbest id="6" total="226.873"><![CDATA[The third mobile operator Softbank Japan integrates a dosimeter to measure radioactivity to a phone.]]></nbest>
+			<nbest id="7" total="226.8751"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure radioactivity phone.]]></nbest>
+			<nbest id="8" total="226.893"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure the radioactivity to a phone.]]></nbest>
+			<nbest id="9" total="227.1953"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure the radioactivity phone.]]></nbest>
+			<nbest id="10" total="227.2341"><![CDATA[The third mobile operator Softbank Japan incorporates a dosimeter to measure radioactivity to a telephone.]]></nbest>
+			<nbest id="11" total="227.4232"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure radioactivity on a phone.]]></nbest>
+			<nbest id="12" total="227.5096"><![CDATA[The third mobile operator Softbank Japan integrates a dosimeter to measure radioactivity to a telephone.]]></nbest>
+			<nbest id="13" total="227.5296"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure the radioactivity to a telephone.]]></nbest>
+			<nbest id="14" total="227.7118"><![CDATA[The third mobile operator Softbank Japan incorporates a dosimeter to measure radioactivity phone.]]></nbest>
+			<nbest id="15" total="227.7164"><![CDATA[The third mobile operator Softbank Japan features a dosimeter to measure radioactivity in a phone.]]></nbest>
+			<nbest id="16" total="227.7298"><![CDATA[The third mobile operator Softbank Japan incorporates a dosimeter to measure the radioactivity to a phone.]]></nbest>
+			<nbest id="17" total="227.7724"><![CDATA[The third mobile operator Softbank Japan features a dosimeter to measure radioactivity to a phone.]]></nbest>
+			<nbest id="18" total="227.9874"><![CDATA[The third mobile operator Softbank Japan integrates a dosimeter to measure radioactivity phone.]]></nbest>
+			<nbest id="19" total="228.0053"><![CDATA[The third mobile operator Softbank Japan integrates a dosimeter to measure the radioactivity to a phone.]]></nbest>
+			<nbest id="20" total="228.0117"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure radioactivity in a telephone.]]></nbest>
+			<nbest id="21" total="228.032"><![CDATA[The third mobile operator Softbank Japan incorporates a dosimeter to measure the radioactivity phone.]]></nbest>
+			<nbest id="22" total="228.1566"><![CDATA[The third mobile operator Softbank Japan includes a dosimeter to measure the radioactivity in a phone.]]></nbest>
+			<nbest id="23" total="228.166"><![CDATA[The third mobile operator Softbank Japanese incorporates a dosimeter to measure radioactivity in a phone.]]></nbest>
+			<nbest id="24" total="228.2221"><![CDATA[The third mobile operator Softbank Japanese incorporates a dosimeter to measure radioactivity to a phone.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un smartphone qui mesure la radioactivité, c'est ce que devrait vendre à partir du mois de juillet le troisième opérateur téléphonique japonais, Softbank.]]></source>
+		<target lang="en">
+			<nbest id="0" total="308.5924"><![CDATA[A smartphone which measures radioactivity, that should sell from July the third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="1" total="308.6784"><![CDATA[A smartphone which measures radioactivity, that should sell from July the third telephone Japanese Softbank.]]></nbest>
+			<nbest id="2" total="309.7787"><![CDATA[A smartphone which measures radioactivity, that should sell from July the third telephone Japan, Softbank.]]></nbest>
+			<nbest id="3" total="310.2766"><![CDATA[A smartphone which measures radioactivity, that should sell from July third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="4" total="310.3626"><![CDATA[A smartphone which measures radioactivity, that should sell from July third telephone Japanese Softbank.]]></nbest>
+			<nbest id="5" total="310.6798"><![CDATA[A smartphone which measures the radioactivity, that should sell from July the third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="6" total="310.7657"><![CDATA[A smartphone which measures the radioactivity, that should sell from July the third telephone Japanese Softbank.]]></nbest>
+			<nbest id="7" total="311.1048"><![CDATA[A smartphone which measures radioactivity, is what should sell from July the third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="8" total="311.1907"><![CDATA[A smartphone which measures radioactivity, is what should sell from July the third telephone Japanese Softbank.]]></nbest>
+			<nbest id="9" total="311.3181"><![CDATA[A smartphone which measures radioactivity, is what would sell from July the third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="10" total="311.404"><![CDATA[A smartphone which measures radioactivity, is what would sell from July the third telephone Japanese Softbank.]]></nbest>
+			<nbest id="11" total="311.4629"><![CDATA[A smartphone which measures radioactivity, that should sell from July third telephone Japan, Softbank.]]></nbest>
+			<nbest id="12" total="311.6325"><![CDATA[A smartphone which measures radioactivity, that would sell from July the third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="13" total="311.7184"><![CDATA[A smartphone which measures radioactivity, that would sell from July the third telephone Japanese Softbank.]]></nbest>
+			<nbest id="14" total="311.866"><![CDATA[A smartphone which measures the radioactivity, that should sell from July the third telephone Japan, Softbank.]]></nbest>
+			<nbest id="15" total="312.291"><![CDATA[A smartphone which measures radioactivity, is what should sell from July the third telephone Japan, Softbank.]]></nbest>
+			<nbest id="16" total="312.364"><![CDATA[A smartphone which measures the radioactivity, that should sell from July third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="17" total="312.4499"><![CDATA[A smartphone which measures the radioactivity, that should sell from July third telephone Japanese Softbank.]]></nbest>
+			<nbest id="18" total="312.5043"><![CDATA[A smartphone which measures radioactivity, is what would sell from July the third telephone Japan, Softbank.]]></nbest>
+			<nbest id="19" total="312.6646"><![CDATA[A smartphone which measures radioactivity, what should sell from July the third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="20" total="312.7506"><![CDATA[A smartphone which measures radioactivity, what should sell from July the third telephone Japanese Softbank.]]></nbest>
+			<nbest id="21" total="312.789"><![CDATA[A smartphone which measures radioactivity, is what should sell from July third telephone operator Japanese Softbank.]]></nbest>
+			<nbest id="22" total="312.8188"><![CDATA[A smartphone which measures radioactivity, that would sell from July the third telephone Japan, Softbank.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Cette semaine, la firme Softbank a annoncé officiellement la sortie prochaine d’un smartphone mesurant la radioactivité.]]></source>
+		<target lang="en">
+			<nbest id="0" total="196.6692"><![CDATA[This week, the firm Softbank has officially announced the upcoming release of a smartphone measuring radioactivity.]]></nbest>
+			<nbest id="1" total="197.7554"><![CDATA[This week, the firm Softbank has officially announced the upcoming release of a smartphone measuring the radioactivity.]]></nbest>
+			<nbest id="2" total="199.8189"><![CDATA[This week, the company Softbank has officially announced the upcoming release of a smartphone measuring radioactivity.]]></nbest>
+			<nbest id="3" total="200.4643"><![CDATA[This week the firm Softbank has officially announced the upcoming release of a smartphone measuring radioactivity.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un smartphone équipé d’un dosimètre pour mesurer la radioactivité ambiante serait sur le point d’être lancé au Japon.]]></source>
+		<target lang="en">
+			<nbest id="0" total="206.4063"><![CDATA[A smartphone with a dosimeter to measure the radioactivity is about to be launched in Japan.]]></nbest>
+			<nbest id="1" total="208.6908"><![CDATA[A smartphone with a dosimeter to measure radioactivity is about to be launched in Japan.]]></nbest>
+			<nbest id="2" total="208.9487"><![CDATA[A smartphone with a dosimeter to measure the radioactivity was about to be launched in Japan.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

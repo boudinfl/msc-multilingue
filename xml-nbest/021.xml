@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[La dissidente birmane Aung San Suu Kyi a bien l'intention de briguer un siège au Parlement lors d'une prochaine élection législative partielle, a indiqué lundi un porte-parole.]]></source>
+		<target lang="en">
+			<nbest id="0" total="295.7283"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to run for a seat in Parliament at the next-election, said Monday a spokesman.]]></nbest>
+			<nbest id="1" total="296.4711"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to run for a seat in parliament at the next-election, said Monday a spokesman.]]></nbest>
+			<nbest id="2" total="297.6096"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to seek a seat in parliament at the next-election, said Monday a spokesman.]]></nbest>
+			<nbest id="3" total="298.0486"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to run for a seat in Parliament at the next-election, said on Monday a spokesman.]]></nbest>
+			<nbest id="4" total="298.0905"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to seek a seat in Parliament at the next-election, said Monday a spokesman.]]></nbest>
+			<nbest id="5" total="298.428"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to run for a parliamentary seat at the next-election, said Monday a spokesman.]]></nbest>
+			<nbest id="6" total="298.7914"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to run for a seat in parliament at the next-election, said on Monday a spokesman.]]></nbest>
+			<nbest id="7" total="299.0379"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention of running for a seat in Parliament at the next-election, said Monday a spokesman.]]></nbest>
+			<nbest id="8" total="299.2634"><![CDATA[Burmese dissident Aung San Suu Kyi has the intention to seek a seat in parliament at the next-election, said Monday a spokesman.]]></nbest>
+			<nbest id="9" total="299.3372"><![CDATA[Burmese dissident Aung San Suu Kyi has every intention to run for a seat in Parliament at the next-election, said Monday a spokesperson.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chef de file de l'opposition birmane et prix Nobel de la paix Aung San Suu Kyi "a l'intention" de briguer personnellement un siège au parlement lors d'une prochaine élection législative partielle, a indiqué un de ses porte-parole, alors que le régime semble desserrer l'étau autour de l'opposition.]]></source>
+		<target lang="en">
+			<nbest id="0" total="564.198"><![CDATA[The leader of the Burmese opposition and Nobel Peace Aung San Suu Kyi 'intends' to run personally a seat in parliament at the next-election, said one of its spokesmen, while the regime seems to loosen the noose around the opposition.]]></nbest>
+			<nbest id="1" total="564.257"><![CDATA[The leader of the Burmese opposition and Nobel peace Aung San Suu Kyi 'intends' to run personally a seat in parliament at the next-election, said one of its spokesmen, while the regime seems to loosen the noose around the opposition.]]></nbest>
+			<nbest id="2" total="565.2548"><![CDATA[The leader of the Burmese opposition and Nobel Peace Aung San Suu Kyi 'intends' to run a personal seat in parliament at the next-election, said one of its spokesmen, while the regime seems to loosen the noose around the opposition.]]></nbest>
+			<nbest id="3" total="565.3137"><![CDATA[The leader of the Burmese opposition and Nobel peace Aung San Suu Kyi 'intends' to run a personal seat in parliament at the next-election, said one of its spokesmen, while the regime seems to loosen the noose around the opposition.]]></nbest>
+			<nbest id="4" total="565.8534"><![CDATA[The leader of the Burmese opposition and Nobel Peace Aung San Suu Kyi 'intends' to run personally a seat in parliament at the next-election, said one of his spokesmen, while the regime seems to loosen the noose around the opposition.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chef de file de l'opposition birmane Aung San Suu Kyi, dont le parti dissous s'est officiellement ré-enregistré, "a l'intention" d'être personnellement candidate lors d'une prochaine législative partielle, a indiqué lundi un porte-parole.]]></source>
+		<target lang="en">
+			<nbest id="0" total="443.2456"><![CDATA[The leader of the Burmese opposition leader Aung San Suu Kyi, whose party was officially dissolved re-recorded, "intends" to be personally candidate at the next legislative part, said Monday a spokesman.]]></nbest>
+			<nbest id="1" total="444.9557"><![CDATA[The leader of the Burmese opposition leader Aung San Suu Kyi, whose party was officially dissolved re-recorded, "intends" to be personally candidate in a forthcoming legislative part, said Monday a spokesman.]]></nbest>
+			<nbest id="2" total="445.6766"><![CDATA[The leader of the Burmese opposition leader Aung San Suu Kyi, whose party was officially dissolved re-recorded, "intend" to be personally candidate at the next legislative part, said Monday a spokesman.]]></nbest>
+			<nbest id="3" total="445.6985"><![CDATA[The leader of the Burmese opposition leader Aung San Suu Kyi, whose party was officially dissolved re-registered, "intends" to be personally candidate at the next legislative part, said Monday a spokesman.]]></nbest>
+			<nbest id="4" total="445.7571"><![CDATA[The leader of the Burmese opposition leader Aung San Suu Kyi, whose party was officially dissolved re-recorded, "intends" to be personally candidate at the next legislative part, said on Monday a spokesman.]]></nbest>
+			<nbest id="5" total="445.8213"><![CDATA[The leader of the Burmese opposition leader Aung San Suu Kyi, whose party was officially dissolved re-recorded, "intends" to be personally candidate at a future legislative part, said Monday a spokesman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Aung San Suu Kyi, la chef de file de l'opposition birmane "a l'intention" de briguer personnellement un siège au Parlement lors d'une prochaine élection législative partielle.]]></source>
+		<target lang="en">
+			<nbest id="0" total="300.0975"><![CDATA[Aung San Suu Kyi, the leader of the Burmese opposition "intends" to run for a seat in parliament in person at the next-election.]]></nbest>
+			<nbest id="1" total="301.31"><![CDATA[Aung San Suu Kyi, the leader of the Burmese opposition "intends" to run for a seat in Parliament personally at the next-election.]]></nbest>
+			<nbest id="2" total="301.9883"><![CDATA[Aung San Suu Kyi, the leader of the Burmese opposition "intends" to run for a seat in parliament personally at the next-election.]]></nbest>
+			<nbest id="3" total="302.0815"><![CDATA[Aung San Suu Kyi, the leader of the Burmese opposition "intends" to run for a seat in parliament in person at an upcoming-election.]]></nbest>
+			<nbest id="4" total="302.4566"><![CDATA[Aung San Suu Kyi, leader of the Burmese opposition "intends" to run for a seat in parliament in person at the next-election.]]></nbest>
+			<nbest id="5" total="302.6049"><![CDATA[Aung San Suu Kyi, the leader of the Burmese opposition "intends" to run for a seat in parliament in person at a future-election.]]></nbest>
+			<nbest id="6" total="302.7383"><![CDATA[Aung San Suu Kyi, the leader of the Burmese opposition "intends" to seek a seat in parliament in person at the next-election.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Aung San Suu Kyi, figure de l'opposition birmane et lauréate du prix Nobel de la paix, sera candidate aux élections partielles à venir, a annoncé lundi un haut responsable de son parti, la Ligue nationale pour la démocratie (LND).]]></source>
+		<target lang="en">
+			<nbest id="0" total="363.2144"><![CDATA[Aung San Suu Kyi, the Burmese opposition figure and Nobel laureate for peace, will be a candidate for election to come, a senior official said Monday his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="1" total="363.8632"><![CDATA[Aung San Suu Kyi, the Burmese opposition figure and Nobel laureate for peace, will be a candidate for elections to come, a senior official said Monday his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="2" total="365.0037"><![CDATA[Aung San Suu Kyi, Burmese opposition figure and Nobel laureate for peace, will be a candidate for election to come, a senior official said Monday his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="3" total="365.2627"><![CDATA[Aung San Suu Kyi, the Burmese opposition figure and Nobel laureate for peace, will be a candidate for election to come, a senior official said on Monday his party, the National League for Democracy (NLD).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La figure de proue du mouvement prodémocratique birman et lauréate du prix Nobel de la paix Aung San Suu Kyi entend se porter candidate aux prochaines élections partielles, a annoncé lundi un haut responsable de son parti, la Ligue nationale pour la démocratie (LND).]]></source>
+		<target lang="en">
+			<nbest id="0" total="400.0451"><![CDATA[The figurehead of the Burmese pro-democracy movement and Nobel laureate for peace Aung San Suu Kyi intends to stand as a candidate in the next elections, announced Monday a senior official of his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="1" total="400.8583"><![CDATA[The figurehead of the Burmese pro-democracy movement and Nobel laureate for peace Aung San Suu Kyi intends to stand as a candidate in the upcoming elections, announced Monday a senior official of his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="2" total="401.1859"><![CDATA[The figurehead of the Burmese pro-democracy movement and Nobel laureate for peace Aung San Suu Kyi intends to stand as a candidate in the next elections, announced on Monday a senior official of his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="3" total="401.5469"><![CDATA[The figurehead of the Burmese pro-democracy movement and winner of the Nobel Peace Prize Aung San Suu Kyi intends to stand as a candidate in the next elections, announced Monday a senior official of his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="4" total="401.9646"><![CDATA[The figurehead of the Burmese pro-democracy movement and Nobel laureate for peace Aung San Suu Kyi intends to stand as a candidate in the forthcoming elections, announced Monday a senior official of his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="5" total="401.9991"><![CDATA[The figurehead of the Burmese pro-democracy movement and Nobel laureate for peace Aung San Suu Kyi intends to stand as a candidate in the upcoming elections, announced on Monday a senior official of his party, the National League for Democracy (NLD).]]></nbest>
+			<nbest id="6" total="402.3601"><![CDATA[The figurehead of the Burmese pro-democracy movement and winner of the Nobel Peace Prize Aung San Suu Kyi intends to stand as a candidate in the upcoming elections, announced Monday a senior official of his party, the National League for Democracy (NLD).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'emblématique leader de l'opposition birmane a décidé d'être personnellement candidate aux législatives partielles prévues avant la fin de l'année.]]></source>
+		<target lang="en">
+			<nbest id="0" total="262.4447"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate in parliamentary by personally planned before the end of the year.]]></nbest>
+			<nbest id="1" total="263.2921"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate for partial legislative personally planned before the end of the year.]]></nbest>
+			<nbest id="2" total="263.7106"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate in the parliamentary by personally planned before the end of the year.]]></nbest>
+			<nbest id="3" total="264.8786"><![CDATA[The iconic leader of the Burmese opposition decided to be a candidate in parliamentary by personally planned before the end of the year.]]></nbest>
+			<nbest id="4" total="265.4777"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate in parliamentary by personally held before the end of the year.]]></nbest>
+			<nbest id="5" total="265.9924"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate for the partial legislative personally planned before the end of the year.]]></nbest>
+			<nbest id="6" total="266.1446"><![CDATA[The iconic leader of the Burmese opposition decided to be a candidate in the parliamentary by personally planned before the end of the year.]]></nbest>
+			<nbest id="7" total="266.3854"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate in parliamentary by personally expected before the end of the year.]]></nbest>
+			<nbest id="8" total="266.4711"><![CDATA[The iconic leader of the Burmese opposition has decided to personally partial legislative candidate planned before the end of the year.]]></nbest>
+			<nbest id="9" total="266.6117"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate in partial legislative personally planned before the end of the year.]]></nbest>
+			<nbest id="10" total="266.6255"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate in the partial legislative personally planned before the end of the year.]]></nbest>
+			<nbest id="11" total="266.7437"><![CDATA[The iconic leader of the Burmese opposition has decided to be a candidate in the parliamentary by personally held before the end of the year.]]></nbest>
+			<nbest id="12" total="266.7907"><![CDATA[The iconic leader of the Burmese opposition has decided to be the candidate personally partial legislative scheduled before the end of the year.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le plus emblématique est la décision prise vendredi matin par la "Dame de Rangoun" : Aung San Suu Kyi sera personnellement candidate aux législatives partielles prévues d'ici à la fin de l'année dans 48 circonscriptions.]]></source>
+		<target lang="en">
+			<nbest id="0" total="423.7379"><![CDATA[The most significant is the decision Friday morning by the "Lady of Rangoon" Aung San Suu Kyi is the partial parliamentary candidate personally planned by the end of the year in 48 districts.]]></nbest>
+			<nbest id="1" total="423.8939"><![CDATA[The most significant is the decision Friday morning by the "Lady of Rangoon" Aung San Suu Kyi is the partial parliamentary candidate personally planned by the end of the year in 48 constituencies.]]></nbest>
+			<nbest id="2" total="424.831"><![CDATA[The most significant is the decision Friday morning by the "Lady of Rangoon" Aung San Suu Kyi is the partial legislative candidate personally planned by the end of the year in 48 districts.]]></nbest>
+			<nbest id="3" total="424.987"><![CDATA[The most significant is the decision Friday morning by the "Lady of Rangoon" Aung San Suu Kyi is the partial legislative candidate personally planned by the end of the year in 48 constituencies.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

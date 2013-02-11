@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Alors que le monde traverse une crise économique grave, la banque suisse UBS a découvert une perte anormale estimée à 2 milliards de dollars.]]></source>
+		<target lang="en">
+			<nbest id="0" total="228.5193"><![CDATA[While the world is experiencing a serious economic crisis, the Swiss bank UBS has discovered an abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="1" total="228.8311"><![CDATA[While the world is experiencing a serious economic crisis, the Swiss bank UBS discovered an abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="2" total="229.9541"><![CDATA[While the world is experiencing a severe economic crisis, the Swiss bank UBS has discovered an abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="3" total="230.1312"><![CDATA[While the world is going through a severe economic crisis, the Swiss bank UBS has discovered an abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="4" total="230.2659"><![CDATA[While the world is experiencing a severe economic crisis, the Swiss bank UBS discovered an abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="5" total="230.443"><![CDATA[While the world is going through a severe economic crisis, the Swiss bank UBS discovered an abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="6" total="231.5553"><![CDATA[While the world is experiencing a serious economic crisis, the Swiss bank UBS has discovered abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="7" total="231.9182"><![CDATA[While the world is experiencing a serious economic crisis, the Swiss bank UBS has discovered an abnormal loss estimated at 2 billion.]]></nbest>
+			<nbest id="8" total="232.2301"><![CDATA[While the world is experiencing a serious economic crisis, the Swiss bank UBS discovered an abnormal loss estimated at 2 billion.]]></nbest>
+			<nbest id="9" total="232.99"><![CDATA[While the world is experiencing a severe economic crisis, the Swiss bank UBS has discovered abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="10" total="233.1671"><![CDATA[While the world is going through a severe economic crisis, the Swiss bank UBS has discovered abnormal loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="11" total="233.171"><![CDATA[While the world is experiencing a serious economic crisis, the Swiss bank UBS discovered abnormal loss estimated at $ 2 billion.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La banque suisse a annoncé ce matin que l'un de ses traders a provoqué une perte estimée à 2 milliards de dollars.]]></source>
+		<target lang="en">
+			<nbest id="0" total="193.585"><![CDATA[The Swiss bank announced this morning that one of its traders caused a loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="1" total="194.1334"><![CDATA[The Swiss bank announced this morning that one of its traders has caused an estimated loss of $ 2 billion.]]></nbest>
+			<nbest id="2" total="194.957"><![CDATA[Swiss bank announced this morning that one of its traders caused a loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="3" total="195.3876"><![CDATA[The Swiss bank has announced this morning that one of its traders caused a loss estimated at $ 2 billion.]]></nbest>
+			<nbest id="4" total="195.936"><![CDATA[The Swiss bank has announced this morning that one of its traders has caused an estimated loss of $ 2 billion.]]></nbest>
+			<nbest id="5" total="196.7099"><![CDATA[The Swiss bank announced this morning that one of its traders caused an estimated loss of $ 2 billion.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La banque suisse UBS a annoncé jeudi la découverte d'une perte de 2 milliards de dollars (1,45 milliard d'euros), en raison d'opérations de courtage non autorisées effectuées par un trader dans le secteur de sa banque d'investissement.]]></source>
+		<target lang="en">
+			<nbest id="0" total="372.6123"><![CDATA[Swiss bank UBS announced Thursday the discovery of a loss of $ 2 billion (1.45 billion euros), due to unauthorized trading operations carried out by a trader in the area of its investment bank.]]></nbest>
+			<nbest id="1" total="373.3676"><![CDATA[Swiss bank UBS announced Thursday the discovery of a loss of $ 2 billion (1.45 billion euros), due to unauthorized trading operations performed by a trader in the area of its investment bank.]]></nbest>
+			<nbest id="2" total="374.5443"><![CDATA[Swiss bank UBS announced Thursday the discovery of a loss of $ 2 billion (1.45 billion euros) due to unauthorized trading operations carried out by a trader in the area of its investment bank.]]></nbest>
+			<nbest id="3" total="374.8061"><![CDATA[Swiss bank UBS announced Thursday the discovery of a loss of $ 2 billion (1.45 billion euros), due to unauthorized brokering performed by a trader in the area of its investment bank.]]></nbest>
+			<nbest id="4" total="375.1824"><![CDATA[Swiss bank UBS announced Thursday the discovery of a loss of $ 2 billion (1.45 billion euros), due to unauthorized trading operations carried out by a trader in the sector of its investment bank.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La banque suisse UBS a déclaré jeudi avoir été victime de transactions illégales par un de ses courtiers, qui lui auraient fait perdre 2 milliards de dollars américains.]]></source>
+		<target lang="en">
+			<nbest id="0" total="283.8741"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="1" total="284.3479"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="2" total="285.9161"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by its brokers, who have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="3" total="286.269"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who would lose 2 billion U.S. dollars.]]></nbest>
+			<nbest id="4" total="286.39"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by its brokers, who have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="5" total="286.6817"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who would have lost $ 2 billion U.S..]]></nbest>
+			<nbest id="6" total="286.7429"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who would lose 2 billion U.S. dollars.]]></nbest>
+			<nbest id="7" total="286.836"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who would have lost 2 billion U.S. dollars.]]></nbest>
+			<nbest id="8" total="287.1555"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who would have lost $ 2 billion U.S..]]></nbest>
+			<nbest id="9" total="287.3098"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who would have lost 2 billion U.S. dollars.]]></nbest>
+			<nbest id="10" total="287.4368"><![CDATA[Swiss bank UBS said on Thursday he was the victim of unlawful transactions by one of its brokers, who have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="11" total="287.6566"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who would have lost $ 2 billion U.S. dollars.]]></nbest>
+			<nbest id="12" total="287.9106"><![CDATA[Swiss bank UBS said Thursday he was the victim of unlawful transactions by one of its brokers, who have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="13" total="287.9518"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who would have lost 2 billion dollars.]]></nbest>
+			<nbest id="14" total="288.1304"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who would have lost $ 2 billion U.S. dollars.]]></nbest>
+			<nbest id="15" total="288.2302"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who have lost 2 billion U.S. dollars.]]></nbest>
+			<nbest id="16" total="288.3111"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by its brokers, who would lose 2 billion U.S. dollars.]]></nbest>
+			<nbest id="17" total="288.3255"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who would have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="18" total="288.39"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, who would have lost U.S. $ 2 billion.]]></nbest>
+			<nbest id="19" total="288.4257"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who would have lost 2 billion dollars.]]></nbest>
+			<nbest id="20" total="288.704"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who have lost 2 billion U.S. dollars.]]></nbest>
+			<nbest id="21" total="288.785"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by its brokers, who would lose 2 billion U.S. dollars.]]></nbest>
+			<nbest id="22" total="288.7993"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who would have lost two billion U.S. dollars.]]></nbest>
+			<nbest id="23" total="288.8639"><![CDATA[Swiss bank UBS said Thursday he was the victim of illegal transactions by one of its brokers, who would have lost U.S. $ 2 billion.]]></nbest>
+			<nbest id="24" total="288.9524"><![CDATA[Swiss bank UBS said on Thursday he was the victim of illegal transactions by one of its brokers, which would lose 2 billion U.S. dollars.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La banque suisse UBS a "découvert une perte due à une opération de courtage non-autorisée" dans le secteur de sa banque d'investissement d'un montant de 2 milliards de dollars, selon un communiqué publié jeudi 15 septembre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="386.0345"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement released Thursday, September 15.]]></nbest>
+			<nbest id="1" total="386.0574"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement released Thursday, Sept. 15.]]></nbest>
+			<nbest id="2" total="387.0763"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement issued Thursday, September 15.]]></nbest>
+			<nbest id="3" total="387.4439"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement released Thursday, September 15th.]]></nbest>
+			<nbest id="4" total="387.4803"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement published Thursday, September 15.]]></nbest>
+			<nbest id="5" total="387.9284"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement issued Thursday, Sept. 15.]]></nbest>
+			<nbest id="6" total="388.4857"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement issued Thursday, September 15th.]]></nbest>
+			<nbest id="7" total="388.538"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement Thursday, September 15.]]></nbest>
+			<nbest id="8" total="388.598"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank in the amount of $ 2 billion, according to a statement released Thursday September 15.]]></nbest>
+			<nbest id="9" total="388.7267"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank for an amount of $ 2 billion, according to a statement released Thursday, September 15.]]></nbest>
+			<nbest id="10" total="388.7496"><![CDATA[Swiss bank UBS has "discovered a loss due to a brokerage transaction unauthorized" in the area of its investment bank for an amount of $ 2 billion, according to a statement released Thursday, Sept. 15.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La banque suisse UBS annonce jeudi avoir découvert une opération non-autorisée par un de ses traders, qui aurait causé une perte d'un montant de 2 milliards de dollars (1,5 milliard d'euros). ]]></source>
+		<target lang="en">
+			<nbest id="0" total="314.0053"><![CDATA[Swiss bank UBS announced Thursday it had discovered unauthorized operation by one of its traders, which caused a loss of $ 2 billion (1.5 billion euros).]]></nbest>
+			<nbest id="1" total="315.4808"><![CDATA[Swiss bank UBS announced Thursday it had discovered an unauthorized operation by one of its traders, which caused a loss of $ 2 billion (1.5 billion euros).]]></nbest>
+			<nbest id="2" total="316.6692"><![CDATA[Swiss bank UBS announced Thursday it had discovered unauthorized operation by one of its traders, which would have caused a loss of $ 2 billion (1.5 billion euros).]]></nbest>
+			<nbest id="3" total="317.1115"><![CDATA[Swiss bank UBS announced Thursday it had discovered unauthorized transaction by one of its traders, which caused a loss of $ 2 billion (1.5 billion euros).]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La banque suisse UBS, premier établissement du pays, a annoncé jeudi la découverte d'une perte estimée à 2 milliards de dollars (1,45 milliard d'euros), suite à des opérations de courtage non autorisées effectuées dans le secteur de sa banque d'investissement.]]></source>
+		<target lang="en">
+			<nbest id="0" total="420.0674"><![CDATA[Swiss bank UBS, the first school in the country, announced Thursday the discovery of an estimated loss of $ 2 billion (1.45 billion euros), due to unauthorized trading operations conducted in the area of its investment bank.]]></nbest>
+			<nbest id="1" total="420.5985"><![CDATA[Swiss bank UBS, the first school in the country, announced Thursday the discovery of an estimated loss of $ 2 billion (1.45 billion euros), due to unauthorized trading operations carried out in the area of its investment bank.]]></nbest>
+			<nbest id="2" total="420.9699"><![CDATA[Swiss bank UBS, the first institution in the country, announced Thursday the discovery of an estimated loss of $ 2 billion (1.45 billion euros), due to unauthorized trading operations conducted in the area of its investment bank.]]></nbest>
+			<nbest id="3" total="421.501"><![CDATA[Swiss bank UBS, the first institution in the country, announced Thursday the discovery of an estimated loss of $ 2 billion (1.45 billion euros), due to unauthorized trading operations carried out in the area of its investment bank.]]></nbest>
+			<nbest id="4" total="422.0677"><![CDATA[Swiss bank UBS, the first school in the country, announced Thursday the discovery of a loss estimated at $ 2 billion (1.45 billion euros), due to unauthorized trading operations conducted in the area of its investment bank.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'affaire de transactions non autorisées d'un courtier londonien d'UBS, qui pourrait entraîner une perte de 2 milliards de dollars pour le numéro un bancaire helvétique, continuait de fortement peser sur le titre de la banque jeudi après-midi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="441.9716"><![CDATA[The case of unauthorized transactions a broker UBS London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="1" total="442.6867"><![CDATA[The case of unauthorized transactions a broker at UBS in London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="2" total="442.954"><![CDATA[The case of unauthorized transactions by a broker at UBS in London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="3" total="443.0434"><![CDATA[The case of unauthorized transactions by a broker UBS London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="4" total="443.2737"><![CDATA[The case of unauthorized transactions broker UBS London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="5" total="443.2759"><![CDATA[The case of unauthorized transactions a broker UBS London, which could result in a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="6" total="443.6033"><![CDATA[The case of unauthorized transactions a broker UBS in London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="7" total="443.9729"><![CDATA[The case of unauthorized transactions to a broker UBS London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="8" total="443.991"><![CDATA[The case of unauthorized transactions a broker at UBS in London, which could result in a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="9" total="444.1163"><![CDATA[The case of unauthorized transactions to a broker at UBS in London, which could lead to a loss of $ 2 billion for the number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+			<nbest id="10" total="444.1765"><![CDATA[The case of unauthorized transactions a broker UBS London, which could lead to a loss of $ 2 billion for number one Swiss bank, continued to weigh heavily on the title of the bank Thursday afternoon.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La fraude annoncée jeudi par UBS, qui pourrait lui faire perdre 2 mrd USD, a été découverte mercredi, selon une lettre de la direction générale à son personnel, dont l'AFP a obtenu une copie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="411.644"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD, was discovered Wednesday, according to a letter from the general direction to its staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="1" total="412.2673"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD, was discovered Wednesday, according to a letter from the general direction to staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="2" total="412.3407"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD, was discovered Wednesday, according to a letter from the general direction to his staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="3" total="412.5297"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD was discovered Wednesday, according to a letter from the general direction to its staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="4" total="413.153"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD was discovered Wednesday, according to a letter from the general direction to staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="5" total="413.2265"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD was discovered Wednesday, according to a letter from the general direction to his staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="6" total="413.4294"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD, was discovered Wednesday, according to a letter from the branch to its staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="7" total="413.617"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD was found Wednesday, according to a letter from the general direction to its staff, which AFP has obtained a copy.]]></nbest>
+			<nbest id="8" total="414.0996"><![CDATA[Fraud by UBS announced Thursday that could make him lose 2 billion USD, was discovered Wednesday, according to a letter from the general management to its staff, which AFP has obtained a copy.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La perte d'UBS de 2 milliards USD, annoncée ce matin par la grande banque, serait due à des transactions sur actions, peut-on lire sur le site internet de la NZZ.]]></source>
+		<target lang="en">
+			<nbest id="0" total="364.518"><![CDATA[Loss of $ 2 billion UBS announced this morning by the large bank is due to transactions in shares, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="1" total="364.5928"><![CDATA[Loss of $ 2 billion UBS announced this morning by the big bank is due to transactions in shares, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="2" total="365.3333"><![CDATA[Loss of $ 2 billion UBS announced this morning by the big bank, is due to transactions in shares, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="3" total="365.475"><![CDATA[Loss of $ 2 billion UBS announced this morning by the large bank would be due to transactions in shares, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="4" total="365.5645"><![CDATA[Loss of $ 2 billion UBS announced this morning by the largest bank, is due to transactions in shares, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="5" total="365.6137"><![CDATA[Loss of $ 2 billion UBS announced this morning by the large bank is due to transactions in shares can be read on the website of the NZZ.]]></nbest>
+			<nbest id="6" total="365.6885"><![CDATA[Loss of $ 2 billion UBS announced this morning by the big bank is due to transactions in shares can be read on the website of the NZZ.]]></nbest>
+			<nbest id="7" total="365.8599"><![CDATA[Loss of $ 2 billion UBS announced this morning by the big bank would be due to transactions in shares, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="8" total="365.8911"><![CDATA[Loss of $ 2 billion UBS announced this morning by the large bank is due to equity transactions, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="9" total="365.9659"><![CDATA[Loss of $ 2 billion UBS announced this morning by the big bank is due to equity transactions, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="10" total="366.115"><![CDATA[Loss of $ 2 billion UBS announced this morning by the large bank would be due to equity transactions, can be read on the website of the NZZ.]]></nbest>
+			<nbest id="11" total="366.2335"><![CDATA[Loss of $ 2 billion UBS announced this morning by the large bank would be due to transactions in shares can be read on the website of the NZZ.]]></nbest>
+			<nbest id="12" total="366.2409"><![CDATA[Loss of $ 2 billion UBS announced this morning by the large bank is due to equity transactions can be read on the website of the NZZ.]]></nbest>
+			<nbest id="13" total="366.3157"><![CDATA[Loss of $ 2 billion UBS announced this morning by the big bank is due to equity transactions can be read on the website of the NZZ.]]></nbest>
+			<nbest id="14" total="366.323"><![CDATA[Loss of $ 2 billion UBS announced this morning by the largest bank, is due to transactions in shares can be read on the website of the NZZ.]]></nbest>
+			<nbest id="15" total="366.429"><![CDATA[Loss of $ 2 billion UBS announced this morning by the big bank, is due to transactions in shares can be read on the website of the NZZ.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le géant bancaire suisse UBS a révélé jeudi avoir été victime de transactions illégales, qui pourraient lui faire perdre 2 milliards de dollars, et le trader soupçonné d'être l'auteur de la fraude a été arrêté par la police à Londres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="388.9915"><![CDATA[Swiss banking giant UBS said Thursday he was the victim of illegal transactions, which could cause him to lose $ 2 billion, and the trader suspected of being the perpetrator of the fraud was arrested by police in London.]]></nbest>
+			<nbest id="1" total="390.5131"><![CDATA[Swiss banking giant UBS said Thursday he was the victim of illegal transactions, which could cause him to lose $ 2 billion, and the trader suspected of being the perpetrator of the fraud was arrested by the police in London.]]></nbest>
+			<nbest id="2" total="390.5146"><![CDATA[Swiss banking giant UBS said Thursday he was the victim of illegal transactions, which could cause it to lose $ 2 billion, and the trader suspected of being the perpetrator of the fraud was arrested by police in London.]]></nbest>
+			<nbest id="3" total="390.6702"><![CDATA[Swiss banking giant UBS said Thursday he was the victim of illegal transactions, which could make him lose $ 2 billion, and the trader suspected of being the perpetrator of the fraud was arrested by police in London.]]></nbest>
+			<nbest id="4" total="390.7477"><![CDATA[Swiss banking giant UBS said Thursday he was the victim of illegal transactions, which could cause him to lose $ 2 billion, and the trader suspected of being the perpetrator of the fraud has been arrested by police in London.]]></nbest>
+			<nbest id="5" total="391.1042"><![CDATA[Swiss banking giant UBS said Thursday he was the victim of illegal transactions, which could cause him to lose $ 2 billion, and trader suspected of being the perpetrator of the fraud was arrested by police in London.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'établissement helvétique a annoncé qu'un de ses traders de 31 ans a été arrêté à Londres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="203.2813"><![CDATA[The establishment Swiss announced that one of its traders 31 years was arrested in London.]]></nbest>
+			<nbest id="1" total="204.0152"><![CDATA[The establishment Switzerland announced that one of its traders 31 years was arrested in London.]]></nbest>
+			<nbest id="2" total="204.1096"><![CDATA[The establishment Swiss announced that one of its traders 31 years has been arrested in London.]]></nbest>
+			<nbest id="3" total="204.6228"><![CDATA[The establishment of Switzerland announced that its traders 31 years was arrested in London.]]></nbest>
+			<nbest id="4" total="204.8435"><![CDATA[The establishment Switzerland announced that one of its traders 31 years has been arrested in London.]]></nbest>
+			<nbest id="5" total="205.7337"><![CDATA[The establishment Swiss announced that its traders 31 years was arrested in London.]]></nbest>
+			<nbest id="6" total="205.8277"><![CDATA[The establishment Swiss announced that one of its traders was arrested 31 years in London.]]></nbest>
+			<nbest id="7" total="206.4675"><![CDATA[The establishment Switzerland announced that its traders 31 years was arrested in London.]]></nbest>
+			<nbest id="8" total="206.5615"><![CDATA[The establishment Switzerland announced that one of its traders was arrested 31 years in London.]]></nbest>
+			<nbest id="9" total="206.5619"><![CDATA[The establishment Swiss announced that its traders 31 years has been arrested in London.]]></nbest>
+			<nbest id="10" total="206.5639"><![CDATA[The Swiss institution announced that its traders 31 years was arrested in London.]]></nbest>
+			<nbest id="11" total="206.6968"><![CDATA[The establishment of the Swiss announced that its traders 31 years was arrested in London.]]></nbest>
+			<nbest id="12" total="207.2958"><![CDATA[The establishment Switzerland announced that its traders 31 years has been arrested in London.]]></nbest>
+			<nbest id="13" total="207.8055"><![CDATA[The establishment Swiss announced that one of its traders than 31 years has been arrested in London.]]></nbest>
+			<nbest id="14" total="208.123"><![CDATA[The establishment Swiss announced that one of its traders than 31 years was arrested in London.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[UBS a annoncé jeudi matin avoir subi 2 milliards de dollars de pertes de trading, après des transactions "non-autorisées" opérées au sein de l'établissement.]]></source>
+		<target lang="en">
+			<nbest id="0" total="326.3093"><![CDATA[UBS announced Thursday morning it has undergone 2 billion in trading losses, after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="1" total="326.3538"><![CDATA[UBS announced Thursday morning has undergone 2 billion in trading losses, after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="2" total="326.5848"><![CDATA[UBS announced Thursday morning it has undergone 2 billion in trading losses, after transactions "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="3" total="326.6292"><![CDATA[UBS announced Thursday morning has undergone 2 billion in trading losses, after transactions "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="4" total="326.8159"><![CDATA[UBS announced Thursday morning have been $ 2 billion trading loss after transaction "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="5" total="327.0914"><![CDATA[UBS announced Thursday morning have been $ 2 billion trading loss after transaction "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="6" total="327.1278"><![CDATA[UBS announced Thursday morning have been $ 2 billion of trading losses, after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="7" total="327.1891"><![CDATA[UBS announced Thursday morning have been $ 2 billion of trading losses after transaction "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="8" total="327.2426"><![CDATA[UBS announced Thursday morning have been $ 2 billion trading loss after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="9" total="327.3061"><![CDATA[UBS announced Thursday morning have been $ 2 billion of trading losses after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="10" total="327.3626"><![CDATA[UBS announced Thursday morning it has undergone 2 billion in trading losses after transaction "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="11" total="327.4033"><![CDATA[UBS announced Thursday morning have been $ 2 billion of trading losses, after transactions "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="12" total="327.407"><![CDATA[UBS announced Thursday morning has undergone 2 billion in trading losses after transaction "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="13" total="327.4645"><![CDATA[UBS announced Thursday morning have been $ 2 billion of trading losses after transaction "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="14" total="327.4796"><![CDATA[UBS announced Thursday morning it has undergone 2 billion in trading losses after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="15" total="327.5069"><![CDATA[UBS announced Thursday morning it has undergone 2 billion in trading losses, after transactions "unauthorized" operated within the establishment.]]></nbest>
+			<nbest id="16" total="327.5181"><![CDATA[UBS announced Thursday morning have been $ 2 billion trading loss after transactions "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="17" total="327.524"><![CDATA[UBS announced Thursday morning has undergone 2 billion in trading losses after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="18" total="327.5513"><![CDATA[UBS announced Thursday morning has undergone 2 billion in trading losses, after transactions "unauthorized" operated within the establishment.]]></nbest>
+			<nbest id="19" total="327.5816"><![CDATA[UBS announced Thursday morning have been $ 2 billion of trading losses after transactions "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="20" total="327.6381"><![CDATA[UBS announced Thursday morning it has undergone 2 billion in trading losses after transaction "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="21" total="327.657"><![CDATA[UBS announced Thursday morning have been $ 2 billion trading loss, after transactions "unauthorized" operated within the institution.]]></nbest>
+			<nbest id="22" total="327.6824"><![CDATA[UBS announced Thursday morning has undergone 2 billion in trading losses after transaction "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="23" total="327.7551"><![CDATA[UBS announced Thursday morning it has undergone 2 billion in trading losses after transactions "unauthorized" operated within the facility.]]></nbest>
+			<nbest id="24" total="327.7995"><![CDATA[UBS announced Thursday morning has undergone 2 billion in trading losses after transactions "unauthorized" operated within the facility.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[UBS a annoncé qu'un courtier avait généré des pertes de l'ordre de 2 milliards de dollars (1,75 milliard de francs) à travers des transactions non autorisées dans sa banque d'investissement.]]></source>
+		<target lang="en">
+			<nbest id="0" total="314.9891"><![CDATA[UBS announced that a broker had generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions in its investment bank.]]></nbest>
+			<nbest id="1" total="316.0775"><![CDATA[UBS announced that a broker had generated losses of approximately $ 2 billion (1.75 billion francs) through unauthorized transactions in its investment bank.]]></nbest>
+			<nbest id="2" total="316.4725"><![CDATA[UBS announced that a broker had generated losses of about $ 2 billion (1.75 billion francs) through unauthorized transactions in its investment bank.]]></nbest>
+			<nbest id="3" total="317.4054"><![CDATA[UBS has announced that a broker had generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions in its investment bank.]]></nbest>
+			<nbest id="4" total="317.7682"><![CDATA[UBS announced that broker had generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions in its investment bank.]]></nbest>
+			<nbest id="5" total="317.8177"><![CDATA[UBS announced that a broker had resulted in losses of about $ 2 billion (1.75 billion francs) through unauthorized transactions in its investment bank.]]></nbest>
+			<nbest id="6" total="317.873"><![CDATA[UBS announced that a broker had generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions in the investment bank.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un courtier de la banque d'affaires d'UBS a généré des pertes de l'ordre de 2 milliards de dollars (1,75 milliard de francs) à travers des transactions non autorisées. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="293.5578"><![CDATA[A broker of UBS investment bank generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="1" total="293.9909"><![CDATA[A broker of investment banking at UBS has generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="2" total="294.6463"><![CDATA[A broker of UBS investment bank generated losses of approximately $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="3" total="294.9373"><![CDATA[A broker bank UBS business generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="4" total="295.0412"><![CDATA[A broker of UBS investment bank generated losses of about $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="5" total="295.0793"><![CDATA[A broker of investment banking at UBS has generated losses of approximately $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="6" total="295.4743"><![CDATA[A broker of investment banking at UBS has generated losses of about $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="7" total="296.0258"><![CDATA[A broker bank UBS business generated losses of approximately $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="8" total="296.2119"><![CDATA[A broker of investment banking at UBS generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="9" total="296.4026"><![CDATA[A broker bank UBS business has generated losses of around $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+			<nbest id="10" total="296.4207"><![CDATA[A broker bank UBS business generated losses of about $ 2 billion (1.75 billion francs) through unauthorized transactions.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

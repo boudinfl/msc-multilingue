@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[4000 infarctus par an en France liés au stress au travail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="144.5327"><![CDATA[4000 year in France myocardial stress at work.]]></nbest>
+			<nbest id="1" total="146.2765"><![CDATA[4000 per year in France myocardial stress at work.]]></nbest>
+			<nbest id="2" total="146.3909"><![CDATA[4000 a year in France myocardial stress at work.]]></nbest>
+			<nbest id="3" total="147.2875"><![CDATA[4000 stroke per year in France related to stress at work.]]></nbest>
+			<nbest id="4" total="147.8265"><![CDATA[4000 year in France myocardial stress in the workplace.]]></nbest>
+			<nbest id="5" total="148.0335"><![CDATA[4000 year in France infarction related to stress at work.]]></nbest>
+			<nbest id="6" total="148.9048"><![CDATA[4000 stroke per year in France related to job stress.]]></nbest>
+			<nbest id="7" total="149.5703"><![CDATA[4000 per year in France myocardial stress in the workplace.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[D'après une étude européenne publiée dans la dernière édition de la revue médicale The Lancet, le risque de faire un infarctus est de 23% plus important chez les personnes exposées au stress pendant leur travail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="295.5583"><![CDATA[According to a European study published in the latest edition of the medical journal The Lancet, the risk of having a heart attack is 23% higher among people exposed to stress during their work.]]></nbest>
+			<nbest id="1" total="295.6891"><![CDATA[According to a European study published in the latest edition of the medical journal The Lancet, the risk of having a heart attack is 23% higher among those exposed to stress during their work.]]></nbest>
+			<nbest id="2" total="296.5019"><![CDATA[According to a European study published in the latest edition of the medical journal The Lancet, the risk of having a heart attack is 23% higher in people exposed to stress during their work.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs confirment l'association entre le stress au travail et la survenue d'accidents cardiovasculaires, par une analyse à grande échelle sur près de 200000 individus en Europe.]]></source>
+		<target lang="en">
+			<nbest id="0" total="276.9447"><![CDATA[Researchers confirm the association between work stress and the occurrence of cardiovascular events, a large-scale analysis of nearly 200,000 people in Europe.]]></nbest>
+			<nbest id="1" total="277.3786"><![CDATA[Researchers confirm the association between work stress and the occurrence of cardiovascular events, a large-scale analysis of nearly 200,000 individuals in Europe.]]></nbest>
+			<nbest id="2" total="277.4734"><![CDATA[Researchers confirmed the association between work stress and the occurrence of cardiovascular events, a large-scale analysis of nearly 200,000 people in Europe.]]></nbest>
+			<nbest id="3" total="277.8424"><![CDATA[Researchers confirm the association between work stress and the occurrence of cardiovascular events, a large-scale analysis of almost 200,000 people in Europe.]]></nbest>
+			<nbest id="4" total="277.9073"><![CDATA[Researchers confirmed the association between work stress and the occurrence of cardiovascular events, a large-scale analysis of nearly 200,000 individuals in Europe.]]></nbest>
+			<nbest id="5" total="278.2682"><![CDATA[Researchers confirm the association between job stress and the occurrence of cardiovascular events, a large-scale analysis of nearly 200,000 people in Europe.]]></nbest>
+			<nbest id="6" total="278.3711"><![CDATA[Researchers confirmed the association between work stress and the occurrence of cardiovascular events, a large-scale analysis of almost 200,000 people in Europe.]]></nbest>
+			<nbest id="7" total="278.702"><![CDATA[Researchers confirm the association between job stress and the occurrence of cardiovascular events, a large-scale analysis of nearly 200,000 individuals in Europe.]]></nbest>
+			<nbest id="8" total="278.8666"><![CDATA[Researchers confirm the association between work stress and the occurrence of cardiovascular events, a large-scale analysis of almost 200,000 individuals in Europe.]]></nbest>
+			<nbest id="9" total="279.1659"><![CDATA[Researchers confirm the association between job stress and the occurrence of cardiovascular events, a large-scale analysis of almost 200,000 people in Europe.]]></nbest>
+			<nbest id="10" total="279.2643"><![CDATA[Researchers confirm the association between work stress and the occurrence of cardiovascular events, with a large-scale analysis of nearly 200,000 people in Europe.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs de l'Inserm et de l'Université Versailles Saint-Quentin ont mis en évidence un lien entre stress au travail et risque accru d'accidents cardiovasculaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="237.2298"><![CDATA[Researchers from Inserm and Université Versailles Saint-Quentin showed a link between job stress and increased risk of cardiovascular events.]]></nbest>
+			<nbest id="1" total="237.8747"><![CDATA[Researchers from Inserm and the University of Versailles Saint-Quentin showed a link between job stress and increased risk of cardiovascular events.]]></nbest>
+			<nbest id="2" total="238.5499"><![CDATA[Researchers from Inserm and Université Versailles Saint-Quentin showed a link between work stress and increased risk of cardiovascular events.]]></nbest>
+			<nbest id="3" total="239.1948"><![CDATA[Researchers from Inserm and the University of Versailles Saint-Quentin showed a link between work stress and increased risk of cardiovascular events.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des chercheurs ont observé une augmentation de 23% du risque d'infarctus du myocarde chez les personnes stressées au travail lors d'une vaste étude, publiée dans la revue scientifique The Lancet.]]></source>
+		<target lang="en">
+			<nbest id="0" total="277.1435"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a major study published in the journal The Lancet.]]></nbest>
+			<nbest id="1" total="278.1314"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a major study published in the scientific journal The Lancet.]]></nbest>
+			<nbest id="2" total="278.7379"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a major study, published in the journal The Lancet.]]></nbest>
+			<nbest id="3" total="279.0033"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people stressed at work in a major study published in the journal The Lancet.]]></nbest>
+			<nbest id="4" total="279.3443"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in those under stress at work in a major study published in the journal The Lancet.]]></nbest>
+			<nbest id="5" total="279.9043"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a major study published in the journal Lancet.]]></nbest>
+			<nbest id="6" total="279.9912"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people stressed at work in a major study published in the scientific journal The Lancet.]]></nbest>
+			<nbest id="7" total="280.3322"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in those under stress at work in a major study published in the scientific journal The Lancet.]]></nbest>
+			<nbest id="8" total="280.3661"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a major study, published in the scientific journal The Lancet.]]></nbest>
+			<nbest id="9" total="280.4754"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a large study, published in the journal The Lancet.]]></nbest>
+			<nbest id="10" total="280.5978"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people stressed at work in a major study, published in the journal The Lancet.]]></nbest>
+			<nbest id="11" total="280.6539"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work during a large study published in the journal The Lancet.]]></nbest>
+			<nbest id="12" total="280.7952"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a large study published in the journal The Lancet.]]></nbest>
+			<nbest id="13" total="280.8206"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work during a large study, published in the journal The Lancet.]]></nbest>
+			<nbest id="14" total="280.9388"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in those under stress at work in a major study, published in the journal The Lancet.]]></nbest>
+			<nbest id="15" total="281.3057"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work during a major study published in the journal The Lancet.]]></nbest>
+			<nbest id="16" total="281.4988"><![CDATA[Researchers observed a 23% increase in the risk of myocardial infarction in people under stress at work in a major study, published in the journal Lancet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'impact du stress, débattu récemment encore, vient d'être démontré sur 200000 personnes suivies pendant vingt ans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="240.6151"><![CDATA[The impact of stress, discussed recently, has been demonstrated to 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="1" total="241.1906"><![CDATA[The impact of stress, discussed recently, has been demonstrated on 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="2" total="242.1612"><![CDATA[The impact of stress, discussed recently, has been demonstrated on 200 000 individuals followed for twenty years.]]></nbest>
+			<nbest id="3" total="242.4765"><![CDATA[The impact of stress, discussed recently, has been shown to 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="4" total="242.6612"><![CDATA[The impact of stress, debated recently, has been demonstrated to 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="5" total="242.683"><![CDATA[The impact of stress, discussed recently, has been demonstrated on 200 000 people followed for twenty years.]]></nbest>
+			<nbest id="6" total="242.753"><![CDATA[The impact of stress, discussed recently, has been demonstrated on 200,000 individuals followed for twenty years.]]></nbest>
+			<nbest id="7" total="242.8563"><![CDATA[The impact of stress, discussed recently, has been demonstrated in 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="8" total="242.8807"><![CDATA[The impact of stress discussed recently, has been demonstrated to 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="9" total="243.2367"><![CDATA[The impact of stress, debated recently, has been demonstrated on 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="10" total="243.4562"><![CDATA[The impact of stress discussed recently, has been demonstrated on 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="11" total="243.4716"><![CDATA[The impact of stress, discussed recently, has been shown on 200,000 people followed for twenty years.]]></nbest>
+			<nbest id="12" total="243.5619"><![CDATA[The impact of stress, discussed recently, has been demonstrated to 200,000 individuals followed for twenty years.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le risque d'infarctus est estimé à 23% chez les personnes qui stressent au travail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="161.8498"><![CDATA[The risk of stroke is estimated at 23% among those that stress at work.]]></nbest>
+			<nbest id="1" total="162.8065"><![CDATA[The risk of stroke is estimated at 23% for those that stress at work.]]></nbest>
+			<nbest id="2" total="165.5867"><![CDATA[The risk of stroke is estimated at 23% among those that stress in the workplace.]]></nbest>
+			<nbest id="3" total="166.3797"><![CDATA[The risk of stroke is estimated at 23% for people that stress at work.]]></nbest>
+			<nbest id="4" total="166.4015"><![CDATA[The risk of stroke is estimated at 23% among people that stress at work.]]></nbest>
+			<nbest id="5" total="166.5434"><![CDATA[The risk of stroke is estimated at 23% for those that stress in the workplace.]]></nbest>
+			<nbest id="6" total="168.1421"><![CDATA[The risk of myocardial infarction is estimated at 23% among those that stress at work.]]></nbest>
+			<nbest id="7" total="168.4368"><![CDATA[The risk of stroke is estimated at 23% in people that stress at work.]]></nbest>
+			<nbest id="8" total="168.8352"><![CDATA[The risk of stroke is estimated to be 23% among those that stress at work.]]></nbest>
+			<nbest id="9" total="169.0988"><![CDATA[The risk of myocardial infarction is estimated at 23% for those that stress at work.]]></nbest>
+			<nbest id="10" total="169.352"><![CDATA[The risk of stroke is estimated to be 23% for people that stress at work.]]></nbest>
+			<nbest id="11" total="169.8186"><![CDATA[The risk of stroke is estimated to be 23% for those that stress at work.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les gens stressés par leur travail ont un risque supérieur de 23% de faire un infarctus du myocarde par rapport à ceux qui ne subissent pas de pression au boulot, selon une vaste étude européenne qui confirme ainsi le lien entre stress au travail et risque d'accidents cardiovasculaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="453.2953"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared with those who do not feel pressure at work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="1" total="453.7688"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared to those who do not feel pressure at work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="2" total="454.168"><![CDATA[Stressed people through their work have a higher risk of 23% to a myocardial infarction compared with those who do not feel pressure at work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="3" total="454.5601"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared with those who do not feel pressure at work, according to a large European study that confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="4" total="454.8079"><![CDATA[People stressed by their work have a higher risk of 23% to myocardial infarction compared to those who do not feel pressure at work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="5" total="454.8622"><![CDATA[People stressed by their work have a higher risk of 23% to myocardial infarction compared with those who do not feel pressure at work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="6" total="454.9706"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared with those who do not feel pressure at work, according to a large European study confirms the link between job stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="7" total="455.0337"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared to those who do not feel pressure at work, according to a large European study that confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="8" total="455.4328"><![CDATA[Stressed people through their work have a higher risk of 23% to a myocardial infarction compared with those who do not feel pressure at work, according to a large European study that confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="9" total="455.4442"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared to those who do not feel pressure at work, according to a large European study confirms the link between job stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="10" total="455.7349"><![CDATA[Stressed people through their work have a higher risk of 23% to myocardial infarction compared with those who do not feel pressure at work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="11" total="455.8434"><![CDATA[Stressed people through their work have a higher risk of 23% to a myocardial infarction compared with those who do not feel pressure at work, according to a large European study confirms the link between job stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="12" total="456.0131"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared with those who did not feel pressure at work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="13" total="456.0505"><![CDATA[People stressed by their work have a higher risk of 23% to a myocardial infarction compared with those who do not feel pressure to work, according to a large European study confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+			<nbest id="14" total="456.0727"><![CDATA[People stressed by their work have a higher risk of 23% to myocardial infarction compared to those who do not feel pressure at work, according to a large European study that confirms the link between work stress and risk of cardiovascular events.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les personnes exposées au stress dans leur travail auraient un risque 23% plus élevé que celles qui n'y sont pas exposées de faire un infarctus, selon une vaste étude publiée vendredi 14 septembre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="323.8871"><![CDATA[People exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday, Sept. 14.]]></nbest>
+			<nbest id="1" total="324.7918"><![CDATA[Individuals exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday, Sept. 14.]]></nbest>
+			<nbest id="2" total="325.1636"><![CDATA[Persons exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday, Sept. 14.]]></nbest>
+			<nbest id="3" total="325.4552"><![CDATA[People exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday, September 14.]]></nbest>
+			<nbest id="4" total="326.2162"><![CDATA[People exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published on Friday 14 September.]]></nbest>
+			<nbest id="5" total="326.3599"><![CDATA[Individuals exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday, September 14.]]></nbest>
+			<nbest id="6" total="326.7317"><![CDATA[Persons exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday, September 14.]]></nbest>
+			<nbest id="7" total="327.4825"><![CDATA[People exposed to stress in their work would have a 23% greater risk than those who are not exposed to a heart attack, according to a large study published Friday, Sept. 14.]]></nbest>
+			<nbest id="8" total="327.7825"><![CDATA[People exposed to stress in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a major study published Friday, Sept. 14.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les personnes exposées au stress professionnel ont un risque plus élevé de 23% de faire un infarctus, selon une étude grande ampleur menée par l'Inserm.]]></source>
+		<target lang="en">
+			<nbest id="0" total="286.8663"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by large Inserm.]]></nbest>
+			<nbest id="1" total="287.7709"><![CDATA[Individuals exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by large Inserm.]]></nbest>
+			<nbest id="2" total="287.8177"><![CDATA[People exposed to stress have a higher risk of 23% of having a heart attack, according to a study conducted by large Inserm.]]></nbest>
+			<nbest id="3" total="288.3031"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by the large Inserm.]]></nbest>
+			<nbest id="4" total="288.5936"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by major Inserm.]]></nbest>
+			<nbest id="5" total="288.6717"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by the major Inserm.]]></nbest>
+			<nbest id="6" total="288.9911"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by large INSERM.]]></nbest>
+			<nbest id="7" total="289.2078"><![CDATA[Individuals exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by the large Inserm.]]></nbest>
+			<nbest id="8" total="289.2545"><![CDATA[People exposed to stress have a higher risk of 23% of having a heart attack, according to a study conducted by the large Inserm.]]></nbest>
+			<nbest id="9" total="289.3384"><![CDATA[People exposed to stress have an increased risk of 23% to a heart attack, according to a study conducted by large Inserm.]]></nbest>
+			<nbest id="10" total="289.4982"><![CDATA[Individuals exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by major Inserm.]]></nbest>
+			<nbest id="11" total="289.545"><![CDATA[People exposed to stress have a higher risk of 23% of having a heart attack, according to a study conducted by major Inserm.]]></nbest>
+			<nbest id="12" total="289.5764"><![CDATA[Individuals exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by the major Inserm.]]></nbest>
+			<nbest id="13" total="289.6231"><![CDATA[People exposed to stress have a higher risk of 23% of having a heart attack, according to a study conducted by the major Inserm.]]></nbest>
+			<nbest id="14" total="289.879"><![CDATA[People exposed to stress have a higher risk than 23% of having a heart attack, according to a study conducted by large Inserm.]]></nbest>
+			<nbest id="15" total="289.8958"><![CDATA[Individuals exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by large INSERM.]]></nbest>
+			<nbest id="16" total="289.9349"><![CDATA[People exposed to stress have a higher risk of 23% to a stroke, according to a study conducted by large Inserm.]]></nbest>
+			<nbest id="17" total="289.9425"><![CDATA[People exposed to stress have a higher risk of 23% of having a heart attack, according to a study conducted by large INSERM.]]></nbest>
+			<nbest id="18" total="289.9715"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by the extensive Inserm.]]></nbest>
+			<nbest id="19" total="290.2461"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study led by large Inserm.]]></nbest>
+			<nbest id="20" total="290.5475"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by large-scale Inserm.]]></nbest>
+			<nbest id="21" total="290.5829"><![CDATA[People exposed to stress have a higher risk of 23% having a heart attack, according to a study conducted by large Inserm.]]></nbest>
+			<nbest id="22" total="290.7185"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a study conducted by major INSERM.]]></nbest>
+			<nbest id="23" total="290.7752"><![CDATA[People exposed to stress have an increased risk of 23% to a heart attack, according to a study conducted by the large Inserm.]]></nbest>
+			<nbest id="24" total="290.7922"><![CDATA[People exposed to stress have a higher risk of 23% to a heart attack, according to a survey conducted by large Inserm.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les personnes exposées à la pression dans leur travail auraient un risque 23% plus élevé que celles qui n'y sont pas exposées de faire un infarctus, selon une vaste étude publiée vendredi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="316.8117"><![CDATA[People exposed to the pressure in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday.]]></nbest>
+			<nbest id="1" total="318.568"><![CDATA[People exposed to pressure in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published Friday.]]></nbest>
+			<nbest id="2" total="318.8839"><![CDATA[People exposed to the pressure in their work would have a 23% higher risk than those who are not exposed to a heart attack, according to a large study published on Friday.]]></nbest>
+			<nbest id="3" total="319.1945"><![CDATA[People exposed to the pressure in their work would have a 23% higher risk than those who are not exposed to a stroke, according to a large study published Friday.]]></nbest>
+			<nbest id="4" total="320.4071"><![CDATA[People exposed to the pressure in their work would have a 23% greater risk than those who are not exposed to a heart attack, according to a large study published Friday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les personnes exposées à une source de stress au travail ont un risque de 23% plus important que les autres d'avoir un infarctus.]]></source>
+		<target lang="en">
+			<nbest id="0" total="229.3122"><![CDATA[People exposed to a source of stress at work have a 23% risk more important than others to have a heart attack.]]></nbest>
+			<nbest id="1" total="230.562"><![CDATA[People exposed to a source of stress at work have an increased risk of 23% larger than the others to have a heart attack.]]></nbest>
+			<nbest id="2" total="230.6127"><![CDATA[People exposed to a source of stress at work have an increased risk of 23% larger than others to have a heart attack.]]></nbest>
+			<nbest id="3" total="231.2431"><![CDATA[People exposed to a source of stress at work have an increased risk of 23% higher than others to have a heart attack.]]></nbest>
+			<nbest id="4" total="231.9997"><![CDATA[People exposed to a source of stress at work have a 23% risk of greater than others to have a heart attack.]]></nbest>
+			<nbest id="5" total="232.0255"><![CDATA[People exposed to a source of stress at work have an increased risk of 23% higher than the others to have a heart attack.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les personnes qui subissent de fortes pressions dans leur travail ont un risque d'infarctus du myocarde augmenté de 23%.]]></source>
+		<target lang="en">
+			<nbest id="0" total="192.2328"><![CDATA[People who are under pressure in their work have a higher risk of myocardial infarction increased by 23%.]]></nbest>
+			<nbest id="1" total="195.5329"><![CDATA[People who are under pressure in their work have a risk of myocardial infarction increased by 23%.]]></nbest>
+			<nbest id="2" total="195.9787"><![CDATA[People who are under pressure in their work are at risk of myocardial infarction increased by 23%.]]></nbest>
+			<nbest id="3" total="196.7997"><![CDATA[People who are under heavy pressure in their work have a higher risk of myocardial infarction increased by 23%.]]></nbest>
+			<nbest id="4" total="196.8973"><![CDATA[Those who are under pressure in their work have a risk of myocardial infarction increased by 23%.]]></nbest>
+			<nbest id="5" total="197.3595"><![CDATA[People who are under pressure in their work have a higher risk of myocardial infarction increased 23%.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les personnes stressées au travail ont 23% de risque de plus de faire un infarctus que celles non stressées, selon l'Inserm.]]></source>
+		<target lang="en">
+			<nbest id="0" total="270.0485"><![CDATA[People stressed at work are 23% more risk of having a heart attack than non-stressed, according to the Inserm.]]></nbest>
+			<nbest id="1" total="271.634"><![CDATA[People are stressed at work 23% more risk of having a heart attack than non-stressed, according to the Inserm.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les professionnels stressés ont un risque d'infarctus augmenté de 23%, selon une étude européenne.]]></source>
+		<target lang="en">
+			<nbest id="0" total="178.9065"><![CDATA[Stressed professionals have increased risk of heart attack by 23%, according to a European study.]]></nbest>
+			<nbest id="1" total="179.8237"><![CDATA[Professionals have stressed the risk of heart attack increased by 23%, according to a European study.]]></nbest>
+			<nbest id="2" total="181.2265"><![CDATA[Professionals have stressed the risk of myocardial infarction increased by 23%, according to a European study.]]></nbest>
+			<nbest id="3" total="181.8587"><![CDATA[Stressed professionals have increased risk of heart attacks by 23%, according to a European study.]]></nbest>
+			<nbest id="4" total="183.0744"><![CDATA[Professionals have stressed the risk of heart attack increased 23%, according to a European study.]]></nbest>
+			<nbest id="5" total="184.81"><![CDATA[Stressed professionals have increased risk of myocardial infarction by 23%, according to a European study.]]></nbest>
+			<nbest id="6" total="185.844"><![CDATA[Professionals have stressed the risk of myocardial infarction increased 23%, according to a European study.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[On s'en doutait depuis longtemps mais pour la première fois, une étude le prouve: le stress au travail est mauvais pour la santé.]]></source>
+		<target lang="en">
+			<nbest id="0" total="238.5281"><![CDATA[We suspected for a long time but for the first time, a study shows: the stress at work is bad for your health.]]></nbest>
+			<nbest id="1" total="239.0015"><![CDATA[We suspected for a long time but for the first time, a study shows: the stress at work is bad for health.]]></nbest>
+			<nbest id="2" total="240.0851"><![CDATA[We suspected for a long time but for the first time, a study shows: stress at work is bad for health.]]></nbest>
+			<nbest id="3" total="240.8228"><![CDATA[We suspected for a long time but for the first time, a study shows: stress at work is bad for your health.]]></nbest>
+			<nbest id="4" total="240.994"><![CDATA[We suspected a long time but for the first time, a study shows: the stress at work is bad for your health.]]></nbest>
+			<nbest id="5" total="241.1379"><![CDATA[We suspected for a long time but for the first time, a study shows: Stress at work is bad for your health.]]></nbest>
+			<nbest id="6" total="241.5169"><![CDATA[We suspected a long time but for the first time, a study shows: the stress at work is bad for health.]]></nbest>
+			<nbest id="7" total="241.6608"><![CDATA[We suspected for a long time but for the first time, a study shows: Stress at work is bad for health.]]></nbest>
+			<nbest id="8" total="241.8637"><![CDATA[We suspected for a long time but for the first time, a study shows: work stress is bad for your health.]]></nbest>
+			<nbest id="9" total="242.0353"><![CDATA[We suspected for a long time but for the first time, a study shows: the stress at work is bad for the health.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[On s'en doutait, mais cela vient d'être confirmé par une étude de grande ampleur: le stress au travail accroît le risque d'infarctus.]]></source>
+		<target lang="en">
+			<nbest id="0" total="250.6137"><![CDATA[We suspected, but it has been confirmed by a large-scale study: stress at work increases the risk of heart attack.]]></nbest>
+			<nbest id="1" total="250.6778"><![CDATA[We suspected, but it has been confirmed by a large-scale study: stress at work increases the risk of myocardial infarction.]]></nbest>
+			<nbest id="2" total="250.7406"><![CDATA[We suspected, but it has been confirmed by a large study: stress at work increases the risk of heart attack.]]></nbest>
+			<nbest id="3" total="250.8047"><![CDATA[We suspected, but it has been confirmed by a large study: stress at work increases the risk of myocardial infarction.]]></nbest>
+			<nbest id="4" total="252.0226"><![CDATA[We suspected, but it has been confirmed by a large-scale study: stress at work increases the risk of stroke.]]></nbest>
+			<nbest id="5" total="252.1496"><![CDATA[We suspected, but it has been confirmed by a large study: stress at work increases the risk of stroke.]]></nbest>
+			<nbest id="6" total="252.3877"><![CDATA[We suspected, but this has been confirmed by a large-scale study: stress at work increases the risk of heart attack.]]></nbest>
+			<nbest id="7" total="252.4518"><![CDATA[We suspected, but this has been confirmed by a large-scale study: stress at work increases the risk of myocardial infarction.]]></nbest>
+			<nbest id="8" total="252.5146"><![CDATA[We suspected, but this has been confirmed by a large study: stress at work increases the risk of heart attack.]]></nbest>
+			<nbest id="9" total="252.5787"><![CDATA[We suspected, but this has been confirmed by a large study: stress at work increases the risk of myocardial infarction.]]></nbest>
+			<nbest id="10" total="253.1429"><![CDATA[We suspected, but it has been confirmed by a large-scale study: stress at work increases the risk of heart attacks.]]></nbest>
+			<nbest id="11" total="253.2698"><![CDATA[We suspected, but it has been confirmed by a large study: stress at work increases the risk of heart attacks.]]></nbest>
+			<nbest id="12" total="253.3655"><![CDATA[We suspected, but it has been confirmed by a large-scale study: job stress increases the risk of heart attack.]]></nbest>
+			<nbest id="13" total="253.4296"><![CDATA[We suspected, but it has been confirmed by a large-scale study: job stress increases the risk of myocardial infarction.]]></nbest>
+			<nbest id="14" total="253.4924"><![CDATA[We suspected, but it has been confirmed by a large study: job stress increases the risk of heart attack.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Pour la première fois, une vaste étude menée (entre autres) par Inserm sur 200000 personnes dans sept pays d'Europe, met en évidence que le risque d'infarctus augmente de 23% chez les personnes exposées aux tensions au quotidien dans leur emploi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="432.4381"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily work.]]></nbest>
+			<nbest id="1" total="432.9275"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="2" total="433.0914"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among those exposed to stress in their daily work.]]></nbest>
+			<nbest id="3" total="433.2801"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% for those exposed to stress in their daily work.]]></nbest>
+			<nbest id="4" total="433.3136"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily job.]]></nbest>
+			<nbest id="5" total="433.471"><![CDATA[For the first time, a large study (among others) by Inserm 200 000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily work.]]></nbest>
+			<nbest id="6" total="433.5808"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among those exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="7" total="433.7534"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% in people exposed to stress in their daily work.]]></nbest>
+			<nbest id="8" total="433.7695"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% for those exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="9" total="433.8345"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven countries in Europe, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily work.]]></nbest>
+			<nbest id="10" total="433.8504"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% in those exposed to stress in their daily work.]]></nbest>
+			<nbest id="11" total="433.8909"><![CDATA[For the first time, a large study (among others) Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily work.]]></nbest>
+			<nbest id="12" total="433.9604"><![CDATA[For the first time, a large study (among others) by Inserm 200 000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="13" total="433.9669"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among those exposed to stress in their daily job.]]></nbest>
+			<nbest id="14" total="434.02"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increased by 23% among people exposed to stress in their daily work.]]></nbest>
+			<nbest id="15" total="434.1244"><![CDATA[For the first time, a large study (among others) by Inserm 200 000 people in seven European countries, highlights the risk of heart attack increases by 23% among those exposed to stress in their daily work.]]></nbest>
+			<nbest id="16" total="434.1556"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% for those exposed to stress in their daily job.]]></nbest>
+			<nbest id="17" total="434.2428"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% in people exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="18" total="434.313"><![CDATA[For the first time, a large study (among others) by Inserm 200 000 people in seven European countries, highlights the risk of heart attack increases by 23% for those exposed to stress in their daily work.]]></nbest>
+			<nbest id="19" total="434.3239"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven countries in Europe, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="20" total="434.3398"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% in those exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="21" total="434.3466"><![CDATA[For the first time, a large study (among others) by Inserm 200 000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily job.]]></nbest>
+			<nbest id="22" total="434.3803"><![CDATA[For the first time, a large study (among others) Inserm 200,000 people in seven European countries, highlights the risk of heart attack increases by 23% among people exposed to stress in their daily jobs.]]></nbest>
+			<nbest id="23" total="434.4878"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven countries in Europe, highlights the risk of heart attack increases by 23% among those exposed to stress in their daily work.]]></nbest>
+			<nbest id="24" total="434.5094"><![CDATA[For the first time, a large study (among others) by Inserm 200,000 people in seven European countries, highlights the risk of heart attack increased by 23% among people exposed to stress in their daily jobs.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une étude qui vient d'être publiée, les risques d'infarctus sont plus importants chez les personnes exposées au stress dans leur travail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="238.2727"><![CDATA[According to a study just published, the risk of heart attack are greater in individuals exposed to stress in their work.]]></nbest>
+			<nbest id="1" total="239.2738"><![CDATA[According to a study just published, the risk of heart attack is greater among people exposed to stress in their work.]]></nbest>
+			<nbest id="2" total="239.4565"><![CDATA[According to a study just published, the risk of heart attack is greater in individuals exposed to stress in their work.]]></nbest>
+			<nbest id="3" total="239.5997"><![CDATA[According to a study just published, the risk of heart attack is greater in people exposed to stress in their work.]]></nbest>
+			<nbest id="4" total="239.9407"><![CDATA[According to a study just published, the risk of heart attack are greater among people exposed to stress in their work.]]></nbest>
+			<nbest id="5" total="239.9799"><![CDATA[According to a study just published, the risk of heart attack are greater in people exposed to stress in their work.]]></nbest>
+			<nbest id="6" total="240.4133"><![CDATA[According to a study just published, the risk of heart attack are greater in persons exposed to stress in their work.]]></nbest>
+			<nbest id="7" total="240.4751"><![CDATA[According to a study just published, the risk of heart attack is more important in people exposed to stress in their work.]]></nbest>
+			<nbest id="8" total="240.657"><![CDATA[According to a study just published, the risk of myocardial infarction are greater in individuals exposed to stress in their work.]]></nbest>
+			<nbest id="9" total="240.9116"><![CDATA[According to a study recently published, the risk of heart attack are greater in individuals exposed to stress in their work.]]></nbest>
+			<nbest id="10" total="241.0088"><![CDATA[According to a study just published, the risk of heart attack are greater among those exposed to stress in their work.]]></nbest>
+			<nbest id="11" total="241.0685"><![CDATA[According to a study just published, the risk of heart attack are greater among persons exposed to stress in their work.]]></nbest>
+			<nbest id="12" total="241.1164"><![CDATA[According to a study just published, the risk of heart attack are greater in those exposed to stress in their work.]]></nbest>
+			<nbest id="13" total="241.3934"><![CDATA[According to a study just published, the risk of heart attack is greater among those exposed to stress in their work.]]></nbest>
+			<nbest id="14" total="241.5593"><![CDATA[According to a study just published, the risk of heart attack are more important in people exposed to stress in their work.]]></nbest>
+			<nbest id="15" total="241.5633"><![CDATA[According to a study recently published, the risk of myocardial infarction are greater in individuals exposed to stress in their work.]]></nbest>
+			<nbest id="16" total="241.8179"><![CDATA[According to a study just published, the risk of heart attack is greater in persons exposed to stress in their work.]]></nbest>
+			<nbest id="17" total="241.9127"><![CDATA[According to a study recently published, the risk of heart attack is greater among people exposed to stress in their work.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une étude à grande échelle, effectuée en Europe sur 200000 personnes et publiée vendredi dernier, le stress au travail augmenterait de 23% le risque de faire un infarctus.]]></source>
+		<target lang="en">
+			<nbest id="0" total="322.926"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="1" total="323.656"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of a heart attack.]]></nbest>
+			<nbest id="2" total="323.7025"><![CDATA[According to a large-scale study, conducted in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="3" total="324.4325"><![CDATA[According to a large-scale study, conducted in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of a heart attack.]]></nbest>
+			<nbest id="4" total="324.6848"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, the stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="5" total="325.1882"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of myocardial infarction.]]></nbest>
+			<nbest id="6" total="325.4148"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, the stress at work increase by 23% the risk of a heart attack.]]></nbest>
+			<nbest id="7" total="325.4614"><![CDATA[According to a large-scale study, conducted in Europe and 200,000 people published last Friday, the stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="8" total="325.5286"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, stress at work would increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="9" total="325.675"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, workplace stress increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="10" total="325.808"><![CDATA[According to a large study, conducted in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="11" total="325.9017"><![CDATA[According to a large-scale study carried out in Europe, and 200,000 people published last Friday, stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="12" total="325.9599"><![CDATA[According to a large-scale study, conducted in Europe, and 200,000 people published last Friday, stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="13" total="325.9648"><![CDATA[According to a large-scale study, conducted in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of myocardial infarction.]]></nbest>
+			<nbest id="14" total="326.041"><![CDATA[According to a large-scale study, carried out in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="15" total="326.1913"><![CDATA[According to a large-scale study, conducted in Europe and 200,000 people published last Friday, the stress at work increase by 23% the risk of a heart attack.]]></nbest>
+			<nbest id="16" total="326.2586"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, stress at work would increase by 23% the risk of a heart attack.]]></nbest>
+			<nbest id="17" total="326.3051"><![CDATA[According to a large-scale study, conducted in Europe and 200,000 people published last Friday, stress at work would increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="18" total="326.405"><![CDATA[According to a large-scale study carried out in Europe and 200,000 people published last Friday, workplace stress increase by 23% the risk of a heart attack.]]></nbest>
+			<nbest id="19" total="326.4515"><![CDATA[According to a large-scale study, conducted in Europe and 200,000 people published last Friday, workplace stress increase by 23% the risk of having a heart attack.]]></nbest>
+			<nbest id="20" total="326.538"><![CDATA[According to a large study, conducted in Europe and 200,000 people published last Friday, stress at work increase by 23% the risk of a heart attack.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une étude, un salarié sous pression au travail a un risque 23% plus élevé que les autres de faire un infarctus.]]></source>
+		<target lang="en">
+			<nbest id="0" total="230.3652"><![CDATA[According to a study, a person under pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="1" total="231.7874"><![CDATA[According to one study, a person under pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="2" total="232.7688"><![CDATA[According to a study, an employee under pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="3" total="234.0132"><![CDATA[According to a study, an employee working under pressure has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="4" total="234.7798"><![CDATA[According to a study, an employee pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="5" total="234.9549"><![CDATA[According to one study, an employee working under pressure has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="6" total="235.2225"><![CDATA[According to a study, a person under pressure at work has a 23% greater risk than others of having a heart attack.]]></nbest>
+			<nbest id="7" total="235.4125"><![CDATA[According to a study, a person under pressure at work has a 23% higher risk than others having a heart attack.]]></nbest>
+			<nbest id="8" total="235.7215"><![CDATA[According to one study, an employee pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="9" total="235.9139"><![CDATA[According to a survey, an employee under pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="10" total="236.0186"><![CDATA[According to a study, a person under pressure at work has a 23% higher risk than others to having a heart attack.]]></nbest>
+			<nbest id="11" total="236.0813"><![CDATA[According to one study, employee pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="12" total="236.7348"><![CDATA[According to a study, an employee to work under pressure has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="13" total="236.8346"><![CDATA[According to one study, a person under pressure at work has a 23% higher risk than others having a heart attack.]]></nbest>
+			<nbest id="14" total="237.0311"><![CDATA[According to a study, a person under pressure at work has a 23% higher risk than others to a heart attack.]]></nbest>
+			<nbest id="15" total="237.1583"><![CDATA[According to a survey, an employee working under pressure has a 23% higher risk than others of having a heart attack.]]></nbest>
+			<nbest id="16" total="237.6261"><![CDATA[According to a study, an employee under pressure at work has a 23% greater risk than others of having a heart attack.]]></nbest>
+			<nbest id="17" total="237.816"><![CDATA[According to a study, an employee under pressure at work has a 23% higher risk than others having a heart attack.]]></nbest>
+			<nbest id="18" total="237.893"><![CDATA[According to a study, a person under pressure at work has a 23% higher risk than others to make a heart attack.]]></nbest>
+			<nbest id="19" total="237.9249"><![CDATA[According to a survey, an employee pressure at work has a 23% higher risk than others of having a heart attack.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Sur les 100 à 120000 infarctus qui surviennent chaque année en France, près de 4000 seraient imputables à des conditions de travail stressantes.]]></source>
+		<target lang="en">
+			<nbest id="0" total="257.861"><![CDATA[On 100-120000 infarction that occur each year in France, about 4000 were attributable to stressful work conditions.]]></nbest>
+			<nbest id="1" total="258.3724"><![CDATA[On 100-120000 infarction that occur each year in France, nearly 4,000 were attributable to stressful work conditions.]]></nbest>
+			<nbest id="2" total="258.4769"><![CDATA[On 100-120000 infarction that occur each year in France, about 4000 were attributable to stressful working conditions.]]></nbest>
+			<nbest id="3" total="258.7296"><![CDATA[On 100-120000 infarction that occur each year in France, nearly 4000 were attributable to stressful work conditions.]]></nbest>
+			<nbest id="4" total="258.9883"><![CDATA[On 100-120000 infarction that occur each year in France, nearly 4,000 were attributable to stressful working conditions.]]></nbest>
+			<nbest id="5" total="259.3455"><![CDATA[On 100-120000 infarction that occur each year in France, nearly 4000 were attributable to stressful working conditions.]]></nbest>
+			<nbest id="6" total="259.662"><![CDATA[On 100-120000 infarction occurring each year in France, about 4000 were attributable to stressful work conditions.]]></nbest>
+			<nbest id="7" total="260.1733"><![CDATA[On 100-120000 infarction occurring each year in France, nearly 4,000 were attributable to stressful work conditions.]]></nbest>
+			<nbest id="8" total="260.2779"><![CDATA[On 100-120000 infarction occurring each year in France, about 4000 were attributable to stressful working conditions.]]></nbest>
+			<nbest id="9" total="260.5306"><![CDATA[On 100-120000 infarction occurring each year in France, nearly 4000 were attributable to stressful work conditions.]]></nbest>
+			<nbest id="10" total="260.7893"><![CDATA[On 100-120000 infarction occurring each year in France, nearly 4,000 were attributable to stressful working conditions.]]></nbest>
+			<nbest id="11" total="260.8683"><![CDATA[On 100-120000 infarction that occur every year in France, about 4000 were attributable to stressful work conditions.]]></nbest>
+			<nbest id="12" total="261.1465"><![CDATA[On 100-120000 infarction occurring each year in France, nearly 4000 were attributable to stressful working conditions.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Sur les 100 à 120000 infarctus survenant en France chaque année, le stress au travail serait responsable d'environ 3400 à 4000 accidents cardiaques.]]></source>
+		<target lang="en">
+			<nbest id="0" total="303.2747"><![CDATA[On 100-120000 infarction occurring each year in France, work-related stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="1" total="303.3807"><![CDATA[On 100-120000 infarction occurring each year in France, work stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="2" total="303.4158"><![CDATA[On 100-120000 infarction occurring each year in France, workplace stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="3" total="304.1334"><![CDATA[On 100-120000 infarction occurring in France each year, workplace stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="4" total="304.4551"><![CDATA[On 100-120000 infarction occurring each year in France, work-related stress is responsible for approximately cardiac 3400-4000.]]></nbest>
+			<nbest id="5" total="304.5611"><![CDATA[On 100-120000 infarction occurring each year in France, work stress is responsible for approximately cardiac 3400-4000.]]></nbest>
+			<nbest id="6" total="304.5962"><![CDATA[On 100-120000 infarction occurring each year in France, workplace stress is responsible for approximately cardiac 3400-4000.]]></nbest>
+			<nbest id="7" total="304.6501"><![CDATA[On 100-120000 infarction occurring in France each year, work stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="8" total="304.7411"><![CDATA[On 100-120000 infarction occurring in France each year, work-related stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="9" total="305.1796"><![CDATA[On 100-120000 infarction occurring every year in France, work-related stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="10" total="305.2856"><![CDATA[On 100-120000 infarction occurring every year in France, work stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="11" total="305.3138"><![CDATA[On 100-120000 infarction occurring in France each year, workplace stress is responsible for approximately cardiac 3400-4000.]]></nbest>
+			<nbest id="12" total="305.3207"><![CDATA[On 100-120000 infarction occurring every year in France, workplace stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="13" total="305.3622"><![CDATA[On 100-120000 infarction occurring each year in France, work-related stress is responsible for about 3400-4000 cardiac events.]]></nbest>
+			<nbest id="14" total="305.3697"><![CDATA[On 100-120000 infarction occurring in France every year, workplace stress is responsible for about cardiac 3400-4000.]]></nbest>
+			<nbest id="15" total="305.4514"><![CDATA[On 100-120000 infarction occurring each year in France, work-related stress is responsible for some cardiac 3400-4000.]]></nbest>
+			<nbest id="16" total="305.4682"><![CDATA[On 100-120000 infarction occurring each year in France, work stress is responsible for about 3400-4000 cardiac events.]]></nbest>
+			<nbest id="17" total="305.5032"><![CDATA[On 100-120000 infarction occurring each year in France, workplace stress is responsible for about 3400-4000 cardiac events.]]></nbest>
+			<nbest id="18" total="305.5573"><![CDATA[On 100-120000 infarction occurring each year in France, work stress is responsible for some cardiac 3400-4000.]]></nbest>
+			<nbest id="19" total="305.5924"><![CDATA[On 100-120000 infarction occurring each year in France, workplace stress is responsible for some cardiac 3400-4000.]]></nbest>
+			<nbest id="20" total="305.8305"><![CDATA[On 100-120000 infarction occurring in France each year, work stress is responsible for approximately cardiac 3400-4000.]]></nbest>
+			<nbest id="21" total="305.9215"><![CDATA[On 100-120000 infarction occurring in France each year, work-related stress is responsible for approximately cardiac 3400-4000.]]></nbest>
+			<nbest id="22" total="306.1967"><![CDATA[On 100-120000 infarction occurring each year in France, work-related stress is responsible for about 3400-4000 heart disease.]]></nbest>
+			<nbest id="23" total="306.2209"><![CDATA[On 100-120000 infarction occurring in France each year, workplace stress is responsible for about 3400-4000 cardiac events.]]></nbest>
+			<nbest id="24" total="306.3027"><![CDATA[On 100-120000 infarction occurring each year in France, work stress is responsible for about 3400-4000 heart disease.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Sur les 120000 infarctus environ qui surviennent chaque année en France, près de 4000 seraient imputables au stress au travail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="244.9361"><![CDATA[Of the approximately 120,000 infarction that occur each year in France, about 4000 are attributable to stress at work.]]></nbest>
+			<nbest id="1" total="245.2541"><![CDATA[Of the approximately 120,000 infarction that occur each year in France, nearly 4,000 are attributable to stress at work.]]></nbest>
+			<nbest id="2" total="246.2467"><![CDATA[Of the approximately 120,000 infarction that occur each year in France, nearly 4000 are attributable to stress at work.]]></nbest>
+			<nbest id="3" total="246.6563"><![CDATA[Of the approximately 120,000 infarction that occur each year in France, about 4000 were attributable to stress at work.]]></nbest>
+			<nbest id="4" total="246.7371"><![CDATA[Of the approximately 120,000 infarction occurring each year in France, about 4000 are attributable to stress at work.]]></nbest>
+			<nbest id="5" total="246.9198"><![CDATA[On approximately 120,000 infarction that occur each year in France, about 4000 are attributable to stress at work.]]></nbest>
+			<nbest id="6" total="247.0551"><![CDATA[Of the approximately 120,000 infarction occurring each year in France, nearly 4,000 are attributable to stress at work.]]></nbest>
+			<nbest id="7" total="247.1677"><![CDATA[Of the approximately 120,000 infarction that occur each year in France, nearly 4,000 were attributable to stress at work.]]></nbest>
+			<nbest id="8" total="247.2378"><![CDATA[On approximately 120,000 infarction that occur each year in France, nearly 4,000 are attributable to stress at work.]]></nbest>
+			<nbest id="9" total="247.5249"><![CDATA[Of the approximately 120,000 infarction that occur each year in France, nearly 4000 were attributable to stress at work.]]></nbest>
+			<nbest id="10" total="247.9434"><![CDATA[Of the approximately 120,000 infarction that occur every year in France, about 4000 are attributable to stress at work.]]></nbest>
+			<nbest id="11" total="248.0464"><![CDATA[Of the approximately 120,000 stroke that occur each year in France, about 4000 are attributable to stress at work.]]></nbest>
+			<nbest id="12" total="248.0477"><![CDATA[Of the approximately 120,000 infarction occurring each year in France, nearly 4000 are attributable to stress at work.]]></nbest>
+			<nbest id="13" total="248.192"><![CDATA[On about 120,000 infarction that occur each year in France, about 4000 are attributable to stress at work.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une analyse de près de 200000 individus en Europe montre un risque accru de 23% de présenter un infarctus chez les personnes exposées à un stress au travail, comparées à celles qui n'y sont pas exposées.]]></source>
+		<target lang="en">
+			<nbest id="0" total="372.2159"><![CDATA[An analysis of nearly 200,000 individuals in Europe shows an increased risk of 23% have a heart attack in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="1" total="372.384"><![CDATA[An analysis of nearly 200,000 people in Europe shows an increased risk of 23% have a heart attack in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="2" total="372.4803"><![CDATA[An analysis of nearly 200,000 individuals in Europe shows an increased risk of 23% to make a heart for people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="3" total="372.5359"><![CDATA[An analysis of nearly 200,000 individuals in Europe shows an increased risk of 23% of present infarction in individuals exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="4" total="372.6485"><![CDATA[An analysis of nearly 200,000 people in Europe shows an increased risk of 23% to make a heart for people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="5" total="372.6795"><![CDATA[An analysis of nearly 200,000 individuals in Europe shows an increased risk of 23% to make a heart in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="6" total="372.7041"><![CDATA[An analysis of nearly 200,000 people in Europe shows an increased risk of 23% of present infarction in individuals exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="7" total="372.77"><![CDATA[An analysis of nearly 200,000 people in Europe showed an increased risk of 23% have a heart attack in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="8" total="372.8477"><![CDATA[An analysis of nearly 200,000 people in Europe shows an increased risk of 23% to make a heart in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="9" total="373.0345"><![CDATA[An analysis of nearly 200,000 people in Europe showed an increased risk of 23% to make a heart for people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="10" total="373.09"><![CDATA[An analysis of nearly 200,000 people in Europe showed an increased risk of 23% of present infarction in individuals exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="11" total="373.2008"><![CDATA[An analysis of nearly 200,000 individuals in Europe shows an increased risk of 23% of present infarction in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="12" total="373.2336"><![CDATA[An analysis of nearly 200,000 people in Europe showed an increased risk of 23% to make a heart in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="13" total="373.369"><![CDATA[An analysis of nearly 200,000 people in Europe shows an increased risk of 23% of present infarction in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="14" total="373.7549"><![CDATA[An analysis of nearly 200,000 people in Europe showed an increased risk of 23% of present infarction in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+			<nbest id="15" total="373.955"><![CDATA[An analysis of nearly 200,000 individuals in Europe shows an increased risk of 23% of myocardial present in people exposed to stress at work, compared to those who are not exposed.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une récente étude démontre un lien entre le stress au travail et une augmentation de 23% du risque d'infarctus du myocarde.]]></source>
+		<target lang="en">
+			<nbest id="0" total="165.4954"><![CDATA[A recent study showed a link between job stress and a 23% increase in the risk of myocardial infarction.]]></nbest>
+			<nbest id="1" total="166.2244"><![CDATA[A recent study showed a link between job stress and a 23% increase in risk of myocardial infarction.]]></nbest>
+			<nbest id="2" total="170.38"><![CDATA[A recent study shows a link between job stress and a 23% increase in the risk of myocardial infarction.]]></nbest>
+			<nbest id="3" total="170.4136"><![CDATA[A recent study showed a link between job stress and an increase of 23% in the risk of myocardial infarction.]]></nbest>
+			<nbest id="4" total="170.7242"><![CDATA[A recent study showed a link between work stress and an increase of 23% in the risk of myocardial infarction.]]></nbest>
+			<nbest id="5" total="170.8226"><![CDATA[A recent study showed a link between job stress and a 23% increase risk of myocardial infarction.]]></nbest>
+			<nbest id="6" total="171.0315"><![CDATA[A recent study showed a link between job stress and 23% increase in the risk of myocardial infarction.]]></nbest>
+			<nbest id="7" total="171.109"><![CDATA[A recent study shows a link between job stress and a 23% increase in risk of myocardial infarction.]]></nbest>
+			<nbest id="8" total="171.5349"><![CDATA[A recent study found a link between job stress and a 23% increase in the risk of myocardial infarction.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une vaste étude européenne dont les résultats viennent d'être publiés dans la revue Lancet confirme le lien entre l'exposition au stress et la survenue d'infarctus.]]></source>
+		<target lang="en">
+			<nbest id="0" total="249.1391"><![CDATA[A large European study whose results have just been published in the journal Lancet confirms the link between exposure to stress and the occurrence of myocardial infarction.]]></nbest>
+			<nbest id="1" total="250.3844"><![CDATA[A large European study whose results were recently published in the journal Lancet confirms the link between exposure to stress and the occurrence of myocardial infarction.]]></nbest>
+			<nbest id="2" total="250.9545"><![CDATA[A large European study whose results have just been published in the journal Lancet confirms the link between exposure to stress and the onset of myocardial infarction.]]></nbest>
+			<nbest id="3" total="251.0485"><![CDATA[A large European study whose results have just been published in the journal Lancet confirms the link between exposure to stress and the occurrence of stroke.]]></nbest>
+			<nbest id="4" total="251.0914"><![CDATA[A large European study whose findings have just been published in the journal Lancet confirms the link between exposure to stress and the occurrence of myocardial infarction.]]></nbest>
+			<nbest id="5" total="251.5061"><![CDATA[A large European study whose results have just been published in the journal Lancet confirms the link between exposure to stress and the onset of infarction.]]></nbest>
+			<nbest id="6" total="252.1999"><![CDATA[A large European study whose results were recently published in the journal Lancet confirms the link between exposure to stress and the onset of myocardial infarction.]]></nbest>
+			<nbest id="7" total="252.2939"><![CDATA[A large European study whose results were recently published in the journal Lancet confirms the link between exposure to stress and the occurrence of stroke.]]></nbest>
+			<nbest id="8" total="252.7246"><![CDATA[A large European study whose results have just been published in the journal Lancet confirms the link between stress exposure and the occurrence of myocardial infarction.]]></nbest>
+			<nbest id="9" total="252.7514"><![CDATA[A large European study whose results were recently published in the journal Lancet confirms the link between exposure to stress and the onset of infarction.]]></nbest>
+			<nbest id="10" total="252.9068"><![CDATA[A large European study whose findings have just been published in the journal Lancet confirms the link between exposure to stress and the onset of myocardial infarction.]]></nbest>
+			<nbest id="11" total="253.0008"><![CDATA[A large European study whose findings have just been published in the journal Lancet confirms the link between exposure to stress and the occurrence of stroke.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude dont les résultats sont à retrouver dans la revue scientifique "The Lancet" évalue pour la première fois les effets négatifs du stress au travail, rapporte RTL.]]></source>
+		<target lang="en">
+			<nbest id="0" total="309.0045"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" evaluates first the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="1" total="309.3765"><![CDATA[A study whose results are found in the scientific journal "The Lancet" evaluates first the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="2" total="309.5218"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" for the first time assesses the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="3" total="309.8938"><![CDATA[A study whose results are found in the scientific journal "The Lancet" for the first time assesses the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="4" total="310.058"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" evaluates first the negative effects of stress at work, says RTL.]]></nbest>
+			<nbest id="5" total="310.3621"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" for the first time evaluates the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="6" total="310.3717"><![CDATA[A study whose results are to find in the scientific journal "The Lancet" evaluates first the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="7" total="310.43"><![CDATA[A study whose results are found in the scientific journal "The Lancet" evaluates first the negative effects of stress at work, says RTL.]]></nbest>
+			<nbest id="8" total="310.5752"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" for the first time assesses the negative effects of stress at work, says RTL.]]></nbest>
+			<nbest id="9" total="310.7341"><![CDATA[A study whose results are found in the scientific journal "The Lancet" for the first time evaluates the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="10" total="310.7685"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" evaluates for the first time the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="11" total="310.8053"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" for the first time assesses the effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="12" total="310.8889"><![CDATA[A study whose results are to find in the scientific journal "The Lancet" for the first time assesses the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="13" total="310.9402"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" evaluates first the negative effects of stress at work, RTL reported.]]></nbest>
+			<nbest id="14" total="310.9472"><![CDATA[A study whose results are found in the scientific journal "The Lancet" for the first time assesses the negative effects of stress at work, says RTL.]]></nbest>
+			<nbest id="15" total="311.039"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" assesses first the negative effects of stress at work, reports RTL.]]></nbest>
+			<nbest id="16" total="311.0835"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" evaluates first the negative effects of stress at work, RTL reports.]]></nbest>
+			<nbest id="17" total="311.1278"><![CDATA[A study whose results are reflected in the scientific journal "The Lancet" assesses for the first time the negative effects of stress at work, reports RTL.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude européenne menée sur 200000 travailleurs révèle un risque accru d'infarctus de 23% en cas de stress au travail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="223.8483"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in case of stress at work.]]></nbest>
+			<nbest id="1" total="223.8888"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in case of stress at work.]]></nbest>
+			<nbest id="2" total="225.0623"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in case of work-related stress.]]></nbest>
+			<nbest id="3" total="225.1029"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in case of work-related stress.]]></nbest>
+			<nbest id="4" total="225.6987"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in the case of stress at work.]]></nbest>
+			<nbest id="5" total="225.7392"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in the case of stress at work.]]></nbest>
+			<nbest id="6" total="226.1161"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in cases of stress at work.]]></nbest>
+			<nbest id="7" total="226.1566"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in cases of stress at work.]]></nbest>
+			<nbest id="8" total="226.4173"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in the case of work-related stress.]]></nbest>
+			<nbest id="9" total="226.4578"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in the case of work-related stress.]]></nbest>
+			<nbest id="10" total="227.4245"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in case of job stress.]]></nbest>
+			<nbest id="11" total="227.465"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in case of job stress.]]></nbest>
+			<nbest id="12" total="227.7785"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in the event of work-related stress.]]></nbest>
+			<nbest id="13" total="227.819"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in the event of work-related stress.]]></nbest>
+			<nbest id="14" total="227.971"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in case of workplace stress.]]></nbest>
+			<nbest id="15" total="228.0115"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in case of workplace stress.]]></nbest>
+			<nbest id="16" total="228.0951"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in the event of stress at work.]]></nbest>
+			<nbest id="17" total="228.1356"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in the event of stress at work.]]></nbest>
+			<nbest id="18" total="228.1357"><![CDATA[A European study of 200,000 workers showed an increased risk of myocardial infarction by 23% in case of stress at work.]]></nbest>
+			<nbest id="19" total="228.1762"><![CDATA[A European study of 200,000 workers found an increased risk of myocardial infarction by 23% in case of stress at work.]]></nbest>
+			<nbest id="20" total="228.4895"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in the case of workplace stress.]]></nbest>
+			<nbest id="21" total="228.5301"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in the case of workplace stress.]]></nbest>
+			<nbest id="22" total="228.5828"><![CDATA[A European study of 200,000 workers showed an increased risk of heart attack by 23% in case of occupational stress.]]></nbest>
+			<nbest id="23" total="228.6233"><![CDATA[A European study of 200,000 workers found an increased risk of heart attack by 23% in case of occupational stress.]]></nbest>
+			<nbest id="24" total="228.6379"><![CDATA[A European study of 200,000 workers revealed an increased risk of heart attack by 23% in case of stress at work.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude menée sur près de 200000 personnes suivies depuis 1989 révèle que ceux qui stressent au bureau ont 23% de risques en plus d'être victimes d'un accident cardiovasculaire.]]></source>
+		<target lang="en">
+			<nbest id="0" total="348.5541"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="1" total="348.7605"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="2" total="349.6859"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those stressing the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="3" total="349.6905"><![CDATA[A study of nearly 200,000 persons followed since 1989 reveals that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="4" total="349.8968"><![CDATA[A study of nearly 200,000 persons followed since 1989 reveals that those that stress the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="5" total="350.8223"><![CDATA[A study of nearly 200,000 persons followed since 1989 reveals that those stressing the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="6" total="350.8247"><![CDATA[A study of nearly 200,000 people followed since 1989 showed that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="7" total="350.8685"><![CDATA[A study of almost 200,000 people followed since 1989 reveals that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="8" total="350.9659"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress in the office have 23% more risk of being a victim of stroke.]]></nbest>
+			<nbest id="9" total="351.0145"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress in the office have 23% more risk of being victims of stroke.]]></nbest>
+			<nbest id="10" total="351.0267"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress in the office have 23% more risk of being victims of a stroke.]]></nbest>
+			<nbest id="11" total="351.031"><![CDATA[A study of nearly 200,000 people followed since 1989 showed that those that stress the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="12" total="351.0748"><![CDATA[A study of almost 200,000 people followed since 1989 reveals that those that stress the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="13" total="351.1723"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress the office have 23% more risk of being a victim of stroke.]]></nbest>
+			<nbest id="14" total="351.2208"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress the office have 23% more risk of being victims of stroke.]]></nbest>
+			<nbest id="15" total="351.2331"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress the office have 23% more risk of being victims of a stroke.]]></nbest>
+			<nbest id="16" total="351.4677"><![CDATA[A study of nearly 200,000 people followed from 1989 reveals that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="17" total="351.512"><![CDATA[A study of nearly 200,000 people since 1989 reveals that followed those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="18" total="351.5166"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress in the office have 23% more risk of being the victim of a stroke.]]></nbest>
+			<nbest id="19" total="351.674"><![CDATA[A study of nearly 200,000 people followed from 1989 reveals that those that stress the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="20" total="351.7183"><![CDATA[A study of nearly 200,000 people since 1989 reveals that followed those that stress the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="21" total="351.723"><![CDATA[A study of nearly 200,000 people followed since 1989 reveals that those that stress the office have 23% more risk of being the victim of a stroke.]]></nbest>
+			<nbest id="22" total="351.7647"><![CDATA[A study of nearly 200,000 individuals followed since 1989 reveals that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="23" total="351.8598"><![CDATA[A study of nearly 200,000 people monitored since 1989 reveals that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+			<nbest id="24" total="351.9611"><![CDATA[A study of nearly 200,000 persons followed since 1989 showed that those that stress in the office have 23% more risk to suffer a stroke.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une étude publiée vendredi dans la revue médicale The Lancet et réalisée sur près de 200000 individus en Europe démontre le lien entre stress au travail et accidents cardiovasculaires.]]></source>
+		<target lang="en">
+			<nbest id="0" total="272.3563"><![CDATA[A study published Friday in the medical journal The Lancet and conducted on nearly 200,000 individuals in Europe demonstrates the link between job strain and cardiovascular events.]]></nbest>
+			<nbest id="1" total="272.6923"><![CDATA[A study published Friday in the medical journal The Lancet and conducted on nearly 200,000 individuals in Europe demonstrates the link between work stress and cardiovascular events.]]></nbest>
+			<nbest id="2" total="272.7252"><![CDATA[A study published Friday in the medical journal The Lancet and performed on nearly 200,000 individuals in Europe demonstrates the link between job strain and cardiovascular events.]]></nbest>
+			<nbest id="3" total="273.0612"><![CDATA[A study published Friday in the medical journal The Lancet and performed on nearly 200,000 individuals in Europe demonstrates the link between work stress and cardiovascular events.]]></nbest>
+			<nbest id="4" total="273.8502"><![CDATA[A study published Friday in the medical journal The Lancet and conducted on nearly 200,000 individuals in Europe demonstrates the link between job stress and cardiovascular events.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

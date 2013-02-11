@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Ce mardi matin, Nicolas Sarkozy a siégé pour la première fois au Conseil constitutionnel en tant qu'ancien président de la République.]]></source>
+		<target lang="en">
+			<nbest id="0" total="212.4253"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time the Constitutional Council as a former president of the Republic.]]></nbest>
+			<nbest id="1" total="212.7129"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time to the Constitutional Council as a former president of the Republic.]]></nbest>
+			<nbest id="2" total="213.0154"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time the Constitutional Council as a former president.]]></nbest>
+			<nbest id="3" total="213.303"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time to the Constitutional Council as a former president.]]></nbest>
+			<nbest id="4" total="213.7494"><![CDATA[On Tuesday morning, Nicolas Sarkozy met for the first time the Constitutional Council as a former president of the Republic.]]></nbest>
+			<nbest id="5" total="213.7656"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time the Constitutional Council as a former President of the Republic.]]></nbest>
+			<nbest id="6" total="214.037"><![CDATA[On Tuesday morning, Nicolas Sarkozy met for the first time to the Constitutional Council as a former president of the Republic.]]></nbest>
+			<nbest id="7" total="214.0532"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time to the Constitutional Council as a former President of the Republic.]]></nbest>
+			<nbest id="8" total="214.3396"><![CDATA[On Tuesday morning, Nicolas Sarkozy met for the first time the Constitutional Council as a former president.]]></nbest>
+			<nbest id="9" total="214.6272"><![CDATA[On Tuesday morning, Nicolas Sarkozy met for the first time to the Constitutional Council as a former president.]]></nbest>
+			<nbest id="10" total="215.0898"><![CDATA[On Tuesday morning, Nicolas Sarkozy met for the first time the Constitutional Council as a former President of the Republic.]]></nbest>
+			<nbest id="11" total="215.2169"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time the Constitutional Council as a former President.]]></nbest>
+			<nbest id="12" total="215.3774"><![CDATA[On Tuesday morning, Nicolas Sarkozy met for the first time to the Constitutional Council as a former President of the Republic.]]></nbest>
+			<nbest id="13" total="215.5045"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time to the Constitutional Council as a former President.]]></nbest>
+			<nbest id="14" total="215.6801"><![CDATA[Tuesday morning, Nicolas Sarkozy met for the first time at the Constitutional Council as a former president of the Republic.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Comme son statut d'ancien chef d'Etat le prévoit (il est membre de droit du Conseil du constitutionnel, nldr), Nicolas Sarkozy a siégé pour la première fois parmi les Sages mardi matin, selon le site du Figaro.]]></source>
+		<target lang="en">
+			<nbest id="0" total="1001.9745"><![CDATA[As his status as a former head of state provides (he is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="1" total="1002.3732"><![CDATA[As his status as a former head of state provides (it is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="2" total="1003.0118"><![CDATA[Its status as former head of state provides (he is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="3" total="1003.0953"><![CDATA[As his status as a former head of state provided (it is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="4" total="1003.3495"><![CDATA[Its status as former head of state provides (it is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="5" total="1003.46"><![CDATA[As his status as a former head of state provides (he is a member of the Council of constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="6" total="1003.7155"><![CDATA[As his status as a former head of state provides (he is a member of the Council of Constitutional Law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="7" total="1003.761"><![CDATA[As his status as a former head of state provided (he is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="8" total="1003.7949"><![CDATA[As his status as a former head of state provides (he is a member of the Council of Constitutional law, NLDR) Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="9" total="1003.8364"><![CDATA[Its status as former Head of State provides (he is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="10" total="1003.8549"><![CDATA[As his status as a former head of state provides (a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="11" total="1003.8587"><![CDATA[As his status as a former head of state provides (it is a member of the Council of constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="12" total="1004.0715"><![CDATA[Its status as former head of state provided (it is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="13" total="1004.1142"><![CDATA[As his status as a former head of state provides (it is a member of the Council of Constitutional Law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="14" total="1004.1741"><![CDATA[Its status as former Head of State provides (it is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="15" total="1004.1936"><![CDATA[As his status as a former head of state provides (it is a member of the Council of Constitutional law, NLDR) Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="16" total="1004.4973"><![CDATA[Its status as former head of state provides (he is a member of the Council of constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="17" total="1004.5807"><![CDATA[As his status as a former head of state provided (it is a member of the Council of constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="18" total="1004.7182"><![CDATA[Its status as former Head of State provided (it is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="19" total="1004.7373"><![CDATA[Its status as former head of state provided (he is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="20" total="1004.7528"><![CDATA[Its status as former head of state provides (he is a member of the Council of Constitutional Law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="21" total="1004.7585"><![CDATA[His status as former head of state provides (he is a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="22" total="1004.8312"><![CDATA[Its status as former head of state provides (a member of the Council of Constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="23" total="1004.8322"><![CDATA[Its status as former head of state provides (he is a member of the Council of Constitutional law, NLDR) Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="24" total="1004.8349"><![CDATA[Its status as former head of state provides (it is a member of the Council of constitutional law, NLDR), Nicolas Sarkozy met for the first time among the Sages Tuesday morning, according to the website of Le Figaro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Comme son statut d'ancien chef d'Etat le prévoit, Nicolas Sarkozy a siégé pour la première fois parmi les "Sages" mardi matin, selon le site du Figaro.]]></source>
+		<target lang="en">
+			<nbest id="0" total="332.9281"><![CDATA[As his status as a former head of state provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="1" total="333.3591"><![CDATA[Its status as former Head of State provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="2" total="333.6745"><![CDATA[His status as former Head of State provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="3" total="333.9044"><![CDATA[Its status as former head of state provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="4" total="334.1214"><![CDATA[As his status as a former Head of State provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="5" total="334.2198"><![CDATA[His status as former head of state provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="6" total="334.6064"><![CDATA[Its status as former Head of State so provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="7" total="334.8429"><![CDATA[As his status as a former head of state provides, Nicolas Sarkozy met for the first time among the "Wise Men" on Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="8" total="335.0533"><![CDATA[As his status as a former head of state provides, Nicolas Sarkozy met for the first time among the "Elders" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="9" total="335.4843"><![CDATA[Its status as former Head of State provides, Nicolas Sarkozy met for the first time among the "Elders" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="10" total="335.7996"><![CDATA[His status as former Head of State provides, Nicolas Sarkozy met for the first time among the "Elders" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="11" total="336.0295"><![CDATA[Its status as former head of state provides, Nicolas Sarkozy met for the first time among the "Elders" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="12" total="336.0363"><![CDATA[As his status as a former Head of State provides, Nicolas Sarkozy met for the first time among the "Wise Men" on Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="13" total="336.1522"><![CDATA[As his status as former Head of State provides, Nicolas Sarkozy met for the first time among the "Wise Men" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+			<nbest id="14" total="336.2466"><![CDATA[As his status as a former Head of State provides, Nicolas Sarkozy met for the first time among the "Elders" Tuesday morning, according to the website of Le Figaro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ancien chef de l'Etat a siégé pour la première fois ce matin au Conseil constitutionnel, parmi les autres sages.]]></source>
+		<target lang="en">
+			<nbest id="0" total="214.1745"><![CDATA[The former head of state met for the first time this morning to the Constitutional Council, among other wise.]]></nbest>
+			<nbest id="1" total="214.6412"><![CDATA[The former Head of State met for the first time this morning to the Constitutional Council, among other wise.]]></nbest>
+			<nbest id="2" total="215.1128"><![CDATA[The former head of state met for the first time this morning to the Constitutional Council, among other sages.]]></nbest>
+			<nbest id="3" total="215.3447"><![CDATA[The former head of state met for the first time this morning at the Constitutional Council, among other wise.]]></nbest>
+			<nbest id="4" total="215.5141"><![CDATA[Former Head of State met for the first time this morning to the Constitutional Council, among other wise.]]></nbest>
+			<nbest id="5" total="215.5796"><![CDATA[The former Head of State met for the first time this morning to the Constitutional Council, among other sages.]]></nbest>
+			<nbest id="6" total="215.8114"><![CDATA[The former Head of State met for the first time this morning at the Constitutional Council, among other wise.]]></nbest>
+			<nbest id="7" total="216.4524"><![CDATA[Former Head of State met for the first time this morning to the Constitutional Council, among other sages.]]></nbest>
+			<nbest id="8" total="216.5359"><![CDATA[The former head of state met for the first time this morning at the Constitutional Council, among other sages.]]></nbest>
+			<nbest id="9" total="216.5993"><![CDATA[The former head of state met for the first time this morning the Constitutional Council, among other wise.]]></nbest>
+			<nbest id="10" total="216.6843"><![CDATA[Former Head of State met for the first time this morning at the Constitutional Council, among other wise.]]></nbest>
+			<nbest id="11" total="217.0026"><![CDATA[The former Head of State met for the first time this morning at the Constitutional Council, among other sages.]]></nbest>
+			<nbest id="12" total="217.0661"><![CDATA[The former Head of State met for the first time this morning the Constitutional Council, among other wise.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Nicolas Sarkozy a participé à deux questions prioritaires de constitutionnalité à l'occasion de sa première séance au Conseil constitutionnel.]]></source>
+		<target lang="en">
+			<nbest id="0" total="216.9984"><![CDATA[Nicolas Sarkozy attended two priority issues of constitutionality on the occasion of its first session the Constitutional Council.]]></nbest>
+			<nbest id="1" total="217.3199"><![CDATA[Nicolas Sarkozy attended two priority issues of constitutionality on the occasion of its first meeting the Constitutional Council.]]></nbest>
+			<nbest id="2" total="218.1314"><![CDATA[Nicolas Sarkozy attended two priority issues of constitutionality on the occasion of its first meeting at the Constitutional Council.]]></nbest>
+			<nbest id="3" total="218.4276"><![CDATA[Nicolas Sarkozy has participated in two priority issues of constitutionality on the occasion of its first meeting the Constitutional Council.]]></nbest>
+			<nbest id="4" total="218.545"><![CDATA[Nicolas Sarkozy attended two priority issues of constitutionality on the occasion of its first meeting to the Constitutional Council.]]></nbest>
+			<nbest id="5" total="219.2391"><![CDATA[Nicolas Sarkozy has participated in two priority issues of constitutionality on the occasion of its first meeting at the Constitutional Council.]]></nbest>
+			<nbest id="6" total="219.6526"><![CDATA[Nicolas Sarkozy has participated in two priority issues of constitutionality on the occasion of its first meeting to the Constitutional Council.]]></nbest>
+			<nbest id="7" total="221.7383"><![CDATA[Nicolas Sarkozy has attended two priority issues of constitutionality on the occasion of its first meeting the Constitutional Council.]]></nbest>
+			<nbest id="8" total="221.7586"><![CDATA[Nicolas Sarkozy attended two priority issues of constitutionality on the occasion of the first meeting to the Constitutional Council.]]></nbest>
+			<nbest id="9" total="221.8839"><![CDATA[Nicolas Sarkozy participated in two priority issues of constitutionality on the occasion of its first session the Constitutional Council.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Nicolas Sarkozy a siégé mardi matin pour la première fois au Conseil constitutionnel en tant qu'ancien président de la République, a-t-on appris de sources concordantes.]]></source>
+		<target lang="en">
+			<nbest id="0" total="317.8304"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time the Constitutional Council as a former President of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="1" total="317.8539"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time the Constitutional Council as a former president of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="2" total="318.118"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time to the Constitutional Council as a former President of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="3" total="318.1415"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time to the Constitutional Council as a former president of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="4" total="318.2675"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time the Constitutional Council as a former President of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="5" total="318.291"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time the Constitutional Council as a former president of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="6" total="318.4753"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time the Constitutional Council as a former President of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="7" total="318.4989"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time the Constitutional Council as a former president of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="8" total="318.5551"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time to the Constitutional Council as a former President of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="9" total="318.5786"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time to the Constitutional Council as a former president of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="10" total="318.6055"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time the Constitutional Council as a former President of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="11" total="318.6291"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time the Constitutional Council as a former president of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="12" total="318.7629"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time to the Constitutional Council as a former President of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="13" total="318.7865"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time to the Constitutional Council as a former president of the Republic, do we learned from sources.]]></nbest>
+			<nbest id="14" total="318.8931"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time to the Constitutional Council as a former President of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="15" total="318.9167"><![CDATA[Nicolas Sarkozy has served Tuesday morning for the first time to the Constitutional Council as a former president of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="16" total="319.0426"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time the Constitutional Council as a former President of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="17" total="319.0662"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time the Constitutional Council as a former president of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="18" total="319.2505"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time the Constitutional Council as a former President of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="19" total="319.2741"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time the Constitutional Council as a former president of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="20" total="319.3302"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time to the Constitutional Council as a former President of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="21" total="319.3538"><![CDATA[Nicolas Sarkozy has served on Tuesday morning for the first time to the Constitutional Council as a former president of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="22" total="319.5381"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time to the Constitutional Council as a former President of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="23" total="319.5617"><![CDATA[Nicolas Sarkozy served Tuesday morning for the first time to the Constitutional Council as a former president of the Republic, does one learned from sources.]]></nbest>
+			<nbest id="24" total="319.9713"><![CDATA[Nicolas Sarkozy sat Tuesday morning for the first time the Constitutional Council as a former President of the Republic, do we learned from sources.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Nicolas Sarkozy a siégé pour la première fois mardi matin 19 juin au Conseil constitutionnel, comme il en a le droit en tant qu'ancien président de la République.]]></source>
+		<target lang="en">
+			<nbest id="0" total="268.6373"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning 19 June the Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="1" total="269.0131"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning 19 June the Constitutional Council, as it is entitled as a former president of the Republic.]]></nbest>
+			<nbest id="2" total="269.0257"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning 19 June the Constitutional Council, as he has the right as a former president of the Republic.]]></nbest>
+			<nbest id="3" total="269.2274"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning 19 June the Constitutional Council, as it has the right as a former president.]]></nbest>
+			<nbest id="4" total="269.3193"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19th Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="5" total="269.5323"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning, June 19th Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="6" total="269.5728"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19th Constitutional Council, as it is entitled as a former president of the Republic.]]></nbest>
+			<nbest id="7" total="269.6032"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning 19 June the Constitutional Council, as it is entitled as a former president.]]></nbest>
+			<nbest id="8" total="269.6158"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning 19 June the Constitutional Council, as he has the right as a former president.]]></nbest>
+			<nbest id="9" total="269.6591"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning 19 June the Constitutional Council, as it is entitled as a former President of the Republic.]]></nbest>
+			<nbest id="10" total="269.7849"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19 the Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="11" total="269.7858"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning, June 19th Constitutional Council, as it is entitled as a former president of the Republic.]]></nbest>
+			<nbest id="12" total="269.9095"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19th Constitutional Council, as it has the right as a former president.]]></nbest>
+			<nbest id="13" total="269.9518"><![CDATA[Nicolas Sarkozy met for the first time on Tuesday morning 19 June the Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="14" total="270.0736"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19 to the Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="15" total="270.0789"><![CDATA[Nicolas Sarkozy met for the first time on Tuesday morning June 19th Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="16" total="270.1225"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning, June 19th Constitutional Council, as it has the right as a former president.]]></nbest>
+			<nbest id="17" total="270.1607"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19 the Constitutional Council, as it is entitled as a former president of the Republic.]]></nbest>
+			<nbest id="18" total="270.1629"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19th Constitutional Council, as it is entitled as a former president.]]></nbest>
+			<nbest id="19" total="270.1733"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19 the Constitutional Council, as he has the right as a former president of the Republic.]]></nbest>
+			<nbest id="20" total="270.2187"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19th Constitutional Council, as it is entitled as a former President of the Republic.]]></nbest>
+			<nbest id="21" total="270.2444"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning, June 19 the Constitutional Council, as it has the right as a former president of the Republic.]]></nbest>
+			<nbest id="22" total="270.327"><![CDATA[Nicolas Sarkozy met for the first time Tuesday morning June 19 to the Constitutional Council, as it is entitled as a former president of the Republic.]]></nbest>
+			<nbest id="23" total="270.3276"><![CDATA[Nicolas Sarkozy met for the first time on Tuesday morning 19 June the Constitutional Council, as it is entitled as a former president of the Republic.]]></nbest>
+			<nbest id="24" total="270.3323"><![CDATA[Nicolas Sarkozy met for the first time on Tuesday morning June 19th Constitutional Council, as it is entitled as a former president of the Republic.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon une information du Figaro, Nicolas Sarkozy a siégé pour la première fois ce matin au Conseil constitutionnel.]]></source>
+		<target lang="en">
+			<nbest id="0" total="193.9755"><![CDATA[According to a report in Le Figaro, Nicolas Sarkozy met for the first time this morning to the Constitutional Council.]]></nbest>
+			<nbest id="1" total="194.9691"><![CDATA[According to information from Figaro, Nicolas Sarkozy met for the first time this morning to the Constitutional Council.]]></nbest>
+			<nbest id="2" total="195.2191"><![CDATA[According to a report in Le Figaro, Nicolas Sarkozy met for the first time this morning at the Constitutional Council.]]></nbest>
+			<nbest id="3" total="196.2128"><![CDATA[According to information from Figaro, Nicolas Sarkozy met for the first time this morning at the Constitutional Council.]]></nbest>
+			<nbest id="4" total="196.5885"><![CDATA[According to a report in Le Figaro, Nicolas Sarkozy met for the first time this morning the Constitutional Council.]]></nbest>
+			<nbest id="5" total="197.5821"><![CDATA[According to information from Figaro, Nicolas Sarkozy met for the first time this morning the Constitutional Council.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

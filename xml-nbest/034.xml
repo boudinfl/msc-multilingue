@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Alors qu'elle a déclenché une véritable émeute à Gare du Nord, Rihanna a déclaré sur twitter "Les Français sont des tarés"!]]></source>
+		<target lang="en">
+			<nbest id="0" total="286.8061"><![CDATA[Then she started a riot at Gare du Nord, Rihanna said on twitter "The French are freaks!"]]></nbest>
+			<nbest id="1" total="288.3135"><![CDATA[Then she started a riot at Gare du Nord, Rihanna stated on twitter "The French are freaks!"]]></nbest>
+			<nbest id="2" total="289.7339"><![CDATA[Then she started a riot at Gare du Nord, Rihanna said on twitter "The French are nerds!"]]></nbest>
+			<nbest id="3" total="290.6553"><![CDATA[Then she started a riot at the Gare du Nord, Rihanna said on twitter "The French are freaks!"]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Alors que le groupe de rock britannique Cold Play donnait un concert au Stade de France la nuit dernière, la chanteuse a déclenché l'hystérie en arrivant à la gare du nord.]]></source>
+		<target lang="en">
+			<nbest id="0" total="316.7909"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria arriving at North Station.]]></nbest>
+			<nbest id="1" total="318.4983"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria in arriving at the Gare du Nord.]]></nbest>
+			<nbest id="2" total="318.7448"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria arriving at the Gare du Nord.]]></nbest>
+			<nbest id="3" total="319.2343"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria arriving at Gare du Nord.]]></nbest>
+			<nbest id="4" total="319.3163"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria in arriving at North Station.]]></nbest>
+			<nbest id="5" total="319.632"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria when arriving at North Station.]]></nbest>
+			<nbest id="6" total="320.1136"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer unleashed hysteria arriving at North Station.]]></nbest>
+			<nbest id="7" total="320.2823"><![CDATA[While the British rock group Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria arriving at North Station.]]></nbest>
+			<nbest id="8" total="320.326"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer has sparked hysteria arriving at North Station.]]></nbest>
+			<nbest id="9" total="320.5845"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer has triggered hysteria arriving at North Station.]]></nbest>
+			<nbest id="10" total="320.6039"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria when arriving at the Gare du Nord.]]></nbest>
+			<nbest id="11" total="320.6753"><![CDATA[While the British rock band Coldplay gave a concert at the Stade de France last night, the singer sparked hysteria in arriving at Gare du Nord.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Arrivée hier soir à la Gare du Nord, la chanteuse Rihanna a été accueilli par un cortège de fans qu'elle a trouvé beaucoup trop démonstratifs.]]></source>
+		<target lang="en">
+			<nbest id="0" total="285.2156"><![CDATA[Arrived yesterday evening at the Gare du Nord, singer Rihanna was greeted by a procession of fans found it too demonstrative.]]></nbest>
+			<nbest id="1" total="285.6363"><![CDATA[Arrived yesterday evening at the Gare du Nord, the singer Rihanna was greeted by a procession of fans found it too demonstrative.]]></nbest>
+			<nbest id="2" total="287.7709"><![CDATA[Arrived yesterday evening at the Gare du Nord, singer Rihanna was welcomed by a procession of fans found it too demonstrative.]]></nbest>
+			<nbest id="3" total="288.1915"><![CDATA[Arrived yesterday evening at the Gare du Nord, the singer Rihanna was welcomed by a procession of fans found it too demonstrative.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ayant tweeté une photo de la gare Saint-Pancras à Londres et le numéro de son train, Rihanna a trouvé un comité d'accueil fourni à Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="323.3755"><![CDATA[Who tweeted a picture of St Pancras station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="1" total="323.3968"><![CDATA[Who tweeted a picture of St. Pancras Station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="2" total="323.5353"><![CDATA[Having tweeted a photo of St Pancras station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="3" total="323.5973"><![CDATA[Having tweeted a picture of St Pancras station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="4" total="323.8924"><![CDATA[Who tweeted a picture of St Pancras Station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="5" total="324.1141"><![CDATA[Having tweeted a picture of St Pancras Station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="6" total="324.3767"><![CDATA[Having tweeted a photo of St Pancras Station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="7" total="324.3805"><![CDATA[Having tweeted a photo of the St Pancras station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="8" total="324.4428"><![CDATA[Who tweeted a photo of St Pancras station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="9" total="324.5908"><![CDATA[Who tweeted a picture of St Pancras station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="10" total="324.612"><![CDATA[Who tweeted a picture of St. Pancras Station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="11" total="324.7505"><![CDATA[Having tweeted a photo of St Pancras station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="12" total="324.8125"><![CDATA[Having tweeted a picture of St Pancras station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="13" total="324.903"><![CDATA[Having tweeted a photo of the St Pancras Station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="14" total="325.1076"><![CDATA[Who tweeted a picture of St Pancras Station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="15" total="325.2843"><![CDATA[Who tweeted a photo of St Pancras Station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="16" total="325.3293"><![CDATA[Having tweeted a picture of St Pancras Station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="17" total="325.4869"><![CDATA[Who tweeted a picture of St Pancras station in London and the number of his train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="18" total="325.5081"><![CDATA[Who tweeted a picture of St. Pancras Station in London and the number of his train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="19" total="325.5263"><![CDATA[Who tweeted a photo of St. Pancras Station in London and the number of the train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="20" total="325.592"><![CDATA[Having tweeted a photo of St Pancras Station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="21" total="325.5957"><![CDATA[Having tweeted a photo of the St Pancras station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="22" total="325.6467"><![CDATA[Having tweeted a photo of St Pancras station in London and the number of his train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+			<nbest id="23" total="325.6581"><![CDATA[Who tweeted a photo of St Pancras station in London and the number of the train, Rihanna has found a reception committee provided Paris.]]></nbest>
+			<nbest id="24" total="325.7086"><![CDATA[Having tweeted a picture of St Pancras station in London and the number of his train, Rihanna has found a welcoming committee provided Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Bousculée à son arrivée à Gare du Nord, Rihanna exige d'une voix ferme un peu d'espace pour avancer avant de se saisir d'un tableau pour cacher son visage.]]></source>
+		<target lang="en">
+			<nbest id="0" total="358.2343"><![CDATA[Shaken on arrival at Gare du Nord, Rihanna requires a firm voice a little space to advance before picking up a table to hide his face.]]></nbest>
+			<nbest id="1" total="359.8332"><![CDATA[Shaken on arrival at Gare du Nord, Rihanna requires a firm voice a little space to advance before picking up a table to hide her face.]]></nbest>
+			<nbest id="2" total="359.9775"><![CDATA[Shaken on his arrival at Gare du Nord, Rihanna requires a firm voice a little space to advance before picking up a table to hide his face.]]></nbest>
+			<nbest id="3" total="360.4392"><![CDATA[Shaken on arrival at Gare du Nord, Rihanna demands a firm voice a little space to advance before picking up a table to hide his face.]]></nbest>
+			<nbest id="4" total="361.2938"><![CDATA[Shaken on arrival at Gare du Nord, Rihanna requires a firm voice some space to advance before picking up a table to hide his face.]]></nbest>
+			<nbest id="5" total="361.5763"><![CDATA[Shaken on his arrival at Gare du Nord, Rihanna requires a firm voice a little space to advance before picking up a table to hide her face.]]></nbest>
+			<nbest id="6" total="362.038"><![CDATA[Shaken on arrival at Gare du Nord, Rihanna demands a firm voice a little space to advance before picking up a table to hide her face.]]></nbest>
+			<nbest id="7" total="362.1823"><![CDATA[Shaken on his arrival at Gare du Nord, Rihanna demands a firm voice a little space to advance before picking up a table to hide his face.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Bousculée, poussée, harassée la star Rihanna se souviendra de son arrivée à la gare du Nord de Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="238.5754"><![CDATA[Shoved, pushed, harassed star Rihanna will remember his arrival at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="1" total="240.7945"><![CDATA[Shoved, pushed, harassed the star Rihanna will remember his arrival at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="2" total="241.2759"><![CDATA[Shoved, pushed, harassed star Rihanna will remember arriving at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="3" total="241.5994"><![CDATA[Shoved, pushed, harassed star Rihanna will remember his arrival at Gare du Nord in Paris.]]></nbest>
+			<nbest id="4" total="242.0221"><![CDATA[Shoved, pushed, harassed star Rihanna remember his arrival at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="5" total="242.4601"><![CDATA[Shoved, pushed, harassed star Rihanna will remember her arrival at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="6" total="242.9489"><![CDATA[Shoved, pushed, harassed star Rihanna remembered his arrival at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="7" total="243.4247"><![CDATA[Shoved, pushed, harassed star Rihanna remembered for his arrival at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="8" total="243.4951"><![CDATA[Shoved, pushed, harassed the star Rihanna will remember arriving at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="9" total="243.8185"><![CDATA[Shoved, pushed, harassed the star Rihanna will remember his arrival at Gare du Nord in Paris.]]></nbest>
+			<nbest id="10" total="243.9946"><![CDATA[Shoved, pushed, harassed star Rihanna remember arriving at the Gare du Nord in Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ce week-end, Rihanna n'est pas passée inaperçue lors de son arrivée à Paris pour le concert de Coldplay au Stade de France.]]></source>
+		<target lang="en">
+			<nbest id="0" total="225.7993"><![CDATA[This weekend, Rihanna did not go unnoticed when he arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="1" total="226.6191"><![CDATA[This weekend, Rihanna does not go unnoticed when he arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="2" total="227.9265"><![CDATA[This weekend, Rihanna has not gone unnoticed when he arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="3" total="227.928"><![CDATA[This weekend, Rihanna did not go unnoticed when she arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="4" total="228.7478"><![CDATA[This weekend, Rihanna does not go unnoticed when she arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="5" total="228.8769"><![CDATA[This weekend, Rihanna has not gone unnoticed when she arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="6" total="229.3668"><![CDATA[This weekend, Rihanna is not unnoticed when he arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="7" total="230.4067"><![CDATA[This weekend, Rihanna has not gone unnoticed on his arrival in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+			<nbest id="8" total="231.1263"><![CDATA[This weekend, Rihanna is not unnoticed when she arrived in Paris for the Coldplay concert at the Stade de France.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Elle a créé l'émoi (voire l'émeute) à son arrivée dimanche Gare du Nord, ayant prévenu ses fans sur Twitter de son début de programme.]]></source>
+		<target lang="en">
+			<nbest id="0" total="354.8177"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, who warned his fans on Twitter of his early program.]]></nbest>
+			<nbest id="1" total="355.7204"><![CDATA[She has created a stir (or riot) upon his arrival Sunday Gare du Nord, who warned his fans on Twitter of his early program.]]></nbest>
+			<nbest id="2" total="355.817"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, who told his fans on Twitter of his early program.]]></nbest>
+			<nbest id="3" total="356.2279"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, having warned his fans on Twitter of his early program.]]></nbest>
+			<nbest id="4" total="357.1605"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, who warned his fans on Twitter the beginning of the program.]]></nbest>
+			<nbest id="5" total="357.3669"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, who warned her fans on Twitter of his early program.]]></nbest>
+			<nbest id="6" total="357.419"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, who warned his fans on Twitter of her early program.]]></nbest>
+			<nbest id="7" total="357.5986"><![CDATA[She created a stir (or riot) upon arrival Sunday Gare du Nord, who warned his fans on Twitter of his early program.]]></nbest>
+			<nbest id="8" total="358.1597"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, who told his fans on Twitter the beginning of the program.]]></nbest>
+			<nbest id="9" total="358.2695"><![CDATA[She has created a stir (or riot) upon his arrival Sunday Gare du Nord, who warned her fans on Twitter of his early program.]]></nbest>
+			<nbest id="10" total="358.4183"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, who told his fans on Twitter of her early program.]]></nbest>
+			<nbest id="11" total="358.5013"><![CDATA[She has created a stir (or riot) upon arrival Sunday Gare du Nord, who warned his fans on Twitter of his early program.]]></nbest>
+			<nbest id="12" total="358.5706"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, having warned his fans on Twitter the beginning of the program.]]></nbest>
+			<nbest id="13" total="358.5978"><![CDATA[She created a stir (or riot) upon arrival Sunday Gare du Nord, who told his fans on Twitter of his early program.]]></nbest>
+			<nbest id="14" total="358.8292"><![CDATA[She created a stir (or riot) upon his arrival Sunday Gare du Nord, having warned his fans on Twitter of her early program.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[En tweetant le numéro de son Eurostar au départ de Londres, ce qui a provoqué la venue de milliers de fans à son arrivée à la Gare du Nord, Rihanna s'est-elle mise en danger samedi soir?]]></source>
+		<target lang="en">
+			<nbest id="0" total="416.84"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at the Gare du Nord, Rihanna is she in danger Saturday night?]]></nbest>
+			<nbest id="1" total="416.9204"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon his arrival at the Gare du Nord, Rihanna is she in danger Saturday night?]]></nbest>
+			<nbest id="2" total="416.9721"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon arrival at the Gare du Nord, Rihanna is she in danger Saturday night?]]></nbest>
+			<nbest id="3" total="417.7701"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at the Gare du Nord, Rihanna has it endangered Saturday night?]]></nbest>
+			<nbest id="4" total="417.8505"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon his arrival at the Gare du Nord, Rihanna has it endangered Saturday night?]]></nbest>
+			<nbest id="5" total="417.9022"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon arrival at the Gare du Nord, Rihanna has it endangered Saturday night?]]></nbest>
+			<nbest id="6" total="418.1367"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at the Gare du Nord, Rihanna is she endangering Saturday night?]]></nbest>
+			<nbest id="7" total="418.2171"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon his arrival at the Gare du Nord, Rihanna is she endangering Saturday night?]]></nbest>
+			<nbest id="8" total="418.2688"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon arrival at the Gare du Nord, Rihanna is she endangering Saturday night?]]></nbest>
+			<nbest id="9" total="418.4897"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at the Gare du Nord, Rihanna is it endangered Saturday night?]]></nbest>
+			<nbest id="10" total="418.5701"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon his arrival at the Gare du Nord, Rihanna is it endangered Saturday night?]]></nbest>
+			<nbest id="11" total="418.6219"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon arrival at the Gare du Nord, Rihanna is it endangered Saturday night?]]></nbest>
+			<nbest id="12" total="418.7744"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at the Gare du Nord, Rihanna did it endangered Saturday night?]]></nbest>
+			<nbest id="13" total="418.7764"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans to his arrival at the Gare du Nord, Rihanna is she in danger Saturday night?]]></nbest>
+			<nbest id="14" total="418.8547"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon his arrival at the Gare du Nord, Rihanna did it endangered Saturday night?]]></nbest>
+			<nbest id="15" total="418.9065"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon arrival at the Gare du Nord, Rihanna did it endangered Saturday night?]]></nbest>
+			<nbest id="16" total="419.2827"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at the Gare du Nord, Rihanna Is endangered Saturday night?]]></nbest>
+			<nbest id="17" total="419.3631"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon his arrival at the Gare du Nord, Rihanna Is endangered Saturday night?]]></nbest>
+			<nbest id="18" total="419.4148"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon arrival at the Gare du Nord, Rihanna Is endangered Saturday night?]]></nbest>
+			<nbest id="19" total="419.4714"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at the Gare du Nord, Rihanna did it endanger Saturday night?]]></nbest>
+			<nbest id="20" total="419.5518"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon his arrival at the Gare du Nord, Rihanna did it endanger Saturday night?]]></nbest>
+			<nbest id="21" total="419.6035"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans upon arrival at the Gare du Nord, Rihanna did it endanger Saturday night?]]></nbest>
+			<nbest id="22" total="419.7065"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans to his arrival at the Gare du Nord, Rihanna has it endangered Saturday night?]]></nbest>
+			<nbest id="23" total="419.8161"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans on his arrival at Gare du Nord, Rihanna is she in danger Saturday night?]]></nbest>
+			<nbest id="24" total="420.0731"><![CDATA[By tweeting his number Eurostar from London, which led to the arrival of thousands of fans to his arrival at the Gare du Nord, Rihanna is she endangering Saturday night?]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Hier samedi 1er septembre, Rihanna a crée une émeute à Paris Gare du Nord où ses fans français s'étaient réunis en masse pour l'accueillir à la sortie de l'Eurostar.]]></source>
+		<target lang="en">
+			<nbest id="0" total="372.0255"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot at Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="1" total="372.0587"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="2" total="372.9243"><![CDATA[Yesterday Saturday, September 1, Rihanna has created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="3" total="373.1396"><![CDATA[Yesterday, Saturday 1st September, Rihanna has created a riot at Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="4" total="373.1727"><![CDATA[Yesterday, Saturday 1st September, Rihanna has created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="5" total="373.581"><![CDATA[Yesterday, Saturday September 1, Rihanna created a riot at Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="6" total="373.5864"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot at Paris Gare du Nord where her French fans gathered en masse to welcome to the output of the Eurostar.]]></nbest>
+			<nbest id="7" total="373.6157"><![CDATA[Yesterday, Saturday September 1, Rihanna created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="8" total="373.6196"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome to the output of the Eurostar.]]></nbest>
+			<nbest id="9" total="373.7065"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot at Paris Gare du Nord where her French fans gathered en masse to welcome the release of the Eurostar.]]></nbest>
+			<nbest id="10" total="373.7396"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome the release of the Eurostar.]]></nbest>
+			<nbest id="11" total="373.7524"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot at Paris Gare du Nord where his French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="12" total="373.7856"><![CDATA[Yesterday, Saturday September 1, Rihanna has created a riot in Paris Gare du Nord where his French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="13" total="374.4111"><![CDATA[Yesterday Saturday, September 1st, Rihanna has created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+			<nbest id="14" total="374.4813"><![CDATA[Yesterday Saturday, September 1, Rihanna created a riot in Paris Gare du Nord where her French fans gathered en masse to welcome him to the output of the Eurostar.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Informés de son heure d'arrivée, de nombreux fans de Rihanna ont attendu la star à la descente de son train, gare du Nord, créant une émeute.]]></source>
+		<target lang="en">
+			<nbest id="0" total="332.192"><![CDATA[Informed of his arrival time, many fans have been waiting for Rihanna to star in the descent of the train, Gare du Nord, creating a riot.]]></nbest>
+			<nbest id="1" total="332.4769"><![CDATA[Informed of his arrival time, many fans have been waiting for Rihanna to star in the descent of his train, Gare du Nord, creating a riot.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'arrivée de Rihanna à Paris n'est franchement pas passée inaperçue.]]></source>
+		<target lang="en">
+			<nbest id="0" total="146.3408"><![CDATA[Rihanna's arrival in Paris is frankly not gone unnoticed.]]></nbest>
+			<nbest id="1" total="147.1741"><![CDATA[Rihanna's arrival in Paris is frankly not go unnoticed.]]></nbest>
+			<nbest id="2" total="148.5207"><![CDATA[The arrival of Rihanna in Paris is frankly not gone unnoticed.]]></nbest>
+			<nbest id="3" total="149.354"><![CDATA[The arrival of Rihanna in Paris is frankly not go unnoticed.]]></nbest>
+			<nbest id="4" total="150.9411"><![CDATA[Rihanna's arrival in Paris is frankly not unnoticed.]]></nbest>
+			<nbest id="5" total="151.2085"><![CDATA[The arrival in Paris Rihanna is frankly not gone unnoticed.]]></nbest>
+			<nbest id="6" total="152.0417"><![CDATA[The arrival in Paris Rihanna is frankly not go unnoticed.]]></nbest>
+			<nbest id="7" total="153.6514"><![CDATA[The arrival of Rihanna Paris is frankly not gone unnoticed.]]></nbest>
+			<nbest id="8" total="153.918"><![CDATA[The arrival in Paris of Rihanna is frankly not gone unnoticed.]]></nbest>
+			<nbest id="9" total="154.4847"><![CDATA[The arrival of Rihanna Paris is frankly not go unnoticed.]]></nbest>
+			<nbest id="10" total="154.7512"><![CDATA[The arrival in Paris of Rihanna is frankly not go unnoticed.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chanteuse a eu le malheur d'indiquer sur le site de micro-blogging l'horaire de son Eurostar qui devait l'emmener jusque dans la capitale française samedi...]]></source>
+		<target lang="en">
+			<nbest id="0" total="353.3578"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule its Eurostar which was to take him into the French capital Saturday ...]]></nbest>
+			<nbest id="1" total="354.837"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site's schedule Eurostar which was to take him into the French capital Saturday ...]]></nbest>
+			<nbest id="2" total="354.838"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule its Eurostar which was to bring into the French capital Saturday ...]]></nbest>
+			<nbest id="3" total="355.2068"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule its Eurostar which was to take into the French capital Saturday ...]]></nbest>
+			<nbest id="4" total="355.2894"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedules its Eurostar which was to take him into the French capital Saturday ...]]></nbest>
+			<nbest id="5" total="355.3578"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule his Eurostar which was to take him into the French capital Saturday ...]]></nbest>
+			<nbest id="6" total="356.2966"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule its Eurostar which was to take him into the French capital on Saturday ...]]></nbest>
+			<nbest id="7" total="356.3171"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site's schedule Eurostar which was to bring into the French capital Saturday ...]]></nbest>
+			<nbest id="8" total="356.5816"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule its Eurostar which was taking him into the French capital Saturday ...]]></nbest>
+			<nbest id="9" total="356.6859"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site's schedule Eurostar which was to take into the French capital Saturday ...]]></nbest>
+			<nbest id="10" total="356.6955"><![CDATA[The singer had the misfortune to indicate on the microblogging site schedule its Eurostar which was to take him into the French capital Saturday ...]]></nbest>
+			<nbest id="11" total="356.7695"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedules its Eurostar which was to bring into the French capital Saturday ...]]></nbest>
+			<nbest id="12" total="356.8379"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule his Eurostar which was to bring into the French capital Saturday ...]]></nbest>
+			<nbest id="13" total="357.1383"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedules its Eurostar which was to take into the French capital Saturday ...]]></nbest>
+			<nbest id="14" total="357.2052"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule its Eurostar which was to take up in the French capital Saturday ...]]></nbest>
+			<nbest id="15" total="357.2067"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule his Eurostar which was to take into the French capital Saturday ...]]></nbest>
+			<nbest id="16" total="357.7442"><![CDATA[The singer had the misfortune to indicate the micro-blogging site schedule its Eurostar which was to take him into the French capital Saturday ...]]></nbest>
+			<nbest id="17" total="357.7757"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site's schedule Eurostar which was to take him into the French capital on Saturday ...]]></nbest>
+			<nbest id="18" total="357.7767"><![CDATA[The singer had the misfortune to indicate on the micro-blogging site schedule its Eurostar which was to bring into the French capital on Saturday ...]]></nbest>
+			<nbest id="19" total="357.908"><![CDATA[The singer had the misfortune to indicate on the microblogging site's schedule Eurostar which was to take him into the French capital Saturday ...]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chanteuse barbadienne a eu droit à un véritable comité d'accueil de fans et de paparazzi à son arrivée à Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="229.1742"><![CDATA[The Barbadian singer has got a real welcoming committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="1" total="230.748"><![CDATA[The Barbadian singer was treated to a real welcoming committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="2" total="231.0668"><![CDATA[The Barbadian singer has got a real welcoming committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+			<nbest id="3" total="231.6249"><![CDATA[The Barbadian singer was treated to a veritable host committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="4" total="231.6942"><![CDATA[The Barbadian singer has got a real welcoming committee of fans and paparazzi upon arrival at Paris.]]></nbest>
+			<nbest id="5" total="232.0312"><![CDATA[The Barbadian singer has got a true welcoming committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="6" total="232.3345"><![CDATA[The Barbadian singer has got a genuine welcoming committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="7" total="232.4506"><![CDATA[The Barbadian singer was treated to a true welcoming committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="8" total="232.4588"><![CDATA[The Barbadian singer was entitled to a real welcoming committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="9" total="232.4643"><![CDATA[The Barbadian singer was treated to a real host committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="10" total="232.6406"><![CDATA[The Barbadian singer was treated to a real welcoming committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+			<nbest id="11" total="232.9628"><![CDATA[The Barbadian singer has got a real welcoming committee of fans and paparazzi upon his arrival in Paris.]]></nbest>
+			<nbest id="12" total="233.0197"><![CDATA[The Barbadian singer has got a real welcoming committee of fans and paparazzi upon his arrival at Paris.]]></nbest>
+			<nbest id="13" total="233.0673"><![CDATA[The Barbadian singer has got a real reception committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="14" total="233.2679"><![CDATA[The Barbadian singer was treated to a real welcoming committee of fans and paparazzi upon arrival at Paris.]]></nbest>
+			<nbest id="15" total="233.5175"><![CDATA[The Barbadian singer was treated to a veritable host committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+			<nbest id="16" total="233.8611"><![CDATA[The Barbadian singer has got a real host committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="17" total="233.9129"><![CDATA[The Barbadian singer has got a real welcoming committee of fans and paparazzi on his arrival at Paris.]]></nbest>
+			<nbest id="18" total="233.9238"><![CDATA[The Barbadian singer has got a true welcoming committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+			<nbest id="19" total="234.1449"><![CDATA[The Barbadian singer was treated to a veritable host committee of fans and paparazzi upon arrival at Paris.]]></nbest>
+			<nbest id="20" total="234.1751"><![CDATA[The Barbadian singer was entitled to a real host committee of fans and paparazzi upon arrival in Paris.]]></nbest>
+			<nbest id="21" total="234.2271"><![CDATA[The Barbadian singer has got a genuine welcoming committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+			<nbest id="22" total="234.3432"><![CDATA[The Barbadian singer was treated to a true welcoming committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+			<nbest id="23" total="234.3514"><![CDATA[The Barbadian singer was entitled to a real welcoming committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+			<nbest id="24" total="234.3569"><![CDATA[The Barbadian singer was treated to a real host committee of fans and paparazzi on his arrival in Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chanteuse barbadienne n'a pas apprécié être bousculée lors de son arrivée en Gare du Nord à Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="202.0519"><![CDATA[The Barbadian singer did not appreciate being rushed upon his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="1" total="202.4736"><![CDATA[The Barbadian singer did not like being rushed upon his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="2" total="202.5003"><![CDATA[The Barbadian singer did not like being rushed when he arrived in Gare du Nord in Paris.]]></nbest>
+			<nbest id="3" total="203.3708"><![CDATA[The Barbadian singer did not like being knocked on his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="4" total="204.3882"><![CDATA[The Barbadian singer does not like being rushed upon his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="5" total="204.4149"><![CDATA[The Barbadian singer does not like being rushed when he arrived in Gare du Nord in Paris.]]></nbest>
+			<nbest id="6" total="204.9101"><![CDATA[The Barbadian singer did not appreciate being rushed upon arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="7" total="205.1851"><![CDATA[The Barbadian singer did not appreciate being rushed when he arrived in Gare du Nord in Paris.]]></nbest>
+			<nbest id="8" total="205.1974"><![CDATA[The Barbadian singer did not appreciate being rushed upon her arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="9" total="205.2094"><![CDATA[The Barbadian singer has not enjoyed being jostled when he arrived in Gare du Nord in Paris.]]></nbest>
+			<nbest id="10" total="205.3318"><![CDATA[The Barbadian singer did not like being rushed upon arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="11" total="205.4411"><![CDATA[The Barbadian singer did not like being knocked upon his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="12" total="205.5393"><![CDATA[The Barbadian singer has not enjoyed being shoved upon his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="13" total="205.6191"><![CDATA[The Barbadian singer did not like being rushed upon her arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="14" total="205.6794"><![CDATA[The Barbadian singer does not appreciate being rushed upon his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="15" total="205.7528"><![CDATA[The Barbadian singer has not enjoyed being hustled when he arrived in Gare du Nord in Paris.]]></nbest>
+			<nbest id="16" total="206.3354"><![CDATA[The Barbadian singer does not like being knocked on his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="17" total="206.345"><![CDATA[The Barbadian singer did not appreciate being shoved upon his arrival in Gare du Nord in Paris.]]></nbest>
+			<nbest id="18" total="206.4373"><![CDATA[The Barbadian singer has not enjoyed being shoved upon arrival in Gare du Nord in Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chanteuse originaire de la Barbade Rihanna a provoqué une bousculade samedi soir lors de son arrivée à Paris avant de s'en prendre à ses fans parisiens sur les réseaux sociaux.]]></source>
+		<target lang="en">
+			<nbest id="0" total="340.5303"><![CDATA[The singer from Barbados Rihanna caused a stampede Saturday night when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="1" total="340.603"><![CDATA[The singer from Barbados Rihanna caused a stampede Saturday evening when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="2" total="340.7505"><![CDATA[The singer from Barbados Rihanna has caused a stampede Saturday night when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="3" total="340.8231"><![CDATA[The singer from Barbados Rihanna has caused a stampede Saturday evening when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="4" total="341.1849"><![CDATA[The singer from Barbados Rihanna caused a stampede on Saturday evening when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="5" total="341.4051"><![CDATA[The singer from Barbados Rihanna has caused a stampede on Saturday evening when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="6" total="341.8379"><![CDATA[The singer from Barbados, Rihanna has caused a stampede Saturday night when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="7" total="341.9105"><![CDATA[The singer from Barbados, Rihanna has caused a stampede Saturday evening when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="8" total="341.9692"><![CDATA[The singer from Barbados Rihanna caused a stampede on Saturday night when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="9" total="342.1895"><![CDATA[The singer from Barbados Rihanna has caused a stampede on Saturday night when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="10" total="342.4924"><![CDATA[The singer from Barbados, Rihanna has caused a stampede on Saturday evening when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="11" total="342.991"><![CDATA[The singer from Barbados Rihanna caused a stampede Saturday night when he arrived in Paris before take his Parisian fans on social networks.]]></nbest>
+			<nbest id="12" total="343.0636"><![CDATA[The singer from Barbados Rihanna caused a stampede Saturday evening when he arrived in Paris before take his Parisian fans on social networks.]]></nbest>
+			<nbest id="13" total="343.2112"><![CDATA[The singer from Barbados Rihanna has caused a stampede Saturday night when he arrived in Paris before take his Parisian fans on social networks.]]></nbest>
+			<nbest id="14" total="343.2767"><![CDATA[The singer from Barbados, Rihanna has caused a stampede on Saturday night when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="15" total="343.2838"><![CDATA[The singer from Barbados Rihanna has caused a stampede Saturday evening when he arrived in Paris before take his Parisian fans on social networks.]]></nbest>
+			<nbest id="16" total="343.6456"><![CDATA[The singer from Barbados Rihanna caused a stampede on Saturday evening when he arrived in Paris before take his Parisian fans on social networks.]]></nbest>
+			<nbest id="17" total="343.7886"><![CDATA[The singer from Barbados, Rihanna caused a stampede Saturday night when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="18" total="343.8611"><![CDATA[The singer from Barbados, Rihanna caused a stampede Saturday evening when he arrived in Paris before attacking his Parisian fans on social networks.]]></nbest>
+			<nbest id="19" total="343.8657"><![CDATA[The singer from Barbados Rihanna has caused a stampede on Saturday evening when he arrived in Paris before take his Parisian fans on social networks.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chanteuse Rihanna a provoqué ce dimanche une émeute à Paris, dans la gare du Nord.]]></source>
+		<target lang="en">
+			<nbest id="0" total="181.9502"><![CDATA[The singer Rihanna caused a riot on Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="1" total="183.7618"><![CDATA[Singer Rihanna caused a riot on Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="2" total="183.8136"><![CDATA[The singer Rihanna has caused a riot on Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="3" total="185.1584"><![CDATA[The singer Rihanna caused a riot on Sunday in Paris, Gare du Nord.]]></nbest>
+			<nbest id="4" total="185.6252"><![CDATA[Singer Rihanna has caused a riot on Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="5" total="186.0766"><![CDATA[The singer Rihanna caused a riot on Sunday in Paris, the Gare du Nord.]]></nbest>
+			<nbest id="6" total="186.9701"><![CDATA[Singer Rihanna caused a riot on Sunday in Paris, Gare du Nord.]]></nbest>
+			<nbest id="7" total="187.0219"><![CDATA[The singer Rihanna has caused a riot on Sunday in Paris, Gare du Nord.]]></nbest>
+			<nbest id="8" total="187.2166"><![CDATA[The singer Rihanna caused a riot on Sunday in Paris North Station.]]></nbest>
+			<nbest id="9" total="187.4007"><![CDATA[The singer Rihanna provoked a riot on Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="10" total="187.7727"><![CDATA[The singer Rihanna caused a riot Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="11" total="187.94"><![CDATA[The singer Rihanna has caused a riot on Sunday in Paris, the Gare du Nord.]]></nbest>
+			<nbest id="12" total="188.0716"><![CDATA[The singer Rihanna caused a riot this Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="13" total="188.1177"><![CDATA[Singer Rihanna caused a riot on Sunday in Paris, the Gare du Nord.]]></nbest>
+			<nbest id="14" total="188.8335"><![CDATA[Singer Rihanna has caused a riot on Sunday in Paris, Gare du Nord.]]></nbest>
+			<nbest id="15" total="189.08"><![CDATA[The singer Rihanna has caused a riot on Sunday in Paris North Station.]]></nbest>
+			<nbest id="16" total="189.6361"><![CDATA[The singer Rihanna has caused a riot Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="17" total="189.935"><![CDATA[The singer Rihanna has caused a riot this Sunday in Paris Gare du Nord.]]></nbest>
+			<nbest id="18" total="189.9811"><![CDATA[Singer Rihanna has caused a riot on Sunday in Paris, the Gare du Nord.]]></nbest>
+			<nbest id="19" total="190.6089"><![CDATA[The singer Rihanna provoked a riot on Sunday in Paris, Gare du Nord.]]></nbest>
+			<nbest id="20" total="191.5179"><![CDATA[The singer Rihanna caused a riot on Sunday in Paris, in the Gare du Nord.]]></nbest>
+			<nbest id="21" total="191.5271"><![CDATA[The singer Rihanna provoked a riot on Sunday in Paris, the Gare du Nord.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La chanteuse Rihanna n'a pas apprécié l'accueil réservé par ses fans français à son arrivée à la gare du Nord vendredi soir et l'a fait savoir sur Twitter en distillant quelques insultes.]]></source>
+		<target lang="en">
+			<nbest id="0" total="401.3003"><![CDATA[The singer Rihanna did not appreciate the welcome by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="1" total="401.3016"><![CDATA[The singer Rihanna has not appreciated the welcome by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="2" total="401.5022"><![CDATA[The singer Rihanna did not appreciate the welcome by his French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="3" total="401.5035"><![CDATA[The singer Rihanna has not appreciated the welcome by his French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="4" total="401.6344"><![CDATA[The singer Rihanna did not like the reception by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="5" total="401.8579"><![CDATA[The singer Rihanna did not appreciate the welcome by her French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="6" total="401.8593"><![CDATA[The singer Rihanna has not appreciated the welcome by her French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="7" total="401.9366"><![CDATA[The singer Rihanna did not appreciate the welcome by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="8" total="401.9379"><![CDATA[The singer Rihanna has not appreciated the welcome by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="9" total="402.0598"><![CDATA[The singer Rihanna did not appreciate the welcome by his French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="10" total="402.0612"><![CDATA[The singer Rihanna has not appreciated the welcome by his French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="11" total="402.1385"><![CDATA[The singer Rihanna did not appreciate the welcome by his French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="12" total="402.1398"><![CDATA[The singer Rihanna has not appreciated the welcome by his French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="13" total="402.192"><![CDATA[The singer Rihanna did not like the reception by her French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="14" total="402.2707"><![CDATA[The singer Rihanna did not like the reception by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="15" total="402.4375"><![CDATA[The singer Rihanna did not like the reception by his French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling a few insults.]]></nbest>
+			<nbest id="16" total="402.4941"><![CDATA[The singer Rihanna did not appreciate the welcome by her French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="17" total="402.4955"><![CDATA[The singer Rihanna has not appreciated the welcome by her French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="18" total="402.5842"><![CDATA[The singer Rihanna did not appreciate the welcome by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling some insults.]]></nbest>
+			<nbest id="19" total="402.5855"><![CDATA[The singer Rihanna has not appreciated the welcome by her French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling some insults.]]></nbest>
+			<nbest id="20" total="402.696"><![CDATA[The singer Rihanna did not appreciate the welcome by his French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="21" total="402.6974"><![CDATA[The singer Rihanna has not appreciated the welcome by his French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+			<nbest id="22" total="402.7861"><![CDATA[The singer Rihanna did not appreciate the welcome by his French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling some insults.]]></nbest>
+			<nbest id="23" total="402.7874"><![CDATA[The singer Rihanna has not appreciated the welcome by his French fans upon arrival at the Gare du Nord on Friday night and reported on Twitter by distilling some insults.]]></nbest>
+			<nbest id="24" total="402.8283"><![CDATA[The singer Rihanna did not like the reception by her French fans upon his arrival at the Gare du Nord on Friday night and reported on Twitter by distilling few insults.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La star du R'n'B a provoqué une émeute, samedi à Paris, en annonçant elle-même sur Twitter son arrivée en gare du Nord.]]></source>
+		<target lang="en">
+			<nbest id="0" total="289.995"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing itself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="1" total="290.2255"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing herself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="2" total="291.469"><![CDATA[The R & B star has caused a riot Saturday in Paris, announcing itself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="3" total="291.6995"><![CDATA[The R & B star has caused a riot Saturday in Paris, announcing herself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="4" total="293.6396"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing itself on his arrival in Twitter Gare du Nord.]]></nbest>
+			<nbest id="5" total="293.9553"><![CDATA[The R & B star caused a riot on Saturday in Paris, announcing itself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="6" total="294.1858"><![CDATA[The R & B star caused a riot on Saturday in Paris, announcing herself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="7" total="295.1136"><![CDATA[The R & B star has caused a riot Saturday in Paris, announcing itself on his arrival in Twitter Gare du Nord.]]></nbest>
+			<nbest id="8" total="295.1454"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing itself on its arrival in Twitter Gare du Nord.]]></nbest>
+			<nbest id="9" total="295.3812"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing itself on Twitter his arrival in North Station.]]></nbest>
+			<nbest id="10" total="295.4169"><![CDATA[The R & B star has caused a riot in Paris Saturday, announcing itself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="11" total="295.4294"><![CDATA[The R & B star has caused a riot on Saturday in Paris, announcing itself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="12" total="295.5509"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing itself on Twitter his arrival in North station.]]></nbest>
+			<nbest id="13" total="295.6117"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing herself on Twitter his arrival in North Station.]]></nbest>
+			<nbest id="14" total="295.6599"><![CDATA[The R & B star has caused a riot on Saturday in Paris, announcing herself on Twitter his arrival in Gare du Nord.]]></nbest>
+			<nbest id="15" total="295.7814"><![CDATA[The R & B star caused a riot Saturday in Paris, announcing herself on Twitter his arrival in North station.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna a eu affaire à l'incivisme made in France lors de son arrivée à Paris Garde du Nord, via l'Eurostar en provenance de Londres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="319.3075"><![CDATA[Rihanna has been dealing with incivility made in France during his arrival at Paris Nord Guard via the Eurostar from London.]]></nbest>
+			<nbest id="1" total="319.8671"><![CDATA[Rihanna has been dealing with incivility made in France upon his arrival at Paris Nord Guard via the Eurostar from London.]]></nbest>
+			<nbest id="2" total="320.0842"><![CDATA[Rihanna has been dealing with incivility made in France during his arrival at Paris Nord Guard, via the Eurostar from London.]]></nbest>
+			<nbest id="3" total="320.2308"><![CDATA[Rihanna has been dealing with incivility made in France upon his arrival in Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="4" total="320.2582"><![CDATA[Rihanna has been dealing with antisocial behavior made in France during his arrival at Paris Nord Guard via the Eurostar from London.]]></nbest>
+			<nbest id="5" total="320.3201"><![CDATA[Rihanna has had to deal with incivility made in France during his arrival at Paris Nord Guard via the Eurostar from London.]]></nbest>
+			<nbest id="6" total="320.6438"><![CDATA[Rihanna has been dealing with incivility made in France upon his arrival at Paris Nord Guard, via the Eurostar from London.]]></nbest>
+			<nbest id="7" total="320.8179"><![CDATA[Rihanna has been dealing with antisocial behavior made in France upon his arrival at Paris Nord Guard via the Eurostar from London.]]></nbest>
+			<nbest id="8" total="320.9286"><![CDATA[Rihanna has been dealing with incivility made in France when he arrived in Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="9" total="320.936"><![CDATA[Rihanna has been dealing with incivility made in France during his arrival at Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="10" total="321.0349"><![CDATA[Rihanna has been dealing with antisocial behavior made in France during his arrival at Paris Nord Guard, via the Eurostar from London.]]></nbest>
+			<nbest id="11" total="321.0566"><![CDATA[Rihanna has been dealing with the antisocial behavior made in France during his arrival at Paris Nord Guard via the Eurostar from London.]]></nbest>
+			<nbest id="12" total="321.1815"><![CDATA[Rihanna has been dealing with antisocial behavior made in France upon his arrival in Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="13" total="321.2054"><![CDATA[Rihanna has been dealing with incivility made in France during his arrival in Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="14" total="321.4458"><![CDATA[Rihanna has been dealing with incivility made in France upon his arrival in Paris Guard North via Eurostar from London.]]></nbest>
+			<nbest id="15" total="321.4956"><![CDATA[Rihanna has been dealing with incivility made in France upon his arrival at Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="16" total="321.5063"><![CDATA[Rihanna has had to deal with incivility made in France upon his arrival in Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="17" total="321.5945"><![CDATA[Rihanna has been dealing with antisocial behavior made in France upon his arrival at Paris Nord Guard, via the Eurostar from London.]]></nbest>
+			<nbest id="18" total="321.6163"><![CDATA[Rihanna has been dealing with the antisocial behavior made in France upon his arrival at Paris Nord Guard via the Eurostar from London.]]></nbest>
+			<nbest id="19" total="321.8333"><![CDATA[Rihanna has been dealing with the antisocial behavior made in France during his arrival at Paris Nord Guard, via the Eurostar from London.]]></nbest>
+			<nbest id="20" total="321.8793"><![CDATA[Rihanna has been dealing with antisocial behavior made in France when he arrived in Paris Guard North via the Eurostar from London.]]></nbest>
+			<nbest id="21" total="321.8868"><![CDATA[Rihanna has been dealing with antisocial behavior made in France during his arrival at Paris Guard North via the Eurostar from London.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna a insulté les français sur son compte du réseau social Twitter ce week-end, après avoir créé une émeute à la gare du Nord, à Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="300.3357"><![CDATA[Rihanna has insulted the French on account of its social networking site Twitter this weekend, after creating a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="1" total="300.7978"><![CDATA[Rihanna has insulted the French on account of its social networking site Twitter this weekend, after having created a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="2" total="301.0244"><![CDATA[Rihanna has insulted the French on account of its social networking site Twitter this weekend, having created a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="3" total="301.2193"><![CDATA[Rihanna has insulted the French on account of his social networking site Twitter this weekend, after creating a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="4" total="301.6814"><![CDATA[Rihanna has insulted the French on account of his social networking site Twitter this weekend, after having created a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="5" total="301.6873"><![CDATA[Rihanna has insulted the French on his account of the social network Twitter this weekend, after creating a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="6" total="301.8857"><![CDATA[Rihanna has insulted the French on account of its social networking site Twitter this weekend, after creating a riot in the Gare du Nord in Paris.]]></nbest>
+			<nbest id="7" total="301.9079"><![CDATA[Rihanna has insulted the French on account of his social networking site Twitter this weekend, having created a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="8" total="302.1269"><![CDATA[Rihanna has insulted the French on account of its social network Twitter this weekend, after creating a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="9" total="302.1494"><![CDATA[Rihanna has insulted the French on his account of the social network Twitter this weekend, after having created a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="10" total="302.3759"><![CDATA[Rihanna has insulted the French on his account of the social network Twitter this weekend, having created a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="11" total="302.5009"><![CDATA[Rihanna has insulted the French's account of the social network Twitter this weekend, after creating a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="12" total="302.589"><![CDATA[Rihanna has insulted the French on account of its social network Twitter this weekend, after having created a riot at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="13" total="302.5945"><![CDATA[Rihanna has insulted the French on account of his social network Twitter this weekend, after creating a riot at the Gare du Nord in Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna a été conviée à Paris au Stade de France par Coldplay pour leur premier concert mais l'arrivée de la belle dans la capitale a créée une émeute et la chanteuse a été ainsi bousculée, prise en photo, alpaguée, tout cela sous les cris et les bruits de la foule rassemblée.]]></source>
+		<target lang="en">
+			<nbest id="0" total="700.7441"><![CDATA[Rihanna was invited to Paris at the Stade de France by Coldplay for their first concert but the arrival of the beautiful in the capital has created a riot and the singer was so shaken up, photographed, alpaguée, all the cries and the noise of the crowd.]]></nbest>
+			<nbest id="1" total="701.5558"><![CDATA[Rihanna was invited to Paris at the Stade de France by Coldplay for their first concert but the arrival of the beautiful in the capital has created a riot and the singer was so shaken, photographed, alpaguée, all the cries and the noise of the crowd.]]></nbest>
+			<nbest id="2" total="701.798"><![CDATA[Rihanna was invited to Paris at the Stade de France by Coldplay for their first concert, but the arrival of the beautiful in the capital has created a riot and the singer was so shaken up, photographed, alpaguée, all the cries and the noise of the crowd.]]></nbest>
+			<nbest id="3" total="702.3714"><![CDATA[Rihanna was invited to Paris at the Stade de France by Coldplay for their first concert but the arrival of the beautiful in the capital has created a riot and the singer was so shaken up, photographed, alpaguée, all the cries and sounds of the crowd.]]></nbest>
+			<nbest id="4" total="702.6096"><![CDATA[Rihanna was invited to Paris at the Stade de France by Coldplay for their first concert, but the arrival of the beautiful in the capital has created a riot and the singer was so shaken, photographed, alpaguée, all the cries and the noise of the crowd.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna crée l'évènement ce week-end en débarquant à la Gare du Nord de Paris.]]></source>
+		<target lang="en">
+			<nbest id="0" total="178.2619"><![CDATA[Rihanna creates an event this weekend landing at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="1" total="180.3773"><![CDATA[Rihanna creates an event this weekend landed at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="2" total="181.1836"><![CDATA[Rihanna creates the event this weekend landing at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="3" total="181.8846"><![CDATA[Rihanna creates an event this weekend landing at Gare du Nord in Paris.]]></nbest>
+			<nbest id="4" total="182.3975"><![CDATA[Rihanna creates an event this weekend when he landed at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="5" total="182.7333"><![CDATA[Rihanna creates an event this weekend disembarked at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="6" total="183.0484"><![CDATA[Rihanna created the event this weekend landing at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="7" total="183.2989"><![CDATA[Rihanna creates the event this weekend landed at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="8" total="183.4384"><![CDATA[Rihanna creates an event this weekend in landing at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="9" total="183.5408"><![CDATA[Rihanna creates event this weekend landing at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="10" total="184.0153"><![CDATA[Rihanna creates an event this weekend landed at Gare du Nord in Paris.]]></nbest>
+			<nbest id="11" total="184.0652"><![CDATA[Rihanna creates an event this weekend by landing at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="12" total="184.8063"><![CDATA[Rihanna creates the event this weekend landing at Gare du Nord in Paris.]]></nbest>
+			<nbest id="13" total="185.037"><![CDATA[Rihanna creates an event this weekend by landing the Gare du Nord in Paris.]]></nbest>
+			<nbest id="14" total="185.2467"><![CDATA[Rihanna creates an event that weekend landing at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="15" total="185.655"><![CDATA[Rihanna creates the event this weekend disembarked at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="16" total="185.6561"><![CDATA[Rihanna creates event this weekend landed at the Gare du Nord in Paris.]]></nbest>
+			<nbest id="17" total="185.9594"><![CDATA[Rihanna created the event this weekend landing at Gare du Nord in Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna débarque à Paris, créé l'émeute à la gare et est en colère après ses fans français.]]></source>
+		<target lang="en">
+			<nbest id="0" total="225.2675"><![CDATA[Rihanna arrives in Paris, created a riot at the station and is angry with his French fans.]]></nbest>
+			<nbest id="1" total="225.3444"><![CDATA[Rihanna arrives in Paris, created a riot at the station and is angry with her French fans.]]></nbest>
+			<nbest id="2" total="227.6381"><![CDATA[Rihanna arrives in Paris, created a riot at the station and is angry at her French fans.]]></nbest>
+			<nbest id="3" total="228.1476"><![CDATA[Rihanna arrives in Paris, created a riot at the station, and is angry with his French fans.]]></nbest>
+			<nbest id="4" total="228.2245"><![CDATA[Rihanna arrives in Paris, created a riot at the station, and is angry with her French fans.]]></nbest>
+			<nbest id="5" total="228.2784"><![CDATA[Rihanna arrives in Paris, created a riot at the station and is angry after her French fans.]]></nbest>
+			<nbest id="6" total="229.2043"><![CDATA[Rihanna arrives in Paris, created the riot at the station and is angry with his French fans.]]></nbest>
+			<nbest id="7" total="229.2812"><![CDATA[Rihanna arrives in Paris, created the riot at the station and is angry with her French fans.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna gardera sûrement un souvenir très moyen de son dernier passage à Paris, après avoir été bousculée par des dizaines de fans, qui l'attendaient hier soir à son arrivée à la Gare du Nord.]]></source>
+		<target lang="en">
+			<nbest id="0" total="406.7948"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after having been jostled by dozens of fans, who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="1" total="406.8005"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after having been jostled by dozens of fans who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="2" total="406.9014"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after having been jostled by dozens of fans waiting for him yesterday on his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="3" total="407.0671"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after having been jostled by dozens of fans, who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="4" total="407.0729"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after having been jostled by dozens of fans who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="5" total="407.1737"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after having been jostled by dozens of fans waiting for him yesterday on his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="6" total="407.9847"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after being jostled by dozens of fans, who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="7" total="407.9904"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after being jostled by dozens of fans who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="8" total="408.0806"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after having been jostled by dozens of fans waiting for him last night upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="9" total="408.0912"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after being jostled by dozens of fans waiting for him yesterday on his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="10" total="408.1466"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after having been jostled by dozens of fans waiting for him last night on his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="11" total="408.1943"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after having been jostled by dozens of fans waiting for him last night upon arrival at the Gare du Nord.]]></nbest>
+			<nbest id="12" total="408.257"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after being jostled by dozens of fans, who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="13" total="408.2628"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after being jostled by dozens of fans who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="14" total="408.2643"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after being pushed by dozens of fans, who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="15" total="408.2701"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after being pushed by dozens of fans who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="16" total="408.3529"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after having been jostled by dozens of fans waiting for him last night upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="17" total="408.3602"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after having been jostled by dozens of fans waiting for him yesterday evening upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="18" total="408.3636"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after being jostled by dozens of fans waiting for him yesterday on his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="19" total="408.3709"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, after being pushed by dozens of fans waiting for him yesterday on his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="20" total="408.4189"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after having been jostled by dozens of fans waiting for him last night on his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="21" total="408.4563"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, having been jostled by dozens of fans, who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="22" total="408.462"><![CDATA[Rihanna will surely keep memories through its very last visit to Paris, having been jostled by dozens of fans who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+			<nbest id="23" total="408.4667"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after having been jostled by dozens of fans waiting for him last night upon arrival at the Gare du Nord.]]></nbest>
+			<nbest id="24" total="408.5367"><![CDATA[Rihanna will surely keep a memory through its very last visit to Paris, after being pushed by dozens of fans, who waited yesterday upon his arrival at the Gare du Nord.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna n'a pas du tout apprécié l'accueil de ses fans et des paparazzis lors de son arrivée Gare du Nord à Paris, elle a été bousculée et maltraitée sans que son service de sécurité puisse faire quoi que ce soit.]]></source>
+		<target lang="en">
+			<nbest id="0" total="423.2529"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was shoved and abused without his security service can do anything.]]></nbest>
+			<nbest id="1" total="423.3314"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was jostled and abused without his security service can do anything.]]></nbest>
+			<nbest id="2" total="423.4225"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was abused and jostled without his security service can do anything.]]></nbest>
+			<nbest id="3" total="423.9242"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was shaken and abused without his security service can do anything.]]></nbest>
+			<nbest id="4" total="424.3699"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was shoved and abused without its security service can do anything.]]></nbest>
+			<nbest id="5" total="424.4484"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was jostled and abused without its security service can do anything.]]></nbest>
+			<nbest id="6" total="424.4553"><![CDATA[Rihanna did not appreciate the hospitality of its fans and paparazzi upon arrival Gare du Nord in Paris, she was shoved and abused without his security service can do anything.]]></nbest>
+			<nbest id="7" total="424.5337"><![CDATA[Rihanna did not appreciate the hospitality of its fans and paparazzi upon arrival Gare du Nord in Paris, she was jostled and abused without his security service can do anything.]]></nbest>
+			<nbest id="8" total="424.5396"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was abused and jostled without its security service can do anything.]]></nbest>
+			<nbest id="9" total="424.6249"><![CDATA[Rihanna did not appreciate the hospitality of its fans and paparazzi upon arrival Gare du Nord in Paris, she was abused and jostled without his security service can do anything.]]></nbest>
+			<nbest id="10" total="424.8546"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon his arrival at Paris Gare du Nord, she was shoved and abused without his security service can do anything.]]></nbest>
+			<nbest id="11" total="424.8637"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was shoved and abused without the security service can do anything.]]></nbest>
+			<nbest id="12" total="424.9331"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon his arrival at Paris Gare du Nord, she was jostled and abused without his security service can do anything.]]></nbest>
+			<nbest id="13" total="424.9421"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was jostled and abused without the security service can do anything.]]></nbest>
+			<nbest id="14" total="425.0119"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival at Paris Gare du Nord, she was shoved and abused without his security service can do anything.]]></nbest>
+			<nbest id="15" total="425.0242"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon his arrival at Paris Gare du Nord, she was abused and jostled without his security service can do anything.]]></nbest>
+			<nbest id="16" total="425.0412"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was shaken and abused without its security service can do anything.]]></nbest>
+			<nbest id="17" total="425.0504"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was shoved and abused without its security can do anything.]]></nbest>
+			<nbest id="18" total="425.0516"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was abused and jostled without the security service can do anything.]]></nbest>
+			<nbest id="19" total="425.0904"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival at Paris Gare du Nord, she was jostled and abused without his security service can do anything.]]></nbest>
+			<nbest id="20" total="425.1265"><![CDATA[Rihanna did not appreciate the hospitality of its fans and paparazzi upon arrival Gare du Nord in Paris, she was shaken and abused without his security service can do anything.]]></nbest>
+			<nbest id="21" total="425.1288"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was jostled and abused without its security can do anything.]]></nbest>
+			<nbest id="22" total="425.1815"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival at Paris Gare du Nord, she was abused and jostled without his security service can do anything.]]></nbest>
+			<nbest id="23" total="425.22"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon arrival Gare du Nord in Paris, she was abused and jostled without its security can do anything.]]></nbest>
+			<nbest id="24" total="425.5259"><![CDATA[Rihanna did not appreciate the home fans and paparazzi upon his arrival at Paris Gare du Nord, she was shaken and abused without his security service can do anything.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna n'a pas vraiment apprécié la cohue qui a accompagné son arrivée Gare du Nord, samedi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="212.2282"><![CDATA[Rihanna has not really enjoyed the rush that accompanied his arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="1" total="212.409"><![CDATA[Rihanna has not really enjoyed the crowd that accompanied his arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="2" total="212.5209"><![CDATA[Rihanna did not really enjoy the rush that accompanied his arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="3" total="212.9297"><![CDATA[Rihanna has not really enjoyed the rush that accompanied his arrival Gare du Nord Saturday.]]></nbest>
+			<nbest id="4" total="213.1106"><![CDATA[Rihanna has not really enjoyed the crowd that accompanied his arrival Gare du Nord Saturday.]]></nbest>
+			<nbest id="5" total="213.2224"><![CDATA[Rihanna did not really enjoy the rush that accompanied his arrival Gare du Nord Saturday.]]></nbest>
+			<nbest id="6" total="214.6583"><![CDATA[Rihanna did not really enjoy the crowd that accompanied his arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="7" total="215.1234"><![CDATA[Rihanna has not really enjoyed the rush that accompanied his arrival Gare du Nord, Saturday.]]></nbest>
+			<nbest id="8" total="215.2657"><![CDATA[Rihanna has not really appreciated the crowd that accompanied his arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="9" total="215.3043"><![CDATA[Rihanna has not really enjoyed the crowd that accompanied his arrival Gare du Nord, Saturday.]]></nbest>
+			<nbest id="10" total="215.3099"><![CDATA[Rihanna did not really appreciate the crowd that accompanied his arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="11" total="215.3598"><![CDATA[Rihanna did not really enjoy the crowd that accompanied his arrival Gare du Nord Saturday.]]></nbest>
+			<nbest id="12" total="215.4162"><![CDATA[Rihanna did not really enjoy the rush that accompanied his arrival Gare du Nord, Saturday.]]></nbest>
+			<nbest id="13" total="215.7919"><![CDATA[Rihanna did not really enjoyed the crowd that accompanied his arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="14" total="215.9673"><![CDATA[Rihanna has not really appreciated the crowd that accompanied his arrival Gare du Nord Saturday.]]></nbest>
+			<nbest id="15" total="216.0114"><![CDATA[Rihanna did not really appreciate the crowd that accompanied his arrival Gare du Nord Saturday.]]></nbest>
+			<nbest id="16" total="216.4934"><![CDATA[Rihanna did not really enjoyed the crowd that accompanied his arrival Gare du Nord Saturday.]]></nbest>
+			<nbest id="17" total="216.9595"><![CDATA[Rihanna has not really enjoyed the rush that accompanied his arrival Gare du Nord, on Saturday.]]></nbest>
+			<nbest id="18" total="217.0829"><![CDATA[Rihanna has not really enjoyed the crowd that accompanied her arrival Gare du Nord on Saturday.]]></nbest>
+			<nbest id="19" total="217.1404"><![CDATA[Rihanna has not really enjoyed the crowd that accompanied his arrival Gare du Nord, on Saturday.]]></nbest>
+			<nbest id="20" total="217.4014"><![CDATA[Rihanna has not really enjoyed the crowd that accompanied its arrival Gare du Nord on Saturday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna n'est pas prête d'oublier de sitôt son arrivé en fanfare à Paris où elle avait été accueillie par une horde de fans et des paparazzi, venus à sa rencontre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="332.9884"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of paparazzi and fans who came to meet him.]]></nbest>
+			<nbest id="1" total="333.7278"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of paparazzi and fans who came out to meet him.]]></nbest>
+			<nbest id="2" total="334.4178"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of paparazzi and fans who had come to meet him.]]></nbest>
+			<nbest id="3" total="334.5865"><![CDATA[Rihanna is not ready to forget as soon as he arrived with much fanfare in Paris where she was greeted by a horde of paparazzi and fans who came to meet him.]]></nbest>
+			<nbest id="4" total="334.9632"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of fans and paparazzi, came to meet him.]]></nbest>
+			<nbest id="5" total="335.0706"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of paparazzi and fans who came to meet her.]]></nbest>
+			<nbest id="6" total="335.3259"><![CDATA[Rihanna is not ready to forget as soon as he arrived with much fanfare in Paris where she was greeted by a horde of paparazzi and fans who came out to meet him.]]></nbest>
+			<nbest id="7" total="335.3733"><![CDATA[Rihanna is not ready to forget as soon as he arrived with great fanfare in Paris where she was greeted by a horde of paparazzi and fans who came to meet him.]]></nbest>
+			<nbest id="8" total="335.886"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris, where she was greeted by a horde of paparazzi and fans who came to meet him.]]></nbest>
+			<nbest id="9" total="335.9326"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of paparazzi and fans who had come to meet her.]]></nbest>
+			<nbest id="10" total="336.0159"><![CDATA[Rihanna is not ready to forget as soon as he arrived with much fanfare in Paris where she was greeted by a horde of paparazzi and fans who had come to meet him.]]></nbest>
+			<nbest id="11" total="336.1127"><![CDATA[Rihanna is not ready to forget as soon as he arrived with great fanfare in Paris where she was greeted by a horde of paparazzi and fans who came out to meet him.]]></nbest>
+			<nbest id="12" total="336.1224"><![CDATA[Rihanna is not ready to forget as soon as he arrived with fanfare in Paris where she was greeted by a horde of paparazzi and fans who came to meet him.]]></nbest>
+			<nbest id="13" total="336.5612"><![CDATA[Rihanna is not ready to forget as soon as he arrived with much fanfare in Paris where she was greeted by a horde of fans and paparazzi, came to meet him.]]></nbest>
+			<nbest id="14" total="336.6254"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris, where she was greeted by a horde of paparazzi and fans who came out to meet him.]]></nbest>
+			<nbest id="15" total="336.6686"><![CDATA[Rihanna is not ready to forget as soon as he arrived with much fanfare in Paris where she was greeted by a horde of paparazzi and fans who came to meet her.]]></nbest>
+			<nbest id="16" total="336.8027"><![CDATA[Rihanna is not ready to forget as soon as he arrived with great fanfare in Paris where she was greeted by a horde of paparazzi and fans who had come to meet him.]]></nbest>
+			<nbest id="17" total="336.8618"><![CDATA[Rihanna is not ready to forget as soon as he arrived with fanfare in Paris where she was greeted by a horde of paparazzi and fans who came out to meet him.]]></nbest>
+			<nbest id="18" total="336.9637"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of fans and paparazzi, came to meet her.]]></nbest>
+			<nbest id="19" total="337.2609"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris where she was greeted by a horde of paparazzi and fans, came to meet him.]]></nbest>
+			<nbest id="20" total="337.3155"><![CDATA[Rihanna is not ready to forget as soon as he arrived with a bang in Paris, where she was greeted by a horde of paparazzi and fans who had come to meet him.]]></nbest>
+			<nbest id="21" total="337.348"><![CDATA[Rihanna is not ready to forget as soon as he arrived with great fanfare in Paris where she was greeted by a horde of fans and paparazzi, came to meet him.]]></nbest>
+			<nbest id="22" total="337.4554"><![CDATA[Rihanna is not ready to forget as soon as he arrived with great fanfare in Paris where she was greeted by a horde of paparazzi and fans who came to meet her.]]></nbest>
+			<nbest id="23" total="337.5307"><![CDATA[Rihanna is not ready to forget as soon as he arrived with much fanfare in Paris where she was greeted by a horde of paparazzi and fans who had come to meet her.]]></nbest>
+			<nbest id="24" total="337.5518"><![CDATA[Rihanna is not ready to forget as soon as he arrived with fanfare in Paris where she was greeted by a horde of paparazzi and fans who had come to meet him.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna qui provoque un rassemblement houleux de fans autour d'elle et les insulte ensuite sur Twitter, ça intéresse quelqu'un?]]></source>
+		<target lang="en">
+			<nbest id="0" total="290.1169"><![CDATA[Rihanna causing a heated gathering of fans around her and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="1" total="290.2973"><![CDATA[Rihanna causing a heated rally fans around her and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="2" total="290.413"><![CDATA[Rihanna causing a stormy gathering of fans around her and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="3" total="290.5992"><![CDATA[Rihanna causing a heated rally fans around it and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="4" total="290.7905"><![CDATA[Rihanna causing a heated gathering of fans around her and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="5" total="290.9709"><![CDATA[Rihanna causing a heated rally fans around her and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="6" total="291.0316"><![CDATA[Rihanna causes a collection of stormy fans around her and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="7" total="291.053"><![CDATA[Rihanna causing a fierce rally fans around her and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="8" total="291.0866"><![CDATA[Rihanna causing a stormy gathering of fans around her and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="9" total="291.2727"><![CDATA[Rihanna causing a heated rally fans around it and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="10" total="291.3334"><![CDATA[Rihanna causes a collection of stormy fans around it and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="11" total="291.3549"><![CDATA[Rihanna causing a fierce rally fans around it and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="12" total="291.5487"><![CDATA[Rihanna causes a heated rally fans around her and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="13" total="291.7052"><![CDATA[Rihanna causes a collection of stormy fans around her and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="14" total="291.7267"><![CDATA[Rihanna causing a fierce rally fans around her and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="15" total="291.8177"><![CDATA[Rihanna causing a heated gathering of fans around it and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="16" total="291.8505"><![CDATA[Rihanna causes a heated rally fans around it and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="17" total="292.007"><![CDATA[Rihanna causes a collection of stormy fans around it and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="18" total="292.0285"><![CDATA[Rihanna causing a fierce rally fans around it and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="19" total="292.1138"><![CDATA[Rihanna causing a stormy gathering of fans around it and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="20" total="292.2223"><![CDATA[Rihanna causes a heated rally fans around her and then insult on Twitter, someone cares?]]></nbest>
+			<nbest id="21" total="292.2535"><![CDATA[Rihanna causing a heated gathering of fans around her and then insults on Twitter, you wonder?]]></nbest>
+			<nbest id="22" total="292.2722"><![CDATA[Rihanna causes a stormy gathering of fans around her and then insult on Twitter, you wonder?]]></nbest>
+			<nbest id="23" total="292.434"><![CDATA[Rihanna causing a heated rally fans around her and then insults on Twitter, you wonder?]]></nbest>
+			<nbest id="24" total="292.4913"><![CDATA[Rihanna causing a heated gathering of fans around it and then insult on Twitter, someone cares?]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna s'est fait une belle frayeur hier: en escapade à Paris, elle a créé l'émeute Gare du Nord!]]></source>
+		<target lang="en">
+			<nbest id="0" total="265.8257"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she created the Gare du Nord riot!]]></nbest>
+			<nbest id="1" total="266.1022"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she created the Gare du Nord riot!]]></nbest>
+			<nbest id="2" total="266.8164"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she created the riot Gare du Nord!]]></nbest>
+			<nbest id="3" total="267.4091"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she started the riot Gare du Nord!]]></nbest>
+			<nbest id="4" total="267.5186"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she created a riot Gare du Nord!]]></nbest>
+			<nbest id="5" total="267.5959"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she created the riot Gare du Nord!]]></nbest>
+			<nbest id="6" total="268.2456"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she started the riot Gare du Nord!]]></nbest>
+			<nbest id="7" total="268.4262"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she created a riot Gare du Nord!]]></nbest>
+			<nbest id="8" total="268.5364"><![CDATA[Rihanna got a scare yesterday: getaway in Paris, she created the Gare du Nord riot!]]></nbest>
+			<nbest id="9" total="268.781"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she has created a riot Gare du Nord!]]></nbest>
+			<nbest id="10" total="268.9477"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she has created a riot Gare du Nord!]]></nbest>
+			<nbest id="11" total="269.1249"><![CDATA[Rihanna got a scare yesterday: getaway to Paris, she created the Gare du Nord riot!]]></nbest>
+			<nbest id="12" total="269.1889"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she has created the Gare du Nord riot!]]></nbest>
+			<nbest id="13" total="269.5544"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she has created the Gare du Nord riot!]]></nbest>
+			<nbest id="14" total="269.8392"><![CDATA[Rihanna got a scare yesterday: getaway to Paris, she created the riot Gare du Nord!]]></nbest>
+			<nbest id="15" total="270.0831"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she created the Gare du Nord riots!]]></nbest>
+			<nbest id="16" total="270.2686"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she has created the riot Gare du Nord!]]></nbest>
+			<nbest id="17" total="270.3065"><![CDATA[Rihanna got a scare yesterday: getaway in Paris, she created the riot Gare du Nord!]]></nbest>
+			<nbest id="18" total="270.3595"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she created the Gare du Nord riots!]]></nbest>
+			<nbest id="19" total="270.4214"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she started the Gare du Nord riot!]]></nbest>
+			<nbest id="20" total="270.4319"><![CDATA[Rihanna got a scare yesterday: getaway to Paris, she started the riot Gare du Nord!]]></nbest>
+			<nbest id="21" total="270.4353"><![CDATA[Rihanna got a scare yesterday getaway in Paris, she has created the riot Gare du Nord!]]></nbest>
+			<nbest id="22" total="270.5414"><![CDATA[Rihanna got a scare yesterday: getaway to Paris, she created a riot Gare du Nord!]]></nbest>
+			<nbest id="23" total="270.7095"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she established the Gare du Nord riot!]]></nbest>
+			<nbest id="24" total="270.9056"><![CDATA[Rihanna got a scare yesterday getaway to Paris, she created riot Gare du Nord!]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna voulait faire parler d'elle, elle a surtout créé une émeute durant laquelle elle a été bousculée, samedi soir, à la gare du Nord.]]></source>
+		<target lang="en">
+			<nbest id="0" total="301.7026"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which it was shaken Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="1" total="302.6513"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which she was shaken Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="2" total="302.6934"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which it was shaken Saturday night, at the Gare du Nord.]]></nbest>
+			<nbest id="3" total="302.7563"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which she was shoved on Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="4" total="303.1269"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which she was jostled on Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="5" total="303.3518"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which she was jostled Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="6" total="303.6421"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which she was shaken Saturday night, at the Gare du Nord.]]></nbest>
+			<nbest id="7" total="303.9435"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which it was shaken on Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="8" total="304.1628"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which it was shaken Saturday evening at the Gare du Nord.]]></nbest>
+			<nbest id="9" total="304.8946"><![CDATA[Rihanna wanted to talk about it, it really created a riot in which it was shaken Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="10" total="304.9212"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which she was jostled Saturday night, at the Gare du Nord.]]></nbest>
+			<nbest id="11" total="304.9623"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which it was shaken Saturday night, the Gare du Nord.]]></nbest>
+			<nbest id="12" total="304.9936"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which it was shoved on Saturday night at the Gare du Nord.]]></nbest>
+			<nbest id="13" total="305.1115"><![CDATA[Rihanna wanted to talk about it, it really created a riot during which she was shaken Saturday evening at the Gare du Nord.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna était de passage à Paris le samedi 1er septembre 2012 ou elle s'est fait bousculer par les Parisiens dans une gare complètement bondée.]]></source>
+		<target lang="en">
+			<nbest id="0" total="304.481"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 and it has been pushed by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="1" total="305.7006"><![CDATA[Rihanna was visiting Paris on Saturday 1st September 2012 and it has been pushed by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="2" total="306.3427"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 and it has been pushed by the Parisians in a fully crowded train.]]></nbest>
+			<nbest id="3" total="306.3961"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 or it has been pushed by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="4" total="306.8609"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 or it is shoving the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="5" total="306.956"><![CDATA[Rihanna was passing through Paris on Saturday 1 September 2012 or it has been pushed by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="6" total="307.0336"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 and it is shoving the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="7" total="307.2749"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 and it has been pushed by Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="8" total="307.2805"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 where she became upset by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="9" total="307.4125"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 where she became upset by Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="10" total="307.4208"><![CDATA[Rihanna was passing through Paris on Saturday 1 September 2012 or it is shoving the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="11" total="307.5315"><![CDATA[Rihanna was passing through Paris on Saturday 1 September 2012 where she became upset by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="12" total="307.5624"><![CDATA[Rihanna was visiting Paris on Saturday 1st September 2012 and it has been pushed by the Parisians in a fully crowded train.]]></nbest>
+			<nbest id="13" total="307.6157"><![CDATA[Rihanna was visiting Paris on Saturday 1st September 2012 or it has been pushed by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="14" total="307.639"><![CDATA[Rihanna was passing through Paris on Saturday, September 1, 2012 or it has been pushed by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="15" total="307.6634"><![CDATA[Rihanna was passing through Paris on Saturday 1 September 2012 where she became upset by Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="16" total="308.0805"><![CDATA[Rihanna was visiting Paris on Saturday 1st September 2012 or it is shoving the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="17" total="308.1038"><![CDATA[Rihanna was passing through Paris on Saturday, September 1, 2012 or it is shoving the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="18" total="308.1756"><![CDATA[Rihanna was visiting Paris on Saturday 1 September 2012 or it has been pushed by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="19" total="308.2533"><![CDATA[Rihanna was visiting Paris on Saturday 1st September 2012 and it is shoving the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="20" total="308.2579"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 or it has been pushed by the Parisians in a fully crowded train.]]></nbest>
+			<nbest id="21" total="308.3569"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 and it has been pushed by the Parisians in a completely packed train.]]></nbest>
+			<nbest id="22" total="308.4946"><![CDATA[Rihanna was visiting Paris on Saturday 1st September 2012 and it has been pushed by Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="23" total="308.5002"><![CDATA[Rihanna was visiting Paris on Saturday 1st September 2012 where she became upset by the Parisians in a fully crowded train station.]]></nbest>
+			<nbest id="24" total="308.5244"><![CDATA[Rihanna was passing through Paris on Saturday 1st September 2012 and it has been pushed by the Parisians in a crowded train completely.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna était à Paris ce week-end et son arrivée n'a pas franchement été tranquille, au grand dam de la chanteuse, qui a exprimé sa colère sur Twitter.]]></source>
+		<target lang="en">
+			<nbest id="0" total="307.4756"><![CDATA[Rihanna was in Paris this weekend and his arrival has not been quiet frankly, to the chagrin of the singer, who expressed his anger on Twitter.]]></nbest>
+			<nbest id="1" total="307.5738"><![CDATA[Rihanna was in Paris this weekend and his arrival has not been quiet frankly, to the chagrin of the singer, who has expressed his anger on Twitter.]]></nbest>
+			<nbest id="2" total="308.919"><![CDATA[Rihanna was in Paris this weekend and his arrival has not been quiet frankly, to the dismay of the singer, who expressed his anger on Twitter.]]></nbest>
+			<nbest id="3" total="309.0172"><![CDATA[Rihanna was in Paris this weekend and his arrival has not been quiet frankly, to the dismay of the singer, who has expressed his anger on Twitter.]]></nbest>
+			<nbest id="4" total="309.1556"><![CDATA[Rihanna was in Paris this weekend and his arrival has not been quiet frankly, much to the chagrin of the singer, who expressed his anger on Twitter.]]></nbest>
+			<nbest id="5" total="309.2538"><![CDATA[Rihanna was in Paris this weekend and his arrival has not been quiet frankly, much to the chagrin of the singer, who has expressed his anger on Twitter.]]></nbest>
+			<nbest id="6" total="309.3966"><![CDATA[Rihanna was in Paris this weekend and its arrival has not been quiet frankly, to the chagrin of the singer, who expressed his anger on Twitter.]]></nbest>
+			<nbest id="7" total="309.4948"><![CDATA[Rihanna was in Paris this weekend and its arrival has not been quiet frankly, to the chagrin of the singer, who has expressed his anger on Twitter.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Rihanna, qui venait d'effectuer un trajet Londres-Paris en Eurostar afin de se rendre au Stade de France pour interpréter un titre avec Coldplay, a en effet été accueillie par une foule en délire, ce qui a provoqué la crainte, puis la colère de la chanteuse, qui a exprimé son indignation quelques heures plus tard via son compte Twitter.]]></source>
+		<target lang="en">
+			<nbest id="0" total="631.4036"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="1" total="631.5768"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="2" total="631.6767"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to go to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="3" total="631.8195"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+			<nbest id="4" total="631.8499"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to go to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="5" total="631.9414"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to travel to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="6" total="631.9927"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+			<nbest id="7" total="632.0926"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to go to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+			<nbest id="8" total="632.1145"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to travel to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="9" total="632.2657"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to go to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+			<nbest id="10" total="632.3573"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to travel to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+			<nbest id="11" total="632.5304"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to travel to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+			<nbest id="12" total="632.6192"><![CDATA[Rihanna, who had completed a journey from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="13" total="632.7676"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="14" total="632.7924"><![CDATA[Rihanna, who had completed a journey from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="15" total="632.8923"><![CDATA[Rihanna, who had completed a journey from London to Paris by Eurostar to go to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="16" total="632.903"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to travel to Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="17" total="632.9407"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="18" total="633.0351"><![CDATA[Rihanna, who had completed a journey from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+			<nbest id="19" total="633.0406"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to go to the Stade de France to interpret a song with Coldplay was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="20" total="633.0654"><![CDATA[Rihanna, who had completed a journey from London to Paris by Eurostar to go to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="21" total="633.0761"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to travel to Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, which caused fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="22" total="633.106"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France in order to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="23" total="633.157"><![CDATA[Rihanna, who had completed a journey from London to Paris by Eurostar to travel to the Stade de France to interpret a song with Coldplay, was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation a few hours later via his Twitter account.]]></nbest>
+			<nbest id="24" total="633.1835"><![CDATA[Rihanna, who had just completed a trip from London to Paris by Eurostar to get to the Stade de France to interpret a song with Coldplay was indeed greeted by a cheering crowd, causing fear and anger of the singer, who expressed his indignation few hours later via his Twitter account.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Venue participer à un concert de Coldplay au Stade de France, la chanteuse Rihanna a créé une émeute à son arrivée samedi à la gare du Nord.]]></source>
+		<target lang="en">
+			<nbest id="0" total="302.731"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna has created a riot upon his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="1" total="302.8723"><![CDATA[Venue attend a Coldplay concert at the Stade de France, the singer Rihanna has created a riot upon his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="2" total="302.8783"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna has created a riot Saturday arrival at the Gare du Nord.]]></nbest>
+			<nbest id="3" total="303.0196"><![CDATA[Venue attend a Coldplay concert at the Stade de France, the singer Rihanna has created a riot Saturday arrival at the Gare du Nord.]]></nbest>
+			<nbest id="4" total="303.1488"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna has created a riot on his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="5" total="303.2901"><![CDATA[Venue attend a Coldplay concert at the Stade de France, the singer Rihanna has created a riot on his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="6" total="303.4062"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna has created a riot Saturday arrival at Gare du Nord.]]></nbest>
+			<nbest id="7" total="303.4094"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, Rihanna has created a riot upon his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="8" total="303.5475"><![CDATA[Venue attend a Coldplay concert at the Stade de France, the singer Rihanna has created a riot Saturday arrival at Gare du Nord.]]></nbest>
+			<nbest id="9" total="303.5507"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, the singer Rihanna has created a riot upon his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="10" total="303.5567"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, Rihanna has created a riot Saturday arrival at the Gare du Nord.]]></nbest>
+			<nbest id="11" total="303.6024"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna created a riot upon his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="12" total="303.6583"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna has created a riot on arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="13" total="303.698"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, the singer Rihanna has created a riot Saturday arrival at the Gare du Nord.]]></nbest>
+			<nbest id="14" total="303.7497"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna created a riot Saturday arrival at the Gare du Nord.]]></nbest>
+			<nbest id="15" total="303.7996"><![CDATA[Venue attend a Coldplay concert at the Stade de France, the singer Rihanna has created a riot on arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="16" total="303.8208"><![CDATA[Venue attend a Coldplay concert at the Stade de France, singer Rihanna has created a riot upon his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="17" total="303.8272"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, Rihanna has created a riot on his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="18" total="303.968"><![CDATA[Venue attend a Coldplay concert at the Stade de France, singer Rihanna has created a riot Saturday arrival at the Gare du Nord.]]></nbest>
+			<nbest id="19" total="303.9685"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, the singer Rihanna has created a riot on his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="20" total="304.0203"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna created a riot on his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="21" total="304.2386"><![CDATA[Venue attend a Coldplay concert at the Stade de France, singer Rihanna has created a riot on his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="22" total="304.2776"><![CDATA[Venue attend a Coldplay concert at the Stade de France, Rihanna created a riot Saturday arrival at Gare du Nord.]]></nbest>
+			<nbest id="23" total="304.2808"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, Rihanna created a riot upon his arrival Saturday at the Gare du Nord.]]></nbest>
+			<nbest id="24" total="304.4281"><![CDATA[Came to participate in a Coldplay concert at the Stade de France, Rihanna created a riot Saturday arrival at the Gare du Nord.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Venue s'offrir une petite escapade parisienne ce week-end avec quelques proches, Rihanna ne s'attendait probablement pas à être chahutée de la sorte à son arrivée en gare.]]></source>
+		<target lang="en">
+			<nbest id="0" total="401.2755"><![CDATA[Came to offer a Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="1" total="401.4912"><![CDATA[Came to offer a Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="2" total="401.6262"><![CDATA[Came to offer a small Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="3" total="401.8419"><![CDATA[Came to offer a small Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="4" total="401.8782"><![CDATA[Came to offer a small Parisian escapade this weekend with a few close, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="5" total="402.0939"><![CDATA[Came to offer a small Parisian escapade this weekend with a few close, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="6" total="402.1905"><![CDATA[Came to provide a Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="7" total="402.325"><![CDATA[Came to offer a Parisian getaway this weekend with some relatives, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="8" total="402.5407"><![CDATA[Came to offer a Parisian getaway this weekend with some relatives, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="9" total="402.614"><![CDATA[Came to offer a Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the way to his arrival at the station.]]></nbest>
+			<nbest id="10" total="402.6757"><![CDATA[Came to offer a small Parisian getaway this weekend with some relatives, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="11" total="402.687"><![CDATA[Came to offer a small Parisian break this weekend with a few close, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="12" total="402.6903"><![CDATA[Came to offer a Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the way to its arrival at the station.]]></nbest>
+			<nbest id="13" total="402.8914"><![CDATA[Came to offer a small Parisian getaway this weekend with some relatives, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="14" total="402.9027"><![CDATA[Came to offer a small Parisian break this weekend with a few close, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="15" total="402.9277"><![CDATA[Came to offer a small Parisian escapade this weekend with some relatives, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="16" total="402.9647"><![CDATA[Came to offer a small Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the way to his arrival at the station.]]></nbest>
+			<nbest id="17" total="403.041"><![CDATA[Came to offer a small Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the way to its arrival at the station.]]></nbest>
+			<nbest id="18" total="403.1039"><![CDATA[Came to offer a Parisian getaway this weekend with some close, Rihanna did not expect to be heckled probably not the way he arrived at the station.]]></nbest>
+			<nbest id="19" total="403.1258"><![CDATA[Came to offer a Parisian getaway this weekend with a few close, Rihanna did not expect to be heckled probably not the way to arriving at the station.]]></nbest>
+			<nbest id="20" total="403.1434"><![CDATA[Came to offer a small Parisian escapade this weekend with some relatives, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="21" total="403.2167"><![CDATA[Came to offer a small Parisian escapade this weekend with a few close, Rihanna did not expect to be heckled probably not the way to his arrival at the station.]]></nbest>
+			<nbest id="22" total="403.2399"><![CDATA[Came to provide a Parisian getaway this weekend with some relatives, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+			<nbest id="23" total="403.293"><![CDATA[Came to offer a small Parisian escapade this weekend with a few close, Rihanna did not expect to be heckled probably not the way to its arrival at the station.]]></nbest>
+			<nbest id="24" total="403.3196"><![CDATA[Came to offer a Parisian getaway this weekend with some close, Rihanna did not expect to be heckled probably not the kind he arrived at the station.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

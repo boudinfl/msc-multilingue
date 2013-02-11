@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est en partie gagné: le prix Nobel de la Paix a été remis vendredi à la Yéménite Tawakkul Karman, mais aussi à deux Libériennes: la présidente Ellen Johnson-Sirleaf et la militante Leymah Gbowee.]]></source>
+		<target lang="en">
+			<nbest id="0" total="388.3324"><![CDATA[This is partly won the Nobel Prize for Peace was awarded Friday to the Yemeni Tawakkul Karman, Liberian but two: President Ellen Johnson-Sirleaf and activist Leymah Gbowee.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est une première dans l'histoire du prix Nobel de la Paix : pour cette année 2011, la distinction a en effet été attribuée vendredi matin à trois femmes : outre Ellen Johnson-Sirleaf, la présidente du Liberia, qui partait favorite, Leymah Gbowee, une autre Libérienne, et Tawakkul Karman, une Yémenite, deux militantes des droits de l'homme et notamment du droit des femmes, sont primées.]]></source>
+		<target lang="en">
+			<nbest id="0" total="768.6138"><![CDATA[This is a first in the history of the Nobel Prize for Peace: for the year 2011, the distinction was indeed assigned Friday morning three women also Ellen Johnson-Sirleaf, President of Liberia, who started favorite, Leymah Gbowee, another Liberian, and Tawakkul Karman, a Yemeni, two activists of human rights and especially women's rights are honored.]]></nbest>
+			<nbest id="1" total="768.7187"><![CDATA[This is a first in the history of the Nobel Prize for Peace: for the year 2011, the distinction has indeed been assigned Friday morning three women also Ellen Johnson-Sirleaf, President of Liberia, who started favorite, Leymah Gbowee, another Liberian, and Tawakkul Karman, a Yemeni, two activists of human rights and especially women's rights are honored.]]></nbest>
+			<nbest id="2" total="768.9073"><![CDATA[This is a first in the history of the Nobel Prize for Peace: for the year 2011, the distinction was indeed attributed Friday morning three women also Ellen Johnson-Sirleaf, President of Liberia, who started favorite, Leymah Gbowee, another Liberian, and Tawakkul Karman, a Yemeni, two activists of human rights and especially women's rights are honored.]]></nbest>
+			<nbest id="3" total="769.0812"><![CDATA[This is a first in the history of the Nobel Prize for Peace: for the year 2011, the distinction was in fact assigned Friday morning three women also Ellen Johnson-Sirleaf, President of Liberia, who started favorite, Leymah Gbowee, another Liberian, and Tawakkul Karman, a Yemeni, two activists of human rights and especially women's rights are honored.]]></nbest>
+			<nbest id="4" total="769.3653"><![CDATA[This is a first in the history of the Nobel Prize for Peace: for the year 2011, the distinction was indeed assigned Friday morning three women also Ellen Johnson-Sirleaf, President of Liberia, who started favorite, Leymah Gbowee, another Liberian, and Tawakkul Karman, a Yemeni, two activists of human rights, including women's rights are honored.]]></nbest>
+			<nbest id="5" total="769.4651"><![CDATA[This is a first in the history of the Nobel Prize for Peace: for 2011, the distinction was indeed assigned Friday morning three women also Ellen Johnson-Sirleaf, President of Liberia, who started favorite, Leymah Gbowee, another Liberian, and Tawakkul Karman, a Yemeni, two activists of human rights and especially women's rights are honored.]]></nbest>
+			<nbest id="6" total="769.4702"><![CDATA[This is a first in the history of the Nobel Prize for Peace: for the year 2011, the distinction has indeed been assigned Friday morning three women also Ellen Johnson-Sirleaf, President of Liberia, who started favorite, Leymah Gbowee, another Liberian, and Tawakkul Karman, a Yemeni, two activists of human rights, including women's rights are honored.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ellen Johnson-Sirleaf, première présidente d'Afrique, a été nobélisée ce vendredi conjointement avec sa compatriote libérienne Leymah Gbowee et la Yémenite Tawakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="423.3796"><![CDATA[Ellen Johnson-Sirleaf, the first African president was nobélisée Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="1" total="423.903"><![CDATA[Ellen Johnson-Sirleaf, the first African president was nobélisée this Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="2" total="424.5959"><![CDATA[Ellen Johnson-Sirleaf, the first African president, was nobélisée Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="3" total="425.1193"><![CDATA[Ellen Johnson-Sirleaf, the first African president, was nobélisée this Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="4" total="425.4576"><![CDATA[Ellen Johnson-Sirleaf, the first African President, was nobélisée Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="5" total="425.5094"><![CDATA[Ellen Johnson-Sirleaf, the first African president was nobélisée on Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="6" total="425.981"><![CDATA[Ellen Johnson-Sirleaf, the first African President, was nobélisée this Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="7" total="426.1057"><![CDATA[Ellen Johnson-Sirleaf, the first president of Africa was nobélisée Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="8" total="426.5117"><![CDATA[Ellen Johnson-Sirleaf, the first African president, has been nobélisée Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="9" total="426.5679"><![CDATA[Ellen Johnson-Sirleaf, the first president of Africa, was nobélisée Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="10" total="426.6194"><![CDATA[Ellen Johnson-Sirleaf, the first African President was nobélisée Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="11" total="426.6291"><![CDATA[Ellen Johnson-Sirleaf, the first president of Africa was nobélisée this Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="12" total="426.7256"><![CDATA[Ellen Johnson-Sirleaf, the first African president, was nobélisée on Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="13" total="427.0351"><![CDATA[Ellen Johnson-Sirleaf, the first African president, has been nobélisée this Friday along with fellow Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ellen Johnson-Sirleaf, présidente du Liberia, sa compatriote Leymah Gbowee et la Yéménite Tawakkul Karman ont obetnu le prix Nobel de la Paix aujourd'hui à Oslo, en Norvège. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="409.74"><![CDATA[Ellen Johnson-Sirleaf, President of Liberia, her compatriot Leymah Gbowee and Yemeni Tawakkul Karman have obetnu the Nobel Peace today in Oslo, Norway.]]></nbest>
+			<nbest id="1" total="411.1464"><![CDATA[Ellen Johnson-Sirleaf of Liberia, her compatriot Leymah Gbowee and Yemeni Tawakkul Karman have obetnu the Nobel Peace today in Oslo, Norway.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[En désignant comme lauréates les Libériennes Ellen Johnson-Sirleaf et Leymah Gbowee, ainsi que la Yéménite Tawakkul Karman, le comité Nobel norvégien réaffirme sa volonté de défendre les droits de l'Homme partout où ils sont menacés.]]></source>
+		<target lang="en">
+			<nbest id="0" total="403.6503"><![CDATA[Designating as the winners Liberian Ellen Johnson-Sirleaf and Leymah Gbowee and the Yemeni Tawakkul Karman, the Norwegian Nobel Committee reaffirms its commitment to defending human rights wherever they are threatened.]]></nbest>
+			<nbest id="1" total="404.1647"><![CDATA[Designating as the winners Liberian Ellen Johnson-Sirleaf and Leymah Gbowee and the Yemeni Tawakkul Karman, the Norwegian Nobel Committee reaffirms its commitment to defend human rights wherever they are threatened.]]></nbest>
+			<nbest id="2" total="405.2123"><![CDATA[Designating as the winners Liberian Ellen Johnson-Sirleaf and Leymah Gbowee and the Yemeni Tawakkul Karman, the Norwegian Nobel Committee reaffirms its commitment to protect human rights wherever they are threatened.]]></nbest>
+			<nbest id="3" total="405.5749"><![CDATA[Designating as the winners Liberian Ellen Johnson-Sirleaf and Leymah Gbowee and the Yemeni Tawakkul Karman, the Norwegian Nobel Committee reiterates its commitment to defending human rights wherever they are threatened.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Journaliste, militante féministe et figure du soulèvement populaire contre le président Ali Abdallah Saleh au Yémen, Tawakkul Karman a reçu, vendredi 7 octobre, le prix Nobel de la Paix, conjointement avec la présidente libérienne Ellen Johnson-Sirleaf et la militante libérienne Leymah Gbowee.]]></source>
+		<target lang="en">
+			<nbest id="0" total="448.077"><![CDATA[Journalist, feminist and is the popular uprising against President Ali Abdullah Saleh in Yemen, Tawakkul Karman received Friday, October 7, the Nobel Prize for Peace jointly with Liberian President Ellen Johnson-Sirleaf and Liberian activist Leymah Gbowee.]]></nbest>
+			<nbest id="1" total="448.4914"><![CDATA[Journalist, feminist and is the popular uprising against President Ali Abdullah Saleh in Yemen, Tawakkul Karman received Friday, October 7, the Nobel Prize for Peace, together with Liberian President Ellen Johnson-Sirleaf and Liberian activist Leymah Gbowee.]]></nbest>
+			<nbest id="2" total="449.1639"><![CDATA[Journalist, feminist and is the popular uprising against President Ali Abdullah Saleh in Yemen, Tawakkul Karman received Friday, October 7th, the Nobel Prize for Peace jointly with Liberian President Ellen Johnson-Sirleaf and Liberian activist Leymah Gbowee.]]></nbest>
+			<nbest id="3" total="449.2937"><![CDATA[Journalist, feminist and is the popular uprising against President Ali Abdullah Saleh in Yemen, Tawakkul Karman received Friday, October 7, the Nobel Prize for Peace, along with Liberian President Ellen Johnson-Sirleaf and Liberian activist Leymah Gbowee.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'attribution du prix Nobel de la Paix à trois femmes, la présidente du Libéria Ellen Johnson-Sirleaf, la militante Leymah Gbowee, elle aussi libérienne, et à la Yéménite Tawakkul Karman vous surprend-elle ?]]></source>
+		<target lang="en">
+			<nbest id="0" total="356.6005"><![CDATA[The award of the Nobel Peace Prize to three women, Liberian President Ellen Johnson-Sirleaf, activist Leymah Gbowee, also of Liberia, and Yemeni Tawakkul Karman it surprise you?]]></nbest>
+			<nbest id="1" total="357.0771"><![CDATA[The award of the Nobel Peace Prize to three women, Liberian President Ellen Johnson-Sirleaf, activist Leymah Gbowee, also of Liberia, and the Yemeni Tawakkul Karman it surprise you?]]></nbest>
+			<nbest id="2" total="358.1767"><![CDATA[The award of the Nobel Peace Prize to three women, Liberian President Ellen Johnson-Sirleaf, activist Leymah Gbowee, also of Liberia, and Tawakkul Karman Yemenite it surprise you?]]></nbest>
+			<nbest id="3" total="358.3073"><![CDATA[The award of the Nobel Peace Prize to three women, Liberian President Ellen Johnson-Sirleaf, activist Leymah Gbowee, also of Liberia, and Tawakkul Karman Yemeni she surprises you?]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La présidente du Liberia Ellen Johnson-Sirleaf, la militante libérienne Leymah Gbowee et la Yéménite Tawakkul Karman  ont remporté le prix Nobel de la Paix pour l'année 2011 aujourd'hui vendredi 7 octobre à Oslo. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="321.2034"><![CDATA[Liberian President Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni Tawakkul Karman won the Nobel Prize for Peace for 2011 today Friday, October 7 in Oslo.]]></nbest>
+			<nbest id="1" total="323.2032"><![CDATA[Liberian President Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni Tawakkul Karman won the Nobel Prize for Peace for 2011 today Friday, Oct. 7 in Oslo.]]></nbest>
+			<nbest id="2" total="323.5451"><![CDATA[Liberian President Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni Tawakkul Karman won the Nobel Prize for Peace for the year 2011 today Friday, October 7 in Oslo.]]></nbest>
+			<nbest id="3" total="323.6668"><![CDATA[Liberian President Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni Tawakkul Karman won the Nobel Prize for Peace for 2011 today Friday, October 7th in Oslo.]]></nbest>
+			<nbest id="4" total="324.1882"><![CDATA[Liberian President Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni Tawakkul Karman won the Nobel Prize for Peace for 2011 today in Oslo Friday, October 7.]]></nbest>
+			<nbest id="5" total="324.3087"><![CDATA[Liberian President Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni Tawakkul Karman won the Nobel Prize for Peace for 2011 today, Friday, October 7 at Oslo.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le Nobel de la Paix a été attribué vendredi à trois femmes: la présidente libérienne Ellen Johnson-Sirleaf et sa compatriote Leymah Gbowee qui ont extirpé leur pays de la guerre civile, et la Yéménite Tawakkul Karman, figure emblématique du "printemps arabe".]]></source>
+		<target lang="en">
+			<nbest id="0" total="411.2617"><![CDATA[The Nobel Peace Prize was awarded Friday to three women: Liberian President Ellen Johnson-Sirleaf and her compatriot Leymah Gbowee who pulled their country's civil war, and the Yemeni Tawakkul Karman, a leading figure of the "Arab Spring."]]></nbest>
+			<nbest id="1" total="411.3127"><![CDATA[The Nobel Peace Prize was awarded Friday to three women: Liberian President Ellen Johnson-Sirleaf and her compatriot Leymah Gbowee who pulled their country's civil war, and the Yemeni Tawakkul Karman, a leading figure of the "Arab Spring".]]></nbest>
+			<nbest id="2" total="411.9285"><![CDATA[The Nobel Peace Prize was awarded Friday to three women: Liberian President Ellen Johnson-Sirleaf and her compatriot Leymah Gbowee who pulled their country's civil war, and Yemeni Tawakkul Karman, a leading figure of the "Arab Spring."]]></nbest>
+			<nbest id="3" total="411.9796"><![CDATA[The Nobel Peace Prize was awarded Friday to three women: Liberian President Ellen Johnson-Sirleaf and her compatriot Leymah Gbowee who pulled their country's civil war, and Yemeni Tawakkul Karman, a leading figure of the "Arab Spring".]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le comité Nobel vient d'annoncer le lauréat du Nobel de la Paix 2011, et cette année, le prix a été décerné à trois femmes dont Ellen Johnson-Sirleaf, présidente du Libéria ainsi qu'à deux militantes pour les droits des femmes, la Libérienne Leymah Gbowee et la Yéménite Tawakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="478.3592"><![CDATA[The Nobel committee announced the winner of the Nobel Peace Prize in 2011, and this year the prize was awarded to three women Ellen Johnson-Sirleaf, President of Liberia and two activists for the rights of women, Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="1" total="479.2078"><![CDATA[The Nobel committee announced the winner of the Nobel Peace Prize in 2011, and this year, the prize was awarded to three women Ellen Johnson-Sirleaf, President of Liberia and two activists for the rights of women, Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="2" total="480.2631"><![CDATA[The Nobel Committee announced the winner of the Nobel Peace Prize in 2011, and this year the prize was awarded to three women Ellen Johnson-Sirleaf, President of Liberia and two activists for the rights of women, Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="3" total="480.268"><![CDATA[The Nobel Committee has announced the winner of the Nobel Peace Prize in 2011, and this year the prize was awarded to three women Ellen Johnson-Sirleaf, President of Liberia and two activists for the rights of women, Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix 2011 a été décerné vendredi à trois femmes, la présidente du Liberia Ellen Johnson-Sirleaf, et deux militantes des droits de l'homme, la Libérienne Leymah Gbowee et la Yéménite Tawakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="367.2257"><![CDATA[The Nobel Prize in Peace 2011 was awarded Friday to three women, Liberian President Ellen Johnson-Sirleaf, and two activists of human rights, Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="1" total="367.4415"><![CDATA[The Nobel Prize in Peace 2011 was awarded Friday to three women, Liberian President Ellen Johnson-Sirleaf and two activists of human rights, Liberian Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été attribué aujourd'hui à deux Libériennes, la présidente du pays Ellen Johnson-Sirleaf et la militante pour les droits de l'homme Leymah Gbowee, ainsi qu'à une activiste Yéménite, Tawakkul Karman, première femme arabe lauréate.]]></source>
+		<target lang="en">
+			<nbest id="0" total="450.5376"><![CDATA[The Nobel Peace Prize was awarded today to two Liberians, the country's President Ellen Johnson-Sirleaf and rights activist Leymah Gbowee of man, and a Yemeni activist, Tawakkul Karman, first Arab woman winner.]]></nbest>
+			<nbest id="1" total="450.5479"><![CDATA[The Nobel Peace Prize was awarded today to two Liberians, the country's President Ellen Johnson-Sirleaf and rights activist Leymah Gbowee of man, and a Yemeni activist, Tawakkul Karman, first Arab woman recipient.]]></nbest>
+			<nbest id="2" total="452.0435"><![CDATA[The Nobel Peace Prize was awarded today to two Liberians, the country's President Ellen Johnson-Sirleaf and rights activist Leymah Gbowee from the man, and a Yemeni activist, Tawakkul Karman, first Arab woman winner.]]></nbest>
+			<nbest id="3" total="452.0538"><![CDATA[The Nobel Peace Prize was awarded today to two Liberians, the country's President Ellen Johnson-Sirleaf and rights activist Leymah Gbowee from the man, and a Yemeni activist, Tawakkul Karman, first Arab woman recipient.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été décerné à trois femmes qui luttent pour les droits de l'Homme dans des régions du monde souvent en proie à la violence: les Libériennes Leymah Gbowee et Ellen Johnson-Sirleaf, ainsi que la Yéménite Tawakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="414.7496"><![CDATA[The Nobel Peace Prize was awarded to three women who fight for human rights in parts of the world often plagued by violence: Liberian Leymah Gbowee and Ellen Johnson-Sirleaf, and the Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="1" total="415.1925"><![CDATA[The Nobel Peace Prize was awarded to three women who fight for human rights in parts of the world often plagued by violence: Liberian Leymah Gbowee and Ellen Johnson-Sirleaf and the Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="2" total="415.7965"><![CDATA[The Nobel Peace Prize was awarded to three women who fight for human rights in areas of the world often plagued by violence: Liberian Leymah Gbowee and Ellen Johnson-Sirleaf, and the Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="3" total="416.2393"><![CDATA[The Nobel Peace Prize was awarded to three women who fight for human rights in areas of the world often plagued by violence: Liberian Leymah Gbowee and Ellen Johnson-Sirleaf and the Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="4" total="416.6047"><![CDATA[The Nobel Peace Prize was awarded to three women who fight for human rights in parts of the world often plagued by violence: Liberian Leymah Gbowee and Ellen Johnson-Sirleaf, as well as the Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="5" total="416.669"><![CDATA[The Nobel Peace Prize was awarded to three women who struggle for human rights in parts of the world often plagued by violence: Liberian Leymah Gbowee and Ellen Johnson-Sirleaf, and the Yemeni Tawakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix 2011 a été conjointement attribué vendredi à trois femmes, Ellen Johnson-Sirleaf, la présidente du Libéria, Leymah Gbowee, elle aussi libérienne, et à la Yéménite Tawakkul Karman pour leur lutte non violente pour la sécurité et les droits des femmes.]]></source>
+		<target lang="en">
+			<nbest id="0" total="417.2867"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday to three women, Ellen Johnson-Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and Yemeni Tawakkul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="1" total="417.7633"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday to three women, Ellen Johnson-Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and the Yemeni Tawakkul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix 2011 a été conjointement attribué, vendredi 7 octobre, à trois femmes : Ellen Johnson-Sirleaf, présidente du Liberia, Leymah Gbowee, elle aussi libérienne, et à la Yéménite Tawakkoul Karman pour leur lutte non violente pour la sécurité et les droits des femmes. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="591.0644"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday, October 7, to three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and the Yemeni Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="1" total="591.1967"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday, October 7, three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and the Yemeni Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="2" total="591.3984"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly, Friday, Oct. 7, three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and the Yemeni Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="3" total="591.8674"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly, Friday, Oct. 7, to three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and the Yemeni Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="4" total="592.1484"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday, October 7, to three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and Yemeni Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="5" total="592.2807"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday, October 7, three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and Yemeni Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="6" total="592.3618"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday, October 7, to three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and Yemen Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="7" total="592.4825"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly, Friday, Oct. 7, three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and Yemeni Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+			<nbest id="8" total="592.4941"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly Friday, October 7, three women: Ellen Johnson Sirleaf, President of Liberia, Leymah Gbowee, also of Liberia, and Yemen Tawakkoul Karman for their non-violent struggle for the safety and rights of women.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix 2011 a été décerné conjointement à Ellen Johnson-Sirleaf, présidente du Libéria, Leymah Gbowee, militante libérienne responsable de l'organisation du mouvement pacifiste "Women of Liberia Mass Action for Peace" et Tawakkul Karman, activiste Yéménite fondatrice en 2005 du groupe "Femmes journalistes sans chaînes". ]]></source>
+		<target lang="en">
+			<nbest id="0" total="602.3066"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly to Ellen Johnson-Sirleaf, President of Liberia, Leymah Gbowee, an activist Liberian responsible for organizing the peace movement "Women of Liberia Mass Action for Peace" and Tawakkul Karman, an activist Yemeni founder in 2005 of the group "Women Journalists Without Chains."]]></nbest>
+			<nbest id="1" total="602.9898"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly to Ellen Johnson-Sirleaf, President of Liberia, Leymah Gbowee, an activist Liberian responsible for organizing the peace movement "Women of Liberia Mass Action for Peace" and Tawakkul Karman, an activist Yemeni founder in 2005 of the group "Women Journalists Without Chains".]]></nbest>
+			<nbest id="2" total="603.0732"><![CDATA[The Nobel Prize in Peace 2011 was awarded jointly to Ellen Johnson-Sirleaf, President of Liberia, Leymah Gbowee, an activist Liberian responsible for organizing the peace movement "Women of Liberia Mass Action for Peace" and Tawakkul Karman, an activist Yemeni founding in 2005 the group "Women Journalists Without Chains."]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été attribué vendredi à trois femmes, la présidente libérienne Ellen Johnson-Sirleaf, la militante libérienne Leymah Gbowee et la militante Yéménite Tawakkul Karman, a annoncé le comité Nobel.]]></source>
+		<target lang="en">
+			<nbest id="0" total="303.3459"><![CDATA[The Nobel Peace Prize was awarded Friday to three women, Liberian President Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni activist Tawakkul Karman, the Nobel committee announced.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été attribué à la présidente du Liberia, Ellen Johnson-Sirleaf, ainsi qu'à sa compatriote Leymah Gbowee et à la Yéménite Tawakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="241.2255"><![CDATA[The Nobel Peace Prize was awarded to Liberian President Ellen Johnson-Sirleaf, and her compatriot Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="1" total="245.3546"><![CDATA[The Nobel Peace Prize was awarded to the President of Liberia, Ellen Johnson-Sirleaf, and her compatriot Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="2" total="247.1017"><![CDATA[The Nobel Peace Prize was awarded to Liberian President, Ellen Johnson-Sirleaf, and her compatriot Leymah Gbowee and Yemeni Tawakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été conjointement attribué vendredi à deux femmes libériennes, la présidente Ellen Johnson-Sirleaf et la militante Leymah Gbowee, ainsi qu'à la Yéménite Tawakkul Karman, a annoncé le comité Nobel norvégien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="409.9987"><![CDATA[The Nobel Prize for Peace was awarded jointly Friday to two Liberian women, President Ellen Johnson-Sirleaf and activist Leymah Gbowee, and Yemeni Tawakkul Karman the announced the Norwegian Nobel Committee.]]></nbest>
+			<nbest id="1" total="411.4047"><![CDATA[The Nobel Prize for Peace was awarded jointly Friday to two Liberian women, President Ellen Johnson-Sirleaf and activist Leymah Gbowee, and Yemeni Tawakkul Karman the, announced the Norwegian Nobel Committee.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été conjointement attribué vendredi, pour la première fois de son histoire, à trois femmes: deux Libériennes, la présidente Ellen Johnson-Sirleaf, actuellement en campagne, et la militante Leymah Gbowee, et une Yéménite, la journaliste Tawakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="446.6831"><![CDATA[The Nobel Prize for Peace was awarded jointly Friday for the first time in its history, three women, two Liberians, President Ellen Johnson-Sirleaf, currently campaigning and activist Leymah Gbowee, and Yemeni journalist Tawakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été conjointement attribué vendredi à deux femmes libériennes, la présidente Ellen Johnson-Sirleaf et la militante Leymah Gbowee, ainsi qu'à la Yéménite Tawakkul Karman, a annoncé le comité Nobel norvégien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="409.9987"><![CDATA[The Nobel Prize for Peace was awarded jointly Friday to two Liberian women, President Ellen Johnson-Sirleaf and activist Leymah Gbowee, and Yemeni Tawakkul Karman the announced the Norwegian Nobel Committee.]]></nbest>
+			<nbest id="1" total="411.4047"><![CDATA[The Nobel Prize for Peace was awarded jointly Friday to two Liberian women, President Ellen Johnson-Sirleaf and activist Leymah Gbowee, and Yemeni Tawakkul Karman the, announced the Norwegian Nobel Committee.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été décerné vendredi à trois femmes, Ellen Johnson-Sirleaf, la présidente du Libéria, Leymah Gbowee, elle aussi Libérienne, et à la Yéménite Tawakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="309.5796"><![CDATA[The Nobel Peace Prize was awarded Friday to three women, Ellen Johnson-Sirleaf, President of Liberia, Leymah Gbowee, also Liberian, and Yemeni Tawakkul Karman.]]></nbest>
+			<nbest id="1" total="311.2063"><![CDATA[The Nobel Peace Prize was awarded Friday to three women, Ellen Johnson-Sirleaf, President of Liberia, Leymah Gbowee, also Liberian, and the Yemeni Tawakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le prix Nobel de la Paix a été décerné à la présidente du Libéria, Ellen Johnson-Sirleaf, et à deux militantes pour les droits des femmes, la Libérienne Leymah Gbowee et la Yéménite Tawakkul Karman, ce vendredi à Oslo.  ]]></source>
+		<target lang="en">
+			<nbest id="0" total="369.4698"><![CDATA[The Nobel Peace Prize was awarded to Liberian President Ellen Johnson-Sirleaf, and two activists for the rights of women, Liberian Leymah Gbowee and Yemeni Tawakkul Karman, Friday in Oslo.]]></nbest>
+			<nbest id="1" total="370.135"><![CDATA[The Nobel Peace Prize was awarded to Liberian President Ellen Johnson-Sirleaf, and two activists for the rights of women, Liberian Leymah Gbowee and Yemeni Tawakkul Karman on Friday in Oslo.]]></nbest>
+			<nbest id="2" total="371.4533"><![CDATA[The Nobel Peace Prize was awarded to Liberian President Ellen Johnson-Sirleaf and two activists for the rights of women, Liberian Leymah Gbowee and Yemeni Tawakkul Karman, Friday in Oslo.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Trois femmes ont reçu le prix Nobel de la Paix 2011 ce vendredi : la présidente du Libéria, Ellen Johnson-Sirleaf, première femme élue à la tête d'un Etat africain, Leymah Gbowee, elle aussi libérienne, et la Yéménite Twakkul Karman.]]></source>
+		<target lang="en">
+			<nbest id="0" total="551.3191"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 Friday: Liberian President Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="1" total="552.4907"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 on Friday: the President of Liberia, Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="2" total="552.5959"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 Friday: President of Liberia, Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="3" total="553.0565"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 this Friday the President of Liberia, Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="4" total="553.2223"><![CDATA[Three women were awarded the Nobel Peace Prize 2011 Friday: Liberian President Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="5" total="553.2896"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 on Friday: Liberian President Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="6" total="553.316"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 Friday: Liberian President Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="7" total="553.5294"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 Friday: Liberian President Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and Yemen Twakkul Karman.]]></nbest>
+			<nbest id="8" total="553.5577"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 Friday: Liberian President Ellen Johnson-Sirleaf, the first woman elected to lead an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="9" total="553.6132"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 Friday: The President of Liberia, Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+			<nbest id="10" total="553.6729"><![CDATA[Three women were awarded the Nobel Peace Prize in 2011 Friday: the President of Liberia, Ellen Johnson-Sirleaf, the first woman elected at the head of an African state, Leymah Gbowee, also of Liberia, and the Yemeni Twakkul Karman.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

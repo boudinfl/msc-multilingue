@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Apple a dévoilé hier soir vers 19h30 (heure française) l'iPhone 4S. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="164.3408"><![CDATA[Apple unveiled last night at 19:30 (French time) the iPhone 4S.]]></nbest>
+			<nbest id="1" total="165.0078"><![CDATA[Apple unveiled last night around 19:30 (French time) the iPhone 4S.]]></nbest>
+			<nbest id="2" total="165.3568"><![CDATA[Apple unveiled yesterday evening around 19:30 (French time) the iPhone 4S.]]></nbest>
+			<nbest id="3" total="166.2913"><![CDATA[Apple unveiled last night at 19:30 (French time) iPhone 4S.]]></nbest>
+			<nbest id="4" total="167.0085"><![CDATA[Apple announced last night around 19:30 (French time) the iPhone 4S.]]></nbest>
+			<nbest id="5" total="167.1469"><![CDATA[Apple unveiled last night around 19:30 (French time) iPhone 4S.]]></nbest>
+			<nbest id="6" total="167.2754"><![CDATA[Apple unveiled yesterday around 19:30 (French time) the iPhone 4S.]]></nbest>
+			<nbest id="7" total="167.496"><![CDATA[Apple unveiled yesterday evening around 19:30 (French time) iPhone 4S.]]></nbest>
+			<nbest id="8" total="167.7064"><![CDATA[Apple announced yesterday evening around 19:30 (French time) the iPhone 4S.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Apple a lancé la toute nouvelle version de l'iPhone hier soir, baptisée iPhone 4S.]]></source>
+		<target lang="en">
+			<nbest id="0" total="164.3341"><![CDATA[Apple launched the new version of the iPhone last night, called iPhone 4S.]]></nbest>
+			<nbest id="1" total="164.3536"><![CDATA[Apple launched the new version of the iPhone yesterday, called iPhone 4S.]]></nbest>
+			<nbest id="2" total="164.604"><![CDATA[Apple launched the new version of the iPhone last night called iPhone 4S.]]></nbest>
+			<nbest id="3" total="164.9185"><![CDATA[Apple has launched the new version of the iPhone last night, called iPhone 4S.]]></nbest>
+			<nbest id="4" total="164.938"><![CDATA[Apple has launched the new version of the iPhone yesterday, called iPhone 4S.]]></nbest>
+			<nbest id="5" total="165.1884"><![CDATA[Apple has launched the new version of the iPhone last night called iPhone 4S.]]></nbest>
+			<nbest id="6" total="165.7057"><![CDATA[Apple has launched the newest version of the iPhone last night, called iPhone 4S.]]></nbest>
+			<nbest id="7" total="165.7252"><![CDATA[Apple has launched the newest version of the iPhone yesterday, called iPhone 4S.]]></nbest>
+			<nbest id="8" total="165.9755"><![CDATA[Apple has launched the newest version of the iPhone last night called iPhone 4S.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Apple a présenté mardi soir le dernier modèle de son iPhone, l'iPhone 4S, sur réseaux GSM et CDMA.]]></source>
+		<target lang="en">
+			<nbest id="0" total="209.2132"><![CDATA[Apple introduced Tuesday the latest model of the iPhone, the iPhone 4S, on GSM and CDMA networks.]]></nbest>
+			<nbest id="1" total="209.2444"><![CDATA[Apple introduced Tuesday the latest model of its iPhone, the iPhone 4S, on GSM and CDMA networks.]]></nbest>
+			<nbest id="2" total="210.8334"><![CDATA[Apple introduced Tuesday the latest model of iPhone, the iPhone 4S, on GSM and CDMA networks.]]></nbest>
+			<nbest id="3" total="211.4704"><![CDATA[Apple introduced Tuesday the latest model of the iPhone, the iPhone 4S on GSM and CDMA networks.]]></nbest>
+			<nbest id="4" total="211.5016"><![CDATA[Apple introduced Tuesday the latest model of its iPhone, the iPhone 4S on GSM and CDMA networks.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Apple présentait une version boostée "S" de son iPhone 4 ce mardi. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="181.2103"><![CDATA[Apple had a boosted version "S" of the iPhone 4 on Tuesday.]]></nbest>
+			<nbest id="1" total="186.5665"><![CDATA[Apple had a boosted version "S" to the iPhone 4 on Tuesday.]]></nbest>
+			<nbest id="2" total="187.7118"><![CDATA[Apple had a boosted version "S" of the iPhone 4 Tuesday.]]></nbest>
+			<nbest id="3" total="187.8552"><![CDATA[Apple had a boosted version "S" of its iPhone 4 on Tuesday.]]></nbest>
+			<nbest id="4" total="187.8761"><![CDATA[Apple presented a boosted version "S" of the iPhone 4 on Tuesday.]]></nbest>
+			<nbest id="5" total="188.4293"><![CDATA[Apple had a boosted version "S" of the iPhone 4 this Tuesday.]]></nbest>
+			<nbest id="6" total="188.4637"><![CDATA[Apple had a boosted version "S" of his iPhone 4 on Tuesday.]]></nbest>
+			<nbest id="7" total="190.1992"><![CDATA[Apple had a boosted version "S" of its iPhone 4 Tuesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Au fil d'une keynote test, l'iPhone 4S a été dévoilé.]]></source>
+		<target lang="en">
+			<nbest id="0" total="147.8701"><![CDATA[Over a keynote test, the iPhone 4S was unveiled.]]></nbest>
+			<nbest id="1" total="148.7716"><![CDATA[Over a keynote test the iPhone 4S was unveiled.]]></nbest>
+			<nbest id="2" total="148.7899"><![CDATA[Through a keynote test, the iPhone 4S was unveiled.]]></nbest>
+			<nbest id="3" total="149.5212"><![CDATA[Over a test keynote, the iPhone 4S was unveiled.]]></nbest>
+			<nbest id="4" total="150.214"><![CDATA[Through a test keynote, the iPhone 4S was unveiled.]]></nbest>
+			<nbest id="5" total="150.2406"><![CDATA[Through a keynote test the iPhone 4S was unveiled.]]></nbest>
+			<nbest id="6" total="151.2573"><![CDATA[Over a keynote testing, the iPhone 4S was unveiled.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est le vice-Président marketing d'Apple, Philip Schiller, qui a présenté le nouvel iPhone 4S. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="194.702"><![CDATA[It is the vice-president of marketing Apple Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="1" total="194.7457"><![CDATA[It is the vice-president of marketing for Apple, Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="2" total="194.8441"><![CDATA[Is the vice-president of marketing Apple Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="3" total="194.8877"><![CDATA[Is the vice-president of marketing for Apple, Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="4" total="194.921"><![CDATA[This is the vice-president of marketing Apple Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="5" total="195.0341"><![CDATA[It is the vice president of marketing for Apple, Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="6" total="195.7348"><![CDATA[This is the vice president of marketing Apple Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="7" total="195.8571"><![CDATA[It is the vice president of marketing Apple Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="8" total="196.1571"><![CDATA[It is the vice-president of marketing for Apple Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+			<nbest id="9" total="196.1998"><![CDATA[It is the vice-president of marketing of Apple Philip Schiller, who presented the new iPhone 4S.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La conférence de presse d'Apple du mardi 4 octobre a été marquée par l'annonce d'un nouveau smartphone, l'iPhone 4S, plus puissant que son prédécesseur et doté d'un assistant vocal intelligent.]]></source>
+		<target lang="en">
+			<nbest id="0" total="332.1834"><![CDATA[The Apple press conference on Tuesday 4 October was marked by the announcement of a new smartphone, the iPhone 4S, more powerful than its predecessor and with an intelligent voice assistant.]]></nbest>
+			<nbest id="1" total="332.473"><![CDATA[The Apple press conference on Tuesday, 4 October was marked by the announcement of a new smartphone, the iPhone 4S, more powerful than its predecessor and with an intelligent voice assistant.]]></nbest>
+			<nbest id="2" total="332.5783"><![CDATA[The Apple press conference Tuesday 4 October was marked by the announcement of a new smartphone, the iPhone 4S, more powerful than its predecessor and with an intelligent voice assistant.]]></nbest>
+			<nbest id="3" total="333.2827"><![CDATA[The Apple press conference on Tuesday 4 October was marked by the announcement of a new smartphone, the iPhone 4S, more powerful than its predecessor and has an intelligent voice assistant.]]></nbest>
+			<nbest id="4" total="333.5722"><![CDATA[The Apple press conference on Tuesday, 4 October was marked by the announcement of a new smartphone, the iPhone 4S, more powerful than its predecessor and has an intelligent voice assistant.]]></nbest>
+			<nbest id="5" total="333.6776"><![CDATA[The Apple press conference Tuesday 4 October was marked by the announcement of a new smartphone, the iPhone 4S, more powerful than its predecessor and has an intelligent voice assistant.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La firme de Cupertino a dévoilé hier un smartphone plus puissant mais esthétiquement similaire à l'iPhone 4.]]></source>
+		<target lang="en">
+			<nbest id="0" total="202.5252"><![CDATA[The Cupertino company yesterday unveiled a smartphone powerful but aesthetically similar to the iPhone 4.]]></nbest>
+			<nbest id="1" total="202.7561"><![CDATA[The Cupertino company yesterday unveiled a smartphone more powerful but aesthetically similar to the iPhone 4.]]></nbest>
+			<nbest id="2" total="203.9431"><![CDATA[The Cupertino yesterday unveiled a smartphone more powerful but aesthetically similar to the iPhone 4.]]></nbest>
+			<nbest id="3" total="206.4742"><![CDATA[The Cupertino company unveiled yesterday a smartphone powerful but aesthetically similar to the iPhone 4.]]></nbest>
+			<nbest id="4" total="206.4877"><![CDATA[The Cupertino company unveiled yesterday a more powerful smartphone but aesthetically similar to the iPhone 4.]]></nbest>
+			<nbest id="5" total="206.7051"><![CDATA[The Cupertino company unveiled yesterday a smartphone more powerful but aesthetically similar to the iPhone 4.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le nouveau PDG de la marque américaine Tim Cook n'a dévoilé qu'une version améliorée de l'iPhone 4.]]></source>
+		<target lang="en">
+			<nbest id="0" total="189.8801"><![CDATA[The new CEO Tim Cook American brand has unveiled an improved version of iPhone 4.]]></nbest>
+			<nbest id="1" total="190.0306"><![CDATA[The new CEO Tim Cook American brand has unveiled an improved version of the iPhone 4.]]></nbest>
+			<nbest id="2" total="192.7886"><![CDATA[The new CEO of the American brand Tim Cook has unveiled an improved version of iPhone 4.]]></nbest>
+			<nbest id="3" total="192.8468"><![CDATA[New CEO Tim Cook American brand has unveiled an improved version of iPhone 4.]]></nbest>
+			<nbest id="4" total="192.9391"><![CDATA[The new CEO of the American brand Tim Cook has unveiled an improved version of the iPhone 4.]]></nbest>
+			<nbest id="5" total="192.9629"><![CDATA[New CEO Tim Cook American brand has unveiled an improved version of the iPhone 4.]]></nbest>
+			<nbest id="6" total="193.9412"><![CDATA[The new CEO Tim Cook American brand has unveiled an enhanced version of the iPhone 4.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La présentation du nouvel iPhone 4S n'a pas séduit les marchés et l'action en Bourse du géant américain a perdu près de 5% en cours de séance. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="307.197"><![CDATA[The presentation of the new iPhone 4S has not attracted the markets and the share price of U.S. giant lost nearly 5% during the session.]]></nbest>
+			<nbest id="1" total="307.6061"><![CDATA[The presentation of the new iPhone 4S has not attracted the markets and the share price of U.S. giant has lost nearly 5% during the session.]]></nbest>
+			<nbest id="2" total="309.33"><![CDATA[The presentation of the new iPhone 4S has not attracted the markets and the share price of giant lost nearly 5% during the session.]]></nbest>
+			<nbest id="3" total="309.5407"><![CDATA[The presentation of the new iPhone 4S has not attracted the markets and the share price of the giant lost nearly 5% during the session.]]></nbest>
+			<nbest id="4" total="309.6674"><![CDATA[The presentation of the new iPhone 4S has not attracted the markets and the share price of U.S. giant has lost about 5% during the session.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les caractéristiques techniques du nouvel iPhone 4S équivalent ou surpassent celles des appareils photo compacts.]]></source>
+		<target lang="en">
+			<nbest id="0" total="180.7217"><![CDATA[Specifications of the new iPhone 4S equivalent or surpass those of compact cameras.]]></nbest>
+			<nbest id="1" total="181.2676"><![CDATA[Specifications of the new iPhone 4S equivalent or surpass those compact cameras.]]></nbest>
+			<nbest id="2" total="181.7419"><![CDATA[Technical characteristics of the new iPhone 4S equivalent or surpass those of compact cameras.]]></nbest>
+			<nbest id="3" total="182.1295"><![CDATA[The specifications of the new iPhone 4S equivalent or surpass those of compact cameras.]]></nbest>
+			<nbest id="4" total="182.1474"><![CDATA[The technical characteristics of the new iPhone 4S equivalent or surpass those of compact cameras.]]></nbest>
+			<nbest id="5" total="182.164"><![CDATA[Technical characteristics of the new iPhone 4S equivalent or surpass those compact cameras.]]></nbest>
+			<nbest id="6" total="182.1771"><![CDATA[Technical features of the new iPhone 4S equivalent or surpass those of compact cameras.]]></nbest>
+			<nbest id="7" total="183.8039"><![CDATA[Specifications of the new iPhone 4S equivalent or exceed those of compact cameras.]]></nbest>
+			<nbest id="8" total="185.5906"><![CDATA[Specifications of the new iPhone 4S equivalent or exceed those compact cameras.]]></nbest>
+			<nbest id="9" total="186.4664"><![CDATA[The technical characteristics of new iPhone 4S equivalent or surpass those of compact cameras.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Lors de la Keynote d'Apple qui s'est déroulée hier soir à 19h00 heure française sur le campus de Cupertino en Californie, on a pu découvrir le nouveau smartphone iPhone bien sûr, mais aussi les nouvelles générations des baladeurs numériques iPod nano et iPod Touch.]]></source>
+		<target lang="en">
+			<nbest id="0" total="482.6915"><![CDATA[When Apple's Keynote which was held last night at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="1" total="482.7997"><![CDATA[When Apple's Keynote which took place yesterday evening at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="2" total="482.8318"><![CDATA[When Apple's Keynote which took place last night at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="3" total="482.8352"><![CDATA[During Apple's Keynote which was held last night at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="4" total="482.9537"><![CDATA[When Apple's Keynote which was held last night at 19:00 French time on the Cupertino campus in California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="5" total="483.035"><![CDATA[When Apple's Keynote which took place yesterday evening at 19h00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="6" total="483.0619"><![CDATA[When Apple's Keynote which took place yesterday evening at 19:00 French time on the Cupertino campus in California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="7" total="483.0939"><![CDATA[When Apple's Keynote which took place last night at 19:00 French time on the Cupertino campus in California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="8" total="483.2854"><![CDATA[When Apple's Keynote which was held last night at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also new generations of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="9" total="483.2971"><![CDATA[When Apple's Keynote which took place yesterday evening at 19h00 French time on the Cupertino campus in California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="10" total="483.3936"><![CDATA[When Apple's Keynote which took place yesterday evening at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also new generations of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="11" total="483.4257"><![CDATA[When Apple's Keynote which took place last night at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also new generations of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="12" total="483.5475"><![CDATA[When Apple's Keynote which was held last night at 19:00 French time on the Cupertino campus in California, we discovered the new smartphone iPhone of course, but also new generations of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="13" total="483.5767"><![CDATA[During Apple's Keynote which took place yesterday evening at 19:00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also the new generation of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="14" total="483.6288"><![CDATA[When Apple's Keynote which took place yesterday evening at 19h00 French time on campus in Cupertino, California, we discovered the new smartphone iPhone of course, but also new generations of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="15" total="483.6557"><![CDATA[When Apple's Keynote which took place yesterday evening at 19:00 French time on the Cupertino campus in California, we discovered the new smartphone iPhone of course, but also new generations of iPods nano and iPod Touch.]]></nbest>
+			<nbest id="16" total="483.6878"><![CDATA[When Apple's Keynote which took place last night at 19:00 French time on the Cupertino campus in California, we discovered the new smartphone iPhone of course, but also new generations of iPods nano and iPod Touch.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Si vous avez suivi notre direct sur Twitter hier soir, vous savez qu'Apple a annoncé un iPhone 4S, un smartphone qui visuellement reste le même, mais qui change entièrement à l'intérieur. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="360.691"><![CDATA[If you followed our live on Twitter last night, you know that Apple announced iPhone 4S, a smartphone that is visually the same, but changes completely inside.]]></nbest>
+			<nbest id="1" total="361.0173"><![CDATA[If you followed our live on Twitter last night, you know that Apple has announced iPhone 4S, a smartphone that is visually the same, but changes completely inside.]]></nbest>
+			<nbest id="2" total="361.6215"><![CDATA[If you followed our live Twitter last night, you know that Apple announced iPhone 4S, a smartphone that is visually the same, but changes completely inside.]]></nbest>
+			<nbest id="3" total="361.891"><![CDATA[If you followed our live on Twitter last night, you know that Apple announced iPhone 4S, a smartphone that visually remains the same, but changes completely inside.]]></nbest>
+			<nbest id="4" total="361.9478"><![CDATA[If you followed our live Twitter last night, you know that Apple has announced iPhone 4S, a smartphone that is visually the same, but changes completely inside.]]></nbest>
+			<nbest id="5" total="362.1171"><![CDATA[If you followed our live on Twitter last night, you know that Apple announced iPhone 4S, a smartphone that is visually the same, but changes entirely inside.]]></nbest>
+			<nbest id="6" total="362.1897"><![CDATA[If you followed our live on Twitter last night, you know Apple announced iPhone 4S, a smartphone that is visually the same, but changes completely inside.]]></nbest>
+			<nbest id="7" total="362.2174"><![CDATA[If you followed our live on Twitter last night, you know that Apple has announced iPhone 4S, a smartphone that visually remains the same, but changes completely inside.]]></nbest>
+			<nbest id="8" total="362.2193"><![CDATA[If you followed our live on Twitter last night, you know that Apple announced iPhone 4S, a smartphone that is visually the same, but changes entirely within.]]></nbest>
+			<nbest id="9" total="362.4434"><![CDATA[If you followed our live on Twitter last night, you know that Apple has announced iPhone 4S, a smartphone that is visually the same, but changes entirely inside.]]></nbest>
+			<nbest id="10" total="362.5456"><![CDATA[If you followed our live on Twitter last night, you know that Apple has announced iPhone 4S, a smartphone that is visually the same, but changes entirely within.]]></nbest>
+			<nbest id="11" total="362.701"><![CDATA[If you followed our live on Twitter last night, you know Apple announced the iPhone 4S, a smartphone that is visually the same, but changes completely inside.]]></nbest>
+			<nbest id="12" total="362.8216"><![CDATA[If you followed our live Twitter last night, you know that Apple announced iPhone 4S, a smartphone that visually remains the same, but changes completely inside.]]></nbest>
+			<nbest id="13" total="362.8573"><![CDATA[If you followed our live on Twitter last night, you know that Apple announced iPhone 4S, a smartphone that is visually the same, but changing completely inside.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Tim Cook, le nouveau PDG d'Apple, a présenté les nouveautés de la société à la Pomme : iPhone 4S, iOS 5, iCloud, iPod Touch et iPod Nano.]]></source>
+		<target lang="en">
+			<nbest id="0" total="269.4606"><![CDATA[Tim Cook, the new CEO of Apple introduced the new company to Apple: iPhone 4S, iOS 5, iCloud, iPod Touch and iPod Nano.]]></nbest>
+			<nbest id="1" total="269.9648"><![CDATA[Tim Cook, the new CEO of Apple introduced the new society to Apple: iPhone 4S, iOS 5, iCloud, iPod Touch and iPod Nano.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[iPhone 3G, puis iPhone 3GS, iPhone 4 puis iPhone 4S, Apple ne s'affole pas et conserve son design produit pendant deux ans.]]></source>
+		<target lang="en">
+			<nbest id="0" total="245.9782"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple did not panic and keep its product design for two years.]]></nbest>
+			<nbest id="1" total="246.1244"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple did not panic and keeps its product design for two years.]]></nbest>
+			<nbest id="2" total="246.3073"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple did not panic and maintains its product design for two years.]]></nbest>
+			<nbest id="3" total="246.6654"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple did not panic and retains its product design for two years.]]></nbest>
+			<nbest id="4" total="246.7415"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple did not panic and retains product design for two years.]]></nbest>
+			<nbest id="5" total="247.2559"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple does not panic and keep its product design for two years.]]></nbest>
+			<nbest id="6" total="247.4021"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple does not panic and keeps its product design for two years.]]></nbest>
+			<nbest id="7" total="247.585"><![CDATA[iPhone 3G and iPhone 3GS, iPhone 4 and iPhone 4S, Apple does not panic and maintains its product design for two years.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

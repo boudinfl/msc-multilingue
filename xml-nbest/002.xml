@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Bouygues Telecom, Free Mobile, Orange et SFR se sont portés candidats aux licences 4G dans la bande 2,6 GHz.]]></source>
+		<target lang="en">
+			<nbest id="0" total="201.8448"><![CDATA[Bouygues Telecom, Free Mobile, Orange and SFR have applied for 4G licenses in the 2.6 GHz band.]]></nbest>
+			<nbest id="1" total="202.2675"><![CDATA[Bouygues Telecom, Free Mobile, Orange and SFR are candidates for 4G licenses in the 2.6 GHz band.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'appel à candidatures pour les licences 4G en France vient de s'achever, et l'ARCEP révèle que quatre opérateurs ont déposé un dossier avant la date limite : sans surprise, il s'agit de Bouygues Telecom, Free Mobile, Orange et SFR.]]></source>
+		<target lang="en">
+			<nbest id="0" total="475.1904"><![CDATA[The call for applications for 4G licenses in France just ended, and ARCEP reveals that four operators have filed an application before the deadline: unsurprisingly, it's Bouygues Telecom, Free Mobile, Orange and SFR.]]></nbest>
+			<nbest id="1" total="475.3216"><![CDATA[The call for applications for 4G licenses in France has just ended, and ARCEP reveals that four operators have filed an application before the deadline: unsurprisingly, it's Bouygues Telecom, Free Mobile, Orange and SFR.]]></nbest>
+			<nbest id="2" total="476.1719"><![CDATA[The call for applications for 4G licenses in France just ended, and ARCEP reveals that four operators have filed an application before the deadline: unsurprisingly, it is Bouygues Telecom, Free Mobile, Orange and SFR.]]></nbest>
+			<nbest id="3" total="476.3031"><![CDATA[The call for applications for 4G licenses in France has just ended, and ARCEP reveals that four operators have filed an application before the deadline: unsurprisingly, it is Bouygues Telecom, Free Mobile, Orange and SFR.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ARCEP annonce le jeudi 15 septembre avoir reçu quatre dossiers de candidatures pour l'attribution de licences 4G dans la bande 2,6 GHz (réseau mobile à très haut débit), déposés par Bouygues Telecom, Free mobile, Orange et SFR.]]></source>
+		<target lang="en">
+			<nbest id="0" total="460.5244"><![CDATA[ARCEP announced Thursday, Sept. 15 records have received four nominations for the award of 4G licenses in the 2.6 GHz band (mobile high-speed), filed by Bouygues Telecom, Free Mobile, Orange and SFR.]]></nbest>
+			<nbest id="1" total="460.6986"><![CDATA[ARCEP announced Thursday, Sept. 15 records have received four nominations for the award of 4G licenses in the 2.6 GHz band (mobile high-speed) filed by Bouygues Telecom, Free Mobile, Orange and SFR.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ARCEP vient de confirmer avoir reçu 4 candidatures afin d'obtenir des fréquences 4G.]]></source>
+		<target lang="en">
+			<nbest id="0" total="198.4311"><![CDATA[ARCEP has confirmed having received four applications to get 4G frequencies.]]></nbest>
+			<nbest id="1" total="199.3238"><![CDATA[ARCEP has confirmed having received four applications to obtain 4G frequencies.]]></nbest>
+			<nbest id="2" total="199.3315"><![CDATA[ARCEP has confirmed having received four applications to obtain frequencies 4G.]]></nbest>
+			<nbest id="3" total="199.6798"><![CDATA[ARCEP has confirmed having received four nominations to get 4G frequencies.]]></nbest>
+			<nbest id="4" total="201.746"><![CDATA[ARCEP has confirmed having received four nominations to obtain frequencies 4G.]]></nbest>
+			<nbest id="5" total="202.0166"><![CDATA[ARCEP has confirmed having received four nominations in order to obtain frequencies 4G.]]></nbest>
+			<nbest id="6" total="202.3811"><![CDATA[ARCEP has confirmed having received four applications to achieve 4G frequencies.]]></nbest>
+			<nbest id="7" total="202.5584"><![CDATA[ARCEP has confirmed having received four applications to obtain frequency 4G.]]></nbest>
+			<nbest id="8" total="203.1982"><![CDATA[ARCEP has confirmed having received four nominations to obtain 4G frequencies.]]></nbest>
+			<nbest id="9" total="203.6645"><![CDATA[ARCEP has confirmed having received four nominations in order to obtain 4G frequencies.]]></nbest>
+			<nbest id="10" total="203.7362"><![CDATA[ARCEP has confirmed having received four nominations to achieve 4G frequencies.]]></nbest>
+			<nbest id="11" total="203.7369"><![CDATA[ARCEP has confirmed having received four applications to get 4G frequency.]]></nbest>
+			<nbest id="12" total="203.8151"><![CDATA[ARCEP has confirmed having received four applications to get 4G spectrum.]]></nbest>
+			<nbest id="13" total="204.3524"><![CDATA[ARCEP has confirmed having received four applications to get frequencies 4G.]]></nbest>
+			<nbest id="14" total="204.5033"><![CDATA[ARCEP has confirmed having received four applications to obtain the frequencies 4G.]]></nbest>
+			<nbest id="15" total="204.6021"><![CDATA[ARCEP has confirmed having received four applications to obtain 4G frequency.]]></nbest>
+			<nbest id="16" total="204.671"><![CDATA[ARCEP has confirmed having received four nominations in order to obtain frequency 4G.]]></nbest>
+			<nbest id="17" total="204.973"><![CDATA[ARCEP has confirmed having received four nominations to obtain frequency 4G.]]></nbest>
+			<nbest id="18" total="204.9857"><![CDATA[ARCEP has confirmed having received four nominations to get 4G frequency.]]></nbest>
+			<nbest id="19" total="205.0638"><![CDATA[ARCEP has confirmed having received four nominations to get 4G spectrum.]]></nbest>
+			<nbest id="20" total="205.5438"><![CDATA[ARCEP has confirmed having received four nominations in order to obtain the frequencies 4G.]]></nbest>
+			<nbest id="21" total="205.6011"><![CDATA[ARCEP has confirmed having received four nominations to get frequencies 4G.]]></nbest>
+			<nbest id="22" total="205.9655"><![CDATA[ARCEP has confirmed having received four applications in order to obtain frequencies 4G.]]></nbest>
+			<nbest id="23" total="206.52"><![CDATA[ARCEP has confirmed having received four applications for 4G frequencies to obtain.]]></nbest>
+			<nbest id="24" total="207.6134"><![CDATA[ARCEP has confirmed having received four applications in order to obtain 4G frequencies.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'ARCEP vient de dévoiler la liste des candidatures des opérateurs qui ont officiellement pris position sur l'Internet très haut débit mobile et qui cherchent à acquérir une licence ad hoc. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="359.1664"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the mobile broadband Internet and looking to acquire a license ad hoc.]]></nbest>
+			<nbest id="1" total="359.2738"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the high-speed mobile Internet and looking to acquire a license ad hoc.]]></nbest>
+			<nbest id="2" total="359.323"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the mobile broadband Internet and looking to purchase a license ad hoc.]]></nbest>
+			<nbest id="3" total="359.4304"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the high-speed mobile Internet and looking to purchase a license ad hoc.]]></nbest>
+			<nbest id="4" total="360.0384"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the mobile broadband Internet and seeking to acquire a license ad hoc.]]></nbest>
+			<nbest id="5" total="360.1458"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the high-speed mobile Internet and seeking to acquire a license ad hoc.]]></nbest>
+			<nbest id="6" total="360.4573"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the mobile broadband Internet and looking to buy a license ad hoc.]]></nbest>
+			<nbest id="7" total="360.4726"><![CDATA[ARCEP has unveiled the list of candidates of operators who have officially taken a position on the mobile broadband Internet and looking to acquire a license ad hoc.]]></nbest>
+			<nbest id="8" total="360.5647"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the high-speed mobile Internet and looking to buy a license ad hoc.]]></nbest>
+			<nbest id="9" total="360.58"><![CDATA[ARCEP has unveiled the list of candidates of operators who have officially taken a position on the high-speed mobile Internet and looking to acquire a license ad hoc.]]></nbest>
+			<nbest id="10" total="360.6292"><![CDATA[ARCEP has unveiled the list of candidates of operators who have officially taken a position on the mobile broadband Internet and looking to purchase a license ad hoc.]]></nbest>
+			<nbest id="11" total="360.7366"><![CDATA[ARCEP has unveiled the list of candidates of operators who have officially taken a position on the high-speed mobile Internet and looking to purchase a license ad hoc.]]></nbest>
+			<nbest id="12" total="360.796"><![CDATA[ARCEP has unveiled the list of candidates for operators who have officially taken a position on the Internet and mobile broadband seeking to acquire a license ad hoc.]]></nbest>
+			<nbest id="13" total="361.3446"><![CDATA[ARCEP has unveiled the list of candidates of operators who have officially taken a position on the mobile broadband Internet and seeking to acquire a license ad hoc.]]></nbest>
+			<nbest id="14" total="361.452"><![CDATA[ARCEP has unveiled the list of candidates of operators who have officially taken a position on the high-speed mobile Internet and seeking to acquire a license ad hoc.]]></nbest>
+			<nbest id="15" total="361.4816"><![CDATA[ARCEP has unveiled the list of applications of operators who have officially taken a position on the mobile broadband Internet and looking to acquire a license ad hoc.]]></nbest>
+			<nbest id="16" total="361.5889"><![CDATA[ARCEP has unveiled the list of applications of operators who have officially taken a position on the high-speed mobile Internet and looking to acquire a license ad hoc.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Autorité de Régulation des Communications Electroniques et des Postes (ARCEP) annonce avoir reçu les candidatures de Bouygues Telecom, Free Mobile, Orange France et SFR pour l'attribution de licences 4G dans la bande 2,6 Ghz.]]></source>
+		<target lang="en">
+			<nbest id="0" total="371.0489"><![CDATA[The Regulatory Authority for Electronic Communications and Posts (ARCEP) announces that it received applications from Bouygues Telecom, Free Mobile, Orange France and SFR for 4G licensing in the band 2.6 Ghz.]]></nbest>
+			<nbest id="1" total="371.9318"><![CDATA[The Regulatory Authority for Electronic Communications and Posts (ARCEP) announces that it received applications from Bouygues Telecom, Free Mobile, Orange France and SFR for the licensing of 4G in the band 2.6 Ghz.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Autorité de régulation des communications électroniques et des postes, ou ARCEP, a annoncé jeudi que les quatre principaux opérateurs français de téléphonie mobile avaient soumis leur candidature à l'obtention des licences de quatrième génération, ou 4G, mises en vente par le pays. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="475.9313"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="1" total="476.0565"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="2" total="476.3185"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="3" total="476.4438"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="4" total="476.7283"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators have submitted their application to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="5" total="476.8535"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators have submitted their application to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="6" total="477.0156"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four main French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="7" total="477.1156"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators have submitted their application to obtain licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="8" total="477.2408"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators have submitted their application to obtain licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="9" total="477.4028"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four main French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="10" total="477.5501"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP said Thursday that the four main French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="11" total="477.5808"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators have submitted their application for obtaining licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="12" total="477.706"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators have submitted their application for obtaining licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="13" total="477.8126"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four main French mobile operators have submitted their application to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="14" total="477.9092"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators had submitted their application to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="15" total="477.9373"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP said Thursday that the four main French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="16" total="477.9392"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale in the country.]]></nbest>
+			<nbest id="17" total="477.968"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators have submitted their application for obtaining licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="18" total="478.007"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP, announced Thursday that the four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="19" total="478.0107"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP, said Thursday that the four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="20" total="478.0344"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators had submitted their application to obtain licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+			<nbest id="21" total="478.0644"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, offered for sale in the country.]]></nbest>
+			<nbest id="22" total="478.0784"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators had submitted their applications to obtain licenses fourth generation, or 4G, for sale by country.]]></nbest>
+			<nbest id="23" total="478.0933"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that four major French mobile operators have submitted their application for obtaining licenses fourth generation, or 4G, offered for sale by country.]]></nbest>
+			<nbest id="24" total="478.1151"><![CDATA[The Regulatory Authority for Electronic Communications and Postal or ARCEP announced Thursday that the four major French mobile operators had submitted their application for obtaining licenses fourth generation, or 4G, offered for sale by the country.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le régulateur français des télécoms, l'ARCEP, a annoncé jeudi que SFR, Orange, Bouygues et Free Mobile avaient déposé des candidatures pour acheter des lots de fréquences mobiles de nouvelle génération (4G), dans le cadre d'une première de deux enchères, qui concerne la bande dite "haute".]]></source>
+		<target lang="en">
+			<nbest id="0" total="578.9524"><![CDATA[The French telecoms regulator, ARCEP, announced Thursday that SFR, Orange, Bouygues and Free Mobile had filed applications to buy lots of frequency generation mobile (4G) within the first two auctions, for the band called "high."]]></nbest>
+			<nbest id="1" total="579.6287"><![CDATA[The French telecoms regulator, ARCEP, announced Thursday that SFR, Orange, Bouygues and Free Mobile had filed applications to buy lots of frequencies next generation mobile (4G) within the first two auctions, for the band called "high."]]></nbest>
+			<nbest id="2" total="579.653"><![CDATA[The French telecoms regulator, ARCEP, announced Thursday that SFR, Orange, Bouygues and Free Mobile had filed applications to buy lots of frequency generation mobile (4G) within the first two auctions, for the band called "high".]]></nbest>
+			<nbest id="3" total="579.849"><![CDATA[The French telecoms regulator, ARCEP, announced Thursday that SFR, Orange, Bouygues and Free Mobile had submitted applications to buy lots of frequency generation mobile (4G) within the first two auctions, for the band called "high."]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les appels à candidatures pour l'attribution de fréquences dans les bandes 2,6 GHz et 800 MHz, destinées aux réseaux mobiles à très haut débit, ont été lancés le 15 juin 2011.]]></source>
+		<target lang="en">
+			<nbest id="0" total="290.7419"><![CDATA[Calls for applications for the allocation of frequencies in the 2.6 GHz and 800 MHz for mobile networks to broadband, were launched on 15 June 2011.]]></nbest>
+			<nbest id="1" total="291.1996"><![CDATA[Calls for applications for the allocation of frequencies in the 2.6 GHz and 800 MHz for the mobile networks to broadband, were launched on 15 June 2011.]]></nbest>
+			<nbest id="2" total="293.1798"><![CDATA[Calls for applications for the allocation of frequencies in the bands 2.6 GHz and 800 MHz for mobile networks to broadband, were launched on 15 June 2011.]]></nbest>
+			<nbest id="3" total="293.6375"><![CDATA[Calls for applications for the allocation of frequencies in the bands 2.6 GHz and 800 MHz for the mobile networks to broadband, were launched on 15 June 2011.]]></nbest>
+			<nbest id="4" total="293.9931"><![CDATA[Calls for applications for the allocation of frequencies in the 2.6 GHz and 800 MHz for mobile networks to broadband, was launched on 15 June 2011.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les candidats aux premiers lots des licences 4G doivent rendre leur copie demain. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="191.1125"><![CDATA[The first batch of candidates for 4G licenses must make their copy tomorrow.]]></nbest>
+			<nbest id="1" total="192.412"><![CDATA[The first batch of candidates for 4G licenses should make their copy tomorrow.]]></nbest>
+			<nbest id="2" total="194.2064"><![CDATA[The first batch of candidates for 4G licenses need to make their copy tomorrow.]]></nbest>
+			<nbest id="3" total="194.2388"><![CDATA[The first batch of candidates for 4G licenses must make their copies tomorrow.]]></nbest>
+			<nbest id="4" total="194.4039"><![CDATA[The first batch of candidates for 4G licenses must surrender their copy tomorrow.]]></nbest>
+			<nbest id="5" total="195.5332"><![CDATA[The first batch of candidates for 4G licenses should make their copies tomorrow.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les opérateurs ont jusqu'à jeudi midi pour déposer leur candidature aux nouvelles licences de téléphonie mobile de 4e génération, et annoncer combien de millions d'euros ils sont prêts à mettre sur la table pour s'adjuger des fréquences incontournables pour les années à venir.]]></source>
+		<target lang="en">
+			<nbest id="0" total="482.5968"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many millions of euros they are ready to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="1" total="482.808"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many million they are ready to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="2" total="482.8246"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many millions of euros they are ready to put on the table to clinch frequencies indispensable for years to come.]]></nbest>
+			<nbest id="3" total="483.0358"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many million they are ready to put on the table to clinch frequencies indispensable for years to come.]]></nbest>
+			<nbest id="4" total="483.4589"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation and announce how many millions of euros they are ready to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="5" total="483.5972"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many millions of euros they are willing to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="6" total="483.67"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation and announce how many million they are ready to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="7" total="483.6867"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation and announce how many millions of euros they are ready to put on the table to clinch frequencies indispensable for years to come.]]></nbest>
+			<nbest id="8" total="483.8083"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many million they are willing to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="9" total="483.825"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many millions of euros they are willing to put on the table to clinch frequencies indispensable for years to come.]]></nbest>
+			<nbest id="10" total="483.8979"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation and announce how many million they are ready to put on the table to clinch frequencies indispensable for years to come.]]></nbest>
+			<nbest id="11" total="484.0362"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many million they are willing to put on the table to clinch frequencies indispensable for years to come.]]></nbest>
+			<nbest id="12" total="484.174"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many millions of euros they are ready to put on the table to award frequencies essential for years to come.]]></nbest>
+			<nbest id="13" total="484.3852"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many million they are ready to put on the table to award frequencies essential for years to come.]]></nbest>
+			<nbest id="14" total="484.4019"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many millions of euros they are ready to put on the table to award frequencies indispensable for years to come.]]></nbest>
+			<nbest id="15" total="484.4085"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many millions of euros they are ready to put on the table to clinch frequencies missed for years to come.]]></nbest>
+			<nbest id="16" total="484.4592"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation and announce how many millions of euros they are willing to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="17" total="484.613"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many million they are ready to put on the table to award frequencies indispensable for years to come.]]></nbest>
+			<nbest id="18" total="484.6131"><![CDATA[Operators have until Thursday afternoon to submit their applications to the new mobile licenses 4th generation, and announce how many millions of euros they are ready to put on the table to clinch frequencies essential for years to come.]]></nbest>
+			<nbest id="19" total="484.6197"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation, and announce how many million they are ready to put on the table to clinch frequencies missed for years to come.]]></nbest>
+			<nbest id="20" total="484.6704"><![CDATA[Operators have until Thursday afternoon to submit their applications to new mobile licenses 4th generation and announce how many million they are willing to put on the table to clinch frequencies essential for years to come.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les opérateurs Orange, Bouygues Telecom, SFR et Free ont répondu jeudi à l'appel d'offres pour les premiers lots de fréquences mobiles de quatrième génération (4G), a indiqué l'autorité des télécoms, l'ARCEP, qui annoncera dans les semaines à venir les acquéreurs retenus.]]></source>
+		<target lang="en">
+			<nbest id="0" total="554.1023"><![CDATA[Operators Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of frequencies mobile fourth generation (4G), said the authority telecom, ARCEP, who announced in the coming weeks acquirers retained.]]></nbest>
+			<nbest id="1" total="554.5112"><![CDATA[Operators Orange, Bouygues Telecom, SFR and Free responded Thursday to call for tenders for the first batch of frequencies mobile fourth generation (4G), said the authority telecom, ARCEP, who announced in the coming weeks acquirers retained.]]></nbest>
+			<nbest id="2" total="554.6354"><![CDATA[Operators Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of frequencies mobile fourth generation (4G), said the authority telecom, ARCEP, which will announce in the coming weeks acquirers retained.]]></nbest>
+			<nbest id="3" total="554.7467"><![CDATA[Operators Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of frequencies mobile fourth generation (4G), said the authority telecom, ARCEP, who will announce in the coming weeks acquirers retained.]]></nbest>
+			<nbest id="4" total="554.9785"><![CDATA[Operators Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of frequencies mobile fourth generation (4G), said the authority telecom, ARCEP, who announced in the coming weeks acquirers identified.]]></nbest>
+			<nbest id="5" total="555.0443"><![CDATA[Operators Orange, Bouygues Telecom, SFR and Free responded Thursday to call for tenders for the first batch of frequencies mobile fourth generation (4G), said the authority telecom, ARCEP, which will announce in the coming weeks acquirers retained.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les quatre opérateurs mobiles français, Bouygues Telecom, Orange, SFR et Free Mobile ont déposé des dossiers de candidatures pour l'attribution de licences 4G dans la bande 2,6 GHz.]]></source>
+		<target lang="en">
+			<nbest id="0" total="317.284"><![CDATA[The four French mobile operators Bouygues Telecom, Orange, SFR and Free Mobile filed nomination files for the licensing of 4G in the 2.6 GHz band.]]></nbest>
+			<nbest id="1" total="318.75"><![CDATA[The four French mobile operators Bouygues Telecom, Orange, SFR and Free Mobile have filed nomination files for the licensing of 4G in the 2.6 GHz band.]]></nbest>
+			<nbest id="2" total="318.9173"><![CDATA[The four French mobile operators Bouygues Telecom, Orange, SFR and Free Mobile filed application files for the licensing of 4G in the 2.6 GHz band.]]></nbest>
+			<nbest id="3" total="319.0146"><![CDATA[The four French mobile operators, Bouygues Telecom, Orange, SFR and Free Mobile filed nomination files for the licensing of 4G in the 2.6 GHz band.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les quatre principaux opérateurs français Orange, Bouygues Telecom, SFR et Free ont répondu jeudi à l'appel d'offres pour les premiers lots de fréquences mobiles de quatrième génération (4G), a indiqué l'autorité des télécoms qui annoncera à la mi-octobre les acquéreurs retenus.]]></source>
+		<target lang="en">
+			<nbest id="0" total="555.8405"><![CDATA[The four main French operators Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of frequencies mobile fourth generation (4G), said the authority telecoms announce in mid-October acquirers retained.]]></nbest>
+			<nbest id="1" total="556.2493"><![CDATA[The four main French operators Orange, Bouygues Telecom, SFR and Free responded Thursday to call for tenders for the first batch of frequencies mobile fourth generation (4G), said the authority telecoms announce in mid-October acquirers retained.]]></nbest>
+			<nbest id="2" total="556.6191"><![CDATA[The four main French operators Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of frequencies mobile fourth generation (4G), said the authority of telecoms announce in mid-October acquirers retained.]]></nbest>
+			<nbest id="3" total="556.7166"><![CDATA[The four main French operators Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of frequencies mobile fourth generation (4G), said the authority telecoms announce in mid-October acquirers identified.]]></nbest>
+			<nbest id="4" total="557.028"><![CDATA[The four main French operators Orange, Bouygues Telecom, SFR and Free responded Thursday to call for tenders for the first batch of frequencies mobile fourth generation (4G), said the authority of telecoms announce in mid-October acquirers retained.]]></nbest>
+			<nbest id="5" total="557.1255"><![CDATA[The four main French operators Orange, Bouygues Telecom, SFR and Free responded Thursday to call for tenders for the first batch of frequencies mobile fourth generation (4G), said the authority telecoms announce in mid-October acquirers identified.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Orange, Bouygues Telecom, SFR et Free ont répondu jeudi à l'appel d'offres pour les premiers lots de fréquences mobiles de quatrième génération (4G), a indiqué l'autorité des télécoms, l'ARCEP.]]></source>
+		<target lang="en">
+			<nbest id="0" total="395.994"><![CDATA[Orange, Bouygues Telecom, SFR and Free Thursday responded to the call for tenders for the first batch of mobile frequencies of fourth generation (4G), said the telecom authority, ARCEP.]]></nbest>
+			<nbest id="1" total="396.3968"><![CDATA[Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of mobile frequencies of fourth generation (4G), said the telecom authority, ARCEP.]]></nbest>
+			<nbest id="2" total="396.8057"><![CDATA[Orange, Bouygues Telecom, SFR and Free responded Thursday to call for tenders for the first batch of mobile frequencies of fourth generation (4G), said the telecom authority, ARCEP.]]></nbest>
+			<nbest id="3" total="397.1257"><![CDATA[Orange, Bouygues Telecom, SFR and Free Thursday responded to the call for tenders for the first batch of mobile frequencies fourth generation (4G), said the telecom authority, ARCEP.]]></nbest>
+			<nbest id="4" total="397.1698"><![CDATA[Orange, Bouygues Telecom, SFR and Free Thursday responded to the call for tenders for the first batch of mobile frequencies of fourth generation (4G), said the telecoms authority, ARCEP.]]></nbest>
+			<nbest id="5" total="397.5285"><![CDATA[Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of mobile frequencies fourth generation (4G), said the telecom authority, ARCEP.]]></nbest>
+			<nbest id="6" total="397.5726"><![CDATA[Orange, Bouygues Telecom, SFR and Free responded Thursday to tender for the first batch of mobile frequencies of fourth generation (4G), said the telecoms authority, ARCEP.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Orange, SFR, Bouygues Telecom et Free Mobile ont été les seuls à déposer leur dossier de candidature pour obtenir une licence 4G (LTE) sur les fréquences dans les bandes 2,6 GHz.]]></source>
+		<target lang="en">
+			<nbest id="0" total="331.9289"><![CDATA[Orange, SFR and Bouygues Telecom and Free Mobile were the only ones to submit their application for a license 4G (LTE) of the frequencies in the 2.6 GHz band.]]></nbest>
+			<nbest id="1" total="333.0624"><![CDATA[Orange, SFR and Bouygues Telecom and Free Mobile were the only ones to submit their application for a license 4G (LTE) on the frequencies in the 2.6 GHz band.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Quatre candidats ont déposé un dossier de candidature pour l'attribution des quatorze premiers lots de fréquence de la licence 4G, a annoncé ce midi l'ARCEP, le régulateur des télécoms.]]></source>
+		<target lang="en">
+			<nbest id="0" total="369.607"><![CDATA[Four candidates have filed an application for the allocation of the first fourteen lots license frequency 4G, announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+			<nbest id="1" total="369.6273"><![CDATA[Four candidates have filed an application for the award of the first fourteen lots license frequency 4G, announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+			<nbest id="2" total="369.6362"><![CDATA[Four candidates have filed an application for the allocation of the first fourteen lots license frequency 4G announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+			<nbest id="3" total="369.6565"><![CDATA[Four candidates have filed an application for the award of the first fourteen lots license frequency 4G announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+			<nbest id="4" total="370.4111"><![CDATA[Four candidates have filed an application for the granting of the first fourteen lots license frequency 4G, announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+			<nbest id="5" total="370.4402"><![CDATA[Four candidates have filed an application for the granting of the first fourteen lots license frequency 4G announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+			<nbest id="6" total="370.9659"><![CDATA[Four candidates have filed an application for the grant of the first fourteen lots license frequency 4G, announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+			<nbest id="7" total="370.9951"><![CDATA[Four candidates have filed an application for the grant of the first fourteen lots license frequency 4G announced this afternoon ARCEP, the telecoms regulator.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Sans surprise, Bouygues Telecoms, Free, Orange et SFR ont chacun déposé un dossier pour obtenir une licence dans la bande des 2,6 GHz.]]></source>
+		<target lang="en">
+			<nbest id="0" total="249.9093"><![CDATA[Unsurprisingly, Bouygues Telecom, Free, Orange and SFR have each filed an application for a license in the 2.6 GHz band.]]></nbest>
+			<nbest id="1" total="251.1191"><![CDATA[Not surprisingly, Bouygues Telecom, Free, Orange and SFR have each filed an application for a license in the 2.6 GHz band.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

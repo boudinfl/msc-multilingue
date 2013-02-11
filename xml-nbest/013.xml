@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Les responsables du rugby de l'Hémisphère Sud ont officiellement confirmé, ce mardi, l'intégration de l'Argentine dans le Tri-Nations.]]></source>
+		<target lang="en">
+			<nbest id="0" total="248.8779"><![CDATA[Officials rugby Southern Hemisphere officially confirmed on Tuesday, the integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="1" total="249.5028"><![CDATA[Officials rugby Southern Hemisphere officially confirmed on Tuesday, integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="2" total="249.6795"><![CDATA[Officials rugby Southern Hemisphere officially confirmed on Tuesday the integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="3" total="251.4329"><![CDATA[Officials in the Southern Hemisphere rugby officially confirmed on Tuesday, the integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="4" total="251.4947"><![CDATA[Officials in the Southern Hemisphere rugby officially confirmed on Tuesday, integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="5" total="251.6358"><![CDATA[Officials rugby Southern Hemisphere have officially confirmed on Tuesday, the integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="6" total="251.8485"><![CDATA[Officials rugby Southern Hemisphere officially confirmed Tuesday, the integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="7" total="251.9735"><![CDATA[Officials rugby Southern Hemisphere officially confirmed on Tuesday, the integration of Argentina in the Tri-Nations.]]></nbest>
+			<nbest id="8" total="252.2607"><![CDATA[Officials rugby Southern Hemisphere have officially confirmed on Tuesday, integration of Argentina into the Tri-Nations.]]></nbest>
+			<nbest id="9" total="252.4373"><![CDATA[Officials rugby Southern Hemisphere have officially confirmed on Tuesday the integration of Argentina into the Tri-Nations.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les responsables du rugby de l'Hémisphère Sud ont officiellement confirmé mardi l'intégration de l'Argentine dans le Tri-Nations, compétition qui réunit actuellement l'Afrique du Sud, la Nouvelle-Zélande et l'Australie et qui va donc devenir le Quatre-Nations.]]></source>
+		<target lang="en">
+			<nbest id="0" total="454.1898"><![CDATA[Officials rugby Southern Hemisphere officially confirmed Tuesday the integration of Argentina into the Tri-Nations competition that currently meets South Africa, New Zealand and Australia and will therefore become the Four Nations.]]></nbest>
+			<nbest id="1" total="454.3495"><![CDATA[Officials rugby Southern Hemisphere officially confirmed on Tuesday the integration of Argentina into the Tri-Nations competition that currently meets South Africa, New Zealand and Australia and will therefore become the Four Nations.]]></nbest>
+			<nbest id="2" total="455.0084"><![CDATA[Officials rugby Southern Hemisphere officially confirmed Tuesday integration of Argentina into the Tri-Nations competition that currently meets South Africa, New Zealand and Australia and will therefore become the Four Nations.]]></nbest>
+			<nbest id="3" total="455.6881"><![CDATA[Officials rugby Southern Hemisphere officially confirmed Tuesday the integration of Argentina into the Tri-Nations competition that currently meets South Africa, New Zealand and Australia and will thus become the Four Nations.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Après de longues années de tractations, l'Argentine intègre officiellement la compétition-phare de l'hémisphère sud, aux côtés de la Nouvelle-Zélande, de l'Australie et de l'Afrique du Sud.]]></source>
+		<target lang="en">
+			<nbest id="0" total="310.6171"><![CDATA[After many years of negotiations, Argentina formally incorporates the flagship competition in the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="1" total="311.0372"><![CDATA[After many years of negotiations, Argentina formally incorporates the flagship competition in the Southern Hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="2" total="311.6784"><![CDATA[After many years of negotiations, Argentina formally incorporates flagship competition in the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="3" total="311.964"><![CDATA[After many years of negotiations, Argentina formally integrates the flagship competition in the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="4" total="312.0985"><![CDATA[After many years of negotiations, Argentina formally incorporates flagship competition in the Southern Hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="5" total="312.1493"><![CDATA[After many years of negotiations, Argentina formally incorporates the flagship competition of the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="6" total="312.3842"><![CDATA[After many years of negotiations, Argentina formally integrates the flagship competition in the Southern Hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="7" total="312.6145"><![CDATA[After years of negotiations, Argentina formally incorporates the flagship competition in the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="8" total="312.7074"><![CDATA[After long years of negotiations, Argentina formally incorporates the flagship competition in the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="9" total="312.8267"><![CDATA[After many years of negotiations, Argentina formally integrates flagship competition in the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="10" total="313.0346"><![CDATA[After years of negotiations, Argentina formally incorporates the flagship competition in the Southern Hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="11" total="313.1275"><![CDATA[After long years of negotiations, Argentina formally incorporates the flagship competition in the Southern Hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="12" total="313.1481"><![CDATA[After many years of negotiations, Argentina formally incorporate the flagship competition in the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="13" total="313.2468"><![CDATA[After many years of negotiations, Argentina formally integrates flagship competition in the Southern Hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="14" total="313.4962"><![CDATA[After many years of negotiations, Argentina formally integrates the flagship competition of the southern hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+			<nbest id="15" total="313.5682"><![CDATA[After many years of negotiations, Argentina formally incorporate the flagship competition in the Southern Hemisphere, alongside New Zealand, Australia and South Africa.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Cela faisait longtemps que cette possibilité était évoquée, elle est désormais effective : l'Argentine intègre officiellement le championnat des Tri-Nations.]]></source>
+		<target lang="en">
+			<nbest id="0" total="294.0658"><![CDATA[It was time that this possibility was mentioned, it is now effective: Argentina formally incorporates the Tri-Nations championship.]]></nbest>
+			<nbest id="1" total="294.5412"><![CDATA[It was time that this possibility was mentioned, it is now effective: Argentina formally incorporates the Tri-Nations Championship.]]></nbest>
+			<nbest id="2" total="295.6816"><![CDATA[It was time that this possibility was discussed earlier, it is now effective: Argentina formally incorporates the Tri-Nations championship.]]></nbest>
+			<nbest id="3" total="295.684"><![CDATA[It was time that this possibility was discussed, it is now effective: Argentina formally incorporates the Tri-Nations championship.]]></nbest>
+			<nbest id="4" total="295.9992"><![CDATA[It was time that this possibility was mentioned, it is now effective: Argentina officially joined the Tri-Nations championship.]]></nbest>
+			<nbest id="5" total="296.157"><![CDATA[It was time that this possibility was discussed earlier, it is now effective: Argentina formally incorporates the Tri-Nations Championship.]]></nbest>
+			<nbest id="6" total="296.1594"><![CDATA[It was time that this possibility was discussed, it is now effective: Argentina formally incorporates the Tri-Nations Championship.]]></nbest>
+			<nbest id="7" total="296.4746"><![CDATA[It was time that this possibility was mentioned, it is now effective: Argentina officially joined the Tri-Nations Championship.]]></nbest>
+			<nbest id="8" total="296.7835"><![CDATA[It was time that this possibility was mentioned, it is now effective: Argentina officially joined the championship of the Tri-Nations.]]></nbest>
+			<nbest id="9" total="296.899"><![CDATA[It was time that this possibility was mentioned, she is now effective: Argentina formally incorporates the Tri-Nations championship.]]></nbest>
+			<nbest id="10" total="297.3744"><![CDATA[It was time that this possibility was mentioned, she is now effective: Argentina formally incorporates the Tri-Nations Championship.]]></nbest>
+			<nbest id="11" total="297.5345"><![CDATA[It was time that this possibility was mentioned, it is now effective: Argentina formally integrates the Tri-Nations championship.]]></nbest>
+			<nbest id="12" total="297.6151"><![CDATA[It was time that this possibility was discussed earlier, it is now effective: Argentina officially joined the Tri-Nations championship.]]></nbest>
+			<nbest id="13" total="297.6174"><![CDATA[It was time that this possibility was discussed, it is now effective: Argentina officially joined the Tri-Nations championship.]]></nbest>
+			<nbest id="14" total="297.9756"><![CDATA[It was time that this possibility was mentioned, it is now effective: Argentina formally incorporate the Tri-Nations championship.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le XV argentin a été intégré officiellement au tournoi des Tri-Nations mardi, ont annoncé les responsables du rugby de l'hémisphère Sud.]]></source>
+		<target lang="en">
+			<nbest id="0" total="298.369"><![CDATA[The XV Argentine was officially integrated Tri-Nations tournament Tuesday, officials announced rugby in the southern hemisphere.]]></nbest>
+			<nbest id="1" total="299.1043"><![CDATA[The XV Argentine was officially incorporated Tri-Nations tournament Tuesday, officials announced rugby in the southern hemisphere.]]></nbest>
+			<nbest id="2" total="300.0027"><![CDATA[The XV Argentine was officially integrated Tri-Nations tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="3" total="300.2306"><![CDATA[The XV Argentine was officially integrated Tri-Nations tournament Tuesday, officials announced the rugby in the southern hemisphere.]]></nbest>
+			<nbest id="4" total="300.4385"><![CDATA[The XV Argentine was officially integrated Tri-Nations Tournament Tuesday, officials announced rugby in the southern hemisphere.]]></nbest>
+			<nbest id="5" total="300.4781"><![CDATA[The XV Argentine was officially integrated Tri-Nations tournament Tuesday, officials announced the Southern Hemisphere rugby.]]></nbest>
+			<nbest id="6" total="300.7381"><![CDATA[The XV Argentine was officially incorporated Tri-Nations tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="7" total="300.8571"><![CDATA[The XV Argentine was officially integrated Tri Nations tournament Tuesday, officials announced rugby in the southern hemisphere.]]></nbest>
+			<nbest id="8" total="300.9659"><![CDATA[The XV Argentine was officially incorporated Tri-Nations tournament Tuesday, officials announced the rugby in the southern hemisphere.]]></nbest>
+			<nbest id="9" total="301.1739"><![CDATA[The XV Argentine was officially incorporated Tri-Nations Tournament Tuesday, officials announced rugby in the southern hemisphere.]]></nbest>
+			<nbest id="10" total="301.2135"><![CDATA[The XV Argentine was officially incorporated Tri-Nations tournament Tuesday, officials announced the Southern Hemisphere rugby.]]></nbest>
+			<nbest id="11" total="301.233"><![CDATA[The XV Argentine was officially incorporated Tri Nations tournament Tuesday, officials announced rugby in the southern hemisphere.]]></nbest>
+			<nbest id="12" total="301.5588"><![CDATA[The Argentine XV was officially integrated Tri-Nations tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="13" total="302.0342"><![CDATA[The Argentine XV was officially integrated Tri-Nations tournament Tuesday, officials announced the Southern Hemisphere rugby.]]></nbest>
+			<nbest id="14" total="302.0723"><![CDATA[The XV Argentine was officially integrated Tri-Nations Tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="15" total="302.2941"><![CDATA[The Argentine XV was officially incorporated Tri-Nations tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="16" total="302.3002"><![CDATA[The XV Argentine was officially integrated Tri-Nations Tournament Tuesday, officials announced the rugby in the southern hemisphere.]]></nbest>
+			<nbest id="17" total="302.4909"><![CDATA[The XV Argentine was officially integrated Tri Nations tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="18" total="302.5151"><![CDATA[The XV Argentine was officially integrated Tri-Nations tournament Tuesday, officials announced the rugby Southern Hemisphere.]]></nbest>
+			<nbest id="19" total="302.5477"><![CDATA[The XV Argentine was officially integrated Tri-Nations Tournament Tuesday, officials announced the Southern Hemisphere rugby.]]></nbest>
+			<nbest id="20" total="302.7188"><![CDATA[The XV Argentine was officially integrated Tri Nations tournament Tuesday, officials announced the rugby in the southern hemisphere.]]></nbest>
+			<nbest id="21" total="302.7695"><![CDATA[The Argentine XV was officially incorporated Tri-Nations tournament Tuesday, officials announced the Southern Hemisphere rugby.]]></nbest>
+			<nbest id="22" total="302.8077"><![CDATA[The XV Argentine was officially incorporated Tri-Nations Tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="23" total="302.8667"><![CDATA[The XV Argentine was officially incorporated Tri Nations tournament Tuesday, officials announced rugby Southern Hemisphere.]]></nbest>
+			<nbest id="24" total="302.9663"><![CDATA[The XV Argentine was officially integrated Tri Nations tournament Tuesday, officials announced the Southern Hemisphere rugby.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'Argentine a en effet officiellement rejoint l'Afrique du Sud, la Nouvelle-Zélande et l'Australie dans la prestigieuse compétition, ont annoncé les responsables du rugby de l'Hémisphère Sud ce mardi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="341.0345"><![CDATA[Argentina has indeed officially joined South Africa, New Zealand and Australia in the prestigious competition, officials announced rugby Southern Hemisphere Tuesday.]]></nbest>
+			<nbest id="1" total="341.1985"><![CDATA[Argentina has indeed officially joined South Africa, New Zealand and Australia in the prestigious competition, announced officials rugby Southern Hemisphere Tuesday.]]></nbest>
+			<nbest id="2" total="341.3907"><![CDATA[Argentina has indeed officially joined the South Africa, New Zealand and Australia in the prestigious competition, announced officials rugby Southern Hemisphere Tuesday.]]></nbest>
+			<nbest id="3" total="341.5693"><![CDATA[Argentina has indeed officially joined South Africa, New Zealand and Australia in the prestigious competition, officials announced rugby Southern Hemisphere on Tuesday.]]></nbest>
+			<nbest id="4" total="341.5901"><![CDATA[Argentina has indeed officially joined the South Africa, New Zealand and Australia in the prestigious competition, officials announced rugby Southern Hemisphere Tuesday.]]></nbest>
+			<nbest id="5" total="341.7333"><![CDATA[Argentina has indeed officially joined South Africa, New Zealand and Australia in the prestigious competition, announced officials rugby Southern Hemisphere on Tuesday.]]></nbest>
+			<nbest id="6" total="341.9255"><![CDATA[Argentina has indeed officially joined the South Africa, New Zealand and Australia in the prestigious competition, announced officials rugby Southern Hemisphere on Tuesday.]]></nbest>
+			<nbest id="7" total="342.1042"><![CDATA[Argentina has indeed officially joined South Africa, New Zealand and Australia in the prestigious competition, announced officials of the Southern Hemisphere rugby on Tuesday.]]></nbest>
+			<nbest id="8" total="342.1249"><![CDATA[Argentina has indeed officially joined the South Africa, New Zealand and Australia in the prestigious competition, officials announced rugby Southern Hemisphere on Tuesday.]]></nbest>
+			<nbest id="9" total="342.2093"><![CDATA[Argentina has indeed officially joined South Africa, New Zealand and Australia in the prestigious competition, announced officials of the Southern Hemisphere rugby Tuesday.]]></nbest>
+			<nbest id="10" total="342.2965"><![CDATA[Argentina has indeed officially joined the South Africa, New Zealand and Australia in the prestigious competition, announced officials of the Southern Hemisphere rugby on Tuesday.]]></nbest>
+			<nbest id="11" total="342.4016"><![CDATA[Argentina has indeed officially joined the South Africa, New Zealand and Australia in the prestigious competition, announced officials of the Southern Hemisphere rugby Tuesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Comme prévu ces dernières semaines, l'Argentine a été officiellement intégrée au Tri-Nations mardi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="204.4097"><![CDATA[As expected in recent weeks, Argentina was officially integrated into Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="1" total="204.4607"><![CDATA[As expected in recent weeks, Argentina was officially integrated Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="2" total="205.388"><![CDATA[As expected in recent weeks, the Argentine was officially integrated into Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="3" total="205.439"><![CDATA[As expected in recent weeks, the Argentine was officially integrated Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="4" total="205.4995"><![CDATA[As expected in recent weeks, Argentina was officially incorporated into Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="5" total="205.5805"><![CDATA[As expected in recent weeks, Argentina was officially integrated into Tri-Nations Tuesday.]]></nbest>
+			<nbest id="6" total="205.6315"><![CDATA[As expected in recent weeks, Argentina was officially integrated Tri-Nations Tuesday.]]></nbest>
+			<nbest id="7" total="205.818"><![CDATA[As expected in recent weeks, Argentina was officially integrated the Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="8" total="206.1825"><![CDATA[As anticipated in recent weeks, Argentina was officially integrated Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="9" total="206.2704"><![CDATA[As predicted in recent weeks, Argentina was officially integrated Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="10" total="206.4779"><![CDATA[As expected in recent weeks, the Argentine was officially incorporated into Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="11" total="206.5588"><![CDATA[As expected in recent weeks, the Argentine was officially integrated into Tri-Nations Tuesday.]]></nbest>
+			<nbest id="12" total="206.582"><![CDATA[As expected in recent weeks, Argentina has been officially integrated Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="13" total="206.6047"><![CDATA[As expected in recent weeks, Argentina was formally incorporated the Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="14" total="206.6098"><![CDATA[As expected in recent weeks, the Argentine was officially integrated Tri-Nations Tuesday.]]></nbest>
+			<nbest id="15" total="206.6704"><![CDATA[As expected in recent weeks, Argentina was officially incorporated into Tri-Nations Tuesday.]]></nbest>
+			<nbest id="16" total="206.7247"><![CDATA[As expected in recent weeks, Argentina was officially incorporated the Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="17" total="206.7963"><![CDATA[As expected in recent weeks, the Argentine was officially integrated the Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="18" total="207.3533"><![CDATA[As anticipated in recent weeks, Argentina was officially integrated Tri-Nations Tuesday.]]></nbest>
+			<nbest id="19" total="207.6487"><![CDATA[As expected in recent weeks, the Argentine was officially incorporated into Tri-Nations Tuesday.]]></nbest>
+			<nbest id="20" total="207.703"><![CDATA[As expected in recent weeks, the Argentine was officially incorporated the Tri-Nations on Tuesday.]]></nbest>
+			<nbest id="21" total="207.7528"><![CDATA[As expected in recent weeks, Argentina has been officially integrated Tri-Nations Tuesday.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

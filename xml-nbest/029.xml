@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Amateurs de mobilité, vous pourriez bientôt apprécier la réception du réseau Wifi dans le métro parisien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="219.4686"><![CDATA[Amateurs mobility, you could soon enjoy receiving the wireless network in the Paris metro.]]></nbest>
+			<nbest id="1" total="219.7988"><![CDATA[Amateurs mobility, you could soon enjoy receiving the wireless network in the Paris Metro.]]></nbest>
+			<nbest id="2" total="220.0142"><![CDATA[Amateurs mobility, you could soon enjoy receiving the WiFi network in the Paris metro.]]></nbest>
+			<nbest id="3" total="220.3443"><![CDATA[Amateurs mobility, you could soon enjoy receiving the WiFi network in the Paris Metro.]]></nbest>
+			<nbest id="4" total="221.5374"><![CDATA[Amateur mobility, you could soon enjoy receiving the wireless network in the Paris metro.]]></nbest>
+			<nbest id="5" total="221.6893"><![CDATA[Amateurs mobility, you could soon enjoy receiving the Wifi network in the Paris Metro.]]></nbest>
+			<nbest id="6" total="221.8675"><![CDATA[Amateur mobility, you could soon enjoy receiving the wireless network in the Paris Metro.]]></nbest>
+			<nbest id="7" total="222.0829"><![CDATA[Amateur mobility, you could soon enjoy receiving the WiFi network in the Paris metro.]]></nbest>
+			<nbest id="8" total="222.1378"><![CDATA[Amateurs mobility, you could soon enjoy receiving the Wifi network in the Paris metro.]]></nbest>
+			<nbest id="9" total="222.631"><![CDATA[Amateur mobility, you could soon enjoy receiving the WiFi network in the Paris Metro.]]></nbest>
+			<nbest id="10" total="222.6788"><![CDATA[Amateurs mobility, you may soon enjoy receiving the wireless network in the Paris metro.]]></nbest>
+			<nbest id="11" total="223.0041"><![CDATA[Amateurs mobility, you could soon enjoy receiving the wireless network in the Paris subway.]]></nbest>
+			<nbest id="12" total="223.009"><![CDATA[Amateurs mobility, you may soon enjoy receiving the wireless network in the Paris Metro.]]></nbest>
+			<nbest id="13" total="223.2244"><![CDATA[Amateurs mobility, you may soon enjoy receiving the WiFi network in the Paris metro.]]></nbest>
+			<nbest id="14" total="223.5496"><![CDATA[Amateurs mobility, you could soon enjoy receiving the WiFi network in the Paris subway.]]></nbest>
+			<nbest id="15" total="223.5545"><![CDATA[Amateurs mobility, you may soon enjoy receiving the WiFi network in the Paris Metro.]]></nbest>
+			<nbest id="16" total="223.7581"><![CDATA[Amateur mobility, you could soon enjoy receiving the Wifi network in the Paris Metro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ceux qui profitent des transports en commun pour consulter leurs mails ou revoir un dossier vont avoir bientôt une nouvelle option à Paris: selon la Tribune, le métro parisien aura aussi prochainement son accès à Internet sans fil.]]></source>
+		<target lang="en">
+			<nbest id="0" total="465.8339"><![CDATA[Those who benefit from public transport to check emails or review a case will soon have a new option in Paris: according to the Tribune, the Paris Metro will soon also its access to wireless internet.]]></nbest>
+			<nbest id="1" total="466.6233"><![CDATA[Those who benefit from public transport to check emails or review a case will soon have a new option in Paris: according to the Tribune, the Paris metro will soon also its access to wireless internet.]]></nbest>
+			<nbest id="2" total="466.8124"><![CDATA[Those who benefit from public transport to check emails or review a case will soon have a new option in Paris: according to the Tribune, the Paris Metro will soon also its access to wireless Internet.]]></nbest>
+			<nbest id="3" total="467.1745"><![CDATA[Those who benefit from public transport to check emails or review a case will soon have a new option in Paris: according to the Tribune, the Paris Metro will soon also their access to wireless internet.]]></nbest>
+			<nbest id="4" total="467.2266"><![CDATA[Those who benefit from public transport to check emails or revise a folder will soon have a new option in Paris: according to the Tribune, the Paris Metro will soon also its access to wireless internet.]]></nbest>
+			<nbest id="5" total="467.4368"><![CDATA[Those who benefit from public transport to check emails or review a case will soon have a new option in Paris: according to the Tribune, the Paris Metro will soon also access the Internet wirelessly.]]></nbest>
+			<nbest id="6" total="467.4462"><![CDATA[Those who benefit from public transport to check emails or review a case will soon have a new option to Paris: according to the Tribune, the Paris Metro will soon also its access to wireless internet.]]></nbest>
+			<nbest id="7" total="467.6018"><![CDATA[Those who benefit from public transport to check emails or review a case will soon have a new option in Paris: according to the Tribune, the Paris metro will soon also its access to wireless Internet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est l'opérateur Gowex qui proposerait, conjointement avec la RATP, le Wifi gratuit dans le Metro parisien la semaine prochaine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="297.6768"><![CDATA[It is the operator who Gowex propose, together with the RATP, free Wifi in Metro Paris next week.]]></nbest>
+			<nbest id="1" total="297.824"><![CDATA[It is the operator who Gowex propose, together with the RATP, free Wi-Fi in the Metro Paris next week.]]></nbest>
+			<nbest id="2" total="297.8855"><![CDATA[It is the operator who Gowex propose, together with the RATP, free WiFi in the Metro Paris next week.]]></nbest>
+			<nbest id="3" total="297.8986"><![CDATA[It is the operator who Gowex propose, together with the RATP, free Wi-Fi in Metro Paris next week.]]></nbest>
+			<nbest id="4" total="298.4223"><![CDATA[It is the operator who Gowex propose, together with the RATP, free WiFi in Metro Paris next week.]]></nbest>
+			<nbest id="5" total="298.5018"><![CDATA[It is the operator who Gowex propose, together with the RATP, free Wi-Fi in the Paris Metro next week.]]></nbest>
+			<nbest id="6" total="298.5632"><![CDATA[It is the operator who Gowex propose, together with the RATP, free WiFi in the Paris Metro next week.]]></nbest>
+			<nbest id="7" total="299.1486"><![CDATA[It is the operator who Gowex propose, together with the RATP, free Wifi in the Metro Paris next week.]]></nbest>
+			<nbest id="8" total="299.242"><![CDATA[It is the operator who propose Gowex, together with the RATP, free Wifi in Metro Paris next week.]]></nbest>
+			<nbest id="9" total="299.3893"><![CDATA[It is the operator who propose Gowex, together with the RATP, free Wi-Fi in the Metro Paris next week.]]></nbest>
+			<nbest id="10" total="299.4507"><![CDATA[It is the operator who propose Gowex, together with the RATP, free WiFi in the Metro Paris next week.]]></nbest>
+			<nbest id="11" total="299.4638"><![CDATA[It is the operator who propose Gowex, together with the RATP, free Wi-Fi in Metro Paris next week.]]></nbest>
+			<nbest id="12" total="299.5868"><![CDATA[It is the operator who Gowex propose, together with the RATP, free wifi in the Metro Paris next week.]]></nbest>
+			<nbest id="13" total="299.8246"><![CDATA[It is the operator who Gowex propose, together with the RATP, free Wi-Fi in the Parisian Metro next week.]]></nbest>
+			<nbest id="14" total="299.8264"><![CDATA[It is the operator who Gowex propose, together with the RATP, free Wifi in the Paris Metro next week.]]></nbest>
+			<nbest id="15" total="299.8861"><![CDATA[It is the operator who Gowex propose, together with the RATP, free WiFi in the Parisian Metro next week.]]></nbest>
+			<nbest id="16" total="299.8867"><![CDATA[It is the operator who Gowex propose, in conjunction with the RATP, free Wifi in Metro Paris next week.]]></nbest>
+			<nbest id="17" total="299.9875"><![CDATA[It is the operator who propose Gowex, together with the RATP, free WiFi in Metro Paris next week.]]></nbest>
+			<nbest id="18" total="300.0005"><![CDATA[It is the operator who propose Gowex conjunction with the RATP, free Wifi in Metro Paris next week.]]></nbest>
+			<nbest id="19" total="300.0339"><![CDATA[It is the operator who Gowex propose, in conjunction with the RATP, free Wi-Fi in the Metro Paris next week.]]></nbest>
+			<nbest id="20" total="300.067"><![CDATA[It is the operator who propose Gowex, together with the RATP, free Wi-Fi in the Paris Metro next week.]]></nbest>
+			<nbest id="21" total="300.0919"><![CDATA[It is the operator that Gowex propose, together with the RATP, free Wifi in Metro Paris next week.]]></nbest>
+			<nbest id="22" total="300.0954"><![CDATA[It is the operator who Gowex propose, in conjunction with the RATP, free WiFi in the Metro Paris next week.]]></nbest>
+			<nbest id="23" total="300.1085"><![CDATA[It is the operator who Gowex propose, in conjunction with the RATP, free Wi-Fi in Metro Paris next week.]]></nbest>
+			<nbest id="24" total="300.1285"><![CDATA[It is the operator who propose Gowex, together with the RATP, free WiFi in the Paris Metro next week.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est à partir du 26 juin prochain que le Wifi fera son apparition dans le métro parisien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="198.5738"><![CDATA[This is from the June 26 Wifi will appear in the Paris metro.]]></nbest>
+			<nbest id="1" total="198.8747"><![CDATA[This is from June 26 as Wifi will appear in the Paris metro.]]></nbest>
+			<nbest id="2" total="198.904"><![CDATA[This is from the June 26 Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="3" total="199.2048"><![CDATA[This is from June 26 as Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="4" total="200.0041"><![CDATA[It is from June 26 as Wifi will appear in the Paris metro.]]></nbest>
+			<nbest id="5" total="200.3343"><![CDATA[It is from June 26 as Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="6" total="200.4937"><![CDATA[This is from the June 26 as Wifi will appear in the Paris metro.]]></nbest>
+			<nbest id="7" total="200.8238"><![CDATA[This is from the June 26 as Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="8" total="201.1687"><![CDATA[This is from the June 26 Wifi will be appearing in the Paris Metro.]]></nbest>
+			<nbest id="9" total="201.2565"><![CDATA[It is from 26 June as Wifi will appear in the Paris metro.]]></nbest>
+			<nbest id="10" total="201.2707"><![CDATA[This is from 26 June as Wifi will appear in the Paris metro.]]></nbest>
+			<nbest id="11" total="201.4696"><![CDATA[This is from June 26 as Wifi will be appearing in the Paris Metro.]]></nbest>
+			<nbest id="12" total="201.5867"><![CDATA[It is from 26 June as Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="13" total="201.6009"><![CDATA[This is from 26 June as Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="14" total="201.6172"><![CDATA[This is from the June 26 Wifi will be appearing in the Paris metro.]]></nbest>
+			<nbest id="15" total="201.9091"><![CDATA[It is from the June 26 Wifi will appear in the Paris metro.]]></nbest>
+			<nbest id="16" total="201.918"><![CDATA[This is from June 26 as Wifi will be appearing in the Paris metro.]]></nbest>
+			<nbest id="17" total="202.1093"><![CDATA[This is from the June 26 Wifi will appear in the Paris subway.]]></nbest>
+			<nbest id="18" total="202.2393"><![CDATA[It is from the June 26 Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="19" total="202.3065"><![CDATA[Is from 26 June as Wifi will appear in the Paris Metro.]]></nbest>
+			<nbest id="20" total="202.4102"><![CDATA[This is from June 26 as Wifi will appear in the Paris subway.]]></nbest>
+			<nbest id="21" total="202.6749"><![CDATA[This is from the June 26 Wifi will appear in the Parisian metro.]]></nbest>
+			<nbest id="22" total="202.9758"><![CDATA[This is from June 26 as Wifi will appear in the Parisian metro.]]></nbest>
+			<nbest id="23" total="203.0886"><![CDATA[This is from the June 26 as Wifi will be appearing in the Paris Metro.]]></nbest>
+			<nbest id="24" total="203.537"><![CDATA[This is from the June 26 as Wifi will be appearing in the Paris metro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[D'ici la fin du mois, les parisiens devraient pouvoir surfer via des hotspots Wifi déployés par l'espagnol Gowex sur les quais de quelques stations de métro et de RER.]]></source>
+		<target lang="en">
+			<nbest id="0" total="376.3245"><![CDATA[By the end of the month, Paris should be able to surf via WiFi hotspots deployed by the Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="1" total="377.2499"><![CDATA[By the end of the month, Paris should be able to surf via WiFi hotspots deployed by Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="2" total="377.9293"><![CDATA[By the end of the month, the Parisians should be able to surf via WiFi hotspots deployed by the Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="3" total="378.3248"><![CDATA[By the end of the month in Paris should be able to surf via WiFi hotspots deployed by the Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="4" total="378.8548"><![CDATA[By the end of the month, the Parisians should be able to surf via WiFi hotspots deployed by Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="5" total="378.8909"><![CDATA[By the end of the month, Parisians should be able to surf via WiFi hotspots deployed by the Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="6" total="379.2503"><![CDATA[By the end of the month in Paris should be able to surf via WiFi hotspots deployed by Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="7" total="379.5176"><![CDATA[By the end of the month, Paris should be able to surf via WiFi hotspots deployed by the Spanish Gowex on the docks of some Metro stations and RER.]]></nbest>
+			<nbest id="8" total="379.8164"><![CDATA[By the end of the month, Parisians should be able to surf via WiFi hotspots deployed by Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+			<nbest id="9" total="379.9178"><![CDATA[By the end of the month, the Paris should be able to surf via WiFi hotspots deployed by the Spanish Gowex on the banks of some Metro stations and RER.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des rumeurs annoncent l'arrivée du Wifi gratuit dans le métro de Paris dès le 26 Juin pour les clients de la RATP!]]></source>
+		<target lang="en">
+			<nbest id="0" total="272.6996"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 for customers RATP!]]></nbest>
+			<nbest id="1" total="273.3687"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 to RATP customers!]]></nbest>
+			<nbest id="2" total="273.4677"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 to customers RATP!]]></nbest>
+			<nbest id="3" total="273.6051"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 to the RATP customers!]]></nbest>
+			<nbest id="4" total="274.1794"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26th to the RATP customers!]]></nbest>
+			<nbest id="5" total="274.5478"><![CDATA[Rumors herald the arrival of free Wi-Fi in the Paris Metro from June 26 for customers RATP!]]></nbest>
+			<nbest id="6" total="274.5687"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 for the RATP customers!]]></nbest>
+			<nbest id="7" total="274.6393"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro at 26 June for the RATP customers!]]></nbest>
+			<nbest id="8" total="274.9286"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 for customers in the RATP!]]></nbest>
+			<nbest id="9" total="275.2169"><![CDATA[Rumors herald the arrival of free Wi-Fi in the Paris Metro from June 26 to RATP customers!]]></nbest>
+			<nbest id="10" total="275.2469"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro at 26 June for customers RATP!]]></nbest>
+			<nbest id="11" total="275.3158"><![CDATA[Rumors herald the arrival of free Wi-Fi in the Paris Metro from June 26 to customers RATP!]]></nbest>
+			<nbest id="12" total="275.4533"><![CDATA[Rumors herald the arrival of free Wi-Fi in the Paris Metro from June 26 to the RATP customers!]]></nbest>
+			<nbest id="13" total="275.6731"><![CDATA[Rumors announce the arrival of free Wifi in the Paris Metro from June 26 for customers RATP!]]></nbest>
+			<nbest id="14" total="275.8892"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26th to clients RATP!]]></nbest>
+			<nbest id="15" total="275.9742"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro at June 26 for customers RATP!]]></nbest>
+			<nbest id="16" total="276.0188"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 for RATP customers!]]></nbest>
+			<nbest id="17" total="276.0276"><![CDATA[Rumors herald the arrival of free Wi-Fi in the Paris Metro from June 26th to the RATP customers!]]></nbest>
+			<nbest id="18" total="276.088"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26th to RATP customers!]]></nbest>
+			<nbest id="19" total="276.1308"><![CDATA[Rumors announce the arrival of Free Wifi in the Paris Metro from June 26 for customers RATP!]]></nbest>
+			<nbest id="20" total="276.224"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris Metro from June 26 for customers of the RATP!]]></nbest>
+			<nbest id="21" total="276.3422"><![CDATA[Rumors announce the arrival of free Wifi in the Paris Metro from June 26 to RATP customers!]]></nbest>
+			<nbest id="22" total="276.3714"><![CDATA[Rumors announce the arrival of free Wi-Fi in the Paris metro from June 26 for customers RATP!]]></nbest>
+			<nbest id="23" total="276.4169"><![CDATA[Rumors herald the arrival of free Wi-Fi in the Paris Metro from June 26 for the RATP customers!]]></nbest>
+			<nbest id="24" total="276.4411"><![CDATA[Rumors announce the arrival of free Wifi in the Paris Metro from June 26 to customers RATP!]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dès le 26 juin prochain, la société espagnole "Gowex" testera le Wifi dans le métro parisien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="249.3855"><![CDATA[On 26 June, the Spanish company "Gowex" test the connection in the Paris metro.]]></nbest>
+			<nbest id="1" total="249.4596"><![CDATA[On 26 June, the Spanish company "Gowex" test the connection in the Paris Metro.]]></nbest>
+			<nbest id="2" total="251.4392"><![CDATA[On 26 June, the Spanish company "Gowex" test WiFi in the Paris metro.]]></nbest>
+			<nbest id="3" total="251.5133"><![CDATA[On 26 June, the Spanish company "Gowex" test WiFi in the Paris Metro.]]></nbest>
+			<nbest id="4" total="252.0979"><![CDATA[On 26 June, the Spanish company "Gowex" test the Wifi in the Paris metro.]]></nbest>
+			<nbest id="5" total="252.425"><![CDATA[On 26 June, the Spanish company "Gowex" test the connection in the Parisian subway.]]></nbest>
+			<nbest id="6" total="252.428"><![CDATA[On 26 June, the Spanish company "Gowex" test the Wifi in the Paris Metro.]]></nbest>
+			<nbest id="7" total="252.9143"><![CDATA[On 26 June, the Spanish company "Gowex" test the WiFi in the Paris Metro.]]></nbest>
+			<nbest id="8" total="253.2002"><![CDATA[From 26 June, the Spanish company "Gowex" test the connection in the Paris metro.]]></nbest>
+			<nbest id="9" total="253.2743"><![CDATA[From 26 June, the Spanish company "Gowex" test the connection in the Paris Metro.]]></nbest>
+			<nbest id="10" total="253.3627"><![CDATA[On 26 June, the Spanish company "Gowex" test the WiFi in the Paris metro.]]></nbest>
+			<nbest id="11" total="253.3629"><![CDATA[On 26 June, the Spanish company "Gowex" WiFi test in the Paris metro.]]></nbest>
+			<nbest id="12" total="253.3717"><![CDATA[On 26 June, the Spanish "Gowex" test the connection in the Paris metro.]]></nbest>
+			<nbest id="13" total="253.4458"><![CDATA[On 26 June, the Spanish "Gowex" test the connection in the Paris Metro.]]></nbest>
+			<nbest id="14" total="253.693"><![CDATA[On 26 June, the Spanish company "Gowex" WiFi test in the Paris Metro.]]></nbest>
+			<nbest id="15" total="253.9608"><![CDATA[On 26 June, the Spanish company "Gowex" test the wifi in the Paris metro.]]></nbest>
+			<nbest id="16" total="253.9792"><![CDATA[On 26 June, the Spanish society "Gowex" test the connection in the Paris metro.]]></nbest>
+			<nbest id="17" total="254.0382"><![CDATA[On 26 June, the Spanish company "Gowex" test Wifi in the Paris Metro.]]></nbest>
+			<nbest id="18" total="254.0533"><![CDATA[On 26 June, the Spanish society "Gowex" test the connection in the Paris Metro.]]></nbest>
+			<nbest id="19" total="254.2909"><![CDATA[On 26 June, the Spanish company "Gowex" test the wifi in the Paris Metro.]]></nbest>
+			<nbest id="20" total="254.4787"><![CDATA[On 26 June, the Spanish company "Gowex" test WiFi in the Parisian subway.]]></nbest>
+			<nbest id="21" total="254.4866"><![CDATA[On 26 June, the Spanish company "Gowex" test Wifi in the Paris metro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dès lundi prochain, le 26 juin, les usagers du métro parisien bénéficieront d'une connexion Wifi accessible gratuitement, dans certaines stations.]]></source>
+		<target lang="en">
+			<nbest id="0" total="250.4925"><![CDATA[Starting next Monday, June 26, the Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="1" total="251.4061"><![CDATA[Starting next Monday, June 26, of the Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="2" total="251.5249"><![CDATA[Starting next Monday, June 26th, the Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="3" total="252.5136"><![CDATA[Starting next Monday, June 26, the Paris metro users will benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="4" total="253.1969"><![CDATA[Starting next Monday, June 26, Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="5" total="253.4272"><![CDATA[Starting next Monday, June 26, of the Paris metro users will benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="6" total="253.546"><![CDATA[Starting next Monday, June 26th, the Paris metro users will benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="7" total="253.9695"><![CDATA[Starting next Monday, June 26th, Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="8" total="254.8357"><![CDATA[Starting next Monday, 26 June, the Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="9" total="255.2179"><![CDATA[Starting next Monday, June 26, Paris metro users will benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="10" total="255.539"><![CDATA[Starting next Monday, June 26th, of the Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="11" total="255.9906"><![CDATA[Starting next Monday, June 26th, Paris metro users will benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="12" total="256.4694"><![CDATA[Starting next Monday, June 26, the Paris metro users benefit from free Wi-Fi access, in some stations.]]></nbest>
+			<nbest id="13" total="256.5086"><![CDATA[Starting next Monday, 26 June, Paris metro users benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="14" total="256.8568"><![CDATA[Starting next Monday, 26 June, the Paris metro users will benefit from free Wi-Fi access in some stations.]]></nbest>
+			<nbest id="15" total="256.8586"><![CDATA[Starting next Monday, June 26, the Paris metro users benefit from free Wi-Fi access in certain stations.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Hier, le site Internet de La Tribune révélait que l'opérateur espagnol Gowex s'apprêtait à offrir un accès gratuit au Wifi à tous les usagers du métro parisien à partir du 26 juin.]]></source>
+		<target lang="en">
+			<nbest id="0" total="395.9584"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="1" total="396.9667"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free Wifi access to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="2" total="397.1396"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was preparing to offer free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="3" total="397.2786"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free Wifi access for all users of the Paris metro from June 26]]></nbest>
+			<nbest id="4" total="397.5653"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer a free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="5" total="397.6811"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free access to Wi-Fi to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="6" total="397.704"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was going to offer free access to Wi-Fi to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="7" total="397.9324"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was about to offer free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="8" total="398.0418"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was going to offer a free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="9" total="398.0552"><![CDATA[Yesterday, the website La Tribune revealed that the Spanish operator Gowex preparing to offer free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="10" total="398.1479"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was preparing to offer free Wifi access to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="11" total="398.2868"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free Wifi access to all users of the Paris metro from June 26]]></nbest>
+			<nbest id="12" total="398.319"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was going to offer free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="13" total="398.3998"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free Wifi access for all users of the Paris Metro from June 26th]]></nbest>
+			<nbest id="14" total="398.4299"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free Wifi access for all users of the Parisian subway from June 26]]></nbest>
+			<nbest id="15" total="398.4598"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was preparing to offer free Wifi access for all users of the Paris metro from June 26]]></nbest>
+			<nbest id="16" total="398.555"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was about to offer a free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="17" total="398.5587"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to provide free access to Wi-Fi to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="18" total="398.5736"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer a free Wifi access to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="19" total="398.7549"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was preparing to offer a free Wifi access for all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="20" total="398.8623"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was preparing to offer free access to Wi-Fi to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="21" total="398.8855"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer a free Wifi access for all users of the Paris metro from June 26]]></nbest>
+			<nbest id="22" total="398.9406"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was about to offer free Wifi access to all users of the Paris Metro from June 26]]></nbest>
+			<nbest id="23" total="399.0013"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex preparing to offer free access to Wi-Fi to all users of the Paris metro from June 26]]></nbest>
+			<nbest id="24" total="399.0242"><![CDATA[Yesterday, the website of The Tribune revealed that the Spanish operator Gowex was going to offer free access to Wi-Fi to all users of the Paris metro from June 26]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'annonce mystérieuse de l'arrivée du Wifi dans le métro parisien, diffusée hier par le biais d'un communiqué de presse anonyme, n'aura pas tardé à délivrer ses secrets.]]></source>
+		<target lang="en">
+			<nbest id="0" total="371.5719"><![CDATA[The announcement of the arrival of the mysterious Wifi in the Paris metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="1" total="371.7256"><![CDATA[The announcement of the arrival of the mysterious Wifi in the Paris Metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="2" total="371.8607"><![CDATA[The announcement of the arrival of the mysterious connection in the Paris metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="3" total="371.9352"><![CDATA[The announcement of the arrival of the mysterious WiFi in the Paris Metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="4" total="372.0702"><![CDATA[The announcement of the arrival of the mysterious connection in the Paris Metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="5" total="372.192"><![CDATA[The announcement of the arrival of the mysterious Wifi in the Paris metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="6" total="372.3457"><![CDATA[The announcement of the arrival of the mysterious Wifi in the Paris Metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="7" total="372.3468"><![CDATA[The announcement of the arrival of the mysterious WiFi in the Paris metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="8" total="372.4808"><![CDATA[The announcement of the arrival of the mysterious connection in the Paris metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="9" total="372.5553"><![CDATA[The announcement of the arrival of the mysterious WiFi in the Paris Metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="10" total="372.678"><![CDATA[The announcement of the arrival of mysterious Wifi in the Paris metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="11" total="372.6903"><![CDATA[The announcement of the arrival of the mysterious connection in the Paris Metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="12" total="372.8317"><![CDATA[The announcement of the arrival of mysterious Wifi in the Paris Metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="13" total="372.9669"><![CDATA[The announcement of the arrival of the mysterious WiFi in the Paris metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="14" total="373.2981"><![CDATA[The announcement of the arrival of mysterious Wifi in the Paris metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="15" total="373.4518"><![CDATA[The announcement of the arrival of mysterious Wifi in the Paris Metro, released yesterday through an anonymous press release, will soon deliver its secrets.]]></nbest>
+			<nbest id="16" total="373.9943"><![CDATA[The announcement of the arrival of the mysterious connection in the Parisian subway, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="17" total="374.3185"><![CDATA[The announcement of the arrival of mysterious WiFi in the Paris Metro, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+			<nbest id="18" total="374.4305"><![CDATA[The announcement of the arrival of the mysterious Wifi in the Parisian subway, released yesterday through an anonymous press release, will soon issue its secrets.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'opérateur espagnol Gowex va inaugurer mardi prochain une offre d'accès gratuit Wifi dans certaines stations de la RATP.]]></source>
+		<target lang="en">
+			<nbest id="0" total="290.7558"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="1" total="292.3441"><![CDATA[The Spanish operator will inaugurate next Tuesday Gowex offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="2" total="292.4037"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free Wifi access in some stations RATP.]]></nbest>
+			<nbest id="3" total="292.5096"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free Wi-Fi access in some stations of the RATP.]]></nbest>
+			<nbest id="4" total="292.5258"><![CDATA[The Spanish operator Gowex will unveil next Tuesday offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="5" total="292.8567"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free Wifi access in some stations the RATP.]]></nbest>
+			<nbest id="6" total="292.9314"><![CDATA[The Spanish operator will start next Tuesday Gowex offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="7" total="293.005"><![CDATA[The Spanish operator will inaugurate Tuesday Gowex offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="8" total="293.2566"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free WiFi access in some stations of the RATP.]]></nbest>
+			<nbest id="9" total="293.6003"><![CDATA[The Spanish operator Gowex Tuesday will inaugurate offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="10" total="293.6866"><![CDATA[The Spanish operator Gowex will inaugurate next Tuesday offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="11" total="293.6968"><![CDATA[The Spanish operator will unveil Tuesday Gowex offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="12" total="293.8019"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="13" total="293.9558"><![CDATA[The Spanish operator will inaugurate Gowex Tuesday offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="14" total="293.9921"><![CDATA[The Spanish operator will inaugurate next Tuesday Gowex offer free Wifi access in some stations RATP.]]></nbest>
+			<nbest id="15" total="294.0979"><![CDATA[The Spanish operator will inaugurate next Tuesday Gowex offer free Wi-Fi access in some stations of the RATP.]]></nbest>
+			<nbest id="16" total="294.1576"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free Wi-Fi access in some stations RATP.]]></nbest>
+			<nbest id="17" total="294.1738"><![CDATA[The Spanish operator Gowex will unveil next Tuesday offer free Wifi access in some stations RATP.]]></nbest>
+			<nbest id="18" total="294.2601"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free Wifi access in some stations of RATP.]]></nbest>
+			<nbest id="19" total="294.2797"><![CDATA[The Spanish operator Gowex will unveil next Tuesday offer free Wi-Fi access in some stations of the RATP.]]></nbest>
+			<nbest id="20" total="294.3239"><![CDATA[The Spanish operator Gowex will unveil next Tuesday an offer of free WiFi in some stations of the RATP.]]></nbest>
+			<nbest id="21" total="294.3476"><![CDATA[The Spanish operator Gowex will inaugurate Tuesday offer free Wifi access in some stations of the RATP.]]></nbest>
+			<nbest id="22" total="294.445"><![CDATA[The Spanish operator will inaugurate next Tuesday Gowex offer free Wifi access in some stations the RATP.]]></nbest>
+			<nbest id="23" total="294.5794"><![CDATA[The Spanish operator will start next Tuesday Gowex offer free Wifi access in some stations RATP.]]></nbest>
+			<nbest id="24" total="294.6106"><![CDATA[The Spanish operator will unveil next Tuesday Gowex offer free Wi-Fi access in some stations the RATP.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La société espagnole Gowex a annoncé, lundi 18 juin, qu'elle s'apprêtait à mettre en place le Wifi dans le métro parisien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="272.8641"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up WiFi in the Paris metro.]]></nbest>
+			<nbest id="1" total="272.9381"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up WiFi in the Paris Metro.]]></nbest>
+			<nbest id="2" total="274.0234"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up the connection in the Paris metro.]]></nbest>
+			<nbest id="3" total="274.0975"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up the connection in the Paris Metro.]]></nbest>
+			<nbest id="4" total="274.8213"><![CDATA[Spanish society Gowex announced on Monday 18 June, she was about to set up WiFi in the Paris metro.]]></nbest>
+			<nbest id="5" total="274.8954"><![CDATA[Spanish society Gowex announced on Monday 18 June, she was about to set up WiFi in the Paris Metro.]]></nbest>
+			<nbest id="6" total="275.0254"><![CDATA[Spanish society Gowex announced Monday, June 18, she was preparing to set up the connection in the Paris metro.]]></nbest>
+			<nbest id="7" total="275.0995"><![CDATA[Spanish society Gowex announced Monday, June 18, she was preparing to set up the connection in the Paris Metro.]]></nbest>
+			<nbest id="8" total="275.9036"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up WiFi in the Parisian subway.]]></nbest>
+			<nbest id="9" total="275.9807"><![CDATA[Spanish society Gowex announced on Monday 18 June, she was about to set up the connection in the Paris metro.]]></nbest>
+			<nbest id="10" total="276.0431"><![CDATA[Spanish society Gowex announced Monday, June 18, she was going to set up the connection in the Paris metro.]]></nbest>
+			<nbest id="11" total="276.0547"><![CDATA[Spanish society Gowex announced on Monday 18 June, she was about to set up the connection in the Paris Metro.]]></nbest>
+			<nbest id="12" total="276.1093"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up the WiFi in the Paris Metro.]]></nbest>
+			<nbest id="13" total="276.1172"><![CDATA[Spanish society Gowex announced Monday, June 18, she was going to set up the connection in the Paris Metro.]]></nbest>
+			<nbest id="14" total="276.123"><![CDATA[Spanish society Gowex announced on Monday 18 June, she was preparing to set up the connection in the Paris metro.]]></nbest>
+			<nbest id="15" total="276.1971"><![CDATA[Spanish society Gowex announced on Monday 18 June, she was preparing to set up the connection in the Paris Metro.]]></nbest>
+			<nbest id="16" total="276.5577"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up the WiFi in the Paris metro.]]></nbest>
+			<nbest id="17" total="276.6071"><![CDATA[Spanish society Gowex announced Monday 18 June, she was about to set up WiFi in the Paris metro.]]></nbest>
+			<nbest id="18" total="276.6812"><![CDATA[Spanish society Gowex announced Monday 18 June, she was about to set up WiFi in the Paris Metro.]]></nbest>
+			<nbest id="19" total="276.8015"><![CDATA[Spanish society Gowex announced Monday, June 18th, she was about to set up WiFi in the Paris metro.]]></nbest>
+			<nbest id="20" total="276.8191"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up WiFi in the Parisian metro.]]></nbest>
+			<nbest id="21" total="276.8618"><![CDATA[Spanish society Gowex announced Monday, June 18, she was about to set up WiFi in the Paris subway.]]></nbest>
+			<nbest id="22" total="276.8756"><![CDATA[Spanish society Gowex announced Monday, June 18th, she was about to set up WiFi in the Paris Metro.]]></nbest>
+			<nbest id="23" total="276.8884"><![CDATA[Spanish society Gowex announced, Monday, June 18, she was about to set up WiFi in the Paris metro.]]></nbest>
+			<nbest id="24" total="276.9625"><![CDATA[Spanish society Gowex announced, Monday, June 18, she was about to set up WiFi in the Paris Metro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La société espagnole Gowex testera un service Wifi gratuit dans le métro parisien dès le 26 juin prochain, selon nos informations.]]></source>
+		<target lang="en">
+			<nbest id="0" total="293.4848"><![CDATA[Spanish society Gowex test free WiFi service in the Paris metro on 26 June, according to our information.]]></nbest>
+			<nbest id="1" total="293.9174"><![CDATA[Spanish society Gowex test free WiFi service in the Paris Metro on 26 June, according to our information.]]></nbest>
+			<nbest id="2" total="295.525"><![CDATA[Spanish society Gowex test free Wifi service in the Paris metro on 26 June, according to our information.]]></nbest>
+			<nbest id="3" total="295.9576"><![CDATA[Spanish society Gowex test free Wifi service in the Paris Metro on 26 June, according to our information.]]></nbest>
+			<nbest id="4" total="296.2687"><![CDATA[Spanish society Gowex test free WiFi service in the Paris subway on 26 June, according to our information.]]></nbest>
+			<nbest id="5" total="297.6157"><![CDATA[Spanish society Gowex test free WiFi service in the Paris Metro from the June 26, according to our information.]]></nbest>
+			<nbest id="6" total="297.6955"><![CDATA[Spanish society Gowex test free WiFi service in the Parisian metro on 26 June, according to our information.]]></nbest>
+			<nbest id="7" total="297.6985"><![CDATA[Spanish society Gowex test free WiFi service in the Paris metro as of 26 June, according to our information.]]></nbest>
+			<nbest id="8" total="297.874"><![CDATA[Spanish society Gowex test free WiFi service in the Paris metro on 26 June, according to reports.]]></nbest>
+			<nbest id="9" total="297.8952"><![CDATA[Spanish society Gowex test free WiFi service in the Paris metro from the June 26, according to our information.]]></nbest>
+			<nbest id="10" total="298.2526"><![CDATA[Spanish society Gowex test free WiFi service in the Parisian subway on 26 June, according to our information.]]></nbest>
+			<nbest id="11" total="298.3066"><![CDATA[Spanish society Gowex test free WiFi service in the Paris Metro on 26 June, according to reports.]]></nbest>
+			<nbest id="12" total="298.3089"><![CDATA[Spanish society Gowex test free Wifi service in the Paris subway on 26 June, according to our information.]]></nbest>
+			<nbest id="13" total="298.6785"><![CDATA[Spanish society Gowex test service free Wifi in the Paris metro on 26 June, according to our information.]]></nbest>
+			<nbest id="14" total="298.9428"><![CDATA[Spanish society Gowex test free WiFi service in the Paris Metro at the June 26, according to our information.]]></nbest>
+			<nbest id="15" total="299.038"><![CDATA[Spanish society Gowex test free WiFi service in the Paris Metro from June 26 next, according to our information.]]></nbest>
+			<nbest id="16" total="299.0428"><![CDATA[Spanish society Gowex test free WiFi service on the Paris metro on 26 June, according to our information.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La société espagnole Gowex, spécialisée dans les réseaux Wifi, va mettre à disposition dès la semaine prochaine du Wifi gratuit, a priori ouvert à tous, dans "plusieurs dizaines de stations" du métro parisien, a affirmé à l'AFP une source du secteur des télécoms.]]></source>
+		<target lang="en">
+			<nbest id="0" total="566.5835"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all, in "dozens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="1" total="566.7185"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all in "dozens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="2" total="566.8021"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to everyone, "dozens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="3" total="566.9448"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all, in "dozens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="4" total="567.0798"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all in "dozens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="5" total="567.1357"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all in "tens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="6" total="567.1635"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to everyone, "dozens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="7" total="567.1772"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all, in "dozens of stations" of the Paris metro, told AFP a source in the telecom sector.]]></nbest>
+			<nbest id="8" total="567.2554"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all, in "dozens of stations" of the Paris Metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="9" total="567.3122"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all in "dozens of stations" of the Paris metro, told AFP a source in the telecom sector.]]></nbest>
+			<nbest id="10" total="567.3904"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all in "dozens of stations" of the Paris Metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="11" total="567.3958"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to everyone, "dozens of stations" of the Paris metro, told AFP a source in the telecom sector.]]></nbest>
+			<nbest id="12" total="567.4019"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all, in "tens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="13" total="567.474"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to everyone, "dozens of stations" of the Paris Metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="14" total="567.4971"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all in "tens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="15" total="567.5385"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all, in "dozens of stations" of the Paris metro, told AFP a source in the telecom sector.]]></nbest>
+			<nbest id="16" total="567.6167"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all, in "dozens of stations" of the Paris Metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="17" total="567.6735"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all in "dozens of stations" of the Paris metro, told AFP a source in the telecom sector.]]></nbest>
+			<nbest id="18" total="567.6881"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to everyone, "several tens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="19" total="567.7294"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all in "tens of stations" of the Paris metro, told AFP a source in the telecom sector.]]></nbest>
+			<nbest id="20" total="567.7517"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all in "dozens of stations" of the Paris Metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="21" total="567.7571"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to everyone, "dozens of stations" of the Paris metro, told AFP a source in the telecom sector.]]></nbest>
+			<nbest id="22" total="567.7632"><![CDATA[Spanish society Gowex specializing in wireless networks, will make available next week free Wi-Fi, a priori open to all, in "tens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="23" total="567.7643"><![CDATA[Spanish society Gowex, specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all, in "dozens of stations" of the Paris metro, told AFP a source of telecom sector.]]></nbest>
+			<nbest id="24" total="567.8076"><![CDATA[Spanish society Gowex specializing in wireless networks, will be made available next week free Wi-Fi, a priori open to all in "tens of stations" of the Paris Metro, told AFP a source of telecom sector.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le 26 juin prochain, la société espagnole Gowex a convié la presse pour une démonstration de Wifi, via l'installation et l'inauguration d'un réseau Wifi installé dans des stations du métro parisien.]]></source>
+		<target lang="en">
+			<nbest id="0" total="411.9641"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wi-Fi, via the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="1" total="412.1913"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi, via the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="2" total="412.5493"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration Wifi, via the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="3" total="412.813"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wi-Fi, via the installation and dedication of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="4" total="413.0402"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi, via the installation and dedication of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="5" total="413.0501"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi through the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="6" total="413.151"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration Wifi through the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="7" total="413.3052"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of wireless, via the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="8" total="413.328"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wi-Fi, via the installation and opening of a wireless network installed in Paris metro stations.]]></nbest>
+			<nbest id="9" total="413.3426"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wi-Fi, via the installation and inauguration of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="10" total="413.3982"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration Wifi, via the installation and dedication of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="11" total="413.4778"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi, through the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="12" total="413.5552"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi, via the installation and opening of a wireless network installed in Paris metro stations.]]></nbest>
+			<nbest id="13" total="413.5698"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi, via the installation and inauguration of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="14" total="413.5797"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wi-Fi, via the installation and launch of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="15" total="413.6138"><![CDATA[On 26 June, the Spanish company Gowex has invited the press to a demonstration of Wi-Fi, via the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="16" total="413.6775"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wi-Fi, via the installation and opening of a wireless network installed in Paris Metro stations.]]></nbest>
+			<nbest id="17" total="413.7495"><![CDATA[On 26 June, the Spanish Gowex invited the press to a demonstration of Wi-Fi, via the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="18" total="413.807"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi, via the installation and launch of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="19" total="413.8357"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration Wifi, through the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="20" total="413.841"><![CDATA[On 26 June, the Spanish company Gowex has invited the press to a demonstration of Wifi, via the installation and opening of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="21" total="413.899"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi through the installation and dedication of a wireless network installed in metro stations in Paris.]]></nbest>
+			<nbest id="22" total="413.9047"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration of Wifi, via the installation and opening of a wireless network installed in Paris Metro stations.]]></nbest>
+			<nbest id="23" total="413.9132"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration Wifi, via the installation and opening of a wireless network installed in Paris metro stations.]]></nbest>
+			<nbest id="24" total="413.9278"><![CDATA[On 26 June, the Spanish company Gowex invited the press to a demonstration Wifi, via the installation and inauguration of a wireless network installed in metro stations in Paris.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le 26 juin prochain, le métro parisien sera couvert en Wifi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="149.9623"><![CDATA[On 26 June, the Parisian metro will be covered by WiFi.]]></nbest>
+			<nbest id="1" total="150.0926"><![CDATA[On 26 June, the Parisian metro will be covered Wifi.]]></nbest>
+			<nbest id="2" total="150.1303"><![CDATA[On 26 June, the Parisian metro will be covered in Wifi.]]></nbest>
+			<nbest id="3" total="150.8287"><![CDATA[On 26 June, the Paris Metro will be covered by WiFi.]]></nbest>
+			<nbest id="4" total="150.9591"><![CDATA[On 26 June, the Paris Metro will be covered Wifi.]]></nbest>
+			<nbest id="5" total="150.9968"><![CDATA[On 26 June, the Paris Metro will be covered in Wifi.]]></nbest>
+			<nbest id="6" total="151.767"><![CDATA[On 26 June, the Parisian metro will be covered in WiFi.]]></nbest>
+			<nbest id="7" total="151.8664"><![CDATA[On 26 June, the Paris metro will be covered by WiFi.]]></nbest>
+			<nbest id="8" total="151.9967"><![CDATA[On 26 June, the Paris metro will be covered Wifi.]]></nbest>
+			<nbest id="9" total="152.0145"><![CDATA[On 26 June, the Parisian metro will be covered by Wifi.]]></nbest>
+			<nbest id="10" total="152.0344"><![CDATA[On 26 June, the Paris metro will be covered in Wifi.]]></nbest>
+			<nbest id="11" total="152.6334"><![CDATA[On 26 June, the Paris Metro will be covered in WiFi.]]></nbest>
+			<nbest id="12" total="152.881"><![CDATA[On 26 June, the Paris Metro will be covered by Wifi.]]></nbest>
+			<nbest id="13" total="153.0349"><![CDATA[On 26 June, the Paris Metro is covered in Wifi.]]></nbest>
+			<nbest id="14" total="153.6711"><![CDATA[On 26 June, the Paris metro will be covered in WiFi.]]></nbest>
+			<nbest id="15" total="153.9187"><![CDATA[On 26 June, the Paris metro will be covered by Wifi.]]></nbest>
+			<nbest id="16" total="154.2927"><![CDATA[On 26 June, the Parisian subway will be covered by WiFi.]]></nbest>
+			<nbest id="17" total="154.328"><![CDATA[On 26 June, the Paris Metro is covered Wifi.]]></nbest>
+			<nbest id="18" total="154.423"><![CDATA[On 26 June, the Parisian subway will be covered Wifi.]]></nbest>
+			<nbest id="19" total="154.4607"><![CDATA[On 26 June, the Parisian subway will be covered in Wifi.]]></nbest>
+			<nbest id="20" total="154.5539"><![CDATA[On 26 June, the Parisian metro will be covered in wifi.]]></nbest>
+			<nbest id="21" total="154.6716"><![CDATA[On 26 June, the Paris Metro is covered in WiFi.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le Wifi arrive bien dans le métro parisien le 26 juin prochain, mais la nouvelle qui a tourné en boucle hier sur le Web et suscité un vif engouement, pourrait bien se transformer en grosse frustration selon les détails que vient de dévoiler ce matin lesechos!]]></source>
+		<target lang="en">
+			<nbest id="0" total="717.0117"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as recently unveiled this morning lesechos!]]></nbest>
+			<nbest id="1" total="717.0854"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as the details just revealed this morning lesechos!]]></nbest>
+			<nbest id="2" total="717.529"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as has unveiled this morning lesechos!]]></nbest>
+			<nbest id="3" total="718.0292"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the web and aroused great enthusiasm, could turn into big frustration as detailed as recently unveiled this morning lesechos!]]></nbest>
+			<nbest id="4" total="718.103"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the web and aroused great enthusiasm, could turn into big frustration as the details just revealed this morning lesechos!]]></nbest>
+			<nbest id="5" total="718.3151"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop has turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as recently unveiled this morning lesechos!]]></nbest>
+			<nbest id="6" total="718.3889"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop has turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as the details just revealed this morning lesechos!]]></nbest>
+			<nbest id="7" total="718.4093"><![CDATA[Wifi arrives well in the Paris metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as recently unveiled this morning lesechos!]]></nbest>
+			<nbest id="8" total="718.4832"><![CDATA[Wifi arrives well in the Paris metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as the details just revealed this morning lesechos!]]></nbest>
+			<nbest id="9" total="718.5156"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but who turned the new loop yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as recently unveiled this morning lesechos!]]></nbest>
+			<nbest id="10" total="718.5464"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the web and aroused great enthusiasm, could turn into big frustration as detailed as has unveiled this morning lesechos!]]></nbest>
+			<nbest id="11" total="718.5713"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that has turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as recently unveiled this morning lesechos!]]></nbest>
+			<nbest id="12" total="718.5894"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but who turned the new loop yesterday on the Web and aroused great enthusiasm, could turn into big frustration as the details just revealed this morning lesechos!]]></nbest>
+			<nbest id="13" total="718.6451"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that has turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as the details just revealed this morning lesechos!]]></nbest>
+			<nbest id="14" total="718.7562"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration by the details just revealed this morning lesechos!]]></nbest>
+			<nbest id="15" total="718.8323"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop has turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as has unveiled this morning lesechos!]]></nbest>
+			<nbest id="16" total="718.9266"><![CDATA[Wifi arrives well in the Paris metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as has unveiled this morning lesechos!]]></nbest>
+			<nbest id="17" total="718.9704"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but the new loop that turned yesterday on the Web and aroused great enthusiasm, could turn into big frustration as the details has unveiled this morning lesechos!]]></nbest>
+			<nbest id="18" total="719.0329"><![CDATA[Wifi arrives well in the Paris Metro on June 26, but who turned the new loop yesterday on the Web and aroused great enthusiasm, could turn into big frustration as detailed as has unveiled this morning lesechos!]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les usagers parisiens des transports en commun souterrains ne seront finalement plus coupés du monde : en attendant le support de la 3G (prévu depuis trois ans, mais l'affaire traîne avec les opérateurs), la RATP a annoncé le lancement du Wifi gratuit dans le RER et le métro.]]></source>
+		<target lang="en">
+			<nbest id="0" total="603.4245"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="1" total="603.5587"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="2" total="603.6234"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free Wi-Fi in the RER and Metro.]]></nbest>
+			<nbest id="3" total="603.7577"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free Wi-Fi in the RER and Metro.]]></nbest>
+			<nbest id="4" total="603.7717"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="5" total="603.9059"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="6" total="603.9661"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and metro.]]></nbest>
+			<nbest id="7" total="603.9707"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free Wi-Fi in the RER and Metro.]]></nbest>
+			<nbest id="8" total="604.1003"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and metro.]]></nbest>
+			<nbest id="9" total="604.1049"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free Wi-Fi in the RER and Metro.]]></nbest>
+			<nbest id="10" total="604.165"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free Wi-Fi in the RER and metro.]]></nbest>
+			<nbest id="11" total="604.2993"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free Wi-Fi in the RER and metro.]]></nbest>
+			<nbest id="12" total="604.3132"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free WiFi in the RER and metro.]]></nbest>
+			<nbest id="13" total="604.4078"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support of 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="14" total="604.4475"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free WiFi in the RER and metro.]]></nbest>
+			<nbest id="15" total="604.5123"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free Wi-Fi in the RER and metro.]]></nbest>
+			<nbest id="16" total="604.6068"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support of 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free Wi-Fi in the RER and Metro.]]></nbest>
+			<nbest id="17" total="604.6465"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until support 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free Wi-Fi in the RER and metro.]]></nbest>
+			<nbest id="18" total="604.7551"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support of 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="19" total="604.9493"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support of 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and metro.]]></nbest>
+			<nbest id="20" total="604.954"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support of 3G (planned for three years, but the case drags with operators), the RATP has announced the launch of free Wi-Fi in the RER and Metro.]]></nbest>
+			<nbest id="21" total="604.955"><![CDATA[Users Parisian transit underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="22" total="605.0742"><![CDATA[Users Parisian public transportation underground eventually will not be cut off from the world until the support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="23" total="605.0892"><![CDATA[Users Parisian transit underground eventually will not be cut off from the world until support 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free WiFi in the RER and Metro.]]></nbest>
+			<nbest id="24" total="605.1484"><![CDATA[Users Parisian public transport underground eventually will not be cut off from the world until the support of 3G (planned for three years, but the case dragged with operators), the RATP has announced the launch of free Wi-Fi in the RER and metro.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les utilisateurs du métro parisien pourront dès le 26 Juin prochain profiter de l'accès Wifi dans les stations.]]></source>
+		<target lang="en">
+			<nbest id="0" total="249.7632"><![CDATA[Paris metro users will soon June 26 next enjoy WiFi access in stations.]]></nbest>
+			<nbest id="1" total="250.3997"><![CDATA[Paris metro users will soon June 26 next enjoy WiFi access in the stations.]]></nbest>
+			<nbest id="2" total="251.5732"><![CDATA[Users of the Paris metro will soon June 26 next enjoy WiFi access in stations.]]></nbest>
+			<nbest id="3" total="251.592"><![CDATA[Paris metro users will soon June 26 next enjoy Wi-Fi access in the stations.]]></nbest>
+			<nbest id="4" total="251.6621"><![CDATA[Paris metro users will soon June 26 next enjoy Wi-Fi access at stations.]]></nbest>
+			<nbest id="5" total="251.9136"><![CDATA[Paris metro users will soon June 26 next enjoy Wi-Fi access in stations.]]></nbest>
+			<nbest id="6" total="252.2098"><![CDATA[Users of the Paris metro will soon June 26 next enjoy WiFi access in the stations.]]></nbest>
+			<nbest id="7" total="252.3128"><![CDATA[Paris Metro users will soon June 26 next enjoy WiFi access in stations.]]></nbest>
+			<nbest id="8" total="252.4834"><![CDATA[Paris metro users will soon June 26 next enjoy WiFi access at stations.]]></nbest>
+			<nbest id="9" total="252.9493"><![CDATA[Paris Metro users will soon June 26 next enjoy WiFi access in the stations.]]></nbest>
+			<nbest id="10" total="253.5738"><![CDATA[Paris metro users will soon June 26 next advantage of Wi-Fi access in the stations.]]></nbest>
+			<nbest id="11" total="253.6438"><![CDATA[Paris metro users will soon June 26 next advantage of Wi-Fi access at stations.]]></nbest>
+			<nbest id="12" total="253.8953"><![CDATA[Paris metro users will soon June 26 next advantage of Wi-Fi access in stations.]]></nbest>
+			<nbest id="13" total="253.9269"><![CDATA[Paris metro users may soon June 26 next enjoy WiFi access in stations.]]></nbest>
+			<nbest id="14" total="254.4029"><![CDATA[Paris metro users will soon June 26th next enjoy WiFi access in stations.]]></nbest>
+			<nbest id="15" total="254.4676"><![CDATA[Paris metro users will soon enjoy next June 26 Wifi access at stations.]]></nbest>
+			<nbest id="16" total="254.5634"><![CDATA[Paris metro users may soon June 26 next enjoy WiFi access in the stations.]]></nbest>
+			<nbest id="17" total="254.5681"><![CDATA[Paris metro users will soon June 26 next advantage of WiFi access at stations.]]></nbest>
+			<nbest id="18" total="254.8443"><![CDATA[Paris metro users can soon June 26 next enjoy WiFi access in stations.]]></nbest>
+			<nbest id="19" total="255.0335"><![CDATA[Paris metro users will soon enjoy the next June 26 Wifi access at stations.]]></nbest>
+			<nbest id="20" total="255.0394"><![CDATA[Paris metro users will soon June 26th next enjoy WiFi access in the stations.]]></nbest>
+			<nbest id="21" total="255.145"><![CDATA[Paris metro users will soon enjoy next June 26 Wifi access in the stations.]]></nbest>
+			<nbest id="22" total="255.3915"><![CDATA[Paris metro users will soon enjoy next June 26 Wifi access in stations.]]></nbest>
+			<nbest id="23" total="255.4809"><![CDATA[Paris metro users can soon June 26 next enjoy WiFi access in the stations.]]></nbest>
+			<nbest id="24" total="255.6282"><![CDATA[Paris metro users will soon June 26 next advantage of WiFi access in the stations.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Longtemps annoncé, rarement officialisé, mais peut-être bientôt réalité : à partir du 26 juin, les usagers du métro parisien devraient pouvoir profiter du Wifi pour se connecter depuis leurs smartphones, tablettes et autres netbooks sur les quais de la capitale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="519.803"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="1" total="520.4421"><![CDATA[Long announced, rarely formalized, but may soon be reality: from June 26, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="2" total="520.5516"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and other netbooks on the banks of the capital.]]></nbest>
+			<nbest id="3" total="520.7004"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to take advantage of the Wifi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="4" total="520.711"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and netbooks on the docks of the capital.]]></nbest>
+			<nbest id="5" total="520.8847"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should take advantage of the Wifi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="6" total="521.1285"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to take advantage of the WiFi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="7" total="521.1908"><![CDATA[Long announced, rarely formalized, but may soon be reality: from June 26, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and other netbooks on the banks of the capital.]]></nbest>
+			<nbest id="8" total="521.212"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="9" total="521.3127"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should take advantage of the WiFi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="10" total="521.3338"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to take advantage of Wifi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="11" total="521.3397"><![CDATA[Long announced, rarely formalized, but may soon be reality: from June 26, the Paris metro users should be able to take advantage of the Wifi to connect from their smartphones, tablets and netbooks on the banks of the capital.]]></nbest>
+			<nbest id="12" total="521.3502"><![CDATA[Long announced, rarely formalized, but may soon be reality: from June 26, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and netbooks on the docks of the capital.]]></nbest>
+			<nbest id="13" total="521.4108"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and netbooks on the docks of the city.]]></nbest>
+			<nbest id="14" total="521.4491"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to take advantage of the Wifi to connect from their smartphones, tablets and other netbooks on the banks of the capital.]]></nbest>
+			<nbest id="15" total="521.4596"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and other netbooks on the docks of the capital.]]></nbest>
+			<nbest id="16" total="521.5092"><![CDATA[Long announced, rarely formalized, but may soon be reality: from 26 June, the Paris metro users should be able to enjoy the Wifi to connect from their smartphones, tablets and netbooks on the banks of the city.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une société espagnole installera ses bornes Wifi dans les stations de métro parisien avec un lancement officiel la semaine prochaine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="251.0193"><![CDATA[A Spanish company will install its wireless terminals in the Parisian metro with an official launch next week.]]></nbest>
+			<nbest id="1" total="251.3143"><![CDATA[A Spanish company will install its wireless terminals in the Parisian metro stations with an official launch next week.]]></nbest>
+			<nbest id="2" total="252.2948"><![CDATA[A Spanish company install its wireless terminals in the Parisian metro with an official launch next week.]]></nbest>
+			<nbest id="3" total="252.5898"><![CDATA[A Spanish company install its wireless terminals in the Parisian metro stations with an official launch next week.]]></nbest>
+			<nbest id="4" total="255.4063"><![CDATA[A Spanish company will install its wireless terminals in Parisian metro stations with an official launch next week.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

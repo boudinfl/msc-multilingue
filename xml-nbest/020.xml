@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Samedi, un homme placé sous surveillance des autorités depuis deux ans a été arrêté à New York.]]></source>
+		<target lang="en">
+			<nbest id="0" total="178.6725"><![CDATA[On Saturday, a man under surveillance by the authorities two years ago was arrested in New York.]]></nbest>
+			<nbest id="1" total="178.7253"><![CDATA[On Saturday, a man under surveillance by the authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="2" total="178.7352"><![CDATA[Saturday, a man under surveillance by the authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="3" total="180.1158"><![CDATA[On Saturday, a man under surveillance authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="4" total="180.414"><![CDATA[On Saturday, a man under surveillance by the authorities for two years has been arrested in New York.]]></nbest>
+			<nbest id="5" total="180.424"><![CDATA[Saturday, a man under surveillance by the authorities for two years has been arrested in New York.]]></nbest>
+			<nbest id="6" total="180.4367"><![CDATA[Saturday, a man under surveillance authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="7" total="180.5975"><![CDATA[On Saturday, a man placed under surveillance by the authorities two years ago was arrested in New York.]]></nbest>
+			<nbest id="8" total="180.6503"><![CDATA[On Saturday, a man placed under surveillance by the authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="9" total="180.894"><![CDATA[On Saturday, a man placed under surveillance authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="10" total="180.9864"><![CDATA[Saturday, a man placed under surveillance by the authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="11" total="181.0436"><![CDATA[On Saturday, a man under surveillance by the authorities two years was arrested in New York.]]></nbest>
+			<nbest id="12" total="181.0535"><![CDATA[Saturday, a man under surveillance by the authorities two years was arrested in New York.]]></nbest>
+			<nbest id="13" total="181.2301"><![CDATA[Saturday, a man placed under surveillance authorities for two years was arrested in New York.]]></nbest>
+			<nbest id="14" total="181.3179"><![CDATA[On Saturday, a man under surveillance by the authorities two years ago has been arrested in New York.]]></nbest>
+			<nbest id="15" total="181.6624"><![CDATA[On Saturday, a man under surveillance authorities two years ago was arrested in New York.]]></nbest>
+			<nbest id="16" total="181.8046"><![CDATA[On Saturday, a man under surveillance authorities for two years has been arrested in New York.]]></nbest>
+			<nbest id="17" total="181.9254"><![CDATA[On Saturday, a man under surveillance by the authorities two years has been arrested in New York.]]></nbest>
+			<nbest id="18" total="181.9354"><![CDATA[Saturday, a man under surveillance by the authorities two years has been arrested in New York.]]></nbest>
+			<nbest id="19" total="182.1255"><![CDATA[Saturday, a man under surveillance authorities for two years has been arrested in New York.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un homme suspecté d'avoir projeté un attentat à New York a été arrêté samedi et inculpé dimanche pour terrorisme.]]></source>
+		<target lang="en">
+			<nbest id="0" total="200.4708"><![CDATA[A man suspected of plotting an attack in New York was arrested Saturday and charged Sunday terrorism.]]></nbest>
+			<nbest id="1" total="200.9004"><![CDATA[A man suspected of plotting an attack in New York was arrested Saturday and charged Sunday for terrorism.]]></nbest>
+			<nbest id="2" total="201.0821"><![CDATA[A man suspected of plotting an attack in New York was arrested on Saturday and charged Sunday terrorism.]]></nbest>
+			<nbest id="3" total="201.5117"><![CDATA[A man suspected of plotting an attack in New York was arrested on Saturday and charged Sunday for terrorism.]]></nbest>
+			<nbest id="4" total="202.2224"><![CDATA[A man suspected of plotting an attack in New York was arrested Saturday and charged Sunday to terrorism.]]></nbest>
+			<nbest id="5" total="202.8335"><![CDATA[A man suspected of plotting an attack in New York was arrested Saturday and charged with terrorism for Sunday.]]></nbest>
+			<nbest id="6" total="202.8337"><![CDATA[A man suspected of plotting an attack in New York was arrested on Saturday and charged Sunday to terrorism.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[A New York, un homme présenté comme proche des idées d'Al-Qaïda a été arrêté samedi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="193.5242"><![CDATA[In New York, a man described as close to the ideas of al-Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="1" total="194.2262"><![CDATA[In New York, a man described as close to the ideas of Al-Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="2" total="194.6096"><![CDATA[In New York, a man described as close to the ideas of Al Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="3" total="194.6382"><![CDATA[In New York, a man described as close to the ideas of al-Qaeda was arrested on Saturday.]]></nbest>
+			<nbest id="4" total="195.3402"><![CDATA[In New York, a man described as close to the ideas of Al-Qaeda was arrested on Saturday.]]></nbest>
+			<nbest id="5" total="195.7264"><![CDATA[In New York, a man described as close to the ideas of Al Qaeda was arrested on Saturday.]]></nbest>
+			<nbest id="6" total="196.1822"><![CDATA[In New York, a man introduced as close to the ideas of al-Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="7" total="196.4852"><![CDATA[In New York, a man presented as close to the ideas of al-Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="8" total="196.8843"><![CDATA[In New York, a man introduced as close to the ideas of Al-Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="9" total="197.1873"><![CDATA[In New York, a man presented as close to the ideas of Al-Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="10" total="197.2676"><![CDATA[In New York, a man introduced as close to the ideas of Al Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="11" total="197.2962"><![CDATA[In New York, a man introduced as close to the ideas of al-Qaeda was arrested on Saturday.]]></nbest>
+			<nbest id="12" total="197.5706"><![CDATA[In New York, a man presented as close to the ideas of Al Qaeda was arrested Saturday.]]></nbest>
+			<nbest id="13" total="197.5992"><![CDATA[In New York, a man presented as close to the ideas of al-Qaeda was arrested on Saturday.]]></nbest>
+			<nbest id="14" total="197.9982"><![CDATA[In New York, a man introduced as close to the ideas of Al-Qaeda was arrested on Saturday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les autorités à New York ont annoncé dimanche avoir arrêté un "sympathisant d'Al-Qaïda" qui selon elles avait fabriqué des bombes pour attaquer la police et des membres de forces armées américaines.]]></source>
+		<target lang="en">
+			<nbest id="0" total="363.2344"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="1" total="363.7284"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who according to them had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="2" total="364.5706"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they claim had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="3" total="364.6148"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="4" total="365.1089"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who according to them had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="5" total="365.9219"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack the police and members of U.S. armed forces.]]></nbest>
+			<nbest id="6" total="365.9408"><![CDATA[New York authorities announced Sunday that it had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="7" total="365.951"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they claim had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="8" total="365.9741"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack the police and members of the U.S. military.]]></nbest>
+			<nbest id="9" total="366.4159"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who according to them had made bombs to attack the police and members of U.S. armed forces.]]></nbest>
+			<nbest id="10" total="366.4348"><![CDATA[New York authorities announced Sunday that it had arrested an "Al Qaeda sympathizer" who according to them had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="11" total="366.4681"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who according to them had made bombs to attack the police and members of the U.S. military.]]></nbest>
+			<nbest id="12" total="366.7457"><![CDATA[New York authorities said Sunday they had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="13" total="367.2398"><![CDATA[New York authorities said Sunday they had arrested an "Al Qaeda sympathizer" who according to them had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="14" total="367.2581"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they claim had made bombs to attack the police and members of U.S. armed forces.]]></nbest>
+			<nbest id="15" total="367.277"><![CDATA[New York authorities announced Sunday that it had arrested an "Al Qaeda sympathizer" who they claim had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="16" total="367.3023"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack police and members of U.S. armed forces.]]></nbest>
+			<nbest id="17" total="367.3103"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they claim had made bombs to attack the police and members of the U.S. military.]]></nbest>
+			<nbest id="18" total="367.3212"><![CDATA[New York authorities announced Sunday that it had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="19" total="367.3546"><![CDATA[New York authorities announced Sunday they had arrested an "Al Qaeda sympathizer" who they believed had made bombs to attack police and members of the U.S. military.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La Police de New York a arrêté un individu qui projetait de mener des attentats à la bombe contre plusieurs cibles dans la ville, a annoncé, dimanche, le Maire Michael Bloomberg. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="290.5327"><![CDATA[The New York Police arrested a man who planned to carry out bomb attacks against several targets in the city, announced Sunday, Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="1" total="291.9395"><![CDATA[The New York Police arrested a man who planned to carry out bombings against several targets in the city, announced Sunday, Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="2" total="293.6134"><![CDATA[The New York Police arrested a man who planned to carry out bomb attacks against several targets in the city, announced on Sunday, Mayor Michael Bloomberg.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un sympathisant d'Al-Qaïda a été arrêté samedi à New York alors qu'il préparait des bombes qu'il voulait utiliser contre la police et des membres de forces armées américaines, a annoncé  dimanche soir le maire de New York, Michael Bloomberg.]]></source>
+		<target lang="en">
+			<nbest id="0" total="381.1289"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. military announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="1" total="381.3312"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. military announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="2" total="381.3719"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. military announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="3" total="382.1077"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="4" total="382.31"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="5" total="382.3508"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="6" total="382.3955"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="7" total="382.515"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="8" total="382.5978"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="9" total="382.6386"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="10" total="382.6791"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. military announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="11" total="382.7173"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les autorités ont annoncé avoir arrêté un sympathisant d'al-Qaida qui, selon elles, avait fabriqué des bombes pour attaquer la police et des membres de forces armées américaines.]]></source>
+		<target lang="en">
+			<nbest id="0" total="302.0404"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, according to them, had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="1" total="302.2299"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, they said, had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="2" total="302.7263"><![CDATA[Authorities announced they had arrested a supporter of al-Qaeda, according to them, had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="3" total="303.113"><![CDATA[The authorities announced they had arrested a supporter of al-Qaida, they said, had made bombs to attack the police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="4" total="303.4208"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, according to them, had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="5" total="303.6103"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, they said, had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="6" total="304.1067"><![CDATA[Authorities announced they had arrested a supporter of al-Qaeda, according to them, had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="7" total="304.4935"><![CDATA[The authorities announced they had arrested a supporter of al-Qaida, they said, had made bombs to attack police and members of the U.S. armed forces.]]></nbest>
+			<nbest id="8" total="304.7279"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, according to them, had made bombs to attack the police and members of U.S. armed forces.]]></nbest>
+			<nbest id="9" total="304.7802"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, according to them, had made bombs to attack the police and members of the U.S. military.]]></nbest>
+			<nbest id="10" total="304.9174"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, they said, had made bombs to attack the police and members of U.S. armed forces.]]></nbest>
+			<nbest id="11" total="304.9697"><![CDATA[The authorities announced they had arrested a supporter of al-Qaeda, they said, had made bombs to attack the police and members of the U.S. military.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un homme soupçonné d'avoir projeté un attentat à la bombe à New York a été arrêté ce week-end et inculpé dimanche pour des faits liés au terrorisme.]]></source>
+		<target lang="en">
+			<nbest id="0" total="258.4861"><![CDATA[A man suspected of plotting a bombing in New York was arrested this weekend and charged Sunday on charges related to terrorism.]]></nbest>
+			<nbest id="1" total="260.9454"><![CDATA[A man suspected of plotting a bomb attack in New York was arrested this weekend and charged Sunday on charges related to terrorism.]]></nbest>
+			<nbest id="2" total="262.0816"><![CDATA[A man suspected of plotting a bombing in New York was arrested this weekend and charged Sunday for facts related to terrorism.]]></nbest>
+			<nbest id="3" total="263.7388"><![CDATA[A man suspected of plotting a bombing in New York was arrested this weekend and charged Sunday for acts related to terrorism.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le maire de New York, Michael Bloomberg, a annoncé hier dimanche 20 novembre 2011, l'arrestation et l'inculpation d'un homme présenté comme un "sympathisant d'al-Qaïda" sur le point de terminer la fabrication d'une bombe artisanale.]]></source>
+		<target lang="en">
+			<nbest id="0" total="382.137"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and conviction of a man described as an "al-Qaida sympathizer" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="1" total="382.1648"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and prosecution of a man described as an "al-Qaida sympathizer" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="2" total="382.2969"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and conviction of a man described as an "al-Qaida sympathizer" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="3" total="382.8472"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and prosecution of a man described as an "al-Qaida sympathizer" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="4" total="383.0483"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and conviction of a man described as a "supporter of al-Qaeda" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="5" total="383.076"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and prosecution of a man described as a "supporter of al-Qaeda" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="6" total="383.1115"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and indictment of a man described as an "al-Qaida sympathizer" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="7" total="383.2082"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and conviction of a man described as a "supporter of al-Qaeda" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="8" total="383.423"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and conviction of a man described as an "al-Qaida sympathizer" about to finish making a bomb.]]></nbest>
+			<nbest id="9" total="383.4508"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and prosecution of a man described as an "al-Qaida sympathizer" about to finish making a bomb.]]></nbest>
+			<nbest id="10" total="383.5829"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and conviction of a man described as an "al-Qaida sympathizer" about to finish making a bomb.]]></nbest>
+			<nbest id="11" total="383.7584"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and prosecution of a man described as a "supporter of al-Qaeda" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="12" total="384.0228"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and indictment of a man described as a "supporter of al-Qaeda" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="13" total="384.0576"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and conviction of a man described as an "al-Qaeda sympathizer" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="14" total="384.0854"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, arrest and prosecution of a man described as an "al-Qaeda sympathizer" on the verge of completing the manufacture of a bomb.]]></nbest>
+			<nbest id="15" total="384.1332"><![CDATA[New York Mayor Michael Bloomberg announced yesterday Sunday, November 20, 2011, the arrest and prosecution of a man described as an "al-Qaida sympathizer" about to finish making a bomb.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un sympathisant d'Al-Qaïda a été arrêté samedi à New York alors qu'il préparait des bombes, a annoncé dimanche soir le maire de New York, Michael Bloomberg.]]></source>
+		<target lang="en">
+			<nbest id="0" total="282.1355"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="1" total="282.3378"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="2" total="282.3661"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="3" total="282.3786"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="4" total="282.5684"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="5" total="282.6092"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un homme soupçonné d'avoir projeté un attentat à la bombe à New York a été arrêté et inculpé dimanche pour des faits liés au terrorisme.]]></source>
+		<target lang="en">
+			<nbest id="0" total="223.8633"><![CDATA[A man suspected of plotting a bombing in New York was arrested Sunday and charged for offenses related to terrorism.]]></nbest>
+			<nbest id="1" total="223.8822"><![CDATA[A man suspected of plotting a bombing in New York was arrested Sunday and charged for crimes related to terrorism.]]></nbest>
+			<nbest id="2" total="226.2599"><![CDATA[A man suspected of plotting a bombing in New York was arrested Sunday and charged for offenses linked to terrorism.]]></nbest>
+			<nbest id="3" total="226.3226"><![CDATA[A man suspected of plotting a bomb attack in New York was arrested Sunday and charged for offenses related to terrorism.]]></nbest>
+			<nbest id="4" total="226.3415"><![CDATA[A man suspected of plotting a bomb attack in New York was arrested Sunday and charged for crimes related to terrorism.]]></nbest>
+			<nbest id="5" total="228.0357"><![CDATA[A man suspected of plotting a bombing in New York was arrested Sunday and charged for offenses relating to terrorism.]]></nbest>
+			<nbest id="6" total="228.7192"><![CDATA[A man suspected of plotting a bomb attack in New York was arrested Sunday and charged for offenses linked to terrorism.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un sympathisant d'Al-Qaïda a été arrêté samedi à New York alors qu'il préparait des bombes qu'il voulait utiliser contre la police et des membres de l'armée.]]></source>
+		<target lang="en">
+			<nbest id="0" total="270.8476"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the army.]]></nbest>
+			<nbest id="1" total="271.05"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the army.]]></nbest>
+			<nbest id="2" total="271.0763"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the military.]]></nbest>
+			<nbest id="3" total="271.0907"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the army.]]></nbest>
+			<nbest id="4" total="271.2786"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the military.]]></nbest>
+			<nbest id="5" total="271.3193"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the military.]]></nbest>
+			<nbest id="6" total="271.5916"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and army members.]]></nbest>
+			<nbest id="7" total="271.7939"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and army members.]]></nbest>
+			<nbest id="8" total="271.8347"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and army members.]]></nbest>
+			<nbest id="9" total="272.8333"><![CDATA[A supporter of al-Qaeda was arrested on Saturday in New York while preparing bombs he wanted to use against the police and members of the army.]]></nbest>
+			<nbest id="10" total="273.0385"><![CDATA[A supporter of Al Qaeda was arrested on Saturday in New York while preparing bombs he wanted to use against the police and members of the army.]]></nbest>
+			<nbest id="11" total="273.062"><![CDATA[A supporter of al-Qaeda was arrested on Saturday in New York while preparing bombs he wanted to use against the police and members of the military.]]></nbest>
+			<nbest id="12" total="273.0764"><![CDATA[A supporter of Al-Qaeda was arrested on Saturday in New York while preparing bombs he wanted to use against the police and members of the army.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un sympathisant d'Al-Qaida a été arrêté samedi à New York alors qu'il préparait des bombes qu'il voulait utiliser contre la police et des membres de forces armées américaines, a annoncé dimanche 20 novembre dans la soirée le maire de New York, Michael Bloomberg.]]></source>
+		<target lang="en">
+			<nbest id="0" total="414.4741"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20th in the evening the Mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="1" total="414.7489"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20th in the evening the Mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="2" total="414.7568"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20 in the evening the Mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="3" total="414.9005"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20th in the evening the Mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="4" total="415.0317"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20 in the evening the Mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="5" total="415.1036"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20th in the evening the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="6" total="415.1833"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20 in the evening the Mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="7" total="415.3785"><![CDATA[A supporter of al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20th in the evening the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="8" total="415.3864"><![CDATA[A supporter of Al-Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20 in the evening the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="9" total="415.5301"><![CDATA[A supporter of Al Qaeda was arrested Saturday in New York while preparing bombs he wanted to use against the police and members of the U.S. armed forces, announced Sunday, November 20th in the evening the mayor of New York, Michael Bloomberg.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Jose Pimentel, 27 ans, d'origine dominicaine mais de nationalité américaine a été arreté alors qu'il s'appretait à commettre un attentat à New York.]]></source>
+		<target lang="en">
+			<nbest id="0" total="285.3351"><![CDATA[Jose Pimentel, 27, of Dominican origin U.S. citizen but was stopped when he was preparing to commit a terrorist attack in New York.]]></nbest>
+			<nbest id="1" total="286.0378"><![CDATA[Jose Pimentel, 27, of Dominican origin U.S. citizen but was stopped as he was preparing to commit a terrorist attack in New York.]]></nbest>
+			<nbest id="2" total="288.1253"><![CDATA[Jose Pimentel, 27, of Dominican origin U.S. citizen but was stopped when he was preparing to carry out an attack in New York.]]></nbest>
+			<nbest id="3" total="288.828"><![CDATA[Jose Pimentel, 27, of Dominican origin U.S. citizen but was stopped as he was preparing to carry out an attack in New York.]]></nbest>
+			<nbest id="4" total="289.1974"><![CDATA[Jose Pimentel, 27, of Dominican origin but American citizen was stopped as he was preparing to commit a terrorist attack in New York.]]></nbest>
+			<nbest id="5" total="289.3055"><![CDATA[Jose Pimentel, 27, of Dominican origin but U.S. citizen was stopped as he was preparing to commit a terrorist attack in New York.]]></nbest>
+			<nbest id="6" total="290.3694"><![CDATA[Jose Pimentel, 27, of Dominican origin but a U.S. citizen was stopped as he was preparing to commit a terrorist attack in New York.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un homme de 27 ans, soupçonné de préparer des attentats à la bombe contre plusieurs cibles à New York, dont des fonctionnaires et des véhicules de police, a été arrêté, a annoncé dimanche le maire de la ville, Michael Bloomberg.]]></source>
+		<target lang="en">
+			<nbest id="0" total="381.0993"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, including officials and police vehicles, was arrested Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="1" total="381.1458"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, including officials and police vehicles, was arrested on Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="2" total="382.0119"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, where officials and police vehicles, was arrested Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="3" total="382.0584"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, where officials and police vehicles, was arrested on Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="4" total="382.4682"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, whose officials and police vehicles, was arrested Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="5" total="382.5147"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, whose officials and police vehicles, was arrested on Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="6" total="382.7268"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, including civil servants and police vehicles, was arrested Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="7" total="382.7734"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, including civil servants and police vehicles, was arrested on Sunday announced the mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="8" total="382.7744"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, including officials and police vehicles, was arrested Sunday announced the Mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="9" total="382.821"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, including officials and police vehicles, was arrested on Sunday announced the Mayor, Michael Bloomberg.]]></nbest>
+			<nbest id="10" total="382.8989"><![CDATA[A 27 year old man on suspicion of preparing bomb attacks against several targets in New York, including officials and police vehicles, was arrested Sunday announced Mayor Michael Bloomberg.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un sympathisant d'al-Qaïda» qui aurait eu l'intention de faire exploser des édifices publics de la ville de New York et de s'en prendre à des soldats américains rentrant à la maison, a été arrêté en lien avec une série d'accusations de nature terroriste, ont annoncé les autorités municipales dimanche.]]></source>
+		<target lang="en">
+			<nbest id="0" total="526.5383"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, have announced the municipal authorities Sunday.]]></nbest>
+			<nbest id="1" total="526.7988"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, announced municipal authorities Sunday.]]></nbest>
+			<nbest id="2" total="527.3766"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, announced the municipal authorities Sunday.]]></nbest>
+			<nbest id="3" total="527.5044"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in the city of New York and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, have announced the municipal authorities Sunday.]]></nbest>
+			<nbest id="4" total="527.7648"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in the city of New York and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, announced municipal authorities Sunday.]]></nbest>
+			<nbest id="5" total="527.8183"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, have announced the municipal authorities on Sunday.]]></nbest>
+			<nbest id="6" total="527.9602"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, have announced municipal authorities Sunday.]]></nbest>
+			<nbest id="7" total="528.062"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of charges of a terrorist nature, have announced the municipal authorities Sunday.]]></nbest>
+			<nbest id="8" total="528.3224"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of charges of a terrorist nature, announced municipal authorities Sunday.]]></nbest>
+			<nbest id="9" total="528.3427"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in the city of New York and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, announced the municipal authorities Sunday.]]></nbest>
+			<nbest id="10" total="528.5405"><![CDATA[A supporter of al-Qaeda "would have had the intention to bomb public buildings in New York City and to attack U.S. troops returning home has been arrested in connection with a series of accusations of terrorist nature, authorities said municipal Sunday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les policiers ont arrêté un « sympathisant d'Al-Qaïda » soupçonné d'avoir planifié un attentat terroriste, a annoncé dimanche soir le maire de New York, Michael Bloomberg.]]></source>
+		<target lang="en">
+			<nbest id="0" total="298.5604"><![CDATA[The police arrested an "Al Qaeda sympathizer" suspected of planning a terrorist attack, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="1" total="298.5814"><![CDATA[The police arrested an "Al Qaeda sympathizer" suspected of plotting a terrorist attack, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="2" total="298.7679"><![CDATA[Police have arrested an "Al Qaeda sympathizer" suspected of planning a terrorist attack, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="3" total="298.7889"><![CDATA[Police have arrested an "Al Qaeda sympathizer" suspected of plotting a terrorist attack, announced Sunday night the mayor of New York, Michael Bloomberg.]]></nbest>
+			<nbest id="4" total="298.8867"><![CDATA[The police arrested an "Al Qaeda sympathizer" suspected of planning a terrorist attack, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="5" total="299.0598"><![CDATA[The police arrested an "Al Qaeda sympathizer" suspected of plotting a terrorist attack, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="6" total="299.0942"><![CDATA[Police have arrested an "Al Qaeda sympathizer" suspected of planning a terrorist attack, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+			<nbest id="7" total="299.2673"><![CDATA[Police have arrested an "Al Qaeda sympathizer" suspected of plotting a terrorist attack, announced Sunday evening New York Mayor Michael Bloomberg.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le maire de New York, Michael Bloomberg, a convoqué la presse ce dimanche soir et, selon le New York Times, devrait donner des détails relatifs à l'arrestation d'un homme soupçonné d'avoir projeté un attentat. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="333.1552"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening, according to the New York Times should give details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="1" total="333.2842"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening, according to the New York Times should give details of the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="2" total="334.4992"><![CDATA[New York Mayor Michael Bloomberg convened the press on Sunday evening, according to the New York Times should give details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="3" total="334.6282"><![CDATA[New York Mayor Michael Bloomberg convened the press on Sunday evening, according to the New York Times should give details of the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="4" total="334.7305"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening, according to the New York Times, should provide details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="5" total="335.0545"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening, according to the New York Times, should give details of the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="6" total="335.0883"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening, according to the New York Times, should give details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="7" total="335.3923"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening, according to the New York Times, should provide details of the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="8" total="335.4807"><![CDATA[New York Mayor Michael Bloomberg called the press and on Sunday evening, according to the New York Times should give details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="9" total="335.6096"><![CDATA[New York Mayor Michael Bloomberg called the press and on Sunday evening, according to the New York Times should give details of the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="10" total="335.7765"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening and, according to the New York Times should give details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="11" total="335.9055"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening and, according to the New York Times should give details of the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="12" total="336.0744"><![CDATA[New York Mayor Michael Bloomberg convened the press on Sunday evening, according to the New York Times, should provide details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="13" total="336.3781"><![CDATA[New York Mayor Michael Bloomberg called the press on Sunday evening, according to the New York Times should provide details about the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="14" total="336.3985"><![CDATA[New York Mayor Michael Bloomberg convened the press on Sunday evening, according to the New York Times, should give details of the arrest of a man suspected of plotting an attack.]]></nbest>
+			<nbest id="15" total="336.4323"><![CDATA[New York Mayor Michael Bloomberg convened the press on Sunday evening, according to the New York Times, should give details about the arrest of a man suspected of plotting an attack.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

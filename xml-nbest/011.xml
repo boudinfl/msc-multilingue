@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de la taille d'un porte-avions passera à proximité de la Terre mardi et sera le plus gros à frôler notre planète depuis 1976, a indiqué la semaine dernière la Nasa sur son site internet, tout en soulignant qu'il n'y a aucun danger de collision.]]></source>
+		<target lang="en">
+			<nbest id="0" total="438.3965"><![CDATA[An asteroid the size of an aircraft carrier will pass close to Earth on Tuesday and will be the largest to graze the planet since 1976, said last week NASA on its website, emphasizing that there is no danger of collision.]]></nbest>
+			<nbest id="1" total="438.5812"><![CDATA[An asteroid the size of an aircraft carrier will pass close to Earth on Tuesday and will be the largest to graze the planet since 1976, said last week NASA on its website, while stressing that there is no danger of collision.]]></nbest>
+			<nbest id="2" total="439.2398"><![CDATA[An asteroid the size of an aircraft carrier will pass close to Earth on Tuesday and will be the largest to graze the planet since 1976, said last week NASA on its website, while emphasizing that there is no danger of collision.]]></nbest>
+			<nbest id="3" total="439.8904"><![CDATA[An asteroid the size of an aircraft carrier will pass close to Earth on Tuesday and will be the largest to graze the planet since 1976, said last week NASA on its website, stressing that there is no danger of collision.]]></nbest>
+			<nbest id="4" total="440.3385"><![CDATA[An asteroid about the size of an aircraft carrier will pass close to Earth on Tuesday and will be the largest to graze the planet since 1976, said last week NASA on its website, emphasizing that there is no danger of collision.]]></nbest>
+			<nbest id="5" total="440.5232"><![CDATA[An asteroid about the size of an aircraft carrier will pass close to Earth on Tuesday and will be the largest to graze the planet since 1976, said last week NASA on its website, while stressing that there is no danger of collision.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans la nuit de mardi à mercredi, 2005 YU55, un astéroïde de 400 mètres de diamètre, «frôlera» la Terre à quelque 324000 km de distance.]]></source>
+		<target lang="en">
+			<nbest id="0" total="331.5817"><![CDATA[In the night from Tuesday to Wednesday, 2005 YU55, an asteroid 400 meters in diameter, "pass close" to Earth some 324000 km away.]]></nbest>
+			<nbest id="1" total="332.2108"><![CDATA[On the night of Tuesday to Wednesday, 2005 YU55, an asteroid 400 meters in diameter, "pass close" to Earth some 324000 km away.]]></nbest>
+			<nbest id="2" total="334.4498"><![CDATA[In the night from Tuesday to Wednesday, 2005 YU55, an asteroid 400 meters in diameter, "pass close" to Earth some 324000 km distance.]]></nbest>
+			<nbest id="3" total="334.4681"><![CDATA[In the night from Tuesday to Wednesday, 2005 YU55, an asteroid 400 meters in diameter, "pass close" Earth some 324000 km away.]]></nbest>
+			<nbest id="4" total="335.0788"><![CDATA[On the night of Tuesday to Wednesday, 2005 YU55, an asteroid 400 meters in diameter, "pass close" to Earth some 324000 km distance.]]></nbest>
+			<nbest id="5" total="335.0971"><![CDATA[On the night of Tuesday to Wednesday, 2005 YU55, an asteroid 400 meters in diameter, "pass close" Earth some 324000 km away.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Ce soir, à 23H28 UTC, soit 00H28 heure française, un astéroïde "frôlera" notre planète.]]></source>
+		<target lang="en">
+			<nbest id="0" total="293.5852"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="1" total="293.7464"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="2" total="294.0625"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="3" total="294.2238"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="4" total="295.1133"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close" planet.]]></nbest>
+			<nbest id="5" total="295.5004"><![CDATA[Tonight at 11:28 p.m. UTC or 0:28 French time, an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="6" total="295.5907"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time an asteroid "pass close" planet.]]></nbest>
+			<nbest id="7" total="295.6617"><![CDATA[Tonight at 11:28 p.m. UTC or 0:28 French time, an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="8" total="295.7472"><![CDATA[Tonight at 11:28 p.m. UTC, or 0:28 French time, an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="9" total="295.9084"><![CDATA[Tonight at 11:28 p.m. UTC, or 0:28 French time, an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="10" total="295.9778"><![CDATA[Tonight at 11:28 p.m. UTC or 0:28 French time an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="11" total="296.139"><![CDATA[Tonight at 11:28 p.m. UTC or 0:28 French time an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="12" total="296.1654"><![CDATA[Tonight, at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="13" total="296.2245"><![CDATA[Tonight at 11:28 p.m. UTC, or 0:28 French time an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="14" total="296.3267"><![CDATA[Tonight, at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="15" total="296.3481"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time, an asteroid 'pass close "our planet.]]></nbest>
+			<nbest id="16" total="296.3857"><![CDATA[Tonight at 11:28 p.m. UTC, or 0:28 French time an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="17" total="296.5758"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close" the planet.]]></nbest>
+			<nbest id="18" total="296.6428"><![CDATA[Tonight, at 11:28 p.m. UTC, 0:28 French time an asteroid "pass close" our planet.]]></nbest>
+			<nbest id="19" total="296.804"><![CDATA[Tonight, at 11:28 p.m. UTC, 0:28 French time an asteroid "pass close to" our planet.]]></nbest>
+			<nbest id="20" total="296.8254"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time an asteroid 'pass close "our planet.]]></nbest>
+			<nbest id="21" total="297.0285"><![CDATA[Tonight at 11:28 p.m. UTC or 0:28 French time, an asteroid "pass close" planet.]]></nbest>
+			<nbest id="22" total="297.0435"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close to" the planet.]]></nbest>
+			<nbest id="23" total="297.0532"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time an asteroid "pass close" the planet.]]></nbest>
+			<nbest id="24" total="297.2721"><![CDATA[Tonight at 11:28 p.m. UTC, 0:28 French time, an asteroid "pass close to" planet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est la nuit du 8 au 9 novembre que l'astéroïde 2005 YU55 passera à seulement 325000 kilomètres de la Terre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="230.3931"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will just 325,000 km from Earth.]]></nbest>
+			<nbest id="1" total="231.1112"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will only 325,000 km from Earth.]]></nbest>
+			<nbest id="2" total="231.5747"><![CDATA[This is the night of 8 to 9 November 2005 YU55 asteroid that will only 325,000 km from Earth.]]></nbest>
+			<nbest id="3" total="232.0301"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will just 325,000 kilometers from Earth.]]></nbest>
+			<nbest id="4" total="233.2073"><![CDATA[It is the night of 8 to 9 November 2005 YU55 the asteroid will only 325,000 km from Earth.]]></nbest>
+			<nbest id="5" total="233.6707"><![CDATA[This is the night of 8 to 9 November 2005 YU55 the asteroid will only 325,000 km from Earth.]]></nbest>
+			<nbest id="6" total="233.7715"><![CDATA[It is the night of 8 to 9 November 2005 the asteroid YU55 will only 325,000 km from Earth.]]></nbest>
+			<nbest id="7" total="233.8968"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will only 325,000 kilometers from Earth.]]></nbest>
+			<nbest id="8" total="234.1207"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will just 325,000 kilometers from the Earth.]]></nbest>
+			<nbest id="9" total="234.235"><![CDATA[This is the night of 8 to 9 November 2005 the asteroid YU55 will only 325,000 km from Earth.]]></nbest>
+			<nbest id="10" total="234.2654"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will just 325,000 km from the Earth.]]></nbest>
+			<nbest id="11" total="234.643"><![CDATA[It is the night of 8 to 9 November 2005 that the asteroid YU55 will only 325,000 km from Earth.]]></nbest>
+			<nbest id="12" total="234.9835"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will only 325,000 km from the Earth.]]></nbest>
+			<nbest id="13" total="235.1064"><![CDATA[This is the night of 8 to 9 November 2005 that the asteroid YU55 will only 325,000 km from Earth.]]></nbest>
+			<nbest id="14" total="235.4469"><![CDATA[This is the night of 8 to 9 November 2005 YU55 asteroid that will only 325,000 km from the Earth.]]></nbest>
+			<nbest id="15" total="235.9929"><![CDATA[It is the night of 8 to 9 November 2005 YU55 the asteroid will only 325,000 kilometers from Earth.]]></nbest>
+			<nbest id="16" total="235.9938"><![CDATA[It is the night of 8 to 9 November 2005 YU55 asteroid that will only 325,000 kilometers from the Earth.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de la taille d'un porte-avion devrait passer à quelques kilomètres de la terre, mardi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="189.945"><![CDATA[An asteroid the size of an aircraft carrier should go a few kilometers of the Earth Tuesday.]]></nbest>
+			<nbest id="1" total="190.2495"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise a few kilometers of the Earth Tuesday.]]></nbest>
+			<nbest id="2" total="190.3627"><![CDATA[An asteroid the size of an aircraft carrier is expected to few kilometers of the Earth Tuesday.]]></nbest>
+			<nbest id="3" total="190.3822"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise to few kilometers of the Earth Tuesday.]]></nbest>
+			<nbest id="4" total="190.6654"><![CDATA[An asteroid the size of an aircraft carrier should go a few kilometers of the Earth on Tuesday.]]></nbest>
+			<nbest id="5" total="190.9699"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise a few kilometers of the Earth on Tuesday.]]></nbest>
+			<nbest id="6" total="190.9764"><![CDATA[An asteroid the size of an aircraft carrier should pass a few kilometers of the Earth Tuesday.]]></nbest>
+			<nbest id="7" total="191.0831"><![CDATA[An asteroid the size of an aircraft carrier is expected to few kilometers of the Earth on Tuesday.]]></nbest>
+			<nbest id="8" total="191.1026"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise to few kilometers of the Earth on Tuesday.]]></nbest>
+			<nbest id="9" total="191.6968"><![CDATA[An asteroid the size of an aircraft carrier should pass a few kilometers of the Earth on Tuesday.]]></nbest>
+			<nbest id="10" total="191.9736"><![CDATA[An asteroid the size of an aircraft carrier should go a few kilometers of the earth on Tuesday.]]></nbest>
+			<nbest id="11" total="192.2738"><![CDATA[An asteroid the size of an aircraft carrier should go a few kilometers of the earth, on Tuesday.]]></nbest>
+			<nbest id="12" total="192.2781"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise a few kilometers of the earth on Tuesday.]]></nbest>
+			<nbest id="13" total="192.3913"><![CDATA[An asteroid the size of an aircraft carrier is expected to few kilometers of the earth on Tuesday.]]></nbest>
+			<nbest id="14" total="192.4108"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise to few kilometers of the earth on Tuesday.]]></nbest>
+			<nbest id="15" total="192.5783"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise a few kilometers of the earth, on Tuesday.]]></nbest>
+			<nbest id="16" total="192.581"><![CDATA[An asteroid the size of an aircraft carrier should go a few kilometers of the earth Tuesday.]]></nbest>
+			<nbest id="17" total="192.5933"><![CDATA[An asteroid the size of an aircraft carrier should go a few kilometers from the earth on Tuesday.]]></nbest>
+			<nbest id="18" total="192.6915"><![CDATA[An asteroid the size of an aircraft carrier is expected to few kilometers of the earth, on Tuesday.]]></nbest>
+			<nbest id="19" total="192.711"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise to few kilometers of the earth, on Tuesday.]]></nbest>
+			<nbest id="20" total="192.8855"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise a few kilometers of the earth Tuesday.]]></nbest>
+			<nbest id="21" total="192.8979"><![CDATA[An asteroid the size of an aircraft carrier is expected to rise a few kilometers from the earth on Tuesday.]]></nbest>
+			<nbest id="22" total="192.9809"><![CDATA[An asteroid the size of an aircraft carrier is expected to increase a few kilometers of the Earth Tuesday.]]></nbest>
+			<nbest id="23" total="192.9987"><![CDATA[An asteroid the size of an aircraft carrier is expected to few kilometers of the earth Tuesday.]]></nbest>
+			<nbest id="24" total="193.0051"><![CDATA[An asteroid the size of an aircraft carrier should pass a few kilometers of the earth on Tuesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de grande taille, près de 400 mètres de diamètre, va frôler la Terre à minuit et demie, dans la nuit de mardi à mercredi, en passant plus près que la Lune.]]></source>
+		<target lang="en">
+			<nbest id="0" total="338.9117"><![CDATA[A large asteroid, about 400 meters in diameter, will come close to Earth 0:30 in the night from Tuesday to Wednesday, passing closer than the Moon.]]></nbest>
+			<nbest id="1" total="339.073"><![CDATA[A large asteroid, about 400 meters in diameter, will graze Earth 0:30 in the night from Tuesday to Wednesday, passing closer than the Moon.]]></nbest>
+			<nbest id="2" total="339.4421"><![CDATA[A large asteroid, about 400 meters in diameter, will come close to Earth 0:30 in the night from Tuesday to Wednesday, passing closer than the moon.]]></nbest>
+			<nbest id="3" total="339.6035"><![CDATA[A large asteroid, about 400 meters in diameter, will graze Earth 0:30 in the night from Tuesday to Wednesday, passing closer than the moon.]]></nbest>
+			<nbest id="4" total="339.8786"><![CDATA[A large asteroid, about 400 meters in diameter, will come close to Earth 0:30 on the night of Wednesday, passing closer than the Moon.]]></nbest>
+			<nbest id="5" total="340.0399"><![CDATA[A large asteroid, about 400 meters in diameter, will graze Earth 0:30 on the night of Wednesday, passing closer than the Moon.]]></nbest>
+			<nbest id="6" total="340.2997"><![CDATA[A large asteroid, about 400 meters in diameter, will skim Earth 0:30 in the night from Tuesday to Wednesday, passing closer than the Moon.]]></nbest>
+			<nbest id="7" total="340.409"><![CDATA[A large asteroid, about 400 meters in diameter, will come close to Earth 0:30 on the night of Wednesday, passing closer than the moon.]]></nbest>
+			<nbest id="8" total="340.5704"><![CDATA[A large asteroid, about 400 meters in diameter, will graze Earth 0:30 on the night of Wednesday, passing closer than the moon.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Mais le cas de l'astéroïde 2005 YU55, qui vous passera (littéralement) à 324600 km au-dessus de la tête ce soir, devrait être différent : il frôlera la Terre de si près qu'il se trouvera à l'intérieur de l'orbite lunaire.]]></source>
+		<target lang="en">
+			<nbest id="0" total="511.0667"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight should be different: it pass close to Earth so closely that found inside the lunar orbit.]]></nbest>
+			<nbest id="1" total="511.1357"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight, should be different: it pass close to Earth so closely that found inside the lunar orbit.]]></nbest>
+			<nbest id="2" total="511.2851"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight should be different: it pass close to Earth so close that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="3" total="511.3541"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight, should be different: it pass close to Earth so close that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="4" total="511.5804"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight should be different: it pass close to Earth so closely that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="5" total="511.6493"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight, should be different: it pass close to Earth so closely that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="6" total="511.6893"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight should be different: pass close to Earth so closely that found inside the lunar orbit.]]></nbest>
+			<nbest id="7" total="511.748"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight would be different: it pass close to Earth so closely that found inside the lunar orbit.]]></nbest>
+			<nbest id="8" total="511.7583"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight, should be different: pass close to Earth so closely that found inside the lunar orbit.]]></nbest>
+			<nbest id="9" total="511.9077"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight should be different: pass close to Earth so close that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="10" total="511.9664"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight would be different: it pass close to Earth so close that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="11" total="511.9767"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight, should be different: pass close to Earth so close that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="12" total="512.1978"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight should be different: it pass close to Earth so close he found inside the lunar orbit.]]></nbest>
+			<nbest id="13" total="512.2029"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight should be different: pass close to Earth so closely that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="14" total="512.2617"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight would be different: it pass close to Earth so closely that it is on the inside of the lunar orbit.]]></nbest>
+			<nbest id="15" total="512.2667"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight, should be different: it pass close to Earth so close he found inside the lunar orbit.]]></nbest>
+			<nbest id="16" total="512.272"><![CDATA[But the case of asteroid 2005 YU55, which you will (literally) 324600 km above the head tonight, should be different: pass close to Earth so closely that it is on the inside of the lunar orbit.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de 400 mètres de largeur s'approchera à 324600 km de la Terre mardi à 18h28 HNE.]]></source>
+		<target lang="en">
+			<nbest id="0" total="242.4992"><![CDATA[An asteroid 400 meters wide at 324600 km will approach Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="1" total="243.2586"><![CDATA[An asteroid 400 meters wide at 324600 km will approach Earth at 18:28 EST Tuesday.]]></nbest>
+			<nbest id="2" total="243.5344"><![CDATA[An asteroid 400 meters wide at 324600 km will approach Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="3" total="244.5997"><![CDATA[An asteroid 400 meters wide will draw to 324600 km from Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="4" total="244.8078"><![CDATA[An asteroid 400 meters wide at 324600 km will approach the Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="5" total="245.5355"><![CDATA[An asteroid 400 meters wide will draw to 324600 km Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="6" total="245.635"><![CDATA[An asteroid 400 meters wide will draw to 324600 km from Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="7" total="245.7896"><![CDATA[An asteroid 400 meters wide to 324600 km will approach Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="8" total="245.8303"><![CDATA[An asteroid 400 meters wide at 324600 km will approach the Earth at 18:28 EST Tuesday.]]></nbest>
+			<nbest id="9" total="245.843"><![CDATA[An asteroid 400 meters wide at 324600 km will approach the Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="10" total="245.9746"><![CDATA[An asteroid 400 meters wide at 324600 km will approach Earth Tuesday at 18:28 ET.]]></nbest>
+			<nbest id="11" total="246.037"><![CDATA[An asteroid 400 meters wide with 324600 km will approach Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="12" total="246.1039"><![CDATA[An asteroid 400 meters wide to come near 324600 km from Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="13" total="246.4633"><![CDATA[An asteroid 400 meters wide will approach to 324600 km from Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="14" total="246.549"><![CDATA[An asteroid 400 meters wide to 324600 km will approach Earth at 18:28 EST Tuesday.]]></nbest>
+			<nbest id="15" total="246.5708"><![CDATA[An asteroid 400 meters wide will draw to 324600 km Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="16" total="246.7417"><![CDATA[An asteroid 400 meters wide at 324600 km will approach Earth at 18:28 ET Tuesday.]]></nbest>
+			<nbest id="17" total="246.7964"><![CDATA[An asteroid 400 meters wide with 324600 km will approach Earth at 18:28 EST Tuesday.]]></nbest>
+			<nbest id="18" total="246.8248"><![CDATA[An asteroid 400 meters wide to 324600 km will approach Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="19" total="247.0397"><![CDATA[An asteroid 400 meters wide to come near 324600 km Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="20" total="247.0722"><![CDATA[An asteroid 400 meters wide with 324600 km will approach Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="21" total="247.1392"><![CDATA[An asteroid 400 meters wide to come near 324600 km from Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="22" total="247.3991"><![CDATA[An asteroid 400 meters wide will approach to 324600 km Earth Tuesday at 18:28 EST.]]></nbest>
+			<nbest id="23" total="247.4986"><![CDATA[An asteroid 400 meters wide will approach to 324600 km from Earth Tuesday at 18:28 pm EST.]]></nbest>
+			<nbest id="24" total="247.8763"><![CDATA[An asteroid 400 meters wide will draw to 324600 km of the Earth Tuesday at 18:28 EST.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de 400 mètres de largeur passera mardi à proximité de la Terre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="163.205"><![CDATA[An asteroid 400 meters wide will Tuesday near the Earth.]]></nbest>
+			<nbest id="1" total="164.0301"><![CDATA[An asteroid 400 meters wide pass Tuesday near the Earth.]]></nbest>
+			<nbest id="2" total="164.8106"><![CDATA[An asteroid 400 meters wide will on Tuesday near the Earth.]]></nbest>
+			<nbest id="3" total="164.9293"><![CDATA[An asteroid 400 meters wide will Tuesday near Earth.]]></nbest>
+			<nbest id="4" total="165.7544"><![CDATA[An asteroid 400 meters wide pass Tuesday near Earth.]]></nbest>
+			<nbest id="5" total="166.6364"><![CDATA[An asteroid 400 meters wide will on Tuesday near Earth.]]></nbest>
+			<nbest id="6" total="166.9115"><![CDATA[An asteroid 400 meters wide will close Tuesday at Earth.]]></nbest>
+			<nbest id="7" total="167.0045"><![CDATA[An asteroid 400 meters wide will close Tuesday of the Earth.]]></nbest>
+			<nbest id="8" total="167.4873"><![CDATA[An asteroid 400 meters wide will close Tuesday Earth.]]></nbest>
+			<nbest id="9" total="167.8203"><![CDATA[An asteroid 400 meters wide will Tuesday near the earth.]]></nbest>
+			<nbest id="10" total="167.9234"><![CDATA[An asteroid 400 meters wide will close on Tuesday of the Earth.]]></nbest>
+			<nbest id="11" total="168.1057"><![CDATA[An asteroid 400 meters in width will Tuesday near the Earth.]]></nbest>
+			<nbest id="12" total="168.6455"><![CDATA[An asteroid 400 meters wide pass Tuesday near the earth.]]></nbest>
+			<nbest id="13" total="169.4259"><![CDATA[An asteroid 400 meters wide will on Tuesday near the earth.]]></nbest>
+			<nbest id="14" total="169.83"><![CDATA[An asteroid 400 meters in width will Tuesday near Earth.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Mercredi, à 0h28, un astéroïde, nommé 2005 YU55, va frôler la surface de la Terre, à quelques 324600 kilomètres.]]></source>
+		<target lang="en">
+			<nbest id="0" total="244.8504"><![CDATA[Wednesday at 0:28, an asteroid named 2005 YU55, is going to graze the surface of the Earth, some 324,600 km.]]></nbest>
+			<nbest id="1" total="245.2323"><![CDATA[Wednesday at 0:28, an asteroid named 2005 YU55, is going to graze the surface of the Earth, some 324,600 kilometers.]]></nbest>
+			<nbest id="2" total="247.2932"><![CDATA[Wednesday at 0:28, an asteroid named 2005 YU55, will skim the surface of the Earth, some 324,600 km.]]></nbest>
+			<nbest id="3" total="247.3613"><![CDATA[Wednesday at 0:28, an asteroid, named 2005 YU55, is going to graze the surface of the Earth, some 324,600 km.]]></nbest>
+			<nbest id="4" total="247.6751"><![CDATA[Wednesday at 0:28, an asteroid named 2005 YU55, will skim the surface of the Earth, some 324,600 kilometers.]]></nbest>
+			<nbest id="5" total="247.7432"><![CDATA[Wednesday at 0:28, an asteroid, named 2005 YU55, is going to graze the surface of the Earth, some 324,600 kilometers.]]></nbest>
+			<nbest id="6" total="247.9639"><![CDATA[Wednesday at 0:28, an asteroid named 2005 YU55, will graze the surface of the Earth, some 324,600 km.]]></nbest>
+			<nbest id="7" total="248.3458"><![CDATA[Wednesday at 0:28, an asteroid named 2005 YU55, will graze the surface of the Earth, some 324,600 kilometers.]]></nbest>
+			<nbest id="8" total="248.8966"><![CDATA[Wednesday at 0:28, an asteroid, named 2005 YU55, will skim the surface of the Earth, some 324,600 km.]]></nbest>
+			<nbest id="9" total="249.2785"><![CDATA[Wednesday at 0:28, an asteroid, named 2005 YU55, will skim the surface of the Earth, some 324,600 kilometers.]]></nbest>
+			<nbest id="10" total="249.5673"><![CDATA[Wednesday at 0:28, an asteroid, named 2005 YU55, will graze the surface of the Earth, some 324,600 km.]]></nbest>
+			<nbest id="11" total="249.9492"><![CDATA[Wednesday at 0:28, an asteroid, named 2005 YU55, will graze the surface of the Earth, some 324,600 kilometers.]]></nbest>
+			<nbest id="12" total="250.1686"><![CDATA[Wednesday at 0:28, an asteroid named 2005 YU55, is going to graze the surface of the Earth, with some 324,600 km.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans la nuit de mardi à mercredi, un astéroïde, de la taille de la place de la Concorde à Paris, va frôler la Terre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="238.7519"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris will come close to Earth.]]></nbest>
+			<nbest id="1" total="239.1586"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris, will come close to Earth.]]></nbest>
+			<nbest id="2" total="239.5768"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the Place de la Concorde in Paris will come close to Earth.]]></nbest>
+			<nbest id="3" total="239.6712"><![CDATA[On the night of Wednesday, an asteroid the size of the place de la Concorde in Paris will come close to Earth.]]></nbest>
+			<nbest id="4" total="239.9836"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the Place de la Concorde in Paris, will come close to Earth.]]></nbest>
+			<nbest id="5" total="240.078"><![CDATA[On the night of Wednesday, an asteroid the size of the place de la Concorde in Paris, will come close to Earth.]]></nbest>
+			<nbest id="6" total="240.2842"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris will graze the earth.]]></nbest>
+			<nbest id="7" total="240.4962"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the place de la Concorde in Paris will come close to Earth.]]></nbest>
+			<nbest id="8" total="240.5306"><![CDATA[On the night of Tuesday to Wednesday, an asteroid the size of the Place de la Concorde in Paris will come close to Earth.]]></nbest>
+			<nbest id="9" total="240.6019"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris will graze Earth.]]></nbest>
+			<nbest id="10" total="240.903"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the place de la Concorde in Paris, will come close to Earth.]]></nbest>
+			<nbest id="11" total="240.9373"><![CDATA[On the night of Tuesday to Wednesday, an asteroid the size of the Place de la Concorde in Paris, will come close to Earth.]]></nbest>
+			<nbest id="12" total="241.0198"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris, will graze the earth.]]></nbest>
+			<nbest id="13" total="241.1092"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the Place de la Concorde in Paris will graze the earth.]]></nbest>
+			<nbest id="14" total="241.2036"><![CDATA[On the night of Wednesday, an asteroid the size of the place de la Concorde in Paris will graze the earth.]]></nbest>
+			<nbest id="15" total="241.2745"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris will graze the Earth.]]></nbest>
+			<nbest id="16" total="241.3375"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris, will graze Earth.]]></nbest>
+			<nbest id="17" total="241.4269"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the Place de la Concorde in Paris will graze Earth.]]></nbest>
+			<nbest id="18" total="241.45"><![CDATA[On the night of Tuesday to Wednesday, an asteroid the size of the place de la Concorde in Paris will come close to Earth.]]></nbest>
+			<nbest id="19" total="241.5213"><![CDATA[On the night of Wednesday, an asteroid the size of the place de la Concorde in Paris will graze Earth.]]></nbest>
+			<nbest id="20" total="241.8448"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the Place de la Concorde in Paris, will graze the earth.]]></nbest>
+			<nbest id="21" total="241.8567"><![CDATA[On the night of Tuesday to Wednesday, an asteroid the size of the place de la Concorde in Paris, will come close to Earth.]]></nbest>
+			<nbest id="22" total="241.9391"><![CDATA[On the night of Wednesday, an asteroid the size of the place de la Concorde in Paris, will graze the earth.]]></nbest>
+			<nbest id="23" total="242.0101"><![CDATA[On the night of Wednesday, an asteroid the size of the Place de la Concorde in Paris, will graze the Earth.]]></nbest>
+			<nbest id="24" total="242.0286"><![CDATA[In the night from Tuesday to Wednesday, an asteroid the size of the place de la Concorde in Paris will graze the earth.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un gros astéroïde "effleurera" notre planète Terre dans la nuit de mardi à mercredi mais sans dégât.]]></source>
+		<target lang="en">
+			<nbest id="0" total="345.3842"><![CDATA[A large asteroid "effleurera" planet Earth in the night from Tuesday to Wednesday, but no damage.]]></nbest>
+			<nbest id="1" total="346.0531"><![CDATA[A large asteroid "effleurera" our planet Earth in the night from Tuesday to Wednesday, but no damage.]]></nbest>
+			<nbest id="2" total="346.3783"><![CDATA[A large asteroid "effleurera" planet Earth in the night from Tuesday to Wednesday but no damage.]]></nbest>
+			<nbest id="3" total="346.4934"><![CDATA[A large asteroid "effleurera" planet Earth in the night from Tuesday to Wednesday, but without damage.]]></nbest>
+			<nbest id="4" total="347.0472"><![CDATA[A large asteroid "effleurera" our planet Earth in the night from Tuesday to Wednesday but no damage.]]></nbest>
+			<nbest id="5" total="347.1623"><![CDATA[A large asteroid "effleurera" our planet Earth in the night from Tuesday to Wednesday, but without damage.]]></nbest>
+			<nbest id="6" total="347.1772"><![CDATA[A large asteroid "effleurera" planet Earth at night from Tuesday to Wednesday, but no damage.]]></nbest>
+			<nbest id="7" total="347.7296"><![CDATA[A large asteroid "effleurera" planet Earth in the night from Tuesday to Wednesday but without damage.]]></nbest>
+			<nbest id="8" total="348.1235"><![CDATA[A large asteroid "effleurera" our Earth in the night from Tuesday to Wednesday, but no damage.]]></nbest>
+			<nbest id="9" total="348.1384"><![CDATA[A large asteroid "effleurera" our planet Earth at night from Tuesday to Wednesday, but no damage.]]></nbest>
+			<nbest id="10" total="348.1462"><![CDATA[A large asteroid "effleurera" our planet earth in the night from Tuesday to Wednesday, but no damage.]]></nbest>
+			<nbest id="11" total="348.1713"><![CDATA[A large asteroid "effleurera" planet Earth at night from Tuesday to Wednesday but no damage.]]></nbest>
+			<nbest id="12" total="348.2864"><![CDATA[A large asteroid "effleurera" planet Earth at night from Tuesday to Wednesday, but without damage.]]></nbest>
+			<nbest id="13" total="348.3985"><![CDATA[A large asteroid "effleurera" our planet Earth in the night from Tuesday to Wednesday but without damage.]]></nbest>
+			<nbest id="14" total="348.6075"><![CDATA[A large asteroid "effleurera" planet Earth on the night of Tuesday to Wednesday but no damage.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde grand comme 2 terrains de foot va effleurer la Terre dans la nuit de mardi à mercredi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="201.8149"><![CDATA[An asteroid as big as two football pitches will touch the Earth in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="1" total="202.679"><![CDATA[An asteroid as big as two football pitches will touch the Earth at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="2" total="204.4585"><![CDATA[An asteroid as big as two football pitches will touch the earth at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="3" total="204.596"><![CDATA[An asteroid as big as two football pitches will touch the Earth on the night of Tuesday to Wednesday.]]></nbest>
+			<nbest id="4" total="204.8504"><![CDATA[An asteroid as big as two football pitches will touch the earth in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="5" total="207.3486"><![CDATA[An asteroid as big as two football fields will touch the Earth in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="6" total="208.0145"><![CDATA[An asteroid as big as two football pitches will touch Earth at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="7" total="208.2086"><![CDATA[An asteroid as big as two football pitches will skim Earth in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="8" total="208.2127"><![CDATA[An asteroid as big as two football fields will touch the Earth at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="9" total="208.3975"><![CDATA[An asteroid as big as two football pitches will touch the Earth in the night of Tuesday to Wednesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de 400 m de largeur va effleurer la Terre cette semaine, soit le plus gros depuis 1976.]]></source>
+		<target lang="en">
+			<nbest id="0" total="207.8761"><![CDATA[An asteroid 400 meters wide will touch the Earth this week, the biggest since 1976.]]></nbest>
+			<nbest id="1" total="209.5981"><![CDATA[An asteroid 400 meters wide will touch the Earth this week, the largest since 1976.]]></nbest>
+			<nbest id="2" total="210.5625"><![CDATA[An asteroid 400 meters wide will skim Earth this week, the biggest since 1976.]]></nbest>
+			<nbest id="3" total="211.2444"><![CDATA[An asteroid of 400 m width will touch the Earth this week, the biggest since 1976.]]></nbest>
+			<nbest id="4" total="212.2845"><![CDATA[An asteroid 400 meters wide will skim Earth this week, the largest since 1976.]]></nbest>
+			<nbest id="5" total="212.6068"><![CDATA[An asteroid 400 meters in width will touch the Earth this week, the biggest since 1976.]]></nbest>
+			<nbest id="6" total="212.893"><![CDATA[An asteroid of 400 m in width will touch the Earth this week, the biggest since 1976.]]></nbest>
+			<nbest id="7" total="212.9664"><![CDATA[An asteroid of 400 m width will touch the Earth this week, the largest since 1976.]]></nbest>
+			<nbest id="8" total="213.425"><![CDATA[An asteroid 400 meters wide will touch the earth this week, the biggest since 1976.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de 400 mètres de largeur, s'approchera de la Terre à 23h28 GMT (00h28, heure belge) ce mardi, à 324600 km soit 0,85 fois la distance de la Terre à la Lune.]]></source>
+		<target lang="en">
+			<nbest id="0" total="360.9828"><![CDATA[An asteroid 400 meters wide, will approach Earth at 23:28 GMT (0:28 pm CET) on Tuesday to 324600 km or 0.85 times the distance from Earth to the Moon.]]></nbest>
+			<nbest id="1" total="361.2697"><![CDATA[An asteroid 400 meters wide, will approach Earth at 23:28 GMT (0:28 pm CET) on Tuesday to 324600 km or 0.85 times the distance from the Earth to the Moon.]]></nbest>
+			<nbest id="2" total="362.1837"><![CDATA[An asteroid 400 meters wide, will approach the Earth at 23:28 GMT (0:28 pm CET) on Tuesday to 324600 km or 0.85 times the distance from Earth to the Moon.]]></nbest>
+			<nbest id="3" total="362.4706"><![CDATA[An asteroid 400 meters wide, will approach the Earth at 23:28 GMT (0:28 pm CET) on Tuesday to 324600 km or 0.85 times the distance from the Earth to the Moon.]]></nbest>
+			<nbest id="4" total="363.1061"><![CDATA[An asteroid 400 meters wide, will approach Earth at 23:28 GMT (0:28 pm CET) on Tuesday to 324600 km or 0.85 times the distance from Earth to the moon.]]></nbest>
+			<nbest id="5" total="363.1068"><![CDATA[An asteroid 400 meters wide, will approach Earth at 23:28 GMT (0:28 pm CET) on Tuesday at 324600 km or 0.85 times the distance from Earth to the Moon.]]></nbest>
+			<nbest id="6" total="363.3937"><![CDATA[An asteroid 400 meters wide, will approach Earth at 23:28 GMT (0:28 pm CET) on Tuesday at 324600 km or 0.85 times the distance from the Earth to the Moon.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Mardi 8 novembre au soir, notre planète va être approchée de près par un gigantesque caillou de plus de 400 mètres de diamètre. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="248.1894"><![CDATA[Tuesday, November 8 in the evening, our planet will be closely approximated by a huge rock over 400 meters in diameter.]]></nbest>
+			<nbest id="1" total="248.5993"><![CDATA[Tuesday, November 8 in the evening, our planet will be approached closely by a huge rock over 400 meters in diameter.]]></nbest>
+			<nbest id="2" total="248.6129"><![CDATA[Tuesday, November 8 in the evening, our planet will be approximated closely by a huge rock over 400 meters in diameter.]]></nbest>
+			<nbest id="3" total="250.4038"><![CDATA[Tuesday, November 8 in the evening, our planet will be closely approximated by a giant rock over 400 meters in diameter.]]></nbest>
+			<nbest id="4" total="250.4511"><![CDATA[Tuesday, November 8 at night, our planet will be closely approximated by a huge rock over 400 meters in diameter.]]></nbest>
+			<nbest id="5" total="250.453"><![CDATA[Tuesday, November 8 in the evening, our planet will be closely approximated by a huge stone over 400 meters in diameter.]]></nbest>
+			<nbest id="6" total="250.8609"><![CDATA[Tuesday, November 8 at night, our planet will be approached closely by a huge rock over 400 meters in diameter.]]></nbest>
+			<nbest id="7" total="250.8629"><![CDATA[Tuesday, November 8 in the evening, our planet will be approached closely by a huge stone over 400 meters in diameter.]]></nbest>
+			<nbest id="8" total="250.8745"><![CDATA[Tuesday, November 8 at night, our planet will be approximated closely by a huge rock over 400 meters in diameter.]]></nbest>
+			<nbest id="9" total="250.8764"><![CDATA[Tuesday, November 8 in the evening, our planet will be approximated closely by a huge stone over 400 meters in diameter.]]></nbest>
+			<nbest id="10" total="251.5794"><![CDATA[Tuesday, November 8 evening, our planet will be closely approximated by a huge rock over 400 meters in diameter.]]></nbest>
+			<nbest id="11" total="251.6737"><![CDATA[Tuesday, November 8 in the evening, our planet will be closely approximated by a gigantic rock over 400 meters in diameter.]]></nbest>
+			<nbest id="12" total="251.6791"><![CDATA[Tuesday, November 8 in the evening, our planet will be approached closely by a giant rock over 400 meters in diameter.]]></nbest>
+			<nbest id="13" total="251.6927"><![CDATA[Tuesday, November 8 in the evening, our planet will be approximated closely by a giant rock over 400 meters in diameter.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Jeudi 03 Novembre 2011, la Nasa annonce dans son site web qu'un gros astéroïde de la taille d'un porte-avions passera à proximité de la Terre mardi prochain mais il ne présentera aucun danger de collision.]]></source>
+		<target lang="en">
+			<nbest id="0" total="349.8468"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="1" total="350.2209"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth on Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="2" total="351.2846"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday, but it will not present any danger of collision.]]></nbest>
+			<nbest id="3" total="351.6687"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but it will not present any danger of collision.]]></nbest>
+			<nbest id="4" total="352.1857"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth on Tuesday, but it will not present any danger of collision.]]></nbest>
+			<nbest id="5" total="353.0322"><![CDATA[Thursday, November 3, 2011, NASA announced on its website a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="6" total="353.0871"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid about the size of an aircraft carrier will pass close to Earth next Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="7" total="353.2014"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="8" total="353.2209"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth on Tuesday but it will not present any danger of collision.]]></nbest>
+			<nbest id="9" total="353.3174"><![CDATA[Thursday, November 3rd, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="10" total="353.4062"><![CDATA[Thursday, November 3, 2011, NASA announced on its website a large asteroid the size of an aircraft carrier will pass close to Earth on Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="11" total="353.4612"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid about the size of an aircraft carrier will pass close to Earth on Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="12" total="353.6915"><![CDATA[Thursday, November 3rd, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth on Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="13" total="353.7711"><![CDATA[Thursday, November 3, 2011, NASA announced in its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="14" total="353.8829"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but it will be no danger of collision.]]></nbest>
+			<nbest id="15" total="353.9682"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a big asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="16" total="354.1452"><![CDATA[Thursday, November 3, 2011, NASA announced in its website that a large asteroid the size of an aircraft carrier will pass close to Earth on Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="17" total="354.3423"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a big asteroid the size of an aircraft carrier will pass close to Earth on Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="18" total="354.3842"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but will not present any danger of collision.]]></nbest>
+			<nbest id="19" total="354.47"><![CDATA[Thursday, November 3, 2011, NASA announced on its website a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday, but it will not present any danger of collision.]]></nbest>
+			<nbest id="20" total="354.525"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid about the size of an aircraft carrier will pass close to Earth next Tuesday, but it will not present any danger of collision.]]></nbest>
+			<nbest id="21" total="354.7166"><![CDATA[Thursday, November 3, 2011, NASA announced in his website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but there will be no danger of collision.]]></nbest>
+			<nbest id="22" total="354.7552"><![CDATA[Thursday, November 3rd, 2011, NASA announced on its website that a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday, but it will not present any danger of collision.]]></nbest>
+			<nbest id="23" total="354.8541"><![CDATA[Thursday, November 3, 2011, NASA announced on its website a large asteroid the size of an aircraft carrier will pass close to Earth next Tuesday but it will not present any danger of collision.]]></nbest>
+			<nbest id="24" total="354.909"><![CDATA[Thursday, November 3, 2011, NASA announced on its website that a large asteroid about the size of an aircraft carrier will pass close to Earth next Tuesday but it will not present any danger of collision.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Dans la nuit du 8 au 9 novembre, l'astéroïde 2005 YU55 s'approchera à 324000 km de la Terre, soit seulement 85% de la distance à laquelle se trouve la Lune.]]></source>
+		<target lang="en">
+			<nbest id="0" total="336.7078"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="1" total="337.2096"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to 324000 km from Earth, only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="2" total="337.2442"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, or only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="3" total="337.4636"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to Earth 324000 km, only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="4" total="337.4841"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach with 324000 km from Earth, only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="5" total="337.7461"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to 324000 km from Earth, or only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="6" total="337.7967"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, only 85% of the distance to the moon is.]]></nbest>
+			<nbest id="7" total="338.0206"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach with 324000 km from Earth, or only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="8" total="338.2986"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to 324000 km from Earth, only 85% of the distance to the moon is.]]></nbest>
+			<nbest id="9" total="338.3331"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, or only 85% of the distance to the moon is.]]></nbest>
+			<nbest id="10" total="338.5525"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to Earth 324000 km, only 85% of the distance to the moon is.]]></nbest>
+			<nbest id="11" total="338.5731"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach with 324000 km from Earth, only 85% of the distance to the moon is.]]></nbest>
+			<nbest id="12" total="338.835"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to 324000 km from Earth, or only 85% of the distance to the moon is.]]></nbest>
+			<nbest id="13" total="339.0058"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to 324000 km of the Earth, or only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="14" total="339.1095"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach with 324000 km from Earth, or only 85% of the distance to the moon is.]]></nbest>
+			<nbest id="15" total="339.1401"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, only 85% of the distance at which the moon is.]]></nbest>
+			<nbest id="16" total="339.6037"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, only 85% of the distance that is the Moon.]]></nbest>
+			<nbest id="17" total="339.642"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to 324000 km from Earth, only 85% of the distance at which the moon is.]]></nbest>
+			<nbest id="18" total="339.6765"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, or only 85% of the distance at which the moon is.]]></nbest>
+			<nbest id="19" total="339.8959"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to Earth 324000 km, only 85% of the distance at which the moon is.]]></nbest>
+			<nbest id="20" total="339.9165"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach with 324000 km from Earth, only 85% of the distance at which the moon is.]]></nbest>
+			<nbest id="21" total="339.9561"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach in 324000 km from Earth, only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="22" total="339.9868"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km from Earth, only 85% of the distance is the Moon.]]></nbest>
+			<nbest id="23" total="340.044"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach at 324000 km of the Earth, or only 85% of the distance to the Moon is.]]></nbest>
+			<nbest id="24" total="340.0947"><![CDATA[On the night of November 8 to 9, the asteroid 2005 YU55 will approach to 324000 km of the Earth, or only 85% of the distance to the moon is.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde de 400 mètres de diamètre passera à proximité de la Terre dans la nuit de mardi à mercredi. ]]></source>
+		<target lang="en">
+			<nbest id="0" total="165.7231"><![CDATA[An asteroid 400 meters in diameter will pass close to Earth in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="1" total="166.0563"><![CDATA[An asteroid 400 meters in diameter will pass close to Earth on the night of Tuesday to Wednesday.]]></nbest>
+			<nbest id="2" total="170.3328"><![CDATA[An asteroid 400 meters in diameter will pass close to Earth on the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="3" total="170.6945"><![CDATA[An asteroid 400 meters in diameter will pass close to the Earth in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="4" total="171.1033"><![CDATA[An asteroid 400 meters in diameter, will pass close to Earth in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="5" total="171.359"><![CDATA[An asteroid 400 meters in diameter will pass close to the Earth on the night of Tuesday to Wednesday.]]></nbest>
+			<nbest id="6" total="171.4364"><![CDATA[An asteroid 400 meters in diameter, will pass close to Earth on the night of Tuesday to Wednesday.]]></nbest>
+			<nbest id="7" total="171.6806"><![CDATA[An asteroid 400 meters in diameter will pass close to Earth on the night of Wednesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des scientifiques de la Nasa mettent à profit le passage exceptionnel d'un astéroïde à proximité de la Terre pour l'observer en détail.]]></source>
+		<target lang="en">
+			<nbest id="0" total="259.4413"><![CDATA[NASA scientists take advantage of the unique way an asteroid near the Earth to observe in detail.]]></nbest>
+			<nbest id="1" total="259.6804"><![CDATA[NASA scientists take advantage of the unique way an asteroid close to Earth to observe in detail.]]></nbest>
+			<nbest id="2" total="259.8397"><![CDATA[NASA scientists take advantage of the exceptional way of an asteroid near the Earth to observe in detail.]]></nbest>
+			<nbest id="3" total="260.9633"><![CDATA[NASA scientists take advantage of the exceptional way of an asteroid close to Earth to observe in detail.]]></nbest>
+			<nbest id="4" total="261.3457"><![CDATA[NASA scientists take advantage of the exceptional passing an asteroid near the Earth to observe in detail.]]></nbest>
+			<nbest id="5" total="261.5173"><![CDATA[NASA scientists take advantage of the unique way of an asteroid near the Earth to observe in detail.]]></nbest>
+			<nbest id="6" total="261.5848"><![CDATA[NASA scientists take advantage of the exceptional passing an asteroid close to Earth to observe in detail.]]></nbest>
+			<nbest id="7" total="261.7365"><![CDATA[NASA scientists take advantage of the unique way an asteroid near Earth to observe in detail.]]></nbest>
+			<nbest id="8" total="261.9574"><![CDATA[NASA scientists take advantage of the exceptional way an asteroid near the Earth to observe in detail.]]></nbest>
+			<nbest id="9" total="262.1349"><![CDATA[NASA scientists take advantage of the exceptional way of an asteroid near Earth to observe in detail.]]></nbest>
+			<nbest id="10" total="262.1964"><![CDATA[NASA scientists take advantage of the exceptional way an asteroid close to Earth to observe in detail.]]></nbest>
+			<nbest id="11" total="262.6408"><![CDATA[NASA scientists take advantage of the unique way of an asteroid close to Earth to observe in detail.]]></nbest>
+			<nbest id="12" total="263.6409"><![CDATA[NASA scientists take advantage of the exceptional passing an asteroid near Earth to observe in detail.]]></nbest>
+			<nbest id="13" total="263.8125"><![CDATA[NASA scientists take advantage of the unique way of an asteroid near Earth to observe in detail.]]></nbest>
+			<nbest id="14" total="264.2525"><![CDATA[NASA scientists take advantage of the exceptional way an asteroid near Earth to observe in detail.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un astéroïde «frôlera» notre planète dans la nuit de mardi à mercredi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="196.8734"><![CDATA[An asteroid "pass close" our planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="1" total="197.0347"><![CDATA[An asteroid "pass close to" our planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="2" total="197.6933"><![CDATA[An asteroid 'pass close to "our planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="3" total="197.6963"><![CDATA[An asteroid 'pass close "our planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="4" total="197.8147"><![CDATA[An asteroid "pass close" planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="5" total="198.6376"><![CDATA[An asteroid 'pass close "planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="6" total="199.12"><![CDATA[An asteroid "pass close" our planet at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="7" total="199.2813"><![CDATA[An asteroid "pass close to" our planet at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="8" total="199.8504"><![CDATA[An asteroid "pass close" the planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="9" total="199.94"><![CDATA[An asteroid 'pass close to "our planet at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="10" total="199.9429"><![CDATA[An asteroid 'pass close "our planet at night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="11" total="199.9735"><![CDATA[An asteroid "pass close to" planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="12" total="200.6322"><![CDATA[An asteroid 'pass close to "planet in the night from Tuesday to Wednesday.]]></nbest>
+			<nbest id="13" total="200.6733"><![CDATA[An asteroid 'pass close "the planet in the night from Tuesday to Wednesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Enfin, un astéroïde de 400 mètres de diamètre devrait frôler la Terre, certes, mais ne devrait passer au plus près qu'à 324600 kilomètres de notre planète.]]></source>
+		<target lang="en">
+			<nbest id="0" total="313.1029"><![CDATA[Finally, an asteroid 400 meters in diameter should graze the Earth, of course, but it should pass as close as 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="1" total="314.0936"><![CDATA[Finally, an asteroid 400 meters in diameter should graze the Earth, of course, but should move closer than 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="2" total="314.3214"><![CDATA[Finally, an asteroid 400 meters in diameter should graze the Earth, of course, but should pass as close as 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="3" total="315.2305"><![CDATA[Finally, an asteroid 400 meters in diameter should graze the Earth, of course, but it should move closer than 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="4" total="315.3928"><![CDATA[Finally, an asteroid 400 meters in diameter should graze the Earth, of course, but it should pass as close as 324,600 km of our planet.]]></nbest>
+			<nbest id="5" total="315.4605"><![CDATA[Finally, an asteroid 400 meters in diameter should graze the Earth, certainly, but it should pass as close as 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="6" total="315.7222"><![CDATA[Finally, an asteroid 400 meters in diameter should graze Earth, of course, but it should pass as close as 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="7" total="315.9151"><![CDATA[Finally, an asteroid 400 meters in diameter should graze the earth, of course, but it should pass as close as 324,600 kilometers of our planet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Une astéroïde frôlera  la terre dans la nuit de mardi à mercredi vers 0h25: c'est  la deuxième en 2011.]]></source>
+		<target lang="en">
+			<nbest id="0" total="243.357"><![CDATA[An asteroid pass close to Earth on the night of Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="1" total="245.7363"><![CDATA[An asteroid pass close to Earth on the night of Tuesday to Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="2" total="246.0889"><![CDATA[An asteroid pass close to the earth in the night from Tuesday to Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="3" total="246.3434"><![CDATA[An asteroid pass close to earth in the night from Tuesday to Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="4" total="246.5697"><![CDATA[An asteroid pass close to Earth in the night from Tuesday to Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="5" total="246.6913"><![CDATA[An asteroid pass close to the Earth on the night of Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="6" total="247.0424"><![CDATA[An asteroid pass close to the Earth in the night from Tuesday to Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="7" total="247.6133"><![CDATA[An asteroid pass close to Earth on the night of Wednesday to 0:25: this is the second in 2011.]]></nbest>
+			<nbest id="8" total="247.7726"><![CDATA[An asteroid pass close to Earth on the night of Wednesday to 0:25: the second in 2011.]]></nbest>
+			<nbest id="9" total="248.2751"><![CDATA[An asteroid pass close to the earth in the night of Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="10" total="248.5297"><![CDATA[An asteroid pass close to earth in the night of Wednesday to 0:25: This is the second in 2011.]]></nbest>
+			<nbest id="11" total="248.756"><![CDATA[An asteroid pass close to Earth in the night of Wednesday to 0:25: This is the second in 2011.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'astéroïde 2005 YU55 rasera la Terre en passant à 324600 kilomètres, soit 85 % de la distance Terre-Lune.]]></source>
+		<target lang="en">
+			<nbest id="0" total="238.6342"><![CDATA[The asteroid 2005 YU55 shave Earth passing 324,600 kilometers, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="1" total="239.2739"><![CDATA[Asteroid 2005 YU55 shave Earth passing 324,600 kilometers, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="2" total="239.6959"><![CDATA[The asteroid 2005 YU55 shave the Earth passing 324,600 kilometers, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="3" total="241.4405"><![CDATA[The asteroid 2005 YU55 shave Earth passing 324,600 km or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="4" total="241.9149"><![CDATA[The asteroid 2005 YU55 will shave Earth passing 324,600 kilometers, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="5" total="241.9623"><![CDATA[The asteroid 2005 YU55 will shave the Earth passing 324,600 kilometers, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="6" total="242.0802"><![CDATA[Asteroid 2005 YU55 shave Earth passing 324,600 km or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="7" total="242.1227"><![CDATA[The asteroid 2005 YU55 shave Earth passing 324,600 kilometers or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="8" total="242.1594"><![CDATA[Asteroid 2005 YU55 will shave Earth passing 324,600 kilometers, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="9" total="242.5021"><![CDATA[The asteroid 2005 YU55 shave the Earth passing 324,600 km or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="10" total="242.5383"><![CDATA[The asteroid 2005 YU55 shave Earth passing 324,600 km, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="11" total="242.7344"><![CDATA[The asteroid 2005 YU55 Earth shave passing 324,600 kilometers, or 85% of the Earth-Moon distance.]]></nbest>
+			<nbest id="12" total="242.7623"><![CDATA[Asteroid 2005 YU55 shave Earth passing 324,600 kilometers or 85% of the Earth-Moon distance.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Il s'appelle 2005 YU55 et, dans la nuit de mardi à mercredi, il va passer à 324600 kilomètres de notre planète.]]></source>
+		<target lang="en">
+			<nbest id="0" total="242.5379"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will go to 324,600 km from the planet.]]></nbest>
+			<nbest id="1" total="242.5739"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will pass 324,600 km of our planet.]]></nbest>
+			<nbest id="2" total="242.5934"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will move to 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="3" total="242.7795"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will go to 324,600 km of our planet.]]></nbest>
+			<nbest id="4" total="242.9714"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will go to 324,600 km from the planet.]]></nbest>
+			<nbest id="5" total="243.0073"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will pass 324,600 km of our planet.]]></nbest>
+			<nbest id="6" total="243.0268"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will move to 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="7" total="243.155"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, he will go to 324,600 km from the planet.]]></nbest>
+			<nbest id="8" total="243.213"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will go to 324,600 km of our planet.]]></nbest>
+			<nbest id="9" total="243.3967"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, he will go to 324,600 km of our planet.]]></nbest>
+			<nbest id="10" total="243.4859"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will go to 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="11" total="243.5309"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will move to 324,600 km from the planet.]]></nbest>
+			<nbest id="12" total="243.5885"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, he will go to 324,600 km from the planet.]]></nbest>
+			<nbest id="13" total="243.6975"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, he will move to 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="14" total="243.7725"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will move to 324,600 km of our planet.]]></nbest>
+			<nbest id="15" total="243.7924"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, it will pass 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="16" total="243.8301"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, he will go to 324,600 km of our planet.]]></nbest>
+			<nbest id="17" total="243.8949"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, he will pass 324,600 km of our planet.]]></nbest>
+			<nbest id="18" total="243.9194"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will go to 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="19" total="243.9643"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will move to 324,600 km from the planet.]]></nbest>
+			<nbest id="20" total="244.103"><![CDATA[It is called 2005 YU55, and in the night from Tuesday to Wednesday, he will go to 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="21" total="244.131"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, he will move to 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="22" total="244.206"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will move to 324,600 km of our planet.]]></nbest>
+			<nbest id="23" total="244.2259"><![CDATA[It is called 2005 YU55 and in the night from Tuesday to Wednesday, it will pass 324,600 kilometers of our planet.]]></nbest>
+			<nbest id="24" total="244.2457"><![CDATA[It is called 2005 YU55 and the night of Wednesday, it will go to 324,600 km from the planet.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

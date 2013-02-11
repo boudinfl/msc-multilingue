@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[La lune Europe de la planète Jupiter pourrait bien abriter des étendues d'eau sous sa surface glacée aussi vastes que les Grands Lacs nord-américains, affirment des astronomes américains.]]></source>
+		<target lang="en">
+			<nbest id="0" total="364.7799"><![CDATA[Europe moon of the planet Jupiter could harbor waters under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="1" total="365.0309"><![CDATA[Europe moon of the planet Jupiter could harbor waters under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="2" total="366.4706"><![CDATA[Europe moon of Jupiter could harbor waters under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="3" total="366.6043"><![CDATA[The moon of the planet Jupiter Europe might harbor waters under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="4" total="366.7215"><![CDATA[Europe moon of Jupiter could harbor waters under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="5" total="366.8553"><![CDATA[The moon of the planet Jupiter Europe might harbor waters under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="6" total="366.8678"><![CDATA[The moon of the planet Jupiter Europe could harbor waters under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="7" total="366.9966"><![CDATA[Europe moon of the planet Jupiter might harbor waters under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="8" total="367.1187"><![CDATA[The moon of the planet Jupiter Europe could harbor waters under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="9" total="367.2476"><![CDATA[Europe moon of the planet Jupiter might harbor waters under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="10" total="369.1631"><![CDATA[The moon of Jupiter Europe might harbor waters under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="11" total="369.1841"><![CDATA[Europe moon of the planet Jupiter could harbor water bodies under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="12" total="369.414"><![CDATA[The moon of Jupiter Europe might harbor waters under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="13" total="369.4265"><![CDATA[The moon of Jupiter Europe could harbor waters under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="14" total="369.4351"><![CDATA[Europe moon of the planet Jupiter could harbor water bodies under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="15" total="369.6775"><![CDATA[The moon of Jupiter Europe could harbor waters under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="16" total="370.8748"><![CDATA[Europe moon of Jupiter could harbor water bodies under its icy surface as large as the North American Great Lakes, say U.S. astronomers.]]></nbest>
+			<nbest id="17" total="371.1258"><![CDATA[Europe moon of Jupiter could harbor water bodies under its icy surface as large as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="18" total="371.2019"><![CDATA[Europe moon of the planet Jupiter could harbor waters under its icy surface as vast as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+			<nbest id="19" total="371.2749"><![CDATA[Europe moon of the planet Jupiter could harbor waters under its icy surface as wide as the Great Lakes in North America, say U.S. astronomers.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les scientifiques pensent que des lacs d'eau liquide se cachent sous la surface d'Europe, est une des lunes de Jupiter.]]></source>
+		<target lang="en">
+			<nbest id="0" total="204.757"><![CDATA[Scientists believe that lakes of liquid water hidden beneath the surface of Europa is one of Jupiter's moons.]]></nbest>
+			<nbest id="1" total="206.8919"><![CDATA[Scientists believe lakes of liquid water hidden beneath the surface of Europa is one of Jupiter's moons.]]></nbest>
+			<nbest id="2" total="207.253"><![CDATA[Scientists think that lakes of liquid water hidden beneath the surface of Europa is one of Jupiter's moons.]]></nbest>
+			<nbest id="3" total="207.3554"><![CDATA[Scientists believe that lakes of liquid water hidden beneath the surface of Europa is a moon of Jupiter.]]></nbest>
+			<nbest id="4" total="208.2564"><![CDATA[Scientists believe that lakes of liquid water hidden under the surface of Europa is one of Jupiter's moons.]]></nbest>
+			<nbest id="5" total="209.4903"><![CDATA[Scientists believe lakes of liquid water hidden beneath the surface of Europa is a moon of Jupiter.]]></nbest>
+			<nbest id="6" total="209.8514"><![CDATA[Scientists think that lakes of liquid water hidden beneath the surface of Europa is a moon of Jupiter.]]></nbest>
+			<nbest id="7" total="209.9358"><![CDATA[Scientists believe that the lakes of liquid water hidden beneath the surface of Europa is one of Jupiter's moons.]]></nbest>
+			<nbest id="8" total="210.3913"><![CDATA[Scientists believe lakes of liquid water hidden under the surface of Europa is one of Jupiter's moons.]]></nbest>
+			<nbest id="9" total="210.7524"><![CDATA[Scientists think that lakes of liquid water hidden under the surface of Europa is one of Jupiter's moons.]]></nbest>
+			<nbest id="10" total="210.8549"><![CDATA[Scientists believe that lakes of liquid water hidden under the surface of Europa is a moon of Jupiter.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des données recueillies par la "NASA", grâce à la sonde "Galileo", permettent d'affirmer que la planète glacée "Europe", satellite de Jupiter, contient bien de l'eau sous forme liquide.]]></source>
+		<target lang="en">
+			<nbest id="0" total="430.6671"><![CDATA[Data collected by the "NASA", with the probe "Galileo", it can be concluded that the ice planet "Europe" satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="1" total="430.7686"><![CDATA[Data collected by the "NASA", with the probe "Galileo", it can be concluded that the ice planet "Europe", a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="2" total="431.3589"><![CDATA[Data collected by the "NASA" with the probe "Galileo", it can be concluded that the ice planet "Europe" satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="3" total="431.4604"><![CDATA[Data collected by the "NASA" with the probe "Galileo", it can be concluded that the ice planet "Europe", a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="4" total="431.6468"><![CDATA[Data collected by the "NASA" through the probe "Galileo", it can be concluded that the ice planet "Europe" satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="5" total="431.7392"><![CDATA[Data collected by the "NASA", with the probe "Galileo", it can be concluded that the icy planet "Europe" satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="6" total="431.7484"><![CDATA[Data collected by the "NASA" through the probe "Galileo", it can be concluded that the ice planet "Europe", a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="7" total="431.7974"><![CDATA[Data collected by the "NASA", thanks to the probe "Galileo", it can be concluded that the ice planet "Europe" satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="8" total="431.8407"><![CDATA[Data collected by the "NASA", with the probe "Galileo", it can be concluded that the icy planet "Europe", a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="9" total="431.899"><![CDATA[Data collected by the "NASA", thanks to the probe "Galileo", it can be concluded that the ice planet "Europe", a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="10" total="431.9138"><![CDATA[Data collected by the "NASA" through the sensor "Galileo", it can be concluded that the ice planet "Europe" satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="11" total="432.0154"><![CDATA[Data collected by the "NASA" through the sensor "Galileo", it can be concluded that the ice planet "Europe", a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="12" total="432.0792"><![CDATA[Data collected by the "NASA", with the probe "Galileo", it can be concluded that the frozen planet "Europe" satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="13" total="432.1808"><![CDATA[Data collected by the "NASA", with the probe "Galileo", it can be concluded that the frozen planet "Europe", a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[De nouvelles analyses des images fournies par la sonde Galileo qui a exploré Jupiter et ses lunes entre 1995 et 2003 confirment la présence de grandes étendues d'eau liquide, du volume des Grands Lacs d' Amérique du Nord, sous la surface glacée d'Europe, l'un des quatre plus gros satellites de la planète.]]></source>
+		<target lang="en">
+			<nbest id="0" total="498.8098"><![CDATA[Further analysis of the images provided by the Galileo spacecraft that explored Jupiter and its moons between 1995 and 2003 confirmed the presence of large bodies of liquid water the volume of the Great Lakes of North America, under the ice surface in Europe, one of the four largest satellites of the planet.]]></nbest>
+			<nbest id="1" total="499.2849"><![CDATA[Further analysis of the images provided by the Galileo spacecraft that explored Jupiter and its moons between 1995 and 2003 confirmed the presence of large bodies of liquid water the volume of the Great Lakes of North America under the ice surface in Europe, one of the four largest satellites of the planet.]]></nbest>
+			<nbest id="2" total="500.0981"><![CDATA[Further analysis of the images provided by the Galileo spacecraft that explored Jupiter and its moons between 1995 and 2003 confirmed the presence of large bodies of liquid water, the volume of the Great Lakes of North America, under the ice surface in Europe, one of the four largest satellites of the planet.]]></nbest>
+			<nbest id="3" total="500.5732"><![CDATA[Further analysis of the images provided by the Galileo spacecraft that explored Jupiter and its moons between 1995 and 2003 confirmed the presence of large bodies of liquid water, the volume of the Great Lakes of North America under the ice surface in Europe, one of the four largest satellites of the planet.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La seule façon d'interpréter correctement certaines régions surélevées de la banquise d'Europe, la célèbre lune de Jupiter, serait d'y voir la trace de lacs géants à seulement 3 km de profondeur.]]></source>
+		<target lang="en">
+			<nbest id="0" total="414.5383"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="1" total="414.625"><![CDATA[The only way to correctly interpret some parts of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="2" total="415.2217"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km deep.]]></nbest>
+			<nbest id="3" total="415.2234"><![CDATA[The only way to correctly interpret certain areas of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="4" total="415.2862"><![CDATA[The only way to correctly interpret elevated parts of the ice in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="5" total="415.3083"><![CDATA[The only way to correctly interpret some parts of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km deep.]]></nbest>
+			<nbest id="6" total="415.4127"><![CDATA[The only way to properly interpret parts of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="7" total="415.4317"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, the famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="8" total="415.4826"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, famous moon of Jupiter, would see the trace of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="9" total="415.5183"><![CDATA[The only way to correctly interpret some parts of the ice raised in Europe, the famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="10" total="415.5692"><![CDATA[The only way to correctly interpret some parts of the ice raised in Europe, famous moon of Jupiter, would see the trace of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="11" total="415.6589"><![CDATA[The only way to properly interpret some parts of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="12" total="415.7972"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, famous moon of Jupiter, would be to see the traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="13" total="415.8286"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, famous moon of Jupiter, would be to see the trace of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="14" total="415.8415"><![CDATA[The only way to correctly interpret certain regions of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="15" total="415.8839"><![CDATA[The only way to correctly interpret some parts of the ice raised in Europe, famous moon of Jupiter, would be to see the traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="16" total="415.9067"><![CDATA[The only way to correctly interpret certain areas of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km deep.]]></nbest>
+			<nbest id="17" total="415.9153"><![CDATA[The only way to correctly interpret some parts of the ice raised in Europe, famous moon of Jupiter, would be to see the trace of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="18" total="415.9695"><![CDATA[The only way to correctly interpret elevated parts of the ice in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km deep.]]></nbest>
+			<nbest id="19" total="415.9942"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, famous moon of Jupiter, would see the traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="20" total="416.0809"><![CDATA[The only way to correctly interpret some parts of the ice raised in Europe, famous moon of Jupiter, would see the traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="21" total="416.0961"><![CDATA[The only way to properly interpret parts of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km deep.]]></nbest>
+			<nbest id="22" total="416.1151"><![CDATA[The only way to correctly interpret parts of the ice raised in Europe, the famous moon of Jupiter, would see traces of giant lakes just 3 km deep.]]></nbest>
+			<nbest id="23" total="416.1167"><![CDATA[The only way to correctly interpret certain areas of the ice raised in Europe, the famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+			<nbest id="24" total="416.1413"><![CDATA[The only way to properly interpret certain areas of the ice raised in Europe, famous moon of Jupiter, would see traces of giant lakes just 3 km depth.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[La découverte de lacs sur une lune de Jupiter nommée Europe, d'après des images transmises par le vaisseau américain Galileo lors d'une excursion entre 1995 et 2003, n'est donc pas anodine.]]></source>
+		<target lang="en">
+			<nbest id="0" total="375.7927"><![CDATA[The discovery of lakes on Jupiter's moon named Europe, from images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="1" total="375.8475"><![CDATA[The discovery of lakes on Jupiter's moon called Europe, from images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="2" total="375.9815"><![CDATA[The discovery of lakes on Jupiter's moon named Europe, according to images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="3" total="376.0363"><![CDATA[The discovery of lakes on Jupiter's moon called Europe, according to images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="4" total="376.4063"><![CDATA[The discovery of lakes on Jupiter's moon named Europe, from images transmitted by the Galileo spacecraft during a U.S. tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="5" total="376.4606"><![CDATA[The discovery of lakes on Jupiter's moon named Europe, after the images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="6" total="376.4611"><![CDATA[The discovery of lakes on Jupiter's moon called Europe, from images transmitted by the Galileo spacecraft during a U.S. tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="7" total="376.5154"><![CDATA[The discovery of lakes on Jupiter's moon called Europe, after the images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="8" total="376.5951"><![CDATA[The discovery of lakes on Jupiter's moon named Europe, according to images transmitted by the Galileo spacecraft during a U.S. tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="9" total="376.6499"><![CDATA[The discovery of lakes on Jupiter's moon called Europe, according to images transmitted by the Galileo spacecraft during a U.S. tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="10" total="377.0742"><![CDATA[The discovery of lakes on Jupiter's moon named Europe, after the images transmitted by the Galileo spacecraft during a U.S. tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="11" total="377.129"><![CDATA[The discovery of lakes on Jupiter's moon called Europe, after the images transmitted by the Galileo spacecraft during a U.S. tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="12" total="377.5214"><![CDATA[The discovery of lakes on Jupiter's moon named Europe, after images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+			<nbest id="13" total="377.5762"><![CDATA[The discovery of lakes on Jupiter's moon called Europe, after images transmitted by the Galileo spacecraft during an American tour between 1995 and 2003, is not trivial.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des données recueillies par la NASA grâce à la sonde Galileo permettent d'affirmer que la planète glacée Europe, satellite de Jupiter, contient bien de l'eau sous forme liquide.]]></source>
+		<target lang="en">
+			<nbest id="0" total="349.1721"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the ice planet Europe, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="1" total="349.2634"><![CDATA[Data collected by NASA through the Galileo spacecraft allow to assert that Europe icy planet, Jupiter satellite, contains much water in liquid form.]]></nbest>
+			<nbest id="2" total="349.4434"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the icy planet Europe, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="3" total="349.5661"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the Europe icy planet, Jupiter satellite, contains much water in liquid form.]]></nbest>
+			<nbest id="4" total="349.6755"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the ice planet Europe, a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="5" total="349.8602"><![CDATA[Data collected by NASA through the Galileo spacecraft allow to say that Europe icy planet, Jupiter satellite, contains much water in liquid form.]]></nbest>
+			<nbest id="6" total="349.894"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the ice planet Europe, Jupiter satellite, contains much water in liquid form.]]></nbest>
+			<nbest id="7" total="349.9468"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the icy planet Europe, a satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="8" total="350.1653"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the icy planet Europe, Jupiter satellite, contains much water in liquid form.]]></nbest>
+			<nbest id="9" total="350.3702"><![CDATA[Data collected by NASA through the Galileo spacecraft allow to assert that Europe icy planet, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="10" total="350.436"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the ice planet Europe, satellite of Jupiter, has well water in liquid form.]]></nbest>
+			<nbest id="11" total="350.6729"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the Europe icy planet, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="12" total="350.7073"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the icy planet Europe, satellite of Jupiter, has well water in liquid form.]]></nbest>
+			<nbest id="13" total="350.853"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the frozen planet Europe, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="14" total="350.9394"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the ice planet Europe, a satellite of Jupiter, has well water in liquid form.]]></nbest>
+			<nbest id="15" total="350.9491"><![CDATA[Data collected by NASA through the Galileo spacecraft can be concluded that the ice planet Europe, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="16" total="350.9669"><![CDATA[Data collected by NASA through the Galileo spacecraft allow to say that Europe icy planet, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="17" total="350.9721"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the ice planet Europe, satellite of Jupiter contains much water in liquid form.]]></nbest>
+			<nbest id="18" total="351.0308"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the ice planet Europe, satellite of Jupiter, has good water in liquid form.]]></nbest>
+			<nbest id="19" total="351.2107"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the icy planet Europe, a satellite of Jupiter, has well water in liquid form.]]></nbest>
+			<nbest id="20" total="351.2204"><![CDATA[Data collected by NASA through the Galileo spacecraft can be concluded that the icy planet Europe, satellite of Jupiter, contains much water in liquid form.]]></nbest>
+			<nbest id="21" total="351.2434"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the icy planet Europe, satellite of Jupiter contains much water in liquid form.]]></nbest>
+			<nbest id="22" total="351.3021"><![CDATA[Data collected by NASA through the Galileo probe can be concluded that the icy planet Europe, satellite of Jupiter, has good water in liquid form.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[De grandes étendues d'eau aussi vastes que les Grands Lacs nord-américains pourraient se trouver sous la glace recouvrant Europe, une lune brillante et mystérieuse de Jupiter, ont annoncé mercredi des astronomes.]]></source>
+		<target lang="en">
+			<nbest id="0" total="393.4338"><![CDATA[Large bodies of water as large as the Great Lakes in North America could be under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday.]]></nbest>
+			<nbest id="1" total="393.5714"><![CDATA[Large bodies of water as large as the Great Lakes in North America could be under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday.]]></nbest>
+			<nbest id="2" total="394.6808"><![CDATA[Large bodies of water as large as the North American Great Lakes could be under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday.]]></nbest>
+			<nbest id="3" total="394.8183"><![CDATA[Large bodies of water as large as the North American Great Lakes could be under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday.]]></nbest>
+			<nbest id="4" total="394.8678"><![CDATA[Large bodies of water as large as the Great Lakes in North America could be under ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday.]]></nbest>
+			<nbest id="5" total="394.9719"><![CDATA[Large bodies of water as large as the North American Great Lakes could be in the ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday.]]></nbest>
+			<nbest id="6" total="395.0054"><![CDATA[Large bodies of water as large as the Great Lakes in North America could be under ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday.]]></nbest>
+			<nbest id="7" total="395.1094"><![CDATA[Large bodies of water as large as the North American Great Lakes could be in the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday.]]></nbest>
+			<nbest id="8" total="396.1148"><![CDATA[Large bodies of water as large as the North American Great Lakes could be under ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday.]]></nbest>
+			<nbest id="9" total="396.2523"><![CDATA[Large bodies of water as large as the North American Great Lakes could be under ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Selon leurs calculs, l'épaisseur de la couche de glace recouvrant Europe est d'environ 10 km avec à l'intérieur des poches géantes d'eau se situant jusqu'à trois km de la surface.]]></source>
+		<target lang="en">
+			<nbest id="0" total="344.8847"><![CDATA[According to their calculations, the thickness of the layer of ice covering Europe is about 10 km with inside pockets giant water ranging up to three miles from the surface.]]></nbest>
+			<nbest id="1" total="345.0349"><![CDATA[According to their calculations, the thickness of the layer of ice covering Europe is about 10 km with inside pockets giant water ranging up to three kilometers of the surface.]]></nbest>
+			<nbest id="2" total="345.0596"><![CDATA[According to their calculations, the thickness of the ice covering Europe is about 10 km with inside pockets giant water ranging up to three miles from the surface.]]></nbest>
+			<nbest id="3" total="345.1537"><![CDATA[According to their calculations, the thickness of the layer of ice covering Europe is about 10 km with inside pockets giant water ranging up to three kilometers from the surface.]]></nbest>
+			<nbest id="4" total="345.2097"><![CDATA[According to their calculations, the thickness of the ice covering Europe is about 10 km with inside pockets giant water ranging up to three kilometers of the surface.]]></nbest>
+			<nbest id="5" total="345.3285"><![CDATA[According to their calculations, the thickness of the ice covering Europe is about 10 km with inside pockets giant water ranging up to three kilometers from the surface.]]></nbest>
+			<nbest id="6" total="345.7465"><![CDATA[According to their calculations, the thickness of the ice layer covering Europe is about 10 km with inside pockets giant water ranging up to three miles from the surface.]]></nbest>
+			<nbest id="7" total="345.8967"><![CDATA[According to their calculations, the thickness of the ice layer covering Europe is about 10 km with inside pockets giant water ranging up to three kilometers of the surface.]]></nbest>
+			<nbest id="8" total="346.0155"><![CDATA[According to their calculations, the thickness of the ice layer covering Europe is about 10 km with inside pockets giant water ranging up to three kilometers from the surface.]]></nbest>
+			<nbest id="9" total="346.0278"><![CDATA[According to their calculations, the thickness of the layer of ice covering Europe is about 10 km with inside pockets giant water ranging up to three km from the surface.]]></nbest>
+			<nbest id="10" total="346.1832"><![CDATA[According to their calculations, the thickness of the layer of ice covering Europe is about 10 km with inside pockets giant water located up to three kilometers from the surface.]]></nbest>
+			<nbest id="11" total="346.2026"><![CDATA[According to their calculations, the thickness of the ice covering Europe is about 10 km with inside pockets giant water ranging up to three km from the surface.]]></nbest>
+			<nbest id="12" total="346.3581"><![CDATA[According to their calculations, the thickness of the ice covering Europe is about 10 km with inside pockets giant water located up to three kilometers from the surface.]]></nbest>
+			<nbest id="13" total="346.8896"><![CDATA[According to their calculations, the thickness of the ice layer covering Europe is about 10 km with inside pockets giant water ranging up to three km from the surface.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Des étendues d'eau aussi vastes que les Grands Lacs nord-américains pourraient se trouver sous la glace recouvrant Europe, une mystérieuse lune de la planète Jupiter, ont annoncé mercredi des astronomes américains.]]></source>
+		<target lang="en">
+			<nbest id="0" total="386.8285"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="1" total="387.7527"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="2" total="388.0755"><![CDATA[Bodies of water as large as the North American Great Lakes could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="3" total="388.1631"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday U.S..]]></nbest>
+			<nbest id="4" total="388.2626"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="5" total="388.3666"><![CDATA[Bodies of water as large as the North American Great Lakes could be in the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="6" total="388.5776"><![CDATA[Water bodies as large as the Great Lakes in North America could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="7" total="388.9996"><![CDATA[Bodies of water as large as the North American Great Lakes could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="8" total="389.1867"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="9" total="389.2907"><![CDATA[Bodies of water as large as the North American Great Lakes could be in the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="10" total="389.41"><![CDATA[Bodies of water as large as the North American Great Lakes could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday U.S..]]></nbest>
+			<nbest id="11" total="389.5018"><![CDATA[Water bodies as large as the Great Lakes in North America could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="12" total="389.5095"><![CDATA[Bodies of water as large as the North American Great Lakes could be under ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="13" total="389.5971"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday U.S..]]></nbest>
+			<nbest id="14" total="389.6289"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers announced Wednesday U.S..]]></nbest>
+			<nbest id="15" total="389.7012"><![CDATA[Bodies of water as large as the North American Great Lakes could be in the ice covering Europe, a mysterious moon of the planet Jupiter, astronomers said on Wednesday U.S..]]></nbest>
+			<nbest id="16" total="389.7277"><![CDATA[Bodies of water as large as the Great Lakes in North America could be under the ice covering Europe, a mysterious moon of Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[De grandes étendues d'eau pourraient se trouver sous la glace recouvrant Europe, une lune brillante et mystérieuse de Jupiter, ont annoncé mercredi des astronomes américains.]]></source>
+		<target lang="en">
+			<nbest id="0" total="331.6475"><![CDATA[Large bodies of water could be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="1" total="332.5716"><![CDATA[Large bodies of water could be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="2" total="332.6484"><![CDATA[Large bodies of water could be under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="3" total="332.9821"><![CDATA[Large bodies of water could be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday U.S..]]></nbest>
+			<nbest id="4" total="333.5726"><![CDATA[Large bodies of water could be under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="5" total="333.6002"><![CDATA[Large bodies of water can be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="6" total="333.983"><![CDATA[Large bodies of water could be under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday U.S..]]></nbest>
+			<nbest id="7" total="334.0825"><![CDATA[Large bodies of water could be under ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="8" total="334.2463"><![CDATA[Large bodies of water could be found in the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="9" total="334.4479"><![CDATA[Large bodies of water could be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday U.S..]]></nbest>
+			<nbest id="10" total="334.5243"><![CDATA[Large bodies of water can be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+			<nbest id="11" total="334.6223"><![CDATA[Large bodies of water could be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday the U.S..]]></nbest>
+			<nbest id="12" total="334.6632"><![CDATA[Large bodies of water could be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers announced Wednesday the United States.]]></nbest>
+			<nbest id="13" total="334.6799"><![CDATA[Large bodies of water could be found under the ice covering Europe, a shining moon and mysterious Jupiter, astronomers said on Wednesday the U.S..]]></nbest>
+			<nbest id="14" total="334.9347"><![CDATA[Large bodies of water can be found under the ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday U.S..]]></nbest>
+			<nbest id="15" total="335.0066"><![CDATA[Large bodies of water could be under ice covering Europe, a bright moon and mysterious Jupiter, astronomers said on Wednesday the United States.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le relief craquelé de la surface glacée d'Europe, satellite de Jupiter, laisse penser à une équipe de géophysiciens que sous cette épaisse croûte de glace fracturée se cache une immense étendue d'eau liquide susceptible d'abriter la vie.]]></source>
+		<target lang="en">
+			<nbest id="0" total="485.0484"><![CDATA[The relief of cracked ice surface in Europe, a satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water capable of harboring life.]]></nbest>
+			<nbest id="1" total="485.0668"><![CDATA[The relief of cracked ice surface in Europe, a satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water that may harbor life.]]></nbest>
+			<nbest id="2" total="485.2465"><![CDATA[The relief of cracked ice surface in Europe, satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water capable of harboring life.]]></nbest>
+			<nbest id="3" total="485.2649"><![CDATA[The relief of cracked ice surface in Europe, satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water that may harbor life.]]></nbest>
+			<nbest id="4" total="485.6499"><![CDATA[The relief of cracked ice surface in Europe, a satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water may harbor life.]]></nbest>
+			<nbest id="5" total="485.848"><![CDATA[The relief of cracked ice surface in Europe, satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water may harbor life.]]></nbest>
+			<nbest id="6" total="486.7788"><![CDATA[The relief of cracked ice surface in Europe, a satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water likely to harbor life.]]></nbest>
+			<nbest id="7" total="486.9769"><![CDATA[The relief of cracked ice surface in Europe, satellite of Jupiter, suggests a team of geophysicists that under the thick ice crust fractured lies a vast expanse of liquid water likely to harbor life.]]></nbest>
+		</target>
+	</sentence>
+</cluster>

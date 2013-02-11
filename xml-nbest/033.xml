@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cluster>
+	<sentence>
+		<source lang="fr"><![CDATA[Après le fondateur de Megaupload, c'est au tour de celui de "The pirate bay" d'être arrêté au Cambodge.]]></source>
+		<target lang="en">
+			<nbest id="0" total="259.5774"><![CDATA[After the founder of Megaupload, it was the turn of the "The pirate bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="1" total="259.743"><![CDATA[After the founder of Megaupload, it was the turn of one of "The pirate bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="2" total="260.1078"><![CDATA[After the founder of Megaupload, it was the turn of the "The pirate bay" be arrested in Cambodia.]]></nbest>
+			<nbest id="3" total="260.17"><![CDATA[After the founder of Megaupload, it is the turn of one of "The pirate bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="4" total="260.2734"><![CDATA[After the founder of Megaupload, it was the turn of one of "The pirate bay" be arrested in Cambodia.]]></nbest>
+			<nbest id="5" total="260.4811"><![CDATA[After the founder of Megaupload, it is the turn of the "The pirate bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="6" total="260.5366"><![CDATA[After the founder of Megaupload, it was the turn of the "The Pirate Bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="7" total="260.7004"><![CDATA[After the founder of Megaupload, it is the turn of one of "The pirate bay" be arrested in Cambodia.]]></nbest>
+			<nbest id="8" total="260.706"><![CDATA[After the founder of Megaupload, it was the turn of the "The pirate bay" to be arrested in Cambodia.]]></nbest>
+			<nbest id="9" total="260.8716"><![CDATA[After the founder of Megaupload, it was the turn of one of "The pirate bay" to be arrested in Cambodia.]]></nbest>
+			<nbest id="10" total="260.8819"><![CDATA[After the founder of Megaupload, it was the turn of the "The Pirate Bay" to be arrested in Cambodia.]]></nbest>
+			<nbest id="11" total="260.9531"><![CDATA[After the founder of Megaupload, it's the turn of one of "The pirate bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="12" total="261.0116"><![CDATA[After the founder of Megaupload, it is the turn of the "The pirate bay" be arrested in Cambodia.]]></nbest>
+			<nbest id="13" total="261.28"><![CDATA[After the founder of Megaupload, it was the turn of the "The Pirate Bay" be arrested in Cambodia.]]></nbest>
+			<nbest id="14" total="261.2986"><![CDATA[After the founder of Megaupload, it is the turn of one of "The pirate bay" to be arrested in Cambodia.]]></nbest>
+			<nbest id="15" total="261.3873"><![CDATA[After the founder of Megaupload, it's the turn of the "The pirate bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="16" total="261.4403"><![CDATA[After the founder of Megaupload, it is the turn of the "The Pirate Bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="17" total="261.4835"><![CDATA[After the founder of Megaupload, it's the turn of one of "The pirate bay" be arrested in Cambodia.]]></nbest>
+			<nbest id="18" total="261.5541"><![CDATA[After the founder of Megaupload, it was the turn of the "The pirate bay" of being arrested in Cambodia.]]></nbest>
+			<nbest id="19" total="261.6097"><![CDATA[After the founder of Megaupload, it is the turn of the "The pirate bay" to be arrested in Cambodia.]]></nbest>
+			<nbest id="20" total="261.7197"><![CDATA[After the founder of Megaupload, it was the turn of one of "The pirate bay" of being arrested in Cambodia.]]></nbest>
+			<nbest id="21" total="261.7629"><![CDATA[After the founder of Megaupload, it was the turn of one of "The Pirate Bay" being arrested in Cambodia.]]></nbest>
+			<nbest id="22" total="261.7856"><![CDATA[After the founder of Megaupload, it is the turn of the "The Pirate Bay" to be arrested in Cambodia.]]></nbest>
+			<nbest id="23" total="261.9177"><![CDATA[After the founder of Megaupload, it's the turn of the "The pirate bay" be arrested in Cambodia.]]></nbest>
+			<nbest id="24" total="262.0817"><![CDATA[After the founder of Megaupload, it's the turn of one of "The pirate bay" to be arrested in Cambodia.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[C'est au Camboge que l'un des trois cofondateurs du célèbre site répertoriant des liens BitTorrent a été arrêté.]]></source>
+		<target lang="en">
+			<nbest id="0" total="369.3546"><![CDATA[This is Camboge that one of the three founders of the famous site lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="1" total="370.4063"><![CDATA[It is Camboge that one of the three founders of the famous site lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="2" total="371.0427"><![CDATA[This is Camboge that one of the three founders of the famous site that lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="3" total="371.4429"><![CDATA[This is Camboge that one of the three founders of the famous site lists links BitTorrent has been arrested.]]></nbest>
+			<nbest id="4" total="371.7067"><![CDATA[This is Camboge that one of the three co-founders of the famous site lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="5" total="371.9259"><![CDATA[This is Camboge that one of the three founders of the famous site lists links BitTorrent has been stopped.]]></nbest>
+			<nbest id="6" total="372.0945"><![CDATA[It is Camboge that one of the three founders of the famous site that lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="7" total="372.1266"><![CDATA[This is Camboge that one of the three founders of the famous site lists links BitTorrent was stopped.]]></nbest>
+			<nbest id="8" total="372.1473"><![CDATA[This is Camboge that one of the three founders of the famous site listing links BitTorrent was arrested.]]></nbest>
+			<nbest id="9" total="372.4947"><![CDATA[It is Camboge that one of the three founders of the famous site lists links BitTorrent has been arrested.]]></nbest>
+			<nbest id="10" total="372.6003"><![CDATA[This is Camboge that one of the three founders of the famous website that lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="11" total="372.7584"><![CDATA[It is Camboge that one of the three co-founders of the famous site lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="12" total="373.1311"><![CDATA[This is Camboge that one of the three founders of the famous site that lists links BitTorrent has been arrested.]]></nbest>
+			<nbest id="13" total="373.3948"><![CDATA[This is Camboge that one of the three co-founders of the famous site that lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="14" total="373.6141"><![CDATA[This is Camboge that one of the three founders of the famous site that lists links BitTorrent has been stopped.]]></nbest>
+			<nbest id="15" total="373.6573"><![CDATA[This is Camboge that one of the three founders of famous site lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="16" total="373.795"><![CDATA[This is Camboge that one of the three co-founders of the famous site lists links BitTorrent has been arrested.]]></nbest>
+			<nbest id="17" total="373.8148"><![CDATA[This is Camboge that one of the three founders of the famous site that lists links BitTorrent was stopped.]]></nbest>
+			<nbest id="18" total="374.136"><![CDATA[This is Camboge that one of three founders of the famous site lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="19" total="374.1829"><![CDATA[It is Camboge that one of the three founders of the famous site that lists links BitTorrent has been arrested.]]></nbest>
+			<nbest id="20" total="374.2357"><![CDATA[This is Camboge that one of the three founders of the famous site listing links BitTorrent has been arrested.]]></nbest>
+			<nbest id="21" total="374.278"><![CDATA[This is Camboge that one of the three co-founders of the famous site lists links BitTorrent has been stopped.]]></nbest>
+			<nbest id="22" total="374.4466"><![CDATA[It is Camboge that one of the three co-founders of the famous site that lists links BitTorrent was arrested.]]></nbest>
+			<nbest id="23" total="374.4788"><![CDATA[This is Camboge that one of the three co-founders of the famous site lists links BitTorrent was stopped.]]></nbest>
+			<nbest id="24" total="374.4994"><![CDATA[This is Camboge that one of the three co-founders of the famous site listing links BitTorrent was arrested.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Collaboration entre le Cambodge et la Suède pour l'arrestation de l'un des quatre co-fondateurs de The Pirate Bay.]]></source>
+		<target lang="en">
+			<nbest id="0" total="179.6555"><![CDATA[Collaboration between Cambodia and Sweden for the arrest of one of the four co-founders of The Pirate Bay.]]></nbest>
+			<nbest id="1" total="180.327"><![CDATA[Cooperation between Cambodia and Sweden for the arrest of one of the four co-founders of The Pirate Bay.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Condamné en 2009 aux côtés des autres fondateurs du site de téléchargement, Gottfrid Svartholm Warg a été interpellé dimanche.]]></source>
+		<target lang="en">
+			<nbest id="0" total="264.8278"><![CDATA[Sentenced in 2009 alongside the other founders of the download site, Gottfrid Svartholm Warg was arrested Sunday.]]></nbest>
+			<nbest id="1" total="268.0632"><![CDATA[Sentenced in 2009 alongside other founders of the download site, Gottfrid Svartholm Warg was arrested Sunday.]]></nbest>
+			<nbest id="2" total="268.953"><![CDATA[Sentenced in 2009 alongside the other founders of the download site, Gottfrid Svartholm Warg was arrested on Sunday.]]></nbest>
+			<nbest id="3" total="269.0728"><![CDATA[Sentenced in 2009 along with other founders of the download site, Gottfrid Svartholm Warg was arrested Sunday.]]></nbest>
+			<nbest id="4" total="269.0836"><![CDATA[Convicted in 2009 alongside the other founders of the download site, Gottfrid Svartholm Warg was arrested Sunday.]]></nbest>
+			<nbest id="5" total="269.9294"><![CDATA[Sentenced in 2009 alongside the other founders of the download site Gottfrid Svartholm Warg was arrested Sunday.]]></nbest>
+			<nbest id="6" total="270.1535"><![CDATA[Sentenced in 2009 alongside the other founders of download site, Gottfrid Svartholm Warg was arrested Sunday.]]></nbest>
+			<nbest id="7" total="270.3754"><![CDATA[Convicted in 2009 along with other founders of the download site, Gottfrid Svartholm Warg was arrested Sunday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Condamné en 2009 avec les autres fondateurs de The Pirate Bay, Gottfrid Svartholm a été arrêté au Cambodge.]]></source>
+		<target lang="en">
+			<nbest id="0" total="229.1075"><![CDATA[Sentenced in 2009 with the other founders of The Pirate Bay, Gottfrid Svartholm was arrested in Cambodia.]]></nbest>
+			<nbest id="1" total="229.838"><![CDATA[Condemned in 2009 with the other founders of The Pirate Bay, Gottfrid Svartholm was arrested in Cambodia.]]></nbest>
+			<nbest id="2" total="232.096"><![CDATA[Sentenced in 2009 and the other founders of The Pirate Bay, Gottfrid Svartholm was arrested in Cambodia.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Depuis le Cambodge, Gottfrid Svartholm Warg est ennuyé par la justice suédoise qui veut obtenir son extradition.]]></source>
+		<target lang="en">
+			<nbest id="0" total="268.1261"><![CDATA[From Cambodia, Gottfrid Svartholm Warg is annoyed by the Swedish justice who seeks his extradition.]]></nbest>
+			<nbest id="1" total="270.5569"><![CDATA[From Cambodia, Gottfrid Svartholm Warg is bored by the Swedish justice who seeks his extradition.]]></nbest>
+			<nbest id="2" total="271.3623"><![CDATA[Since Cambodia, Gottfrid Svartholm Warg is annoyed by the Swedish justice who seeks his extradition.]]></nbest>
+			<nbest id="3" total="271.4732"><![CDATA[From Cambodia, Gottfrid Svartholm Warg is bothered by the Swedish justice who seeks his extradition.]]></nbest>
+			<nbest id="4" total="272.244"><![CDATA[Since Cambodia Gottfrid Svartholm Warg is annoyed by the Swedish justice who seeks his extradition.]]></nbest>
+			<nbest id="5" total="272.8848"><![CDATA[From Cambodia, Gottfrid Svartholm Warg is annoyed by the Swedish justice who wants to obtain his extradition.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm qui a fondé le site Pirate Bay aux côtés de Peter Sunde, Fredrik Neij et Carl Lundstrom a été arrêté au Cambodge.]]></source>
+		<target lang="en">
+			<nbest id="0" total="325.0781"><![CDATA[Gottfrid Svartholm who founded the website Pirate Bay with Peter Sunde, Fredrik Neij and Carl Lundstrom was arrested in Cambodia.]]></nbest>
+			<nbest id="1" total="325.515"><![CDATA[Gottfrid Svartholm who founded the Pirate Bay website alongside Peter Sunde, Fredrik Neij and Carl Lundstrom was arrested in Cambodia.]]></nbest>
+			<nbest id="2" total="325.5544"><![CDATA[Gottfrid Svartholm who founded the site Pirate Bay with Peter Sunde, Fredrik Neij and Carl Lundstrom was arrested in Cambodia.]]></nbest>
+			<nbest id="3" total="326.0392"><![CDATA[Gottfrid Svartholm who founded the website Pirate Bay alongside Peter Sunde, Fredrik Neij and Carl Lundstrom was arrested in Cambodia.]]></nbest>
+			<nbest id="4" total="326.5155"><![CDATA[Gottfrid Svartholm who founded the site Pirate Bay alongside Peter Sunde, Fredrik Neij and Carl Lundstrom was arrested in Cambodia.]]></nbest>
+			<nbest id="5" total="326.7252"><![CDATA[Gottfrid Svartholm who founded the Pirate Bay website with Peter Sunde, Fredrik Neij and Carl Lundstrom was arrested in Cambodia.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm Warg a un nom imprononçable, certes, mais il s'agit de l'un des cofondateurs de The Pirate Bay dont on parle aujourd'hui car la police cambodgienne l'a arrêté.]]></source>
+		<target lang="en">
+			<nbest id="0" total="380.2556"><![CDATA[Gottfrid Svartholm Warg has an unpronounceable name, certainly, but it is one of the founders of The Pirate Bay we're talking about today because Cambodian police arrested him.]]></nbest>
+			<nbest id="1" total="380.2867"><![CDATA[Gottfrid Svartholm Warg has an unpronounceable name, of course, but it is one of the founders of The Pirate Bay we're talking about today because Cambodian police arrested him.]]></nbest>
+			<nbest id="2" total="380.7224"><![CDATA[Gottfrid Svartholm Warg has an unpronounceable name, yes, but it is one of the founders of The Pirate Bay we're talking about today because Cambodian police arrested him.]]></nbest>
+			<nbest id="3" total="380.8108"><![CDATA[Gottfrid Svartholm Warg has an unpronounceable name, certainly, but it is one of the founders of The Pirate Bay talked about today because Cambodian police arrested him.]]></nbest>
+			<nbest id="4" total="380.8418"><![CDATA[Gottfrid Svartholm Warg has an unpronounceable name, of course, but it is one of the founders of The Pirate Bay talked about today because Cambodian police arrested him.]]></nbest>
+			<nbest id="5" total="381.2776"><![CDATA[Gottfrid Svartholm Warg has an unpronounceable name, yes, but it is one of the founders of The Pirate Bay talked about today because Cambodian police arrested him.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm Warg, co-fondateur de The Pirate Bay, a été interpellé au Cambodge, son pays d'accueil, dans la capitale Phnom Penh.]]></source>
+		<target lang="en">
+			<nbest id="0" total="278.4746"><![CDATA[Gottfrid Svartholm Warg, co-founder of The Pirate Bay, was arrested in Cambodia, the host country, in the capital Phnom Penh.]]></nbest>
+			<nbest id="1" total="279.5848"><![CDATA[Gottfrid Svartholm Warg, co-founder of The Pirate Bay, was arrested in Cambodia, his country home in the capital Phnom Penh.]]></nbest>
+			<nbest id="2" total="280.2697"><![CDATA[Gottfrid Svartholm Warg, co-founder of The Pirate Bay was arrested in Cambodia, the host country, in the capital Phnom Penh.]]></nbest>
+			<nbest id="3" total="280.4005"><![CDATA[Gottfrid Svartholm Warg, co-founder of The Pirate Bay, was arrested in Cambodia, his country home in the capital, Phnom Penh.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm Warg, co-fondateur du site The Pirate Bay, vient d'être arrêté à Phnom Pen par la police cambodgienne.]]></source>
+		<target lang="en">
+			<nbest id="0" total="260.9306"><![CDATA[Gottfrid Svartholm Warg, co-founder of the website The Pirate Bay, has been arrested in Phnom Penh by Cambodian police.]]></nbest>
+			<nbest id="1" total="261.7871"><![CDATA[Gottfrid Svartholm Warg, co-founder of the website The Pirate Bay has been arrested in Phnom Penh by Cambodian police.]]></nbest>
+			<nbest id="2" total="266.641"><![CDATA[Gottfrid Svartholm Warg, co-founder of the website The Pirate Bay, has just been arrested in Phnom Penh by Cambodian police.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm Warg, cofondateur du site suédois de téléchargement Pirate Bay, a été arrêté à Phnom Penh à la demande des autorités suédoises, a indiqué la police cambodgienne hier.]]></source>
+		<target lang="en">
+			<nbest id="0" total="387.3268"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download, was arrested in Phnom Penh at the request of the Swedish authorities, said the Cambodian police yesterday.]]></nbest>
+			<nbest id="1" total="387.3989"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download, was arrested in Phnom Penh at the request of the Swedish authorities, said Cambodian police yesterday.]]></nbest>
+			<nbest id="2" total="387.764"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, said the Cambodian police yesterday.]]></nbest>
+			<nbest id="3" total="387.7769"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download, was arrested in Phnom Penh at the request of the Swedish authorities, police said yesterday Cambodia.]]></nbest>
+			<nbest id="4" total="387.8361"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, said Cambodian police yesterday.]]></nbest>
+			<nbest id="5" total="388.2141"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, police said yesterday Cambodia.]]></nbest>
+			<nbest id="6" total="388.6785"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download, was arrested in Phnom Penh at the request of the Swedish authorities, told the Cambodian police yesterday.]]></nbest>
+			<nbest id="7" total="388.8063"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download, was arrested in Phnom Penh at the request of Swedish authorities, police said yesterday Cambodia.]]></nbest>
+			<nbest id="8" total="388.9885"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download, was arrested in Phnom Penh at the request of Swedish authorities, said the Cambodian police yesterday.]]></nbest>
+			<nbest id="9" total="389.0605"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download, was arrested in Phnom Penh at the request of Swedish authorities, said Cambodian police yesterday.]]></nbest>
+			<nbest id="10" total="389.1157"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, told the Cambodian police yesterday.]]></nbest>
+			<nbest id="11" total="389.2435"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of Swedish authorities, police said yesterday Cambodia.]]></nbest>
+			<nbest id="12" total="389.4257"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of Swedish authorities, said the Cambodian police yesterday.]]></nbest>
+			<nbest id="13" total="389.4977"><![CDATA[Gottfrid Svartholm Warg, co-founder of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of Swedish authorities, said Cambodian police yesterday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm Warg, l'un des cofondateurs du site suédois d'échange de fichiers torrent The Pirate Bay, a été arrêté au Cambodge le vendredi 31 août 2012.]]></source>
+		<target lang="en">
+			<nbest id="0" total="342.5408"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay, was arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="1" total="344.2026"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay, has been arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="2" total="344.3579"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay was arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="3" total="345.0313"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay has been arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="4" total="345.665"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay, was arrested in Cambodia Friday, Aug. 31, 2012.]]></nbest>
+			<nbest id="5" total="345.7306"><![CDATA[Gottfrid Svartholm Warg, a co-founder of the Swedish site file-sharing torrent The Pirate Bay, was arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="6" total="345.7401"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay, was arrested in Cambodia Friday, 31 August 2012.]]></nbest>
+			<nbest id="7" total="346.3125"><![CDATA[Gottfrid Svartholm Warg, one of the founders of Swedish site file-sharing torrent The Pirate Bay, was arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="8" total="347.3268"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay, has been arrested in Cambodia Friday, Aug. 31, 2012.]]></nbest>
+			<nbest id="9" total="347.3842"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file sharing torrent The Pirate Bay, was arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="10" total="347.3924"><![CDATA[Gottfrid Svartholm Warg, a co-founder of the Swedish site file-sharing torrent The Pirate Bay, has been arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="11" total="347.4019"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay, has been arrested in Cambodia Friday, 31 August 2012.]]></nbest>
+			<nbest id="12" total="347.4821"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay was arrested in Cambodia Friday, Aug. 31, 2012.]]></nbest>
+			<nbest id="13" total="347.5157"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay, was arrested in Cambodia Friday, August 31 2012.]]></nbest>
+			<nbest id="14" total="347.5477"><![CDATA[Gottfrid Svartholm Warg, a co-founder of the Swedish site file-sharing torrent The Pirate Bay was arrested in Cambodia Friday, August 31, 2012.]]></nbest>
+			<nbest id="15" total="347.5572"><![CDATA[Gottfrid Svartholm Warg, one of the founders of the Swedish site file-sharing torrent The Pirate Bay was arrested in Cambodia Friday, 31 August 2012.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm Warg, l'un des trois fondateurs du plus célèbre site suédois de téléchargement illégal, The Pirate Bay, et condamné en 2009 par la justice de son pays et depuis lors en fuite, a été arrêté à Phnom Penh, à la demande des autorités suédoises.]]></source>
+		<target lang="en">
+			<nbest id="0" total="534.8167"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="1" total="535.3231"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and condemned in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="2" total="535.3442"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="3" total="535.5133"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and convicted in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="4" total="535.7723"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the most famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="5" total="535.8506"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and condemned in 2009 by the justice of his country since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="6" total="536.0409"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and convicted in 2009 by the justice of his country since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="7" total="536.0558"><![CDATA[Gottfrid Svartholm Warg, one of three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="8" total="536.2018"><![CDATA[Gottfrid Svartholm Warg, one of three founders of the most famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="9" total="536.2078"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of Swedish authorities.]]></nbest>
+			<nbest id="10" total="536.2296"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country and since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="11" total="536.2787"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the most famous Swedish site of illegal downloading, The Pirate Bay, and condemned in 2009 by the justice of his country and has since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+			<nbest id="12" total="536.2999"><![CDATA[Gottfrid Svartholm Warg, one of the three founders of the most famous Swedish site of illegal downloading, The Pirate Bay, and sentenced in 2009 by the justice of his country since fled, was arrested in Phnom Penh, at the request of the Swedish authorities.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Gottfrid Svartholm, fondateur de The Pirate Bay – le site de partage de lien Torrent – et condamné (avec trois autres personnes) en avril 2009 par la justice suédoise à un an de prison ferme et à une amende 3,5 millions d'euros, vient d'être interpellé au Cambodge "pour une infraction relative à la technologie informatique" selon des propos rapportés par l'AFP du porte-parole de la police de la police de Phnom Penh.]]></source>
+		<target lang="en">
+			<nbest id="0" total="805.3041"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing site link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in prison and a fine of € 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="1" total="805.9028"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing site link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in prison and a fine of 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="2" total="806.4056"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing site link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in prison and a fine of € 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by the AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="3" total="806.5871"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing website link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in prison and a fine of € 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="4" total="806.7048"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing site link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in prison and a fine of 3.5 million euros, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="5" total="806.9025"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing site link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in jail and a fine of € 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="6" total="807.0042"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing site link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in prison and a fine of 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by the AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="7" total="807.1656"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing site link Torrent - and convicted (with three others) in April 2009 by the Swedish court to one year in prison and a fine of € 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by AFP spokesman Police Police Phnom Penh.]]></nbest>
+			<nbest id="8" total="807.1857"><![CDATA[Gottfrid Svartholm, founder of The Pirate Bay - sharing website link Torrent - and convicted (with three others) in April 2009 by a Swedish court to one year in prison and a fine of 3.5 million, has been arrested in Cambodia "an offense relating to computer technology" according to comments reported by AFP spokesman Police Police Phnom Penh.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[L'un des fondateurs du célèbre site Web de téléchargement Pirate Bay a été arrêté au Cambodge à la demande la Suède, où il encourt un an de prison pour violation des lois sur les droits d'auteur, ont annoncé les autorités cambodgiennes lundi.]]></source>
+		<target lang="en">
+			<nbest id="0" total="418.0706"><![CDATA[One of the founders of the famous download site Pirate Bay was arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyrights, Cambodian authorities said Monday.]]></nbest>
+			<nbest id="1" total="418.3304"><![CDATA[One of the founders of the famous download site Pirate Bay was arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyright, Cambodian authorities said Monday.]]></nbest>
+			<nbest id="2" total="418.9485"><![CDATA[One of the founders of the famous download site Pirate Bay has been arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyrights, Cambodian authorities said Monday.]]></nbest>
+			<nbest id="3" total="419.1426"><![CDATA[One of the founders of the famous download site Pirate Bay was arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyrights, Cambodian officials said Monday.]]></nbest>
+			<nbest id="4" total="419.2084"><![CDATA[One of the founders of the famous download site Pirate Bay has been arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyright, Cambodian authorities said Monday.]]></nbest>
+			<nbest id="5" total="419.4024"><![CDATA[One of the founders of the famous download site Pirate Bay was arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyright, Cambodian officials said Monday.]]></nbest>
+			<nbest id="6" total="419.7365"><![CDATA[One of the founders of the famous download site Pirate Bay was arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyrights, the Cambodian authorities announced Monday.]]></nbest>
+			<nbest id="7" total="419.7736"><![CDATA[One of the founders of the famous download site Pirate Bay was arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyright, the Cambodian authorities announced Monday.]]></nbest>
+			<nbest id="8" total="419.9573"><![CDATA[One of the founders of the famous download site Pirate Bay in Cambodia was arrested at the request of Sweden, where he faces a year in prison for violating laws on copyrights, Cambodian authorities said Monday.]]></nbest>
+			<nbest id="9" total="420.0205"><![CDATA[One of the founders of the famous download site Pirate Bay has been arrested in Cambodia at the request of Sweden, where he faces a year in prison for violating laws on copyrights, Cambodian officials said Monday.]]></nbest>
+			<nbest id="10" total="420.2171"><![CDATA[One of the founders of the famous download site Pirate Bay in Cambodia was arrested at the request of Sweden, where he faces a year in prison for violating laws on copyright, Cambodian authorities said Monday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Le co-fondateur du site internet interdit The Pirate Bay, Gottfrid Svartholm Warg (au centre sur la photo), a été arrêté au Cambodge trois ans après avoir été condamné en Suède pour violation des lois sur le copyright et pour avoir aider les internautes à télécharger illégalement de la musique et des films, selon le quotidien suédois "Expressen" cité par Bloomberg.]]></source>
+		<target lang="en">
+			<nbest id="0" total="668.2606"><![CDATA[The co-founder of the website banned The Pirate Bay, Gottfrid Svartholm Warg (center photo), was arrested in Cambodia three years after being convicted in Sweden for violation of copyright laws and for helping users to illegally download music and movies, according to the Swedish newspaper "Expressen" quoted by Bloomberg.]]></nbest>
+			<nbest id="1" total="668.9773"><![CDATA[The co-founder of the website banned The Pirate Bay, Gottfrid Svartholm Warg (center photo), was arrested in Cambodia three years after being convicted in Sweden for violation of copyright laws and for helping users to illegally download music and movies, according to the Swedish newspaper "Expressen" cited by Bloomberg.]]></nbest>
+			<nbest id="2" total="669.2451"><![CDATA[The co-founder of the website banned The Pirate Bay Gottfrid Svartholm Warg (center photo), was arrested in Cambodia three years after being convicted in Sweden for violation of copyright laws and for helping users to illegally download music and movies, according to the Swedish newspaper "Expressen" quoted by Bloomberg.]]></nbest>
+			<nbest id="3" total="669.6803"><![CDATA[The co-founder of the website banned The Pirate Bay, Gottfrid Svartholm Warg (center photo) was arrested in Cambodia three years after being convicted in Sweden for violation of copyright laws and for helping users to illegally download music and movies, according to the Swedish newspaper "Expressen" quoted by Bloomberg.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Les autorités cambodgiennes ont arrêté Gottfried Svartholm - l'un des fondateurs du site suédois de partage de fichiers The Pirate Bay.]]></source>
+		<target lang="en">
+			<nbest id="0" total="274.0417"><![CDATA[The Cambodian authorities arrested Gottfried Svartholm - one of the founders of the Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="1" total="274.7287"><![CDATA[Cambodian authorities arrested Gottfried Svartholm - one of the founders of the Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="2" total="275.0875"><![CDATA[The Cambodian authorities arrested Svartholm Gottfried - one of the founders of the Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="3" total="275.7745"><![CDATA[Cambodian authorities arrested Svartholm Gottfried - one of the founders of the Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="4" total="277.2208"><![CDATA[The Cambodian authorities arrested Gottfried Svartholm - one of the founders of the Swedish site file-sharing The Pirate Bay.]]></nbest>
+			<nbest id="5" total="277.4588"><![CDATA[The Cambodian authorities arrested Gottfried Svartholm - one of the founders of Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="6" total="277.9078"><![CDATA[Cambodian authorities arrested Gottfried Svartholm - one of the founders of the Swedish site file-sharing The Pirate Bay.]]></nbest>
+			<nbest id="7" total="278.0464"><![CDATA[Cambodian authorities arrested Gottfried Svartholm - one of the founders of Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="8" total="278.058"><![CDATA[The Cambodian authorities have arrested Gottfried Svartholm - one of the founders of the Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="9" total="278.074"><![CDATA[The Cambodian authorities arrested Gottfried Svartholm - one of the founders of the Swedish site file sharing Pirate Bay.]]></nbest>
+			<nbest id="10" total="278.2666"><![CDATA[The Cambodian authorities arrested Svartholm Gottfried - one of the founders of the Swedish site file-sharing The Pirate Bay.]]></nbest>
+			<nbest id="11" total="278.5046"><![CDATA[The Cambodian authorities arrested Svartholm Gottfried - one of the founders of Swedish site file-sharing Pirate Bay.]]></nbest>
+			<nbest id="12" total="278.761"><![CDATA[Cambodian authorities arrested Gottfried Svartholm - one of the founders of the Swedish site file sharing Pirate Bay.]]></nbest>
+			<nbest id="13" total="278.7647"><![CDATA[The Cambodian authorities arrested Gottfried Svartholm - one of the founders of the Swedish site file sharing The Pirate Bay.]]></nbest>
+			<nbest id="14" total="278.9537"><![CDATA[Cambodian authorities arrested Svartholm Gottfried - one of the founders of the Swedish site file-sharing The Pirate Bay.]]></nbest>
+			<nbest id="15" total="279.0014"><![CDATA[The Cambodian authorities have arrested Svartholm Gottfried - one of the founders of the Swedish site file-sharing Pirate Bay.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Sur demande des autorités suédoises, Gottfrid Svartholm Warg, l'un des cofondateurs de The Pirate Bay, a été arrêté par la police cambodgienne.]]></source>
+		<target lang="en">
+			<nbest id="0" total="278.2284"><![CDATA[At the request of the Swedish authorities, Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested by Cambodian police.]]></nbest>
+			<nbest id="1" total="279.453"><![CDATA[At the request of the Swedish authorities, Gottfrid Svartholm Warg, one of the founders of The Pirate Bay was arrested by Cambodian police.]]></nbest>
+			<nbest id="2" total="279.4694"><![CDATA[At the request of Swedish authorities, Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested by Cambodian police.]]></nbest>
+			<nbest id="3" total="279.7931"><![CDATA[On request of the Swedish authorities, Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested by Cambodian police.]]></nbest>
+			<nbest id="4" total="280.2095"><![CDATA[Upon request of the Swedish authorities, Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested by Cambodian police.]]></nbest>
+			<nbest id="5" total="280.6572"><![CDATA[At the request of Swedish authorities Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested by Cambodian police.]]></nbest>
+			<nbest id="6" total="280.6941"><![CDATA[At the request of Swedish authorities, Gottfrid Svartholm Warg, one of the founders of The Pirate Bay was arrested by Cambodian police.]]></nbest>
+			<nbest id="7" total="281.0178"><![CDATA[On request of the Swedish authorities, Gottfrid Svartholm Warg, one of the founders of The Pirate Bay was arrested by Cambodian police.]]></nbest>
+			<nbest id="8" total="281.2433"><![CDATA[At the request of the Swedish authorities Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested by Cambodian police.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Tandis que Julian Assange est toujours en résidence à l'ambassade d'Équateur à Londres, afin d'éviter son extradition vers la Suède ou les États-Unis, le pays scandinave a participé à l'arrestation d'un des cofondateurs du site The Pirate Bay.]]></source>
+		<target lang="en">
+			<nbest id="0" total="407.0914"><![CDATA[While Julian Assange is still in residence at the Embassy of Ecuador in London to avoid extradition to Sweden or the United States, the Scandinavian country has participated in the arrest of one of the founders of The Pirate Bay website.]]></nbest>
+			<nbest id="1" total="407.2036"><![CDATA[While Julian Assange is still in residence at the Embassy of Ecuador in London to avoid extradition to Sweden or the United States, the Scandinavian countries participated in the arrest of one of the founders of The Pirate Bay website.]]></nbest>
+			<nbest id="2" total="408.0797"><![CDATA[While Julian Assange is still in residence at the Embassy of Ecuador in London to avoid extradition to Sweden or the United States, the Scandinavian country has participated in the arrest of one of the founders of the Pirate Bay.]]></nbest>
+			<nbest id="3" total="408.1502"><![CDATA[While Julian Assange is still in residence at the Embassy of Ecuador in London to avoid extradition to Sweden or the United States, the Scandinavian country participated in the arrest of one of the founders of The Pirate Bay website.]]></nbest>
+			<nbest id="4" total="408.1918"><![CDATA[While Julian Assange is still in residence at the Embassy of Ecuador in London to avoid extradition to Sweden or the United States, the Scandinavian countries participated in the arrest of one of the founders of the Pirate Bay.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un des co-fondateurs du site suédois de téléchargement Pirate Bay a été arrêté à Phnom Penh à la demande des autorités suédoises, a indiqué la police cambodgienne dimanche 2 septembre.]]></source>
+		<target lang="en">
+			<nbest id="0" total="344.62"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, the Cambodian police said Sunday 2 September.]]></nbest>
+			<nbest id="1" total="345.0014"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, said the Cambodian police Sunday, September 2.]]></nbest>
+			<nbest id="2" total="345.0735"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, said Cambodian police Sunday, September 2.]]></nbest>
+			<nbest id="3" total="345.7725"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, said the Cambodian police Sunday 2 September.]]></nbest>
+			<nbest id="4" total="345.8445"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, said Cambodian police Sunday 2 September.]]></nbest>
+			<nbest id="5" total="346.1031"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, police said Cambodian Sunday, September 2.]]></nbest>
+			<nbest id="6" total="346.3531"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of the Swedish authorities, told the Cambodian police Sunday, September 2.]]></nbest>
+			<nbest id="7" total="346.6631"><![CDATA[One of the co-founders of the Swedish website Pirate Bay download was arrested in Phnom Penh at the request of Swedish authorities, said the Cambodian police Sunday, September 2.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un des cofondateurs du site de partage de fichiers Pirate Bay a été arrêté au Cambodge sous la menace d'une extradition vers la Suède, où il a été condamné pour infraction à la législation sur la protection des droits d'auteur.]]></source>
+		<target lang="en">
+			<nbest id="0" total="343.8158"><![CDATA[One of the founders of the file sharing site Pirate Bay was arrested in Cambodia under the threat of extradition to Sweden, where he was sentenced for violating the law on the protection of copyright.]]></nbest>
+			<nbest id="1" total="344.2388"><![CDATA[One of the founders of the file sharing site Pirate Bay was arrested in Cambodia under the threat of extradition to Sweden, where he was sentenced for violating the legislation on the protection of copyright.]]></nbest>
+			<nbest id="2" total="344.6937"><![CDATA[One of the founders of the file sharing site Pirate Bay has been arrested in Cambodia under the threat of extradition to Sweden, where he was sentenced for violating the law on the protection of copyright.]]></nbest>
+			<nbest id="3" total="345.1168"><![CDATA[One of the founders of the file sharing site Pirate Bay has been arrested in Cambodia under the threat of extradition to Sweden, where he was sentenced for violating the legislation on the protection of copyright.]]></nbest>
+			<nbest id="4" total="345.7357"><![CDATA[One of the founders of the file sharing website Pirate Bay has been arrested in Cambodia under the threat of extradition to Sweden, where he was sentenced for violating the law on the protection of copyright.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un des cofondateurs du site suédois de téléchargement illégal Pirate Bay a été arrêté à Phnom Penh à la demande des autorités suédoises, a annoncé la police cambodgienne dimanche.]]></source>
+		<target lang="en">
+			<nbest id="0" total="323.8172"><![CDATA[One of the founders of the Swedish website Pirate Bay illegal downloading was arrested in Phnom Penh at the request of the Swedish authorities, the Cambodian police announced Sunday.]]></nbest>
+			<nbest id="1" total="326.0303"><![CDATA[One of the founders of the Swedish website Pirate Bay illegal downloading was arrested in Phnom Penh at the request of Swedish authorities, the Cambodian police announced Sunday.]]></nbest>
+			<nbest id="2" total="326.938"><![CDATA[One of the founders of the Swedish website Pirate Bay illegal downloading was arrested at Phnom Penh at the request of the Swedish authorities, the Cambodian police announced Sunday.]]></nbest>
+			<nbest id="3" total="327.1478"><![CDATA[One of the founders of the Swedish website Pirate Bay illegal downloading was arrested in Phnom Penh at the request of the Swedish authorities, the Cambodian police announced on Sunday.]]></nbest>
+			<nbest id="4" total="327.8631"><![CDATA[One of the founders of Swedish website Pirate Bay illegal downloading was arrested in Phnom Penh at the request of the Swedish authorities, the Cambodian police announced Sunday.]]></nbest>
+		</target>
+	</sentence>
+	<sentence>
+		<source lang="fr"><![CDATA[Un des fondateurs de The Pirate Bay, Gottfrid Svartholm, vient d'être arrêté à Phnom Penh, la capitale du Cambodge.]]></source>
+		<target lang="en">
+			<nbest id="0" total="222.8274"><![CDATA[One of the founders of The Pirate Bay, Gottfrid Svartholm, has been arrested in Phnom Penh, Cambodia.]]></nbest>
+			<nbest id="1" total="224.0565"><![CDATA[One of the founders of The Pirate Bay, Gottfrid Svartholm, has been arrested in Phnom Penh, Cambodia's capital.]]></nbest>
+			<nbest id="2" total="224.5914"><![CDATA[One of the founders of The Pirate Bay, Gottfrid Svartholm, has been arrested in Phnom Penh, capital of Cambodia.]]></nbest>
+		</target>
+	</sentence>
+</cluster>
